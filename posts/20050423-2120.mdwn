@@ -1,0 +1,15 @@
+[[!meta  title="20050423-2120"]]
+[[!meta  date="2005-04-24 01:20:00"]]
+<p> Okay, this was fun.</p>
+
+<table width=400 align=center border=1 bordercolor=black
+cellspacing=0 cellpadding=2> <tr><td align="center"
+bgcolor="#A8FFB3"> <h3>Your Linguistic Profile:</h3>
+</td></tr><tr><td bgcolor="#D9FFD8"> 50% General
+American English</td></tr><tr><td bgcolor="#A8FFB3"> 25%
+Yankee</td></tr><tr><td bgcolor="#D9FFD8"> 15% Dixie</td></tr><tr><td bgcolor="#A8FFB3"> 5% Upper Midwestern</td></tr><tr><td bgcolor="#D9FFD8"> 0% Midwestern</td></tr></table>
+
+<div align="center"> <a href="http://www.blogthings.com/amenglishdialecttest/">What Kind
+of American English Do You Speak?</a> </div>
+
+[[!tag  uncategorized]]
