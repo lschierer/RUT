@@ -1,0 +1,10 @@
+[[!meta  title="20050425-1042"]]
+[[!meta  date="2005-04-25 15:42:00"]]
+<p> Starting off this morning's high news volume,
+"<a href="http://news.yahoo.com/news?tmpl=<?php echo
+htmlentities("story&u=/ap/20050424/ap_on_hi_te/smarter_highways");
+?>">this article</a> mentions something I remember looking at when
+I was looking through the stuff the ITS offices had on hand for a
+school report way back when my father was still alive.</p>
+
+[[!tag  uncategorized]]
