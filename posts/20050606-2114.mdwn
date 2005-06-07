@@ -1,0 +1,29 @@
+[[!meta  title="20050606-2114"]]
+[[!meta  date="2005-06-07 01:14:00"]]
+<p>There was nothing really note worthy in the news today.  Well,
+Apple is going to Intel chips from PPC ones, which I think is an
+incredibly stupid move, but I did not and do not really feel like
+writing much on that.  And Debian finally got sarge out the door,
+but I have known about that coming 2 weeks now or so.  So I really
+did not have anything to write about today.</p>
+
+<p>This weekend was incredibly busy.  Nicholas graduated from PVI
+Sunday, and so we had lots (for us, though not as a percentage of
+the possible family) of family and friends around us all weekend.
+We had lots of fun, or at least I did.</p>
+
+<p>Friday morning I woke up to the realization that after the last
+update Thursday, I was not just unable to start stuff in X in that
+X session, but at all.  This was incredibly unacceptable.  I toyed
+with trying to downgrade enough to get it to work, spending more time
+than I should have on it, but gave up, realizing it was beyond me.
+So I started a re-install back from Ubuntu, and then upgrading it to
+Debian again, except using the non-gcc4 amd64 repository.  Gcc4 being
+the start of the troubles on my previous install.  This is the second
+time I have used debian's, dpkg --get-selections and --set-selections
+to preserve the information on what packages are installed across
+an install.  I am <em>very</em> pleased.  By Saturday evening, yes,
+with the help of my dsl connection, but with very little interaction
+on my part, I am back up and running.</p>
+
+[[!tag  uncategorized]]
