@@ -1,0 +1,5 @@
+[[!meta  title="Yay!"]]
+[[!meta  date="2005-06-18 04:19:45"]]
+
+
+[[!tag  personal]]
