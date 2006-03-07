@@ -1,0 +1,21 @@
+[[!comment format=mdwn
+claimedauthor="mike"
+subject="Re: gaim and autopackage"
+date="2006-03-07T22:01:37Z"
+content="""
+Luke, when I made that comment I wasn't thinking of you at all. Actually I was thinking more of the Gaim Debian packagers and the whole gtkspell adventure. 
+
+My frustration with Gaim boils down to gtkspell. A significant number of Gaim autopackage installs fail because this dependency is missing and the user either doesn't know how to install it or can't (because they don't have root, for instance). We get a constant stream of confused Linux newbies asking for help with his, so I'd like to see it get fixed.
+
+In review:
+
+The first patch I wrote was rejected because I used relaytool for minimal code modifications. One developer (I forget which) didn't understand how it worked and suggested it might cause instability or unreliability. There have never been any reports of that from other projects using the program, and the code involved is only slightly larger than screens worth of text so there isn't much to verify. And it would only have applied to the autopackage builds. But OK. I can see his point of view, it's new code etc. It would have been nice if this point had been brought up _before_ I wrote the patch, but that's life.
+
+So I wrote a new patch to do the same thing, but with dlopen. This was significantly larger but was more standard. This one got checked in, hurray! Problem solved.
+
+Or not ... one of the Debian packagers decided that this was bad, because Debians automatic-dep-scanner thing can't figure out dlopens. Lots of software uses dlopen in this way, but apparently Gaim is not allowed to. They could have added it to the specfile and things would have been peachy, but that would be less convenient for them, so it got backed out of CVS and we're back to square one. In other words a minor inconvenience for a Debian packager got turned into a big inconvenience for the much larger number of people who download and install the Gaim autopackage. 
+
+This has dragged on through IRC, mailing lists and bug trackers for over a year, which is very frustrating because it's such a simple thing, and the benefit for end users is clear!
+
+Surely you can see my perspective even if you don't agree with it? I've  bent over backwards to fix this problem with Gaim even though I'm not a Gaim hacker, and each time I thought I was getting somewhere it turns out not to be the case. Now I don't know what to do.
+"""]]
