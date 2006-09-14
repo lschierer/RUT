@@ -1,6 +1,8 @@
-[[!meta  title="quote of the day"]]
-[[!meta  date="2006-09-11 13:51:24"]]
-"A classic is something that everyone wants to have read and nobody wants to read."  &mdash;Mark Twain, "The Disappearance of Literature"
+[[!meta  title="Quote of the day"]]
+[[!meta  date="2006-09-14 16:50:53"]]
+"The state which would provide everything, absorbing everything into itself, would ultimately become a mere bureaucracy incapable of guaranteeing the very thing which the suffering person -- every person -- needs: namely, loving personal concern." &mdash;Pope Benedict XVI, <i>Deus caritas est</i>
 
 
+[[!tag  morality-religion]]
+[[!tag  politics-law]]
 [[!tag  quotes]]
