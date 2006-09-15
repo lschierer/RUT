@@ -1,7 +1,5 @@
-[[!meta  title="Quote of the day"]]
-[[!meta  date="2006-09-14 16:50:53"]]
+[[!meta  title="quote of the day"]]
+[[!meta  date="2006-09-15 17:11:59"]]
 
 
-[[!tag  morality-religion]]
-[[!tag  politics-law]]
 [[!tag  quotes]]
