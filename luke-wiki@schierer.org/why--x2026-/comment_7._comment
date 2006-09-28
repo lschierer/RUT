@@ -1,0 +1,17 @@
+[[!comment format=mdwn
+claimedauthor="Luke Schierer"
+url="http://www.schierer.org/~luke"
+subject="Re: Why&#x2026;"
+date="2006-09-28T22:06:07Z"
+content="""
+<p>I work with clusters remember, we do all sorts of things that normal people do not do.</p>
+
+<p>There are a couple good routes to go wtih diskless systems, it depends on if you also want stateless or not.</p>
+
+<p>One good route is the Linux Terminal Server Project, they work with Fedora systems primarily.  There's a version of this ready-to-go on an iso targeted at schools.  Google should find it.</p>
+
+<p>For more advanced work, you could go with Clustermatic (which I highly do not recommend, it tends to be unstable and has been abandoned by its developers), a diskless version of the OSCAR clustering system (experiemental), Warewulf clustering (that is what I am using currently for most projects), XCPU (I have not played with this one.  It was not ready for use a year ago, and is developed primarily for plan9, not linux), or one of a couple others.</p>
+
+<p>I'd look at warewulf.  Its a funky name, but the system is fairly easy (Especially if you use centos or fedora, though I can give you the extra files you would need to do it on an RHEL system), and fairly stable.</p>
+
+"""]]
