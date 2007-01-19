@@ -1,13 +1,6 @@
 [[!meta  title="quote of the day"]]
-[[!meta  date="2007-01-10 18:36:03"]]
-<blockquote markdown="1">There is more money available for ESCR with federal, state, and private sources than can currently be spent! It is Bush's assertion of a moral principle, expressed through his policy, that embryos have intrinsic moral worth and should not be treated as harvestable crops, which is the actual cause of all the fuss.<sup>[\[1\]][ref1]</blockquote>
-
-<div markdown="1" class="postrefs">
-1. Mr. Wesley J. Smith.  "The Stem Cell Debate is Bigger Than the Sum of its Parts" Secondhand Smoke 2007-01-10.  http://www.wesleyjsmith.com/blog/2007/01/stem-cell-debate-is-bigger-than-sum-of.html
-</div>
-
-[ref1]: http://www.wesleyjsmith.com/blog/2007/01/stem-cell-debate-is-bigger-than-sum-of.html "The Stem Cell Debate is Bigger Than the Sum of its Parts"
+[[!meta  date="2007-01-18 22:01:58"]]
+"When the time comes, as it surely will, when we face that awesome moment, the final judgment, I've often thought, as Fulton Sheen wrote, that it is a terrible moment of loneliness. You have no advocates, you are there alone standing before God -- and a terror will rip your soul like nothing you can imagine. But I really think that those in the pro-life movement will not be alone. I think there'll be a chorus of voices that have never been heard in this world but are heard beautifully and clearly in the next world -- and they will plead for everyone who has been in this movement. They will say to God, 'Spare him, because he loved us!'" &mdash;Congressman Henry Hyde
 
 [[!tag  morality-religion]]
-[[!tag  politics-law]]
 [[!tag  quotes]]
