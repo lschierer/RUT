@@ -1,0 +1,6 @@
+[[!meta  title="GNOMEish crazyness"]]
+[[!meta  date="2007-01-24 19:07:17"]]
+
+
+[[!tag  pidgin]]
+[[!tag  technical]]
