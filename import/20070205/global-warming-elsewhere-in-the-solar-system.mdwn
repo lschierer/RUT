@@ -1,0 +1,12 @@
+[[!meta  title="Global warming elsewhere in the solar system"]]
+[[!meta  date="2007-02-05 16:15:13"]]
+"[F]or three Mars summers in a row, deposits of frozen carbon dioxide near Mars' south pole have shrunk from the previous year's size, suggesting a climate change in progress."<sup>[\[1\]][ref1]</sup> As best I recall, this did not make news roughly a year and a half ago.  It is thus semi-remarkable that it was drawn to my attention now.  But it does cast a somewhat more positive light on those scientists who are insisting that global warming is more significantly influenced by solar activity than by human activity.  I would be interested to know what the temperature change is on Mars, and how well it correlates to our own temperature changes.  I would also be curious to know if this warming trend has continued there in the time since this was published.  I am not, however, so curious as to research it myself. 
+
+
+<div markdown="1" class="postrefs">
+1. Mr. Guy Webster and Ms. Dolores Beasley.  "Orbiter's Long Life Helps Scientists Track Changes on Mars"  Mars Global Surveyor press Release.  2005-09-20.   <http://mars.jpl.nasa.gov/mgs/newsroom/20050920a.html>
+</div>
+
+[ref1]: <http://mars.jpl.nasa.gov/mgs/newsroom/20050920a.html> "Orbiter's Long Life Helps Scientists Track Changes on Mars"
+
+[[!tag  global-warming]]
