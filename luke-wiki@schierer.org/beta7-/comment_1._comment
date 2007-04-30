@@ -1,0 +1,23 @@
+[[!comment format=mdwn
+claimedauthor="amoore"
+subject="Re: beta7 "
+date="2007-05-02T10:36:42Z"
+content="""
+<p>Hi Luke,</p>
+
+<p>I've been thinking about this issue of hiding the protocol in use.  Initially I preferred it, but speaking with some friends about this I actually have a good reason to bring it back.</p>
+
+<p>At my work place we use an internal Jabber server that uses SSL to ensure company confidential material is both encrypted and passing over our own systems (not Microsoft et al).  I have many contacts that have MSN, Jabber, Yahoo etc, personal accounts and work accounts.</p>
+
+<p>It is a requirement that you know which account you are using because you may start discussing items that are not work related and want to take them off the work IM system, or vice-versa.  Its particularly important for our workplace (where we standardise on GAIM/Pidgin) to ensure employees are fully aware that they are using the internal system or not and thus their comms (and thus company confidential material) are secure.</p>
+
+<p>Don't get me wrong, I love the 'presence' based system and most of the time I don't care which protocol I use.  But there are security concerns over people not being aware they are using MSN instead of say a secure system for work related matters...</p>
+
+<p>Is there perhaps a way in chat window...perhaps in the toolbar? to show the icon of the protocol you are using? with the icon having the drop down list similar to the 'Send To' menu? to at least some quick identification?</p>
+
+<p>I would be interested in your thoughts on this.</p>
+
+<p>Best regards,
+Alex</p>
+
+"""]]
