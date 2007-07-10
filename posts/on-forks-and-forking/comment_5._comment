@@ -1,0 +1,16 @@
+[[!comment format=mdwn
+claimedauthor="claekaec"
+subject="Re: on forks and forking"
+date="2007-07-19T21:50:08Z"
+content="""
+<p>"Users claim that they want the protocol icons. I call on them to put their money where their mouth is, by spending the time and effort necessary to become an open source programmer, and to create a libpurple based client that will blow Pidgin and Finch away, and raise the bar for a high quality instant messaging client ever higher"</p>
+
+<p>Why proposing a fork when there are alternative open-source projects that already offer this feature? Instead of suggesting these people to create a fork it would be much better for the open-source world to send these complaining people to these projects. It is much easier to join an existing mature open-source project than to create a fork. If they create a fork, the failure rates will be much higher than if they join an existing open-source project. So, if you point these people to other open-source projects, the chances that they waste their "contributor resources" will be much lower.</p>
+
+<p>As you first need to know some of these alternative projects in order to guide people to the right projects, I give you 2 projects that have this feature (in both clients this feature is configurable):
+* Psi: http://psi-im.org
+* Coccinella: http://coccinella.im/</p>
+
+<p>(Note: I'm pretty sure there are more instant messaging clients with this feature, but these are the only 2 I know.)</p>
+
+"""]]
