@@ -1,10 +1,8 @@
-[[!meta  title="Quote of the day"]]
-[[!meta  date="2007-06-21 16:40:01"]]
-[[quote=97]][^evoquote1]
+[[!meta  title="quote of the day"]]
+[[!meta  date="2007-07-11 18:32:03"]]
+[[quote=98]][^ncquote2]
 
-In other words, if their theory is true, we cannot know it or prove it, because there is no true intelligence to be doing the thinking.  It is all just the random interactions of random atoms.  In order for rational thought to proceed, we must assume that, whatever is true, materialist philosophy is false. 
+[^ncquote2]: Mr. George Harden quoted by Mr. Wayne Laugesen.  "Contracepting the Environment"  National Catholic Register.  2007-07-15 <http://ncregister.com/site/article/3151>
 
-[^evoquote1]: Mr. Michael Egnor.  "The End of Stories: the Evolutionary Psychology of Evolutionary Psychology" Evolution News & Views.  The Discovery Institute.  2007-06-21 <http://www.evolutionnews.org/2007/06/the_evolutionary_psychology_of.html>
 
-[[!tag  evolution]]
 [[!tag  quotes]]
