@@ -1,8 +1,8 @@
 [[!meta  title="quote of the day"]]
-[[!meta  date="2007-09-04 15:29:14"]]
-[[quote=101]][^200709041]
+[[!meta  date="2007-09-12 16:11:17"]]
+[[quote=102]][^200709121]
 
-[^200709041]: Ms. Karen Shablin quoted in "Reaching Out to Congress Through Interns" National Catholic Register September 2-8, 2007 Issue.  <http://ncregister.com/site/article/3670 />
+[^200709121]:  Mr. Paul Gage.  "New Doubts About Diversity’s Value"  reprinted at the Discovery Institute.  2007-09-12.  <http://www.discovery.org/scripts/viewDB/index.php?command=view&id=4216&program=DI%20Main%20Page%20-%20Article&callingPage=discoMainPage>
 
 
 [[!tag  quotes]]
