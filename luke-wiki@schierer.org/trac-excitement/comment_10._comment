@@ -1,0 +1,22 @@
+[[!comment format=mdwn
+claimedauthor="hrimhari"
+url="http://"
+subject="Re: trac excitement"
+date="2007-10-16T19:31:50Z"
+content="""
+<p>I believe that the problem always is in the motivation for a comment. Usually, comments have stronger motivation when they derive from dissatisfaction rather than satisfaction. That tends to lead to the the impression that "everyone" is dissatisfied, when actually what happens is that very few of the satisfied ones take the time to show their position.</p>
+
+<p>Therefore, I here expose my satisfaction to the current state of Pidgin. Even if some details of the UI could be changed to please me even more, they're in a state that's already pleasant.</p>
+
+<p>With that being said, I'm one of those that prefers seeing the presence status over the protocol icon.</p>
+
+<p>I understand the idea of abstraction that Pidgin wants to defend. I also think that it's impossible to have 100% abstraction due to the implicit differences between the supported protocols (take IRC versus AIM, for example). So in my humble opinion, it's just a matter of deciding where the abstraction line is being dropped.</p>
+
+<p>In the other hand, I don't think that the above should be a priority over improving the core (Purple), for example.</p>
+
+<p>As I said before, I'm already happy with the current way and I'm just wasting your time while giving my 2 cents about what would make me even happier.</p>
+
+<p>Don't give up! :)
+hri</p>
+
+"""]]
