@@ -1,8 +1,8 @@
 [[!meta  title="quote of the day"]]
-[[!meta  date="2007-09-12 16:11:17"]]
-[[quote=102]][^200709121]
+[[!meta  date="2007-09-17 19:50:09"]]
+[[quote=103]][^200709171]
 
-[^200709121]:  Mr. Paul Gage.  "New Doubts About Diversity’s Value"  reprinted at the Discovery Institute.  2007-09-12.  <http://www.discovery.org/scripts/viewDB/index.php?command=view&id=4216&program=DI%20Main%20Page%20-%20Article&callingPage=discoMainPage>
+[^200709171]: Ms. Candice Watters.  "Becoming a Godly Woman"  Boundless Webzine, Focus on the Family.  2007-09-17.  <http://www.boundless.org/2005/answers/a0001578.cfm>
 
 
 [[!tag  quotes]]
