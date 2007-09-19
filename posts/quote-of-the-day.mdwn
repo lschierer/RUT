@@ -1,8 +1,7 @@
 [[!meta  title="quote of the day"]]
-[[!meta  date="2007-09-17 19:50:09"]]
-[[quote=103]][^200709171]
+[[!meta  date="2007-09-19 16:40:19"]]
+[[quote=104]][^200709192]
 
-[^200709171]: Ms. Candice Watters.  "Becoming a Godly Woman"  Boundless Webzine, Focus on the Family.  2007-09-17.  <http://www.boundless.org/2005/answers/a0001578.cfm>
-
+[^200709192]: W. B. Yeats.  "Mere anarchy"  This quote found following up on a reference from [baranoouji](http://baranoouji.livejournal.com/).
 
 [[!tag  quotes]]
