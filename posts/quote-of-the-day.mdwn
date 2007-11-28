@@ -1,8 +1,11 @@
 [[!meta  title="quote of the day"]]
-[[!meta  date="2007-11-01 19:39:15"]]
-<blockquote markdown="1">UN agencies constantly use the number 500,000+ as the number of women worldwide who die each year from complications from pregnancy. They go on to use that number as a reason for abortion to be legalized. The problem is the number cannot be substantiated since most countries do not report data on deaths at all let alone deaths from maternal causes. Even these UN agencies admit that mortality figures are almost universally unavailable yet they insist on using this phony number.[^200711011]</blockquote>
+[[!meta  date="2007-11-27 19:08:41"]]
+[[quote=108]][^200711271]
 
-[^200711011]: Mr. Austin Ruse.  "UN Agencies use Suspect Number on Maternal Deaths to Promote Global Abortion"  Friday Fax Volume 10, Number 46.  2007-11-01. 
+The "This" above refers to Christ's command that we be not afraid. 
 
-[[!tag  politics-law]]
+[^200711271]: Ms. Melinda Sylmys. "Faith in a Climate of Fear"  National Catholic Register.  November 25 - December 1, 2007 Issue.  2007-11-27 <http://ncregister.com/site/article/7341 />
+
+[[!tag  global-warming]]
+[[!tag  morality-religion]]
 [[!tag  quotes]]
