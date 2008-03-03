@@ -1,0 +1,6 @@
+[[!meta  title="Qmail in the public domain!"]]
+[[!meta  date="2008-03-03 16:29:58"]]
+
+
+[[!tag  personal]]
+[[!tag  technical]]
