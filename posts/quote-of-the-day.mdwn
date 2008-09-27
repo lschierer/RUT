@@ -1,9 +1,8 @@
-[[!meta  title="quote of the day"]]
-[[!meta  date="2008-03-06 17:42:29"]]
-[[quote=111]][^200803061]
+[[!meta  title="Quote of the day"]]
+[[!meta  date="2008-09-27 12:17:19"]]
+[[quote=112]][^20080927-1]
 
-An excellent quote by one of the better Focus on the Family authors. 
+[^20080927-1]: Quote found in "The Financial Crisis Congress Doesn't Want You to Understand" by Mrs. Candice Watters in The Line.  2008-09-25. <http://www.boundlessline.org/2008/09/the-financial-c.html>
 
-[^200803061]: J. . Budziszewski aka Professor Theophilus.  "Ask Theophilus: Advice to the Lustlorn" 2008-03-06 <http://www.trueu.org/Academics/ProfsOffice/askTheo/A000000876.cfm#fn2> 
-
+[[!tag  politics-law]]
 [[!tag  quotes]]
