@@ -123,53 +123,37 @@ div.recentchanges {
 }
 
 hr.poll {
-	height: 10pt;
 	color: white !important;
 	background: #eee;
 	border: 2px solid black;
 }
 div.poll {
-	margin-top: 1ex;
-	margin-bottom: 1ex;
-	padding: 1ex 1ex;
 	border: 1px solid #aaa;
 }
 
 span.color {
-	padding: 2px;
 }
 
 .comment-header,
 .microblog-header {
-	font-style: italic;
-	margin-top: .3em;
 }
 .comment .author,
 .microblog .author {
-	font-weight: bold;
 }
 .comment-subject {
-	font-weight: bold;
 }
 .comment {
 	border: 1px solid #aaa;
-	padding: 3px;
 }
 
 div.progress {
-	margin-top: 1ex;
-	margin-bottom: 1ex;
 	border: 1px solid #888;
-	width: 400px;
 	background: #eee;
 	color: #3399FF !important;
-	padding: 1px;
 }
 div.progress-done {
 	background: #ea6 !important;
 	color: #3399FF !important;
-	text-align: center;
-	padding: 1px;
 }
 
 /* things to hide in printouts */
@@ -184,45 +168,27 @@ div.progress-done {
 
 /* infobox template */
 .infobox {
-	float: right;
-	margin-left: 2ex;
-	margin-top: 1ex;
-	margin-bottom: 1ex;
-	padding: 1ex 1ex;
-	border: 1px solid #aaa;
 	background: black;
 	color: #3399FF !important;
 }
 
 /* notebox template */
 .notebox {
-	float: right;
-	margin-left: 2ex;
-	margin-top: 1ex;
-	margin-bottom: 1ex;
-	padding: 1ex 1ex;
 	border: 1px solid #aaa;
-	width: 25%;
 	background: black;
 	color: #3399FF !important;
 }
 
 /* popup template and backlinks hiding */
 .popup {
-	border-bottom: 1px dotted #366;
 	color: #366;
 }
 .popup .balloon,
 .popup .paren,
 .popup .expand {
-	display: none;
 }
 .popup:hover .balloon,
 .popup:focus .balloon {
-	position: absolute;
-	display: inline;
-	margin: 1em 0 0 -2em;
-	padding: 0.625em;
 	border: 2px solid;
 	background-color: #dee;
 	color: #3399FF;
@@ -230,35 +196,24 @@ div.progress-done {
 
 /* form styling */
 fieldset {
-	margin: 1ex 0;
-	border: 1px solid black;
 }
 legend {
-	padding: 0 1ex;
 }
 .fb_submit {
-	float: left;
-	margin: 2px 0;
 }
 label.block {    
-	display: block;   
 }
 label.inline {    
-	display: inline;
 }
 input#openid_identifier {
 	background: url(wikiicons/openidlogin-bg.gif) no-repeat;
 	background-color: #fff;
-	background-position: 0 50%;
 	color: #000;
-	padding-left: 18px;
 }
 input#searchbox {
 	background: url(wikiicons/search-bg.gif) no-repeat;
 	background-color: #fff;
-	background-position: 100% 50%;
 	color: #000;
-	padding-right: 16px;
 }
 /* invalid form fields */
 .fb_invalid {
