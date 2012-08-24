@@ -1,0 +1,826 @@
+/* ikiwiki style sheet */
+
+/* Note that instead of modifying this style sheet, you can instead edit
+ * local.css and use it to override or change settings in this one.
+ */
+
+.header {
+	margin: 0;
+	font-size: 22px;
+	font-weight: bold;
+	line-height: 1em;
+	display: block;
+}
+
+.author {
+	margin: 0;
+	font-size: 18px;
+	font-weight: bold;
+	display: block;
+}
+
+.actions ul {
+	margin: 0;
+	padding: 6px;
+	list-style-type: none;
+	border-bottom: 1px solid #000;
+}
+
+.inlinepage .actions ul {
+	border-bottom: 0;
+}
+
+.actions li {
+	display: inline;
+	padding: .2em .4em;
+}
+
+.pagefooter {
+	clear: both;
+}
+
+.tags {
+}
+
+#pageinfo {
+	margin: 1em 0;
+	border-top: 1px solid #000;
+}
+
+div.tags {
+	margin-top: 1em;
+}
+
+.mapparent {
+	text-decoration: none;
+}
+
+.img caption {
+	font-size: 80%;
+	caption-side: bottom;
+	text-align: center;
+}
+
+#backlinks {
+	margin-top: 1em;
+}
+
+#searchform {
+	display: inline;
+	float: right;
+}
+
+#editcontent {
+	width: 100%;
+}
+
+img {
+	border-style: none;
+}
+
+div.recentchanges {
+	border-style: solid;
+	border-width: 1px;
+	overflow: auto;
+	clear: both;
+	width: 100%;
+	background: #000000;
+	color: #3399FF !important;
+}
+.recentchanges .metadata {
+	padding: 0px 0.5em;
+}
+.recentchanges .changelog {
+	font-style: italic;
+	clear: both;
+	display: block;
+	padding: 1px 2px;
+	background: #000000 !important;
+	color: #11abf5 !important;
+}
+.recentchanges .desc {
+	display: none;
+}
+.recentchanges .diff {
+	display: none;
+}
+.recentchanges .committer {
+	float: left;
+	margin: 0;
+	width: 40%;
+}
+.recentchanges .committype {
+	float: left;
+	margin: 0;
+	width: 5%;
+	font-size: small;
+}
+.recentchanges .changedate {
+	float: left;
+	margin: 0;
+	width: 35%;
+	font-size: small;
+}
+.recentchanges .pagelinks {
+	float: right;
+	margin: 0;
+	width: 60%;
+}
+
+/* Used for adding a blog page. */
+#blogform {
+	padding: 10px 10px;
+	border: 1px solid #aaa;
+	background: #000000;
+	color: #11abf5 !important;
+}
+
+.inlinepage {
+	padding: 10px 10px;
+	border: 1px solid #aaa;
+}
+
+.pagedate,
+.pagelicense,
+.pagecopyright {
+	font-style: italic;
+	display: block;
+	margin-top: 1em;
+}
+
+.error {
+	color: red;
+}
+
+/* Used for invalid form fields. */
+.fb_invalid {
+	color: red;
+	background: #000000 !important;
+}
+
+/* Used for required form fields. */
+.fb_required {
+	font-weight: bold;
+}
+
+/* Orange feed button. */
+.feedbutton {
+	background: #ff6600;
+	color: white !important;
+	border-left: 1px solid #cc9966;
+	border-top: 1px solid #ccaa99;
+	border-right: 1px solid #993300;
+	border-bottom: 1px solid #331100;
+	padding: 0px 0.5em 0px 0.5em;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: small;
+	text-decoration: none;
+	margin-top: 1em;
+}
+.feedbutton:hover {
+	color: white !important;
+	background: #ff9900;
+}
+
+/* Tag cloud. */
+.pagecloud {
+	float: right;
+	width: 30%;
+	text-align: center;
+	padding: 10px 10px;
+	border: 1px solid #aaa;
+	background: #000000;
+	color: #3399FF !important;
+}
+.smallestPC { font-size: 70%; }
+.smallPC { font-size: 85%; }
+.normalPC { font-size: 100%; }
+.bigPC { font-size: 115%; }
+.biggestPC { font-size: 130%; }
+
+#sidebar {
+	line-height: 3ex;
+	width: 20ex;
+	float: right;
+	margin-left: 40px;
+	margin-bottom: 40px;
+	padding: 2ex 2ex;
+	background: #000000;
+	color: #11abf5 !important;
+}
+
+/* outlines */
+li.L1 {
+	list-style: upper-roman;
+}
+li.L2 {
+	list-style: decimal;
+}
+li.L3 {
+	list-style: lower-alpha;
+}
+li.L4 {
+	list-style: disc;
+}
+li.L5 {
+	list-style: square;
+}
+li.L6 {
+	list-style: circle;
+}
+li.L7 {
+	list-style: lower-roman;
+}
+li.L8 {
+	list-style: upper-alpha;
+}
+
+hr.poll {
+	height: 10pt;
+	color: white !important;
+	background: #000000;
+	border: 2px solid #3399FF;
+}
+div.poll {
+	margin-top: 1ex;
+	margin-bottom: 1ex;
+	padding: 1ex 1ex;
+	border: 1px solid #aaa;
+}
+
+div.progress {
+	margin-top: 1ex;
+	margin-bottom: 1ex;
+	border: 1px solid #888;
+	width: 400px;
+	background: #000000;
+	color: #11abf5 !important;
+	padding: 1px;
+}
+div.progress-done {
+	background: #000000 !important;
+	color: #c42d2b !important;
+	text-align: center;
+	padding: 1px;
+}
+
+input#openid_url {
+	background: url(wikiicons/openidlogin-bg.gif) no-repeat;
+	background-color: #000000;
+	background-position: 0 50%;
+	color: #3399FF;
+	padding-left: 18px;
+}
+
+input#searchbox {
+	background: url(wikiicons/search-bg.gif) no-repeat;
+	background-color: #fff;
+	background-position: 100% 50%;
+	color: #000;
+	padding-right: 16px;
+}
+
+/* Things to hide in printouts. */
+@media print {
+	.actions { display: none; }
+	.tags { display: none; }
+	.feedbutton { display: none; }
+	#searchform { display: none; }
+	#blogform { display: none; }
+	#backlinks { display: none; }
+}
+
+/* Provided for use by template plugin for floating info boxes. */
+.infobox {
+	float: right;
+	margin-left: 2ex;
+	margin-top: 1ex;
+	margin-bottom: 1ex;
+	padding: 1ex 1ex;
+	border: 1px solid #aaa;
+	background: #000000;
+	color: #11abf5 !important;
+}
+
+/* Provided for use by template plugin for floating note boxes. */
+.notebox {
+	float: right;
+	margin-left: 2ex;
+	margin-top: 1ex;
+	margin-bottom: 1ex;
+	padding: 1ex 1ex;
+	border: 1px solid #aaa;
+	width: 25%;
+	background: white;
+	color: black !important;
+}
+
+/* Used by the popup template and for backlinks hiding. */
+.popup {
+	border-bottom: 1px dotted #366;
+	color: #366;
+}
+.popup .balloon,
+.popup .paren,
+.popup .expand {
+	display: none;
+}
+.popup:hover .balloon,
+.popup:focus .balloon {
+	position: absolute;
+	display: inline;
+	margin: 1em 0 0 -2em;
+	padding: 0.625em;
+	border: 2px solid;
+	background-color: #dee;
+	color: black;
+	
+	/* Nonstandard, but very nice. */
+	opacity: 0.95;
+	-moz-opacity: 0.95;
+	filter: alpha(opacity=95);
+}
+
+/* Formbuilder styling */
+fieldset {
+	margin: 1ex 0;
+	border: 1px solid black;
+}
+legend {
+	padding: 0 1ex;
+}
+.fb_submit {
+	float: left;
+	margin: 2px 0;
+}
+#signin_openid_url_label {
+	float: left;
+	margin-right: 1ex;
+}
+#signin_openid {
+	padding: 10px 10px;
+	border: 1px solid #aaa;
+	background: #eee; 
+	color: black !important;
+}
+
+span.color {
+	padding: 2px;
+}
+
+
+/* 
+Theme Name: Luke Brain Power
+Version: 1.2.1
+Theme URI: http://www.arthousewebdesign.com/blog/2008/10/free-wordpress-theme-brain-power/
+Description: Based on "Brain Power" by Art House Web Design.  
+Author: Luke Scchierer
+Author URI: http://www.schierer.org/~luke
+Tags: fixed width, two columns, widget ready, brain, physiology, black, blue, valid CSS, valid XHTML, unique header, gravatars, widgetized, 2 columns, right sidebar
+*/
+
+/* Please leave my link in the footer, thanks! */
+
+a { color: #AAFFD9; text-decoration: none; font-weight: bold; }
+
+a img  {
+border : none;
+} 
+
+a:visited { color: #AAFFD9; }
+
+a:hover { color: #88CDAE; text-decoration: none; }
+
+acronym, abbr { border-bottom: 1px dotted #88CDAE; }
+
+acronym, abbr, span.caps { cursor: help; letter-spacing: .06em; }
+
+blockquote{
+	background: #468B79;
+        border-left: #AAFFD9 3px solid;
+	margin: 15px 55px 10px 25px;
+	padding: 5px 2px 2px 5px;
+}
+
+cite {
+	background: #468B79;
+	margin: 15px 2px 0 5px;
+	padding: 0 0px 5px 0px;
+}
+
+
+body {
+	background: #000000 no-repeat top left;
+	color: #EFEFEF;
+	font: 0.9em/1.3em Verdana, Georgia, Times, Times New Roman, sans-serif;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+
+code { font-size: .9em; font-style: italic; }
+
+code {
+	color: #c0c0c0;
+	font-family: "Courier New", Courier, monospace;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+
+
+h1, h2, h3, h4 {
+	font-family: arial, verdana, Lucida Sans Unicode, lucida, sans-serif;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+
+hr { border-top: #ffffff 1px solid; }
+
+img { border: none; }
+
+input, textarea { background: #468B79; border: #ffffff 1px solid; }
+
+p { line-height: 1.5em; margin: 0 0 1em; padding: 0; }
+
+.commentlist { font-size: 1em; font-weight: normal; }
+
+.commentlist .alt { }
+
+.commentlist li {
+	background: #468B79;
+	border: #ffffff 1px solid;
+	margin: 5px 0;
+	padding: 10px 10px 20px 10px;
+}
+
+
+
+.gravatar { float: right; margin: 2px 2px 5px 2px; padding: 1px 2px; }
+
+.page { margin: 15px -5px 0 17px;  }
+
+
+.page-info { text-align: left; }
+
+.post , .page { margin: 0 0 10px 0; }
+
+.post-content, .page-content {
+	border-top: #3F697A 1px solid;
+	font: 13px Verdana, Georgia, Arial, serif;
+	margin: 3px 0;
+	padding: 10px 0;
+}
+
+.post-date {
+	background: #000000 no-repeat bottom center;
+	float: left;
+        color: #AAFFD9;
+        font-family: arial, verdana, san-serif;
+	width: 60px;
+        height: 60px;
+        margin:  -3px 3px 0 0px;
+        padding: 0px 1px 1px 0;
+}
+
+.post-date em {
+    display: block;  
+    font-weight: bold;
+    text-align: left;
+}
+
+.post-date em.dateday {
+    font-size: 11px;
+}
+
+.post-date em.monthyear {
+    font-size: 13px;
+}
+
+.post-date em.year {
+    padding: 5px 0px 0 12px;
+    font-size: 12px;
+}
+
+.comment-count {
+	background: #000000 no-repeat bottom center;
+	float: right;
+	width: 60px;
+        height: 60px;
+        margin-top: 4px;
+}
+
+.comment-count em.num {
+    display: block;
+    font-family: Arial;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: left;
+    padding: 14px 0px 0px 5px;
+    font-size: 16px;
+
+}
+
+.postmeta {
+	background: #000000 no-repeat right;
+	border-bottom: #3F697A 1px solid;
+        text-align: left;
+        height: 35px;
+        color: #3F697A;
+	margin: 10px 0px 20px 0px;
+	padding: 0 5px 5px 5px;
+}
+
+.postmeta li { color: #FF4B93;
+}
+
+.postmeta h2 {
+	background: transparent;
+	border: #3F697A 0px solid;
+	color: #ffffff;
+	font-size: 1.2em;
+	font-weight: bold;
+        margin: 0px;
+	padding: 15px 0px 0 0px;
+}
+
+.post-footer {
+	padding-top: 20px;
+}
+
+.post-info a { color: #51E5FF; }
+
+.post-info a:hover { color: #40B5C9; }
+
+.post-info, .page-info {
+	color: #ffffff;
+	font: 0.75em Verdana, Arial, Sans-Serif;
+	margin: 7px;
+	padding: 0 3px;
+}
+
+.post-title, .page-title {font-family: arial, verdana, Georgia, Serif; 
+                          margin: 0 3px; 
+                          font-size: 1.9em;
+                          font-weight: bold;
+}
+
+
+#header {
+	background: #000000 no-repeat right;
+	height: 150px;
+        border-bottom: 0px #3F697A solid;
+	margin: 0px auto;
+	padding: 0px 0 0 0;
+	width: 900px;
+}
+
+
+
+#header #desc {
+	color: #AAFFD9;
+	font-size: 1.0em;
+	font-weight: bold;
+	margin: 0px 0px 0px 0px;
+	padding: 0 0px 0 0;
+	text-align: left;
+}
+
+#header h1 {
+	font-size: 2.0em;
+	margin: 5px 75px;
+	padding: 25px 10px 0 0;
+	text-align:left;
+}
+
+#header h1 a { color: #468B79; text-decoration: none; }
+
+
+#header h1 a:hover { color: #AAFFD9; }
+
+
+#header #topnav {
+	font: 1.0em Verdana, Arial, Sans-Serif;
+	list-style: none;
+        font-weight: bold;
+	margin: 10px 0 0 0px;
+	padding: 5px 5px 5px 0;
+	text-align: center;
+}
+
+
+#topnav li {
+	border-left: #51E5FF 0px solid;
+	display: inline;
+	font-weight: bold;
+	list-style: none;
+}
+
+#topnav li a:link, #topnav li a:visited { color: #AAFFD9; padding: 0 5px; text-decoration: none; }
+
+#topnav li a:hover, #topnav li a:active { color: #51E5FF; padding: 0 5px; }
+
+#main {background: #000000;
+	margin: 5px auto;
+	padding: 0;
+	width: 900px;
+}
+
+#pagenav { list-style: none; }
+
+
+
+#content {background: transparent;
+	display: inline;
+	float: left;
+	margin: 0;
+	overflow: hidden;
+	padding: 5px;
+	width: 650px;
+}
+
+#content .page-title a, .post-title a:link, .post-title a:visited, .post-title a:active  { color: #468B79; text-decoration: none; font-weight: bold; }
+
+.post-title a:hover { color: #88CDAE; text-decoration: none;}
+
+#content ul {
+	list-style-type: none;
+	margin-left: 0;
+	padding-left: 45px;
+}
+
+#content ul li {
+	padding-left: 1.5em;
+}
+
+/* Comments */
+#commentform { margin: 0 0 0 40px; }
+
+#commentform p { margin: 0 0 1em; }
+
+#commentform textarea { width: 80%; }
+
+#comments,#respond {
+	color: #468B79;
+	font: 1.0em verdana, helvetica, sans-serif;
+	margin: 3em 0 1em 40px;
+	text-transform: uppercase;
+}
+
+
+
+/* Sidebar */
+
+#sidebar {background: #000000;
+	display: inline;
+	float: right;
+	font-size: 1em;
+	margin: 1px 0px 0 0px;
+	padding: -5px 0px 5px 0px;
+	width: 200px;
+}
+
+#sidebar ul { list-style-type: none; margin: 0; padding: 0px; }
+
+#sidebar ul h2 {background: #000000 no-repeat right;
+	border: #3F697A 0px solid;
+	border-bottom: #3F697A 1px solid;
+	color: #468B79;
+	font-size: 1em;
+	font-weight: bold;
+	height: 25px;
+        width: 200px;
+	padding: 3px 0px 0 2px;
+	text-align: left;
+}
+
+#sidebar ul ul {
+	border-top: #E9A512 0px solid;
+	font-size: 0.9em;
+	list-style-type: none;
+        width: 200px;
+	padding: 0px;
+	padding-bottom: 3em;
+}
+
+#sidebar ul ul li { margin: 0.1em 0 0 2px; padding: 2px 0 3px 2px;  }
+
+#sidebar ul ul li a {text-decoration: none; }
+
+#sidebar ul ul li a:link { color: #51E5FF; }
+
+#sidebar ul ul li a:visited { color: #51E5FF; }
+
+#sidebar ul ul li a:hover, #sidebar ul ul li a:active { color: #40B5C9; }
+
+#sidebar ul ul ul {
+	border: none;
+	font-size: 1em;
+	list-style-type: none;
+	margin: 0 0 0 5px;
+	padding: 5px;
+}
+
+#sidebar ul ul ul li {
+        background: #000000 no-repeat 0px 5px;
+	margin: 0 10px 0 5px;
+	padding: 0 10px 0 7px;
+}
+
+/* Footer */
+#footer {
+        background: #000000 no-repeat top left;
+	border-top: #3F697A 0px solid;
+	clear: both;
+	color: #C0C0C0;
+	font-size: 0.9em;
+	margin: 0px 0 0px 0px;
+	padding: 100px 0;
+	text-align: right;
+	width: 900px;
+}
+
+#footer a { border: none; color: #AAFFD9; }
+
+
+/* Calendar */
+
+#calendar { margin: 10px 0px 0px 0px; position: inherit; }
+
+
+#wp-calendar {
+	background-color: transparent;
+	border: #40B5C9 1px solid;
+	empty-cells: show;
+	font-size: 0.9em;
+	margin: 10px 0;
+	padding: 3px;
+	text-align: left;
+	width: 100%;
+}
+
+#wp-calendar #next a { padding-right: 10px; text-align: right; }
+
+#wp-calendar #prev a { padding-left: 10px; text-align: left; }
+
+#wp-calendar .today { background: #468B79; font-weight: bold; }
+
+
+#wp-calendar a { display: block; text-decoration: none; font-weight: bold; color:#ffffff; }
+
+#wp-calendar a:hover { background: #6DB9D3; color: #ffffff; }
+
+#wp-calendar caption {
+	border-bottom: #3F697A 1px solid;
+
+	color: #468B79;
+	font-size: 1em;
+	font-weight: bold;
+	height: 22px;
+	margin: 10px 0 0 0;
+	padding: 2px;
+	text-align: left;
+}
+
+#wp-calendar caption a, #wp-calendar caption a:hover { background: transparent; color: #ffffff; }
+
+#wp-calendar td {
+	color: #51E5FF;
+	letter-spacing: normal;
+	padding: 2px 0;
+	text-align: center;
+}
+
+
+#wp-calendar td.pad:hover { background: #6DB9D3; }
+
+
+#wp-calendar td:hover, #wp-calendar #today { background: #468B79; color: #ffffff; }
+
+#wp-calendar th { font-style: normal; text-transform: capitalize; text-align: center; color: #ffffff;}
+
+
+
+/* Text and Image Alignment */ 
+img.alignleft, .left { float: left; }
+
+img.alignright, .right { float: right; }
+
+.alignleft {text-align: left; }
+
+.alignright {text-align: right;}
+
+.aligncenter, img.centered, .center {text-align: center;}
+
+.wp-caption {border: #468B79 1px dotted; margin: 10px;}
+
+.wp-caption img {border: 0 none; margin: 0; padding: 0;}
+
+.wp-caption p.wp-caption-text {
+	font-size: 11px;
+        color: #ffffff;
+	line-height: 17px;
+	margin: 0;
+	padding: 0 4px 5px;
+}
+
