@@ -5,95 +5,61 @@
 }
 
 .inlineheader .author {
-	margin: 0;
-	font-size: 18px;
-	font-weight: bold;
-	display: block;
 }
 
 .actions ul {
-	margin: 0;
-	padding: 6px .4em;
-	height: 1em;
-	list-style-type: none;
 }
 .actions li {
-	display: inline;
-	padding: .2em;
 }
 .pageheader .actions ul {
-	border-bottom: 1px solid #000;
 }
 
 .inlinepage .actions ul {
-	border-bottom: 0;
 }
 
 #otherlanguages ul {
-	margin: 0;
-	padding: 6px;
-	list-style-type: none;
 }
 #otherlanguages li {
-	display: inline;
-	padding: .2em .4em;
 }
 .pageheader #otherlanguages {
-	border-bottom: 1px solid #000;
 }
 
 .inlinecontent {
-	margin-top: .4em;
 }
 
 .pagefooter,
 .inlinefooter,
 .comments {
-	clear: both;
 }
 
 #pageinfo {
-	margin: 1em 0;
-	border-top: 1px solid #000;
 }
 
 .tags {
-	margin-top: 1em;
 }
 
 .inlinepage .tags {
-        display: inline;
 }
 
 .mapparent {
-	text-decoration: none;
 }
 
 .img caption {
-	font-size: 80%;
-	caption-side: bottom;
-	text-align: center;
 }
 
 img.img {
-	margin: 0.5ex;
 }
 
 .align-left {
-	float:left;
 }
 
 .align-right {
-	float:right;
 }
 
 #backlinks {
-	margin-top: 1em;
 }
 
 #searchform {
-	display: inline;
-	float: right;
 }
 
 #editcontent {
