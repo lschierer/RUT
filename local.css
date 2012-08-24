@@ -1,115 +1,44 @@
 /* ikiwiki style sheet */
 
-.header {
-	backgroupnd: #000000
-}
-
-.inlineheader .author {
-}
-
-.actions ul {
-}
-.actions li {
-}
-.pageheader .actions ul {
-}
-
-.inlinepage .actions ul {
-}
-
-#otherlanguages ul {
-}
-#otherlanguages li {
-}
 .pageheader #otherlanguages {
-}
-
-.inlinecontent {
-}
-
-.pagefooter,
-.inlinefooter,
-.comments {
+	border-bottom: 1px solid #000;
 }
 
 #pageinfo {
-}
-
-.tags {
-}
-
-.inlinepage .tags {
-}
-
-.mapparent {
-}
-
-.img caption {
-}
-
-img.img {
-}
-
-.align-left {
-}
-
-.align-right {
-}
-
-#backlinks {
-}
-
-#searchform {
-}
-
-#editcontent {
-}
-
-.editcontentdiv {
-}
-
-img {
-}
-
-pre {
+	margin: 1em 0;
+	border-top: 1px solid #000;
 }
 
 div.recentchanges {
+	border-style: solid;
+	border-width: 1px;
+	overflow: auto;
+	width: auto;
+	clear: none;
 	background: #eee;
 	color: #3399FF !important;
 }
-.recentchanges .metadata {
-	padding: 0px 0.5em;
-}
 .recentchanges .changelog {
+	font-style: italic;
+	clear: both;
+	display: block;
+	padding: 1px 2px;
 	background: black !important;
 	color: #3399FF !important;
 }
-.recentchanges .desc {
-}
-.recentchanges .diff {
-}
-.recentchanges .committer {
-}
-.recentchanges .committype {
-}
-.recentchanges .changedate {
-}
-.recentchanges .pagelinks {
-}
-
 #blogform {
-	background: #eee;
+	padding: 10px 10px;
+	border: 1px solid #aaa;
+	background: black;
 	color: #3399FF !important;
+	width: auto;
+	overflow: auto;
 }
 
 .inlinepage {
+	padding: 10px 10px;
 	border: 1px solid #aaa;
-}
-
-.pagedate,
-.pagelicense,
-.pagecopyright {
+	overflow: auto;
 }
 
 .error {
@@ -117,78 +46,87 @@ div.recentchanges {
 }
 
 .sidebar {
+	width: 20ex;
+	float: right;
+	margin-left: 4px;
+	margin-bottom: 4px;
+	margin-top: -1px;
+	padding: 0ex 2ex;
 	background: black;
-	border: 1px solid #3399FF;
+	border: 1px solid black;
 	color: #3399FF !important;
 }
 
 hr.poll {
-	color: white !important;
-	background: #eee;
+	height: 10pt;
+	color: #3399FF !important;
+	background: black;
 	border: 2px solid black;
 }
 div.poll {
+	margin-top: 1ex;
+	margin-bottom: 1ex;
+	padding: 1ex 1ex;
 	border: 1px solid #aaa;
 }
 
-span.color {
-}
-
-.comment-header,
-.microblog-header {
-}
-.comment .author,
-.microblog .author {
-}
-.comment-subject {
-}
 .comment {
 	border: 1px solid #aaa;
+	padding: 3px;
 }
 
 div.progress {
+	margin-top: 1ex;
+	margin-bottom: 1ex;
 	border: 1px solid #888;
+	width: 400px;
 	background: #eee;
 	color: #3399FF !important;
+	padding: 1px;
 }
 div.progress-done {
 	background: #ea6 !important;
 	color: #3399FF !important;
-}
-
-/* things to hide in printouts */
-@media print {
-	.actions { display: none; }
-	.tags { display: none; }
-	.feedbutton { display: none; }
-	#searchform { display: none; }
-	#blogform { display: none; }
-	#backlinks { display: none; }
+	text-align: center;
+	padding: 1px;
 }
 
 /* infobox template */
 .infobox {
+	float: right;
+	margin-left: 2ex;
+	margin-top: 1ex;
+	margin-bottom: 1ex;
+	padding: 1ex 1ex;
+	border: 1px solid #aaa;
 	background: black;
 	color: #3399FF !important;
 }
 
 /* notebox template */
 .notebox {
+	float: right;
+	margin-left: 2ex;
+	margin-top: 1ex;
+	margin-bottom: 1ex;
+	padding: 1ex 1ex;
 	border: 1px solid #aaa;
+	width: 25%;
 	background: black;
 	color: #3399FF !important;
 }
 
 /* popup template and backlinks hiding */
 .popup {
+	border-bottom: 1px dotted #366;
 	color: #366;
-}
-.popup .balloon,
-.popup .paren,
-.popup .expand {
 }
 .popup:hover .balloon,
 .popup:focus .balloon {
+	position: absolute;
+	display: inline;
+	margin: 1em 0 0 -2em;
+	padding: 0.625em;
 	border: 2px solid;
 	background-color: #dee;
 	color: #3399FF;
@@ -196,37 +134,31 @@ div.progress-done {
 
 /* form styling */
 fieldset {
-}
-legend {
-}
-.fb_submit {
-}
-label.block {    
-}
-label.inline {    
+	margin: 1ex 0;
+	border: 1px solid black;
 }
 input#openid_identifier {
 	background: url(wikiicons/openidlogin-bg.gif) no-repeat;
 	background-color: #fff;
+	background-position: 0 50%;
 	color: #000;
+	padding-left: 18px;
 }
 input#searchbox {
 	background: url(wikiicons/search-bg.gif) no-repeat;
-	background-color: #fff;
-	color: #000;
+	background-color: black;
+	background-position: 100% 50%;
+	color: #3399FF;
+	padding-right: 16px;
 }
 /* invalid form fields */
 .fb_invalid {
 	color: red;
 	background: black !important;
 }
-/* required form fields */
-.fb_required {
-	font-weight: bold;
-}
 
 /* highlight plugin */
-pre.hl { color:#000000; background-color:#ffffff; }
+pre.hl { color:#3399FF; background-color:black; }
 .hl.num { color:#2928ff; }
 .hl.esc { color:#ff00ff; }
 .hl.str { color:#ff0000; }
@@ -234,12 +166,12 @@ pre.hl { color:#000000; background-color:#ffffff; }
 .hl.slc { color:#838183; font-style:italic; }
 .hl.com { color:#838183; font-style:italic; }
 .hl.dir { color:#008200; }
-.hl.sym { color:#000000; }
+.hl.sym { color:#3399FF; }
 .hl.line { color:#555555; }
 .hl.mark { background-color:#ffffbb; }
-.hl.kwa { color:#000000; font-weight:bold; }
+.hl.kwa { color:#3399FF; font-weight:bold; }
 .hl.kwb { color:#830000; }
-.hl.kwc { color:#000000; font-weight:bold; }
+.hl.kwc { color:#3399FF; font-weight:bold; }
 .hl.kwd { color:#010181; }
 
 /* calendar plugin */
@@ -263,16 +195,6 @@ pre.hl { color:#000000; background-color:#ffffff; }
 	font-size: 150%;
 }
 
-/* outlines */
-li.L1 { list-style: upper-roman; }
-li.L2 { list-style: decimal; }
-li.L3 { list-style: lower-alpha; }
-li.L4 { list-style: disc; }
-li.L5 { list-style: square; }
-li.L6 { list-style: circle; }
-li.L7 { list-style: lower-roman; }
-li.L8 { list-style: upper-alpha; }
-
 /* tag cloud */
 .pagecloud {
 	float: right;
@@ -283,11 +205,6 @@ li.L8 { list-style: upper-alpha; }
 	background: #eee;
 	color: #3399FF !important;
 }
-.smallestPC { font-size: 70%; }
-.smallPC { font-size: 85%; }
-.normalPC { font-size: 100%; }
-.bigPC { font-size: 115%; }
-.biggestPC { font-size: 130%; }
 
 /* orange feed button */
 .feedbutton {
@@ -309,17 +226,6 @@ li.L8 { list-style: upper-alpha; }
 	background: #ff9900;
 }
 
-/* openid selector */
-#openid_choice {
-	display: none;
-}
-#openid_input_area {
-	clear: both;
-	padding: 10px;
-}
-#openid_btns, #openid_btns br {
-	clear: both;
-}
 #openid_highlight {
 	background-color: #3399FF;
 	float: left;
@@ -335,12 +241,6 @@ li.L8 { list-style: upper-alpha; }
 	border: 1px solid #DDD;
 	margin: 3px;
 	float: left;
-}
-a.openid_large_btn:focus {
-	outline: none;
-}
-a.openid_large_btn:focus {
-	-moz-outline-style: none;
 }
 .openid_selected {
 	border: 4px solid #DDD;
