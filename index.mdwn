@@ -9,4 +9,3 @@ actions=yes rootpage="posts"]]
 
 
 This blog is powered by [ikiwiki](http://ikiwiki.info).
-Copyright Luke Schierer.  All rights reserved. 
