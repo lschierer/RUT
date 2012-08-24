@@ -130,7 +130,7 @@ div.recentchanges {
 	clear: both;
 	display: block;
 	padding: 1px 2px;
-	background: white !important;
+	background: black !important;
 	color: #3399FF !important;
 }
 .recentchanges .desc {
@@ -196,7 +196,7 @@ div.recentchanges {
 	margin-bottom: 4px;
 	margin-top: -1px;
 	padding: 0ex 2ex;
-	background: white;
+	background: black;
 	border: 1px solid black;
 	color: #3399FF !important;
 }
@@ -269,7 +269,7 @@ div.progress-done {
 	margin-bottom: 1ex;
 	padding: 1ex 1ex;
 	border: 1px solid #aaa;
-	background: white;
+	background: black;
 	color: #3399FF !important;
 }
 
@@ -282,7 +282,7 @@ div.progress-done {
 	padding: 1ex 1ex;
 	border: 1px solid #aaa;
 	width: 25%;
-	background: white;
+	background: black;
 	color: #3399FF !important;
 }
 
@@ -342,7 +342,7 @@ input#searchbox {
 /* invalid form fields */
 .fb_invalid {
 	color: red;
-	background: white !important;
+	background: black !important;
 }
 /* required form fields */
 .fb_required {
