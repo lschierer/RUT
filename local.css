@@ -518,7 +518,7 @@ th,td {
 
 
 /* ------------------------------------------------------------------------------------------------
- * All CSS below is
+ * All CSS below is based on 
  * Copyright (C) 2010 Bernd Zeimetz
  * Licensed under same license as ikiwiki: GPL v2 or later */
 
@@ -579,5 +579,30 @@ html, body {
 		border-right: none;
 	}
 
+}
+
+/* ---
+ * Copy right Luke Schierer
+ */
+
+/* calendar plugin */
+.month-calendar-day-this-day,
+.year-calendar-this-month {
+	background-color: #black;
+}
+.month-calendar-day-head,
+.month-calendar-day-nolink,
+.month-calendar-day-link,
+.month-calendar-day-this-day,
+.month-calendar-day-future {
+	text-align: right;
+}
+.month-calendar-arrow A:link,
+.year-calendar-arrow A:link,
+.month-calendar-arrow A:visited,
+.year-calendar-arrow A:visited {
+	text-decoration: none;
+	font-weight: normal;
+	font-size: 150%;
 }
 
