@@ -63,28 +63,18 @@ img.img {
 }
 
 #editcontent {
-	width: 98%;
 }
 
 .editcontentdiv {
-	width: auto;
-	overflow: auto;
 }
 
 img {
-	border-style: none;
 }
 
 pre {
-	overflow: auto;
 }
 
 div.recentchanges {
-	border-style: solid;
-	border-width: 1px;
-	overflow: auto;
-	width: auto;
-	clear: none;
 	background: #eee;
 	color: #3399FF !important;
 }
@@ -92,63 +82,34 @@ div.recentchanges {
 	padding: 0px 0.5em;
 }
 .recentchanges .changelog {
-	font-style: italic;
-	clear: both;
-	display: block;
-	padding: 1px 2px;
 	background: black !important;
 	color: #3399FF !important;
 }
 .recentchanges .desc {
-	display: none;
 }
 .recentchanges .diff {
-	display: none;
 }
 .recentchanges .committer {
-	float: left;
-	margin: 0;
-	width: 40%;
 }
 .recentchanges .committype {
-	float: left;
-	margin: 0;
-	width: 5%;
-	font-size: small;
 }
 .recentchanges .changedate {
-	float: left;
-	margin: 0;
-	width: 35%;
-	font-size: small;
 }
 .recentchanges .pagelinks {
-	float: right;
-	margin: 0;
-	width: 60%;
 }
 
 #blogform {
-	padding: 10px 10px;
-	border: 1px solid #aaa;
 	background: #eee;
 	color: #3399FF !important;
-	width: auto;
-	overflow: auto;
 }
 
 .inlinepage {
-	padding: 10px 10px;
 	border: 1px solid #aaa;
-	overflow: auto;
 }
 
 .pagedate,
 .pagelicense,
 .pagecopyright {
-	font-style: italic;
-	display: block;
-	margin-top: 1em;
 }
 
 .error {
@@ -156,14 +117,8 @@ div.recentchanges {
 }
 
 .sidebar {
-	width: 20ex;
-	float: right;
-	margin-left: 4px;
-	margin-bottom: 4px;
-	margin-top: -1px;
-	padding: 0ex 2ex;
 	background: black;
-	border: 1px solid black;
+	border: 1px solid #3399FF;
 	color: #3399FF !important;
 }
 
