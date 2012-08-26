@@ -143,3 +143,9 @@ input, textarea {
 	background: black;
 }
 
+/* calendar plugin */
+.month-calendar-day-this-day,
+.year-calendar-this-month {
+	background-color: black;
+	color: 3399ff;
+}
