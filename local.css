@@ -138,3 +138,8 @@ p { line-height: 1.5em; margin: 0 0 1em; padding: 0; }
 	overflow: auto;
 }
 
+input {
+	color: #3399ff;
+	background: black;
+}
+
