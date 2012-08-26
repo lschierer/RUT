@@ -129,3 +129,12 @@ p { line-height: 1.5em; margin: 0 0 1em; padding: 0; }
 	padding: 0 10px 0 7px;
 }
 
+.blogform, #blogform {
+	padding: 10px 10px;
+	border: 1px solid #aaa;
+	background: black;
+	color: #3399ff !important;
+	width: auto;
+	overflow: auto;
+}
+
