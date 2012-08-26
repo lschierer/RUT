@@ -67,7 +67,7 @@ hr { border-top: #ffffff 1px solid; }
 
 img { border: none; }
 
-input, textarea { background: black; border: #3399ff 1px solid; }
+input, textarea { color: 3399ff; background: black; border: #3399ff 1px solid; }
 
 p { line-height: 1.5em; margin: 0 0 1em; padding: 0; }
 
