@@ -1,0 +1,11 @@
+[[!comment format=mdwn
+claimedauthor="Luke Schierer"
+url="http://www.schierer.org/~luke"
+subject="Re: on forks and forking"
+date="2007-07-17T18:27:46Z"
+content="""
+<p>You make an assumption that is not true: that in the past we looked for compromises to build community rather than doing what we felt to be correct.  This has never been the case.  It was not the case when we insisted that initial file transfer work must come in the form of patches.  It was not the case when we decided (against much the same outcry you see now) that it was time to ditch gtk1.2.  It was not the case with any of the other decisions we made around that time, such as removing the "edit buddy list" pane in favor of in-place editing, also a highly controversial change.  Nor did we look for compromise when we introduced wysiwyg editing for IM, again a highly controversial move.</p>
+
+<p>We have <em>never</em> let outcry or fears of fragmenting the user base stop us from doing the correct thing.  My argument is that this disregard of consequences has <em>not</em> harmed us becuase we <em>have</em> in fact been correct.  If previous instances of outcry have not proved to be fatal, I see no reason to believe this one will.  Yes, there is always the chance that this time we are wrong, but that has always been the case.</p>
+
+"""]]

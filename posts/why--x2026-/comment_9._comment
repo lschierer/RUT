@@ -1,0 +1,25 @@
+[[!comment format=mdwn
+claimedauthor="Luke Schierer"
+url="http://www.schierer.org/~luke"
+subject="Re: Why&#x2026;"
+date="2006-09-28T23:56:12Z"
+content="""
+<p>lol, for work stuff you could buy some of my time from Accelerated, you all have worked with us in the past, though you were never the customer, just passing through paperwork stuff. ;-)</p>
+
+<p>RAID 5+0 isn't a bad setup.  We don't like RAID 5 because if all the disks are from the same batch, they tend to have similar failure times.  And the stress of rebuilding the array can cause a second failure, which is then unrecoverable.  RAID 6 is more robust if you can afford it.  Still, we do use RAID 5+0 in some situations.</p>
+
+<p>Right, you can't put /boot in an LV because grub has to know where it is.  But /boot typically only has to hold a few hundred MB of data anyway.</p>
+
+<p>Accelerated Servers, and thus I, since I do alot of the OS installs, do all sorts of HPC and data storage computers and clusters.  We specialize in data storage though.</p>
+
+<p>I have not worked much with LVM.  Still, once you have a kernel+initrd loaded that can handle it, it really doesn't matter.</p>
+
+<p>Basically, with any setup, you can split it into two logical sections.  The OS and the Data.  The OS takes a few Gb of space, typically 10-20 if you actually install to disk, but MUCH less ram to run, and even less if you go diskless.  If you have enough ram per machine, say 4-8Gb/proc(or core if dual core chips), you can start thinking about diskless.  This is particularly true if you still have a swap partition on each node.  you can do swap over nfs, but it sucks badly.  You put your OS on the ramdisk (or nfs/ramdisk hybrid, warewulf can do that)</p>
+
+<p>if you are having performance issues with your IO, try mounting your partitions, replacing "defaults" with "noatime" in your /etc/fstab.  You can also mess with inode size and block size and such, but that's all done at the time you format the parition and is rather archane.  I'd have to talk to Dan about it to help you beyond noatime.</p>
+
+<p>The 64 bit opterons rock hard.  You should definitally upgrade.  You will need to reinstall the OS to take advantage of them though.  Your data partitions do not need to be touched.</p>
+
+<p>Do you have my business card?  or cell #?  You can call me tomorrow if you want to go over more on these lines.</p>
+
+"""]]
