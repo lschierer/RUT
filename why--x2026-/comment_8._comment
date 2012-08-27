@@ -1,0 +1,22 @@
+[[!comment format=mdwn
+claimedauthor="damian792"
+url="http://"
+subject="Re: Why&#x2026;"
+date="2006-09-28T23:38:53Z"
+content="""
+<p>Hmm... what sort of config is all this? 
+We're hosting RAID50 (I still think of it as 5+0 but whatever, I'm not a doc custodian so I won't split the hairs)...</p>
+
+<p>Controllers are 8100 cards. RAID assembled is using LVM2 config (user has to add it). Seems that hot OCE and jumpstarting isn't that complex. Add to VG, adjust the LV (or volumes), and go. It's pretty seemless and transparent. Doesn't interfere with RAID action requests. In our lab there are TONS r/w exchanges happening all the time, and there has been any measurable latency.</p>
+
+<p>Notes: 
+1 - Requires device-mapper in the kernel with support lib's
+2+1 - There ARE issues with lvm and/or ext3 I think. /boot can't be in a logical volume (and child PVs) because the loader won't see it. 
+             - - As far as I know, the only workaround if /boot is already in a LV is to create another boot partition on the side (kinda sucks).
+             - - If you ask me to talk ext3 journaling and quiescing and all that, you're SOL, I am definitely not on that level.
+4 - Our RAID has never been LVM1 (and the wretched read-only snapshots) so I don't know if there are transition issues. We can go back though (in theory)
+4+1 - !!! - BTW, 32-bit proc on k2.6 equals a lot of space to write to :grin:. We're thinking of going up to 64-bit pro's.</p>
+
+<p>Note: I'll be aware from internet connectivity for the weekend.</p>
+
+"""]]

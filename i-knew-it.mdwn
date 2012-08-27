@@ -1,0 +1,6 @@
+[[!meta  title="I knew it"]]
+[[!meta  date="2008-01-22 16:18:18"]]
+
+
+[[!tag  personal]]
+[[!tag  technical]]

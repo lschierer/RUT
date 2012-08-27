@@ -1,0 +1,5 @@
+[[!meta  title="clarifying the gaim-vv record"]]
+[[!meta  date="2005-11-11 16:40:53"]]
+
+
+[[!tag  pidgin]]

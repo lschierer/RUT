@@ -1,0 +1,5 @@
+[[!meta  title="Novell Fixes"]]
+[[!meta  date="2006-09-26 20:09:03"]]
+
+
+[[!tag  pidgin]]
