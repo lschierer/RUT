@@ -4,8 +4,7 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-[[!inline pages="glob("20[0-9]+/*") and !*/Discussion" show="10" archive="yes"]]
-
+[[!inline  pages="* and !*/Discussion" archive="yes"]]
 
 
 This blog is powered by [ikiwiki](http://ikiwiki.info).
