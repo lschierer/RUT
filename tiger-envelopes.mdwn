@@ -1,6 +1,0 @@
-[[!meta  title="Tiger Envelopes"]]
-[[!meta  date="2006-09-11 19:43:17"]]
-
-
-[[!tag  personal]]
-[[!tag  technical]]

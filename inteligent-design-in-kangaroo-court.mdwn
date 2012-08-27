@@ -1,5 +1,0 @@
-[[!meta  title="Inteligent Design in kangaroo court"]]
-[[!meta  date="2006-01-10 20:06:04"]]
-
-
-[[!tag  evolution]]

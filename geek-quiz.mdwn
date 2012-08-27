@@ -1,5 +1,0 @@
-[[!meta  title="Geek quiz"]]
-[[!meta  date="2005-08-15 14:29:46"]]
-
-
-[[!tag  personal]]

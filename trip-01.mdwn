@@ -1,5 +1,0 @@
-[[!meta  title="Trip 01"]]
-[[!meta  date="2005-07-23 00:01:46"]]
-
-
-[[!tag  personal]]

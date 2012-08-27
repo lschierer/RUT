@@ -1,5 +1,0 @@
-[[!meta  title="as release nears"]]
-[[!meta  date="2007-06-14 16:34:33"]]
-
-
-[[!tag  pidgin]]

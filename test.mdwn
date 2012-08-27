@@ -1,5 +1,0 @@
-[[!meta  title="test"]]
-[[!meta  date="2005-06-06 23:53:04"]]
-
-
-[[!tag  uncategorized]]

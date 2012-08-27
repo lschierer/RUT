@@ -1,6 +1,0 @@
-[[!meta  title="gaim and autopackage"]]
-[[!meta  date="2006-03-06 19:33:58"]]
-
-
-[[!tag  pidgin]]
-[[!tag  technical]]

@@ -1,5 +1,0 @@
-[[!meta  title="on forks and forking"]]
-[[!meta  date="2007-07-10 16:29:05"]]
-
-
-[[!tag  pidgin]]

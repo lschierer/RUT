@@ -1,6 +1,0 @@
-[[!meta  title="thoughts and status"]]
-[[!meta  date="2005-09-23 20:38:36"]]
-
-
-[[!tag  personal]]
-[[!tag  pidgin]]

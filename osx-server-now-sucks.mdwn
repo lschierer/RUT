@@ -1,5 +1,0 @@
-[[!meta  title="OSX server now sucks"]]
-[[!meta  date="2005-07-19 21:21:09"]]
-
-
-[[!tag  personal]]

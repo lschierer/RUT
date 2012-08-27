@@ -1,5 +1,0 @@
-[[!meta  title="Bug Master"]]
-[[!meta  date="2005-11-03 21:41:57"]]
-
-
-[[!tag  pidgin]]

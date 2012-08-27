@@ -1,5 +1,0 @@
-[[!meta  title="Cute Animal Quiz"]]
-[[!meta  date="2008-12-10 02:27:40"]]
-
-
-[[!tag  quizes]]

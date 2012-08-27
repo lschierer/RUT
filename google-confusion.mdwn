@@ -1,6 +1,0 @@
-[[!meta  title="Google Confusion"]]
-[[!meta  date="2007-12-07 18:16:40"]]
-
-
-[[!tag  personal]]
-[[!tag  technical]]

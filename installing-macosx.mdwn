@@ -1,5 +1,0 @@
-[[!meta  title="Installing MacOSX"]]
-[[!meta  date="2005-07-12 19:34:56"]]
-
-
-[[!tag  personal]]

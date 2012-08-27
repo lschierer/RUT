@@ -1,5 +1,0 @@
-[[!meta  title="One for the Astronomy geeks"]]
-[[!meta  date="2006-09-12 15:02:29"]]
-
-
-[[!tag  science]]

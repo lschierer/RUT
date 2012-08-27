@@ -1,5 +1,0 @@
-[[!meta  title="quirky quiz"]]
-[[!meta  date="2008-02-11 18:54:40"]]
-
-
-[[!tag  quizes]]

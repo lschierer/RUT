@@ -1,6 +1,0 @@
-[[!meta  title="Bug fixing"]]
-[[!meta  date="2007-09-12 18:54:55"]]
-
-
-[[!tag  personal]]
-[[!tag  technical]]

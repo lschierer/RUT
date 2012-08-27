@@ -1,6 +1,0 @@
-[[!meta  title="Tiger Envelopes part N+4"]]
-[[!meta  date="2006-09-14 19:40:09"]]
-
-
-[[!tag  personal]]
-[[!tag  technical]]

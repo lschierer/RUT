@@ -1,6 +1,0 @@
-[[!meta  title="pine + maildir"]]
-[[!meta  date="2007-01-02 20:19:30"]]
-
-
-[[!tag  personal]]
-[[!tag  technical]]

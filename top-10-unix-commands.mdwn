@@ -1,6 +1,0 @@
-[[!meta  title="top 10 unix commands"]]
-[[!meta  date="2006-09-25 21:24:47"]]
-
-
-[[!tag  personal]]
-[[!tag  technical]]

@@ -1,6 +1,0 @@
-[[!meta  title="A book for the wishlist"]]
-[[!meta  date="2006-01-23 18:57:02"]]
-
-
-[[!tag  evolution]]
-[[!tag  personal]]

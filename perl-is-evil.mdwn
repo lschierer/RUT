@@ -1,5 +1,0 @@
-[[!meta  title="Perl is evil"]]
-[[!meta  date="2005-11-23 17:01:36"]]
-
-
-[[!tag  personal]]

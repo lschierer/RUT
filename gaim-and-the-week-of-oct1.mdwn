@@ -1,5 +1,0 @@
-[[!meta  title="Gaim and the week of oct1"]]
-[[!meta  date="2006-10-06 17:45:52"]]
-
-
-[[!tag  pidgin]]
