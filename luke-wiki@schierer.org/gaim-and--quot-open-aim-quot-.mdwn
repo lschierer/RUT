@@ -1,6 +1,0 @@
-[[!meta  title="Gaim and &quot;Open AIM&quot;"]]
-[[!meta  date="2006-03-08 16:29:02"]]
-
-
-[[!tag  pidgin]]
-[[!tag  technical]]

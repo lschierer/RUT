@@ -1,6 +1,0 @@
-[[!meta  title="font sizes, css, and xhtml"]]
-[[!meta  date="2006-08-08 17:47:52"]]
-
-
-[[!tag  personal]]
-[[!tag  technical]]

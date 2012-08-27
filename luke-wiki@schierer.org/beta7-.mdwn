@@ -1,5 +1,0 @@
-[[!meta  title="beta7 "]]
-[[!meta  date="2007-04-30 18:49:06"]]
-
-
-[[!tag  pidgin]]

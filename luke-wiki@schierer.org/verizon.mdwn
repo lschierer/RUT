@@ -1,5 +1,0 @@
-[[!meta  title="Verizon"]]
-[[!meta  date="2007-04-25 12:30:08"]]
-
-
-[[!tag  pidgin]]

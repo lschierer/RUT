@@ -1,6 +1,0 @@
-[[!meta  title="cluster woes"]]
-[[!meta  date="2008-02-08 18:13:23"]]
-
-
-[[!tag  personal]]
-[[!tag  technical]]

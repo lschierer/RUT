@@ -1,6 +1,0 @@
-[[!meta  title="gramps still not installable via macports"]]
-[[!meta  date="2006-12-21 17:19:24"]]
-
-
-[[!tag  pidgin]]
-[[!tag  technical]]

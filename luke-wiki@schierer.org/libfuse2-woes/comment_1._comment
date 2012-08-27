@@ -1,9 +1,0 @@
-[[!comment format=mdwn
-claimedauthor="glusterfs woes &raquo; Random Unfinished Thoughts"
-url="http://www.schierer.org/~luke/log/20081007-0940/glusterfs-woes"
-subject="Re: libfuse2 woes"
-date="2008-10-07T14:40:42Z"
-content="""
-<p>[...] a correction to my previous post, libfuse2 is not in fact at fault here. I am able to mount an sshfs with the suid option. The [...]</p>
-
-"""]]

@@ -1,5 +1,0 @@
-[[!meta  title="An example"]]
-[[!meta  date="2007-08-15 18:03:26"]]
-
-
-[[!tag  society]]

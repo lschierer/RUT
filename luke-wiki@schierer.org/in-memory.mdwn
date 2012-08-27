@@ -1,5 +1,0 @@
-[[!meta  title="In memory"]]
-[[!meta  date="2007-10-03 14:40:16"]]
-
-
-[[!tag  personal]]

@@ -1,6 +1,0 @@
-[[!meta  title="The DMCA covers simply deleting files&#x203d;"]]
-[[!meta  date="2007-08-21 13:48:06"]]
-
-
-[[!tag  politics-law]]
-[[!tag  technical]]

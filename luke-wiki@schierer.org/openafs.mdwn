@@ -1,6 +1,0 @@
-[[!meta  title="OpenAFS"]]
-[[!meta  date="2008-02-08 19:24:16"]]
-
-
-[[!tag  personal]]
-[[!tag  technical]]

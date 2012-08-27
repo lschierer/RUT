@@ -1,5 +1,0 @@
-[[!meta  title="robotic limbs"]]
-[[!meta  date="2005-06-24 17:46:13"]]
-
-
-[[!tag  science]]

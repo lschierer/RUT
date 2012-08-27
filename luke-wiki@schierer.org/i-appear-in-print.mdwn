@@ -1,6 +1,0 @@
-[[!meta  title="I appear in print"]]
-[[!meta  date="2007-10-10 16:25:29"]]
-
-
-[[!tag  personal]]
-[[!tag  pidgin]]

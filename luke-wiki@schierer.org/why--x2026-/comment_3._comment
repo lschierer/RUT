@@ -1,9 +1,0 @@
-[[!comment format=mdwn
-claimedauthor="Luke Schierer"
-url="http://www.schierer.org/~luke"
-subject="Re: Why&#x2026;"
-date="2006-09-28T21:38:09Z"
-content="""
-<p>Note that with a supported raid card, I would only be doing step 1.  Yes, that is an hour long step with tons of substeps, but I am not upset about that because at an hour, it is still one of the shorter installs out there.  Plus, I tend to automate that part with pxeboot images.</p>
-
-"""]]

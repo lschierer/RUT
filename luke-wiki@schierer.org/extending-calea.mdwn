@@ -1,5 +1,0 @@
-[[!meta  title="Extending CALEA"]]
-[[!meta  date="2006-02-09 18:44:56"]]
-
-
-[[!tag  politics-law]]

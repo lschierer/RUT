@@ -1,6 +1,0 @@
-[[!meta  title="RFID Authentication"]]
-[[!meta  date="2006-02-14 21:45:44"]]
-
-
-[[!tag  society]]
-[[!tag  technical]]

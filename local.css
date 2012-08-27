@@ -56,7 +56,6 @@ code {
 	padding-right: 2px;
 }
 
-
 h1, h2, h3, h4 {
 	font-family: arial, verdana, Lucida Sans Unicode, lucida, sans-serif;
 	font-weight: bold;
@@ -71,6 +70,11 @@ input, textarea { color: 3399ff; background: black; border: #3399ff 1px solid; }
 
 p { line-height: 1.5em; margin: 0 0 1em; padding: 0; }
 
+input, textarea {
+	color: #3399ff;
+	background: black;
+}
+
 .blogform, #blogform {
 	padding: 10px 10px;
 	border: 1px solid #aaa;
@@ -80,19 +84,12 @@ p { line-height: 1.5em; margin: 0 0 1em; padding: 0; }
 	overflow: auto;
 }
 
-input, textarea {
-	color: #3399ff;
-	background: black;
-}
-
 /* calendar plugin */
 .month-calendar-day-this-day,
 .year-calendar-this-month {
 	background-color: #eee;
 	color: 3399ff;
 }
-
-
 
 sidebar {
 	width: 20ex;
@@ -105,3 +102,12 @@ sidebar {
 	border: 1px solid #3399ff;
 	color: #3399ff !important;
 }
+
+input#searchbox {
+	background: url(wikiicons/search-bg.gif) no-repeat;
+	background-color: #fff;
+	background-position: 100% 50%;
+	color: #000;
+	padding-right: 16px;
+}
+

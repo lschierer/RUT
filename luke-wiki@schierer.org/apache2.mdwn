@@ -1,5 +1,0 @@
-[[!meta  title="apache2"]]
-[[!meta  date="2005-08-29 21:53:31"]]
-
-
-[[!tag  personal]]

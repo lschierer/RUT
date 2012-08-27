@@ -1,5 +1,0 @@
-[[!meta  title="Command Line Tools"]]
-[[!meta  date="2005-06-21 20:24:59"]]
-
-
-[[!tag  personal]]

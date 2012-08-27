@@ -1,5 +1,0 @@
-[[!meta  title="Another failure for Newton"]]
-[[!meta  date="2005-10-10 19:33:01"]]
-
-
-[[!tag  science]]
