@@ -4,8 +4,7 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-[[!toc  levels=2]]
+[[!map  pages="* and !blog/* and !*/*/*" show=title]]
 
 [[All Posts and Pages|posts]]
 
-This blog is powered by [ikiwiki](http://ikiwiki.info).
