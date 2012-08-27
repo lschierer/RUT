@@ -1,5 +1,0 @@
-[[!meta  title="openid"]]
-[[!meta  date="2007-07-12 21:14:54"]]
-Someone I know from the Pidgin project asked that I install an openid plugin.  I am not adverse to the idea, as it should not overly expose me to spam, and so I did some google searching.  I found wpopenid on sourceforge, and installed it.  It was a pain to get working though, and it is still not working in an ideal state.  I cannot figure out how to get it to realize that I have gmp installed on the system.  I am not even 100% sure that I *do* have gmp installed on the system in a way php5 can recognize.  Still, I believe it should work. 
-
-[[!tag  personal]]

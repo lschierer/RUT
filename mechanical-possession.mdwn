@@ -1,6 +1,0 @@
-[[!meta  title="Mechanical Possession"]]
-[[!meta  date="2005-10-26 15:56:50"]]
-<p>Though I have not myself experienced such a device, I share many of the concerns of Mr. Yuri Kageyama as I read his article on a remote control device for humans.<sup><a href="http://www.sfgate.com/cgi-bin/article.cgi?file=/news/archive/2005/10/25/financial/f133702D73.DTL" title="Remote Control Device 'Controls' Humans">[1]</a></sup> Even if its limited, which it sounds to be, it is still disturbing to think that there are now mechanical (or as the case may be, electric) means to take over someone's body.  Eventually this will get miniaturized and fine-tuned, the amusement industry will see to that even if the military does not.  And I fear eventually someone will put it to a nefarious use.</p>  <font size="-2"> <ol> <li>Mr. Yuri Kageyama. "Remote Control Device 'Controls' Humans" SFGate 2005-10-26. http://www.sfgate.com/cgi-bin/article.cgi?file=/news/archive/2005/10/25/financial/f133702D73.DTL </li> </ol> </font>
-
-[[!tag  science]]
-[[!tag  society]]
