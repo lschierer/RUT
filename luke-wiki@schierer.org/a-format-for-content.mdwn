@@ -1,0 +1,5 @@
+[[!meta  title="A format for content"]]
+[[!meta  date="2005-08-26 14:16:05"]]
+
+
+[[!tag  personal]]

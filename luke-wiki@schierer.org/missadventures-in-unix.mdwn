@@ -1,0 +1,5 @@
+[[!meta  title="missadventures in unix"]]
+[[!meta  date="2005-09-19 18:52:08"]]
+
+
+[[!tag  personal]]

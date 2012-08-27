@@ -1,0 +1,6 @@
+[[!meta  title="a side note"]]
+[[!meta  date="2008-10-07 19:49:07"]]
+
+
+[[!tag  personal]]
+[[!tag  technical]]

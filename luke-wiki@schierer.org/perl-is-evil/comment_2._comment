@@ -1,0 +1,8 @@
+[[!comment format=mdwn
+claimedauthor="Luke Schierer"
+url="http://www.schierer.org/~luke"
+subject="Re: Perl is evil"
+date="2005-11-24T00:33:57Z"
+content="""
+Something's wrong with the parsing of this post.  If I copy the code that <em>displays</em> above, then I  get a scalar error.  If I go to edit the post and copy the code that I actually pasted, then it works. Running diff on the two versions confirms they are different.  Comparing them letter by letter shows that the \ before the " is wrong. That appears to be the only mistake.
+"""]]

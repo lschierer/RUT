@@ -1,0 +1,6 @@
+[[!meta  title="Google Talk"]]
+[[!meta  date="2006-03-03 13:24:27"]]
+
+
+[[!tag  pidgin]]
+[[!tag  technical]]

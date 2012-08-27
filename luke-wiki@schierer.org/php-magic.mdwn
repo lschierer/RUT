@@ -1,0 +1,5 @@
+[[!meta  title="PHP magic"]]
+[[!meta  date="2005-06-20 21:20:28"]]
+
+
+[[!tag  personal]]
