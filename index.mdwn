@@ -4,8 +4,7 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-[[!inline pages="page(20[0-9]+/*) and !*/Discussion" show="10"
-actions=no ]]
+[[!inline pages="glob("20[0-9]+/*") and !*/Discussion" show="10" archive="yes"]]
 
 
 
