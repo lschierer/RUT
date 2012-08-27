@@ -1,4 +1,3 @@
 Here is a full list of posts 
 
-[[!inline pages="page(./20[0-9]+/*) and !*/Discussion" archive=yes feedshow=10 achivce=yes ]]
-
+[[!inline  pages="* and !*/Discussion" archive="yes" actions="no"]]
