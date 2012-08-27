@@ -1,3 +1,4 @@
-Here is a full list of posts to the [[blog|index]].
+Here is a full list of posts 
 
-[[!inline pages="page(./posts/*) and !*/Discussion" archive=yes feedshow=10 quick=yes]]
+[[!inline pages="page(./20[0-9]+s/*) and !*/Discussion" archive=yes feedshow=10 achivce=yes ]]
+
