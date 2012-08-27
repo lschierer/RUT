@@ -1,0 +1,4 @@
+[[!meta title="pages tagged quotes"]]
+
+[[!inline pages="tagged(quotes)" actions="no" archive="yes"
+feedshow=10]]
