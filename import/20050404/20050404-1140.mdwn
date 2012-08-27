@@ -1,0 +1,9 @@
+[[!meta  title="20050404-1140"]]
+[[!meta  date="2005-04-04 16:40:00"]]
+<p> Homosexual activists are not accepting the recent
+near-restoration of sanity in Michigan.  Facing the
+results of the marriage definition amendment, they
+are now fighting for health benefits anyway.  The New York Times <a href="http://www.nytimes.com/2005/04/04/national/04gays.html?ei=<?php echo htmlentities("5088&en=6a4e2bba5445d998&ex=1270267200&partner=rssnyt&pagewanted=print&position=");?>">has
+details</a>.</p>
+
+[[!tag  uncategorized]]

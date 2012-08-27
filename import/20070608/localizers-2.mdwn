@@ -1,0 +1,9 @@
+[[!meta  title="localizers"]]
+[[!meta  date="2007-06-08 15:54:30"]]
+A year or so ago, HP came out with an RFID chip the size of a grain of rice.[^local1]  That provided a significant step towards ubiquitous localizers.  Today, we have the next big step:  wireless *power.*[^local2]  Now both of these just need to be miniaturized to nano-technology scales.  
+
+
+[^local1]: Mr. Luke Schierer.  "Localizers!" Random Unfinished Thoughts.  2006-07-18.  <http://www.schierer.org/~luke/log/20060718-1331/659>
+[^local2]: Mr. Franklin Hadley.  "Goodbye wires…"  MIT news.  2007-06-07.  <http://web.mit.edu/newsoffice/2007/wireless-0607.html>
+
+[[!tag  technical]]

@@ -1,0 +1,47 @@
+[[!meta  title="20050525-1009"]]
+[[!meta  date="2005-05-25 15:09:00"]]
+<p>Last week Chris sent me an article talking about the use of
+encryption in the Revolutionary War and colonial periods.[1] Turns
+out that various encryption methods were very well known and quite
+widespread for government, business <em>and interpersonal</em>
+correspondence.  So wide spread was the use of encryption, that the
+courts "have not treated those persons who have used encryption,
+ciphers, and codes with any presumption of illegality."[2]
+In criminal cases, "evidence that a defendant used a cipher
+or encryption has been allowed (as in United States v. Burr) as
+proof of the means used to commit an illegal act, but as proof of
+an illegal act by itself."[3] This is significant to remember in
+light of a Minnesota case where the existence of a PGP encryption
+program on the defendant's computer was deemed evidence, by both
+the trial court and the appellate court, of criminal intent.[4]</p>
+
+<p>A caveat here: The crime the defendant is accused of is horrific,
+and if guilty, he should be locked up for life with no chance
+of parole.</p>
+
+<p>Still, it is disturbing to see that an encryption program, with
+no evidence of encrypted files, or its use in any way related to the
+crime, is evidence that you intend to break the law.  There are any
+number of good reasons to use PGP, or its free clone, GPG, beyond
+illegal activities.  For instance, many open source packages come
+with GPG signatures to help prevent a man in the middle attack
+from substituting a modified version of the package either in
+the mirror you are downloading from, or via a transparent proxy.
+Similarly, PGP/GPG signatures are used to verify identity in email
+correspondence, and, just as it was in the colonial period and
+the early days of the country, used to encipher perfectly legal,
+but personally sensitive information to protect it from friends,
+family, neighbors, and random people out on the Internet who should
+not be reading it.  It is disturbing to see how quickly after finding
+such research, I see confirmation that it is indeed necessary to
+have it.</p>
+
+[1] http://vjolt.student.virginia.edu/graphics/vol2/vol2_art2.html
+<br  /> [2]
+http://vjolt.student.virginia.edu/graphics/vol2/vol2_art2.html#IVD
+<br  /> [3]
+http://vjolt.student.virginia.edu/graphics/vol2/vol2_art2.html#IVD
+<br  /> [4]
+http://news.com.com/Minnesota+court+takes+dim+view+of+encryption/2100-1030_3-5718978.html
+
+[[!tag  uncategorized]]

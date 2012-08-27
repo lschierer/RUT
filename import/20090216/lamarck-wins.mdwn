@@ -1,0 +1,10 @@
+[[!meta  title="Lamarck wins"]]
+[[!meta  date="2009-02-16 14:10:31"]]
+I need to go back and finish reading [this][lamarck] article, but the first page skimmed seems to indicate that there was more to Lamarck's theory than we have given him credit for.[^20090216-1]
+
+[lamarck]: http://www.technologyreview.com/biomedicine/22061/ "A Comeback for Lamarckian Evolution?"
+[^20090216-1]: Ms. Emily Singer. "A Comeback for Lamarckian Evolution? Two new studies show that the effects of a mother's early environment can be passed on to the next generation." Technology Review. Massachusetts Institute of Technology. Viewed 2009-02-16.  <http://www.technologyreview.com/biomedicine/22061 />
+
+
+[[!tag  evolution]]
+[[!tag  science]]

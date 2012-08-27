@@ -1,0 +1,17 @@
+[[!meta  title="20050610-1036"]]
+[[!meta  date="2005-06-10 15:36:00"]]
+<p>I am pleased to see that some 18 countries are possibly going to
+be forgiven their debt.[1] I worry some that we (the US taxpayer)
+will have to pay it off for them, but we would eventually end
+up doing so anyway.  I also wonder under what terms this will
+happen, and what all it will entail.  I see from the article that
+the countries will have to prove a reduction in corruption and
+"improve governing," a phrase that seems awfully ambiguous to me.
+Also somewhat disturbing is the blatant expectation that this
+simply means these countries will borrow more.  That, I think,
+is the last thing they need to be doing.</p>
+
+[1]
+http://www.nytimes.com/2005/06/10/politics/10debt.html?ei=< ?php print(htmlentities("5088&en=3799916b98058869&ex=1276056000&partner=rssnyt&emc=rss&pagewanted=print")); ?>
+
+[[!tag  uncategorized]]
