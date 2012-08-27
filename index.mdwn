@@ -4,7 +4,8 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-[[!inline  pages="glob("20[0-9]+)" show="10" sort="mtime" archive="yes" actions="no"]]
+[[!toc  levels=2]]
 
+[[All Posts and Pages|posts]]
 
 This blog is powered by [ikiwiki](http://ikiwiki.info).
