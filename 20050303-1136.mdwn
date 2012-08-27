@@ -1,0 +1,17 @@
+#+POSTID: 117
+#+DATE: [2005-03-03 Thu 16:36]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: politics/law
+#+TAGS: 
+#+TITLE: FEC regulates the internet
+
+"[THE FEC VS. BLOGS](http://michellemalkin.com/archives/001654.htm)" and "[The coming crackdown on blogging](http://news.com.com/The+coming+crackdown+on+blogging/2008-1028_3-5597079.html?tag=nefd.lede)" both reached me at much the same time. The former links to the latter, as well as "[The Coming Crackdown](http://www.intheagora.com/archives/2005/03/the_coming_crac.html)" and others. This is indeed chilling, and brings home the implications of the power over our speech that we have given to the FEC. Until now the McCain-Feingold campaign finance law really didn't hit my radar at least, because it affected people with more money and influence than I have ever had, or ever known anyone with. But if this becomes extended to the internet, then anyone who manages to achieve a non-trivial readership will be subject to this censorship and regulation. It doesn't even have to be a significant readership, just a non-trivial one, because what individual can realistically put forth political content when he or she will be held responsible for the donations of every reader to filter through his or her site? Or can afford to know about and comply with the regulations on what qualifies as an endorsement, what qualifies as political advocacy? Who is really able to track what percentage of a computer or internet connection went to these activities? Many of these questions are asked in the interview with the FEC commissioner (linked above), others come from Michelle Malkin's blog (linked above) or the "In the Agora" blog (also above), but they are all good questions that need to be asked (and answered). This blog is trivial; it has no regular readers, and only a handful of periodic ones, and is basically just a way for me to vent. Still, this is not a development that I like to see.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+On a random note, this is the first time I've seen anyone except Ederlyn use the word "samizdat."
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+#+POSTID: 530
+#+DATE: [2005-10-10 Mon 14:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Society
+#+TAGS: 
+#+TITLE: The necessity of education
+
+Mr. Steinar H. Gunderson of Debian posted about an odd "reality" television show he recently became hooked on.^[[1]](http://blog.sesse.net/blog/tech/2005-10-08-01-30_heia_tufte.html)^ Most of it is devoid of serious interest, but the following factoid caught my eye.
+
+> I think the concept is worth deliberating a bit on because it highlights a few interesting themes. For one, it has put some focus on people falling outside the school system's idea of physical activity. At least here in Norway, the only subject you really can't afford to suck at is PE -- if you're bad at maths or English or whatever, that's not really half as bad as not being able to kick a football straight. (It's also interestingly about the only subject where it's okay to be good -- this does of course vary from school to school, but there are plenty of places where it's just not accepted to do well in maths or whatnot.)^[[1]](http://blog.sesse.net/blog/tech/2005-10-08-01-30_heia_tufte.html)^
+
+When I bring up the idea of self discrimination as an explanation for poverty here, I receive odd looks, and meet disbelief. Somewhat less commonly, my theory is accepted, but the blame is shifted back to those of European decent by stating that such an attitude could only have come about from years of oppression. I offer this tidbit, written by someone whose culture has no recent history of enslavement, as a counter example. Clearly those who do not resist the attitude described above will not be able to compete in a free market/capitalistic society with as high a success rate as those who can resist said attitude. Education is a critical part of success in a free market society, and to willfully bias one's peer group against it must necessarily lead to decreased standard of living across the peer group. Is this reflective of Europe as a whole, it would explain why the average standard of living is not so high as ours, [something I have alluded to before](https://www.schierer.org/~luke/log/20050628-1016/summer-heat).
+
+1.  Mr. Steinar H. Gunderson. "Heia Tufte!" Steinar H. Gunderson blog 2005-10-08. http://blog.sesse.net/blog/tech/2005-10-08-01-30\_heia\_tufte.html
+
+
+
+
+
+

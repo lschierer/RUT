@@ -1,0 +1,17 @@
+#+POSTID: 198
+#+DATE: [2005-04-11 Mon 16:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050411-1137
+
+"Sub vocalizing" is a common idea in science fiction,\#$NEWLINE-MARKER$\#saying words inaudible. Some authors go so far as to say without\#$NEWLINE-MARKER$\#visible, or nearly without visible movement. This is significant\#$NEWLINE-MARKER$\#in light of the [fact that it is apparently\#$NEWLINE-MARKER$\#possible](http://www.newscientist.com/article.ns?id=dn7247). As this is the result of military research, I\#$NEWLINE-MARKER$\#would tend to assume that this means there are now smaller and\#$NEWLINE-MARKER$\#better versions available to the military than are discussed in\#$NEWLINE-MARKER$\#the article.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+Along the same lines, I see [mention](http://www.aip.org/pnu/2005/726.html) of a\#$NEWLINE-MARKER$\#"bio-transistor" that could be used for a brain-machine interface.\#$NEWLINE-MARKER$\#Cyborgs just get closer and closer it seems. I am still not sure\#$NEWLINE-MARKER$\#what I make of this trend.
+
+
+
+
+
+

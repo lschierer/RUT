@@ -1,0 +1,13 @@
+#+POSTID: 23
+#+DATE: [2005-01-31 Mon 18:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050131-1359
+
+[This\#$NEWLINE-MARKER$\#BBC report](http://news.bbc.co.uk/1/hi/uk_politics/4220473.stm) just made my day. Bill Gates is "'struggling to\#$NEWLINE-MARKER$\#concentrate', 'not a natural leader', 'struggling to keep control\#$NEWLINE-MARKER$\#of a confusing world' and 'an unstable man who is feeling under\#$NEWLINE-MARKER$\#enormous pressure.'"
+
+
+
+
+

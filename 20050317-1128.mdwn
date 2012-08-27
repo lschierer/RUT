@@ -1,0 +1,17 @@
+#+POSTID: 148
+#+DATE: [2005-03-17 Thu 16:28]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050317-1128
+
+Slow news day. Nothing really caught my eye except an article\#$NEWLINE-MARKER$\#talking about Trusted Computing. But it didn't have any new details,\#$NEWLINE-MARKER$\#just that Dell, HP and IBM are shipping hardware with it, and I\#$NEWLINE-MARKER$\#have known that for a while.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+In other news, [Endace](http://www.endace.com)'s\#$NEWLINE-MARKER$\#software doesn't seem to work with RHEL4, and RHEL3u4, which they\#$NEWLINE-MARKER$\#do support, doesn't seem to detect the 3ware card we are using.\#$NEWLINE-MARKER$\#So I am installing debian, which does. This reminds me how much I\#$NEWLINE-MARKER$\#wish that tasksel showed some of the "smaller" tasks, like gnome,\#$NEWLINE-MARKER$\#(desktop environment installs both gnome and kde).
+
+
+
+
+
+

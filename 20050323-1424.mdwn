@@ -1,0 +1,18 @@
+#+POSTID: 165
+#+DATE: [2005-03-23 Wed 19:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050323-1424
+
+Two bits of science news today. "[Classic\#$NEWLINE-MARKER$\#maths puzzle cracked at last](http://www.newscientist.com/article.ns?id=dn7180)" talks about patterns in numbers.\#$NEWLINE-MARKER$\#Mathematicians were apparently surprised as they discovered how\#$NEWLINE-MARKER$\#prevalent these are, but I am not. It is the same sort of argument\#$NEWLINE-MARKER$\#that is being made when you look at the finite ranges in which life\#$NEWLINE-MARKER$\#as we know it could exist.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+The other is "
+a href="http://www.nytimes.com/2005/03/23/science/23gene.html?ei=
+"\>Startling\#$NEWLINE-MARKER$\#Scientists, Plant Fixes Its Flawed Gene," which suggests there\#$NEWLINE-MARKER$\#may be more to heredity than Mendel's laws and DNA. If so, this\#$NEWLINE-MARKER$\#would raise the explanatory bar for evolution *significantly*\#$NEWLINE-MARKER$\#higher, as a mutation must get past this extra set of non-DNA\#$NEWLINE-MARKER$\#based accuracy checks. Why have we not noticed this before?\#$NEWLINE-MARKER$\#Perhaps because it was not looked for?
+
+
+
+
+

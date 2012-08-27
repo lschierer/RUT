@@ -1,0 +1,13 @@
+#+POSTID: 605
+#+DATE: [2006-01-24 Tue 12:51]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: personal
+#+TAGS: 
+#+TITLE: 1 year
+
+This log, through its various iterations and post formats, capabilities, and backend software, has now been up for exactly one year. Is that good, bad, or indifferent? I do not know.
+
+
+
+
+

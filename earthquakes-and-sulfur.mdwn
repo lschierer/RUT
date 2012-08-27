@@ -1,0 +1,16 @@
+#+POSTID: 639
+#+DATE: [2006-03-15 Wed 15:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: plate tectonics
+#+TAGS: 
+#+TITLE: earthquakes and sulfur
+
+\#$NEWLINE-MARKER$\#
+What in plate tectonics explains the characteristic sulfur fumes surrounding an earthquake?^[[1]](http://service.spiegel.de/cache/international/spiegel/0,1518,405947,00.html\ "A\ Continent\ Splits\ Apart")^ This is a question I do not see being asked, much less answered.
+
+Mr. Axel Bojanowski. "A Continent Splits Apart" Spiegel Online 2006-03-15. http://service.spiegel.de/cache/international/spiegel/0,1518,405947,00.html
+
+
+
+
+

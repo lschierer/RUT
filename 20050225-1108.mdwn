@@ -1,0 +1,13 @@
+#+POSTID: 103
+#+DATE: [2005-02-25 Fri 15:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050225-1108
+
+According to "[When\#$NEWLINE-MARKER$\#paying with plastic, why swipe? Just wave](http://news.zdnet.com/2100-9588_22-5589512.html?tag=zdfd.newsfeed)," the credit\#$NEWLINE-MARKER$\#card companies are looking at switching from magnetic strips\#$NEWLINE-MARKER$\#to RFID tags. I imagine these will be similar to those\#$NEWLINE-MARKER$\#that the State Department wants placed in passports now,\#$NEWLINE-MARKER$\#which has significant privacy and security implications. In "[Schneier\#$NEWLINE-MARKER$\#on Security](http://www.schneier.com/blog/archives/2004/10/rfid_passports.html)" security expert Bruce Schneier addresses some\#$NEWLINE-MARKER$\#of the concerns with the RFID tags in passports. Apparently,\#$NEWLINE-MARKER$\#despite government assertions to the contrary, with the right\#$NEWLINE-MARKER$\#equipment, these tags will be readable from some some distance\#$NEWLINE-MARKER$\#away. Schneier's report is somewhat misleading from what I have\#$NEWLINE-MARKER$\#gathered, he talks about the chips broadcasting continuously,\#$NEWLINE-MARKER$\#where I have heard from Andrius that they only do so when they\#$NEWLINE-MARKER$\#are powered by a certain radio frequency. The difference is\#$NEWLINE-MARKER$\#slight, but significant to keep in mind when reading the more\#$NEWLINE-MARKER$\#official reports on these tags. Even assuming they need to be\#$NEWLINE-MARKER$\#powered by a radio frequency, a directional transmitter/receiver\#$NEWLINE-MARKER$\#would be able to read an unshielded passport from sufficient\#$NEWLINE-MARKER$\#distance that you would not necessarily know it had been read.\#$NEWLINE-MARKER$\#The implications for credit cards are clear. In an age where credit\#$NEWLINE-MARKER$\#cards increasingly do not need a signature (think amazon.com or\#$NEWLINE-MARKER$\#other online vendors), someone having your credit card number is\#$NEWLINE-MARKER$\#equivalent to that person being able to buy things in your name. "[Potential\#$NEWLINE-MARKER$\#ID Theft Victims Eye Information](http://news.findlaw.com/ap_stories/high_tech/1700/2-25-2005/20050225013015_04.html)" is simply the most recent\#$NEWLINE-MARKER$\#article I have seen about identity theft, there have been many many\#$NEWLINE-MARKER$\#others in the past year. This also goes right back to the concerns\#$NEWLINE-MARKER$\#I discussed [on Wednesday,\#$NEWLINE-MARKER$\#16th of February 2005](./view.php?date=20050216-1611).
+
+
+
+
+

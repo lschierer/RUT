@@ -1,0 +1,14 @@
+#+POSTID: 228
+#+DATE: [2005-04-25 Mon 16:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050425-1111
+
+I was reading some of the NYTimes articles today, and [this\#$NEWLINE-MARKER$\#ad](http://spe.atdmt.com/b/OGOGICISCCSC/NewBlack_336x850.jpg.jpg) caught my eye. Not for its content, but for that "the\#$NEWLINE-MARKER$\#new black" at the top. Likely intentional. What really caught my\#$NEWLINE-MARKER$\#attention though was something that I sincerely doubt Cisco intended.\#$NEWLINE-MARKER$\#Consider that one of the big problems in the Far East is sweat shops\#$NEWLINE-MARKER$\#and other forms of mistreating workers. Puts a different spin on\#$NEWLINE-MARKER$\#that ad, doesn't it? Even though I would tend to bet that they were\#$NEWLINE-MARKER$\#referring to the clothing style (who in the world would want to wear\#$NEWLINE-MARKER$\#that?), it struck me as rather ironic that the use of Asian weavers\#$NEWLINE-MARKER$\#(Milanese would refer to where? Milan? that would be Italy I think),\#$NEWLINE-MARKER$\#would be accompanied with that slogan. Mr. Belloc predicted that\#$NEWLINE-MARKER$\#unrestricted capitalism would lead to the re-emergence of slavery.\#$NEWLINE-MARKER$\#I think we have *mostly* avoided this, though in some areas,\#$NEWLINE-MARKER$\#the prices of housing and the pattern of debt makes that somewhat\#$NEWLINE-MARKER$\#debatable, but there is surely little difference between slavery\#$NEWLINE-MARKER$\#and existence for a person in a sweat shop.
+
+
+
+
+
+

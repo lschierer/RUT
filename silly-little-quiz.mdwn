@@ -1,0 +1,23 @@
+#+POSTID: 692
+#+DATE: [2006-09-05 Tue 16:22]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: personal
+#+TAGS: 
+#+TITLE: Silly little quiz
+
+  
+\#$NEWLINE-MARKER$\#
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#**You've Experienced 40% of Life**\#$NEWLINE-MARKER$\#
+\#$NEWLINE-MARKER$\#
+\#$NEWLINE-MARKER$\#
+![picture of girl](http://images.blogthings.com/howmuchlifeexperiencedoyouhavequiz/life-2.jpg)
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#You have the life experience of someone in their early 20s.  
+\#$NEWLINE-MARKER$\#You've seen some of what life has to offer - but you have a long ways to go.\#$NEWLINE-MARKER$\#
+\#$NEWLINE-MARKER$\#
+[How Much Life Experience Do You Have?](http://www.blogthings.com/howmuchlifeexperiencedoyouhavequiz/)
+
+
+
+
+
+

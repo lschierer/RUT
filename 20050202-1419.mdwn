@@ -1,0 +1,14 @@
+#+POSTID: 27
+#+DATE: [2005-02-02 Wed 19:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050202-1419
+
+"Trusted Computing," which you can learn about at [http://www.eff.org/Infrastructure/trusted\_computing/](http://www.eff.org/Infrastructure/trusted_computing/),\#$NEWLINE-MARKER$\#particularly [Trusted\#$NEWLINE-MARKER$\#Computing: Promise and Risk](http://www.eff.org/Infrastructure/trusted_computing/20031001_tc.php), has reared its ugly head again.\#$NEWLINE-MARKER$\#Readers may recall various diatribes I've given on this subject\#$NEWLINE-MARKER$\#in various conversations both on and offline, or in various\#$NEWLINE-MARKER$\#emails.  
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#As discussed in [Take\#$NEWLINE-MARKER$\#Control of TCPA](http://www.linuxjournal.com/article/6633) published in the [Linux Journal](http://www.linuxjournal.com/), Trusted\#$NEWLINE-MARKER$\#Computing offers some significant benefits for mitigating the\#$NEWLINE-MARKER$\#damage a hacked system can create, if properly integrated with\#$NEWLINE-MARKER$\#an intrusion detection system. Again trusting the LJ article, it\#$NEWLINE-MARKER$\#appears that IBM's Linux efforts are along these lines. In this\#$NEWLINE-MARKER$\#manifestation, I am not particularly opposed to Trusted Computing,\#$NEWLINE-MARKER$\#used in this manner, it allows an owner to have greater control\#$NEWLINE-MARKER$\#over his or her system, aids in securing his or her information,\#$NEWLINE-MARKER$\#both good things to see happening. In such a situation, the user\#$NEWLINE-MARKER$\#controlled activation of Trusted Computing, we have a new technology\#$NEWLINE-MARKER$\#empowering users against any and all attackers. My concerns,\#$NEWLINE-MARKER$\#well outlined in the EFF documents, is that vendors will use the\#$NEWLINE-MARKER$\#Trusted Computing chip to take control away from users, to allow\#$NEWLINE-MARKER$\#3rd parties to ascertain information about you and your computer\#$NEWLINE-MARKER$\#usage without your control, to allow vendors to decide for you\#$NEWLINE-MARKER$\#what constitutes an environment in which their software can be run.\#$NEWLINE-MARKER$\#This would set up an adversarial situation in which the user would in\#$NEWLINE-MARKER$\#fact be untrusted, and be trusted, by his own machine, only to the\#$NEWLINE-MARKER$\#extent that he conforms to the expectations set in place by others.\#$NEWLINE-MARKER$\#Gone would be the presumption of innocence, instead you would have\#$NEWLINE-MARKER$\#to prove yourself to the computer, and to the network as a whole.
+
+
+
+
+

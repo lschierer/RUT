@@ -1,0 +1,14 @@
+#+POSTID: 187
+#+DATE: [2005-04-06 Wed 18:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050406-1318
+
+[Someone else](http://arstechnica.com) has noticed and\#$NEWLINE-MARKER$\#[is\#$NEWLINE-MARKER$\#writing](http://arstechnica.com/news.ars/post/20050406-4782.html) about the concerns inherent in putting GPS systems\#$NEWLINE-MARKER$\#in cars.
+
+
+
+
+
+

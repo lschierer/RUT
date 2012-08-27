@@ -1,0 +1,20 @@
+#+POSTID: 122
+#+DATE: [2005-03-07 Mon 16:56]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050307-1156
+
+The things we don't know are at times more amazing than the\#$NEWLINE-MARKER$\#things we do.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+In science news today, apparently stars can be planet\#$NEWLINE-MARKER$\#sized, and older bipeds taller than younger ones. "[Newfound\#$NEWLINE-MARKER$\#Star Smaller than Some Planets](http://www.space.com/scienceastronomy/050303_star_small.html)" talks about the discovery\#$NEWLINE-MARKER$\#of a very "small" star, apparently only a little bit bigger than\#$NEWLINE-MARKER$\#Jupiter, though, apparently, denser. They claim this discovery\#$NEWLINE-MARKER$\#helps solidify definitions of planets, stars, and brown dwarfs,\#$NEWLINE-MARKER$\#but to me it only seems to confuse things more. In related news,\#$NEWLINE-MARKER$\#"[Spitzer\#$NEWLINE-MARKER$\#Space Telescope Finds Bright Infrared Galaxies](http://www.spacedaily.com/news/cosmology-05g.html)" talks about the\#$NEWLINE-MARKER$\#discovery of some galaxies that are not visible to ground based\#$NEWLINE-MARKER$\#optical telescopes. It seems they are behind a huge dust cloud,\#$NEWLINE-MARKER$\#and that they were discovered by an orbiting infrared telescope.\#$NEWLINE-MARKER$\#This seems to raise two questions, how much dust is out there,\#$NEWLINE-MARKER$\#and how much mass is in other galaxies we can't see?
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+Also in the news today, we have a palaeontology story.\#$NEWLINE-MARKER$\#"[Oldest\#$NEWLINE-MARKER$\#biped skeleton discovered](http://cooltech.iafrica.com/science/421933.htm)" reports that a number of bones\#$NEWLINE-MARKER$\#from a skeleton older than Lucy was found in Ethiopia. It is\#$NEWLINE-MARKER$\#dated "to between 3.8 and four million years old." Apparently it\#$NEWLINE-MARKER$\#walked upright, based on an ankle bone, and was taller than Lucy.\#$NEWLINE-MARKER$\#This last is apparently quite a surprise. But will it change\#$NEWLINE-MARKER$\#any theories? I doubt it. The BBC also reports on this, in "[Scientists\#$NEWLINE-MARKER$\#unearth early skeleton](http://news.bbc.co.uk/2/hi/science/nature/4322687.stm)," but offers nothing more really in the\#$NEWLINE-MARKER$\#way of details.
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+#+POSTID: 536
+#+DATE: [2005-10-12 Wed 14:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: personal
+#+TAGS: 
+#+TITLE: MSN and Y!M
+
+Interoperability between MSN and Y!M will no doubt make life interesting. Quoth Tim: "i wonder how they'll namespace the screennames." [Ars Technica](http://arstechnica.com) has [a writeup^[1]^](http://arstechnica.com/news.ars/post/20051011-5419.html) with what little is known.
+
+1.  Mr. Ken "Caesar" Fisher. "Microsoft and Yahoo shake hands on IM" Ars Technica 2005-10-11. http://arstechnica.com/news.ars/post/20051011-5419.html
+
+
+
+
+
+

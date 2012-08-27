@@ -1,0 +1,26 @@
+#+POSTID: 223
+#+DATE: [2005-04-24 Sun 01:20]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050423-2120
+
+Okay, this was fun.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+td align="center"\#$NEWLINE-MARKER$\#bgcolor="\#A8FFB3"\>
+### Your Linguistic Profile:
+
+\#$NEWLINE-MARKER$\#
+50% General\#$NEWLINE-MARKER$\#American English
+25%\#$NEWLINE-MARKER$\#Yankee
+15% Dixie
+5% Upper Midwestern
+0% Midwestern
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+[What Kind\#$NEWLINE-MARKER$\#of American English Do You Speak?](http://www.blogthings.com/amenglishdialecttest/)
+
+
+
+
+

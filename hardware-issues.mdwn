@@ -1,0 +1,13 @@
+#+POSTID: 835
+#+DATE: [2007-05-29 Tue 16:00]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: personal
+#+TAGS: 
+#+TITLE: Hardware issues
+
+The fan on the power supply for my desktop computer died Monday at some point. Fortunately I got home Monday night. The computer was black-screened, and very hot to the touch. I hope it did not roast itself to death, but until I get a new power supply in, I cannot test. This is a significant concern, because I had been hoping to avoid significant computer expenses for a while.
+
+
+
+
+

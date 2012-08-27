@@ -1,0 +1,24 @@
+#+POSTID: 322
+#+DATE: [2005-05-20 Fri 14:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050520-0914
+
+*The Hunchback of Notre-Dame* contains an interesting\#$NEWLINE-MARKER$\#section talking about how the printing press would (perhaps Victor\#$NEWLINE-MARKER$\#Hugo thinks "did"?) destroy the Faith.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+> In the first place, it was a priestly thought. It was\#$NEWLINE-MARKER$\#the affright of the priest in the presence of a new agent, the\#$NEWLINE-MARKER$\#printing press. It was the terror and dazzled amazement of the men\#$NEWLINE-MARKER$\#of the sanctuary, in the presence of the luminous press of Gutenberg.\#$NEWLINE-MARKER$\#It was the pulpit and the manuscript taking the alarm at the printed\#$NEWLINE-MARKER$\#word: something similar to the stupor of a sparrow which should\#$NEWLINE-MARKER$\#behold the angel Legion unfold his six million wings. It was the cry\#$NEWLINE-MARKER$\#of the prophet who already hears emancipated humanity roaring and\#$NEWLINE-MARKER$\#swarming; who beholds in the future, intelligence sapping faith,\#$NEWLINE-MARKER$\#opinion dethroning belief, the world shaking off Rome. It was\#$NEWLINE-MARKER$\#the prognostication of the philosopher who sees human thought,\#$NEWLINE-MARKER$\#volatilized by the press, evaporating from the theocratic recipient.\#$NEWLINE-MARKER$\#It was the terror of the soldier who examines the brazen battering\#$NEWLINE-MARKER$\#ram, and says:--"The tower will crumble." It signified that one\#$NEWLINE-MARKER$\#power was about to succeed another power. It meant, "The press\#$NEWLINE-MARKER$\#will kill the church."[1]
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+He then goes on talk about his other idea, that the press killed\#$NEWLINE-MARKER$\#architecture. This one is rather better supported, and, though\#$NEWLINE-MARKER$\#tainted with his ideas on religion, is somewhat more valid.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+But his idea that the printing press would or did kill the faith\#$NEWLINE-MARKER$\#is so ludicrous as to be very nearly amusing. It is, incidentally,\#$NEWLINE-MARKER$\#the same opinion that I read about on the part of the authorities and\#$NEWLINE-MARKER$\#the doctors involved in Mary's apparitions in Lourdes. Perhaps in\#$NEWLINE-MARKER$\#the 1800s it appeared that the faith was only for the uneducated?\#$NEWLINE-MARKER$\#I do not know. All that I do know is that the faith has persevered\#$NEWLINE-MARKER$\#far longer than the ideas of those who wrote them have. And I\#$NEWLINE-MARKER$\#do know that it is not a rejection of the faith that liberates,\#$NEWLINE-MARKER$\#but an embrace of it. The false liberty of rejection leads to the\#$NEWLINE-MARKER$\#mental prison of materialism that Mr. Chesterton describes so aptly.\#$NEWLINE-MARKER$\#We are free to believe in physical laws as strict or as breakable\#$NEWLINE-MARKER$\#as we like, but the materialist is not free to believe in even the\#$NEWLINE-MARKER$\#smallest miracle for example. I will take my reality of hope over\#$NEWLINE-MARKER$\#the dark and depressing views that have lead to the disaster we\#$NEWLINE-MARKER$\#are in now, thank you very much.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#[1] Project Gutenberg puts this at Book 5, Chapter II. My printed\#$NEWLINE-MARKER$\#copy puts it at chapter 23. The titles given to each are similar,\#$NEWLINE-MARKER$\#but not quite the same. Either way, it is the second paragraph of\#$NEWLINE-MARKER$\#the chapter. http://www.gutenberg.org/dirs/etext01/hback10.txt
+
+
+
+
+

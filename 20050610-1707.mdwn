@@ -1,0 +1,15 @@
+#+POSTID: 359
+#+DATE: [2005-06-10 Fri 22:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050610-1707
+
+I wonder what Bruce Schneier will say about the recent\#$NEWLINE-MARKER$\#claimed discovery of md5 collisions in human meaningful postscript\#$NEWLINE-MARKER$\#documents.[1] I also wonder when the academic paper version of this\#$NEWLINE-MARKER$\#will come out, not that I would be likely to read it, but because\#$NEWLINE-MARKER$\#it will make it more official.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#[1] http://www.cits.rub.de/MD5Collisions/
+
+
+
+
+

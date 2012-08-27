@@ -1,0 +1,14 @@
+#+POSTID: 261
+#+DATE: [2005-05-04 Wed 21:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050504-1614
+
+I have long distrusted the development of\#$NEWLINE-MARKER$\#the European Union. Phyllis Schlafly seconds and\#$NEWLINE-MARKER$\#provides reasoning behind my instinctual distrust in "[European\#$NEWLINE-MARKER$\#Union a model for the demise of democracy](http://www.townhall.com/columnists/phyllisschlafly/ps20050502.shtml)." She is hardly\#$NEWLINE-MARKER$\#unbiased, but then who is? It is a disturbing picture she paints,\#$NEWLINE-MARKER$\#and with the glimpses into the workings of the European Union that\#$NEWLINE-MARKER$\#the software patent fight over there have given, even paying as\#$NEWLINE-MARKER$\#little attention to it as I ended up doing, I am tending to believe\#$NEWLINE-MARKER$\#she is likely accurate.
+
+
+
+
+
+

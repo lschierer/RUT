@@ -1,0 +1,32 @@
+#+POSTID: 226
+#+DATE: [2005-04-25 Mon 15:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050425-1059
+
+A Science run down here.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+[Bird's\#$NEWLINE-MARKER$\#brains reveal source of songs](http://web.mit.edu/newsoffice/2005/songbirds.html)" Apparently humans have a similar\#$NEWLINE-MARKER$\#structure in the brain. So this might shed some light on learning\#$NEWLINE-MARKER$\#to talk.
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+"
+a href="http://www.newindpress.com/NewsItems.asp?ID=
+"\>Scientists overcome 'fermentation barrier'" talks about\#$NEWLINE-MARKER$\#a cheaper way to produce hydrogen. Fairly cool.
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+"
+a href="http://www.nytimes.com/2005/04/25/science/25brain.html?position=
+"\>Improved Scanning Technique Uses Brain as Portal to Thought"\#$NEWLINE-MARKER$\#talks about some scientists figuring out what people were looking at,\#$NEWLINE-MARKER$\#without the standard eye trackers, but with some sort of MRI.
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+"[Fierce\#$NEWLINE-MARKER$\#ants build 'torture rack'](http://news.bbc.co.uk/2/hi/science/nature/4472521.stm)" is not really a torture rack in any\#$NEWLINE-MARKER$\#meaningful sense of the word. These ants just have a particularly\#$NEWLINE-MARKER$\#gruesome hunting method.
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+"[\#$NEWLINE-MARKER$\#Alzheimer's gene therapy hailed](http://news.bbc.co.uk/2/hi/health/4473641.stm)" rather speaks for itself.
+\#$NEWLINE-MARKER$\#
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+All in all, some minimal progress with the brain, none of it\#$NEWLINE-MARKER$\#any real concern that I see, a promising development in medicine,\#$NEWLINE-MARKER$\#and some interest in biology.
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+#+POSTID: 56
+#+DATE: [2005-02-10 Thu 21:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050210-1655
+
+"[Defining\#$NEWLINE-MARKER$\#monstrosity down](http://www.townhall.com/columnists/jonahgoldberg/jg20050209.shtml)" is a really interesting piece. Rather bluntly,\#$NEWLINE-MARKER$\#which I like, Jonah Goldberg says that some acts are monstrous, some\#$NEWLINE-MARKER$\#people are monsters, and we need a way, a word with which, to call\#$NEWLINE-MARKER$\#them that. Which raises the question, as Goldberg notes, what's up\#$NEWLINE-MARKER$\#with friendly characters like Sesame Street or the Muppet's being\#$NEWLINE-MARKER$\#"monsters?" Not that it does a huge amount of harm, as he writes:\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+> But, you know, it's funny. I think we want - and need -\#$NEWLINE-MARKER$\#a word for monsters. For example, my 2-year-old daughter has never\#$NEWLINE-MARKER$\#seen a film or a book that would give her the impression monsters as\#$NEWLINE-MARKER$\#a group are evil, while she's been inundated with the notion that\#$NEWLINE-MARKER$\#they're good and friendly. And yet this lover of "Sesame Street"\#$NEWLINE-MARKER$\#is still afraid of monsters. She will use the word and ask me to\#$NEWLINE-MARKER$\#scare them away.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#Still, one wonders...
+
+
+
+
+

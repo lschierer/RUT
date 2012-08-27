@@ -1,0 +1,13 @@
+#+POSTID: 970
+#+DATE: [2008-10-07 Tue 19:49]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: personal, technical
+#+TAGS: 
+#+TITLE: a side note
+
+On a nearly random side note, metacity's default keystrokes are woefully substandard to my (admittedly customized) fvwm2 keystrokes. I have yet to randomly hit upon the right keystroke to change virtual desktops.
+
+
+
+
+

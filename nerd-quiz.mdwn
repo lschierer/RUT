@@ -1,0 +1,13 @@
+#+POSTID: 882
+#+DATE: [2007-09-07 Fri 15:32]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: quizes
+#+TAGS: 
+#+TITLE: Nerd Quiz
+
+[\#$NEWLINE-MARKER$\#![NerdTests.com says I'm an Uber Cool High Nerd.  What are you?  Click here!](http://www.nerdtests.com/images/badge/nt2/a7076812119dffe9.png)\#$NEWLINE-MARKER$\#](http://www.nerdtests.com/nt2ref.html)
+
+
+
+
+

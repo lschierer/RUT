@@ -1,0 +1,19 @@
+#+POSTID: 334
+#+DATE: [2005-05-26 Thu 19:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Pidgin
+#+TAGS: 
+#+TITLE: 20050526-1453
+
+This week I have been trying to get GNOME to sit up and\#$NEWLINE-MARKER$\#realize that changing from focus theft to pop-under is less than\#$NEWLINE-MARKER$\#ideal.[2][3][4][5] After a somewhat rocky start,[1] I finally seem\#$NEWLINE-MARKER$\#to be making progress. This pleases me not only for the narcissistic\#$NEWLINE-MARKER$\#reasons, but because it really will make a difference to our users.\#$NEWLINE-MARKER$\#For all I am more than willing to utterly disregard the opinions\#$NEWLINE-MARKER$\#and reports of demanding and/or annoying users, I *do* care\#$NEWLINE-MARKER$\#about the success of Gaim, and *do* want the Linux users'\#$NEWLINE-MARKER$\#experiences with it to be as pleasant as possible. That is why I\#$NEWLINE-MARKER$\#have gone along with things like slashing preferences even though\#$NEWLINE-MARKER$\#it is not always defaulting in ways I like. Still, it is very\#$NEWLINE-MARKER$\#frustrating to deal with these GNOME guys. They are so convinced\#$NEWLINE-MARKER$\#that it is absolutely essential to usability that the focused window\#$NEWLINE-MARKER$\#not be obscured…
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#[1]\#$NEWLINE-MARKER$\#http://mail.gnome.org/archives/wm-spec-list/2005-May/msg00011.html   
+\#$NEWLINE-MARKER$\#[2]\#$NEWLINE-MARKER$\#http://mail.gnome.org/archives/wm-spec-list/2005-May/msg00007.html\#$NEWLINE-MARKER$\#and replies   
+ [3]\#$NEWLINE-MARKER$\#https://bugzilla.redhat.com/bugzilla/show\_bug.cgi?id=157270   
+\#$NEWLINE-MARKER$\#[4] http://bugzilla.gnome.org/show\_bug.cgi?id=305499   
+ [5]\#$NEWLINE-MARKER$\#http://bugzilla.gnome.org/show\_bug.cgi?id=120439
+
+
+
+
+

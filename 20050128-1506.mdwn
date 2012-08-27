@@ -1,0 +1,21 @@
+#+POSTID: 14
+#+DATE: [2005-01-28 Fri 19:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050128-1506
+
+**news**  
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#Lest you thought otherwise, the end of the two cases\#$NEWLINE-MARKER$\#in Florida do not signal the end of th attacks on\#$NEWLINE-MARKER$\#marriage. Findlaw reports on some of the continuing battles [here](http://news.findlaw.com/ap_stories/other/1110/1-27-2005/20050127010003_06.html).\#$NEWLINE-MARKER$\#What a messed up world we live in when we have to worry about "sex\#$NEWLINE-MARKER$\#change operations" and their effect on the validity of a marriage.\#$NEWLINE-MARKER$\#Some states apparently refuse to recognize such an operation has\#$NEWLINE-MARKER$\#having changed your gender. Good for them.  
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#Some scientists have made some progress understanding\#$NEWLINE-MARKER$\#the Venus fly trap. Interesting read, details are [here](http://www.boston.com/news/nation/articles/2005/01/27/researchers_explore_mystery_and_say_gotcha/).  
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+
+* * * * *
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#Slow day today. Created an external raid, and re-looking at torque\#$NEWLINE-MARKER$\#and moab. I dislike them for the most part, they seem like more\#$NEWLINE-MARKER$\#trouble than they are worth. The idea is worthy enough, you have\#$NEWLINE-MARKER$\#this big expensive cluster, make sure one person does not abuse it,\#$NEWLINE-MARKER$\#and that everyone gets a fair shot at having their jobs get the\#$NEWLINE-MARKER$\#resources needed. But the programs themselves are a pain to set\#$NEWLINE-MARKER$\#up and try to understand. Looks like I'll be visiting a client\#$NEWLINE-MARKER$\#again on Tuesday, and among other things, setting torque and moab\#$NEWLINE-MARKER$\#at least partially up. I wish I could get support for oscar here,\#$NEWLINE-MARKER$\#the scripts they provide would handle at least some of this for me.\#$NEWLINE-MARKER$\#I also am not too thrilled about visiting customers. They always\#$NEWLINE-MARKER$\#ask questions I don't have answers for.  
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#Read Ederlyn's post about a chocolaty Starbucks®, it reminded\#$NEWLINE-MARKER$\#me of one of the (few) good points that one of William's biology\#$NEWLINE-MARKER$\#professors made: why do we eat? We eat to obtain energy. Does it\#$NEWLINE-MARKER$\#really matter what we eat then, so long as it isn't poisonous in some\#$NEWLINE-MARKER$\#way? Not really. What's far more important is that you exercise at\#$NEWLINE-MARKER$\#a level appropriate to your intake. But attempts to explain that,\#$NEWLINE-MARKER$\#especially in the caustic way that I'm most suited to, do not seem\#$NEWLINE-MARKER$\#to get through or make an impression on people.
+
+
+
+
+

@@ -1,0 +1,14 @@
+#+POSTID: 271
+#+DATE: [2005-05-06 Fri 21:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050506-1606
+
+"[Researchers make\#$NEWLINE-MARKER$\#bendable concrete](http://www.physorg.com/news3985.html)" strikes me as incredibly odd. The goal itself\#$NEWLINE-MARKER$\#is rather neat, a less brittle concrete would be fairly awesome. But\#$NEWLINE-MARKER$\#the very idea of a concrete that bends rather blows my mind.
+
+
+
+
+
+

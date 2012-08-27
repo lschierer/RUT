@@ -1,0 +1,13 @@
+#+POSTID: 53
+#+DATE: [2005-02-10 Thu 12:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050210-0746
+
+"[Earth\#$NEWLINE-MARKER$\#Gets a Warm Feeling All Over](http://www.rednova.com/news/display/?id=126207)" has some interesting implications\#$NEWLINE-MARKER$\#that I'd missed, but Vincas was quick to point out. They are\#$NEWLINE-MARKER$\#claiming to have data since 1900, satellites have only really been\#$NEWLINE-MARKER$\#available post-Sputnik, and not in any density for years after that.\#$NEWLINE-MARKER$\#Just what did they do to record average temperatures across the\#$NEWLINE-MARKER$\#oceans and in the Arctic and Antarctic between 1900 and 1960(ish)?\#$NEWLINE-MARKER$\#Are we saying that the odd boat crossing, the couple explorations\#$NEWLINE-MARKER$\#and research centers, and similar are sufficient? If so, what does\#$NEWLINE-MARKER$\#that mean about the quality of their later measurements? If they\#$NEWLINE-MARKER$\#were gathered with that standard in mind... ;-) However, for all\#$NEWLINE-MARKER$\#I know the later measurements might even be trust worthy; still,\#$NEWLINE-MARKER$\#can we really base climatology off of 40 years (or less) of data?
+
+
+
+
+

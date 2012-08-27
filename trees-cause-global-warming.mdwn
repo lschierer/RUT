@@ -1,0 +1,16 @@
+#+POSTID: 589
+#+DATE: [2006-01-12 Thu 20:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Global Warming
+#+TAGS: 
+#+TITLE: Trees cause global warming
+
+In a ***highly*** ironic turn in events, it turns out that trees and other vegitation is a non-trivial, quite significant in fact, source of methane, the second most potent greenhouse gas.^[[1]](http://www.physorg.com/news9792.html\ "The\ forgotten\ methane\ source")^ Apparently this has gone undiscovered for the last 20 years because scientists were positive that it was impossible! So not only does this spread discord in the theories of how global warming came to be and how to address it, but it also demonstrates admirably how ignorant and biased most scientists are!\#$NEWLINE-MARKER$\#
+\#$NEWLINE-MARKER$\#
+Max-Planck-Gesellschaft. "The forgotten methane source" Physorg.com. 2006-01-11 http://www.physorg.com/news9792.html
+\#$NEWLINE-MARKER$\#
+
+
+
+
+

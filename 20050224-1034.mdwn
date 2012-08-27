@@ -1,0 +1,13 @@
+#+POSTID: 100
+#+DATE: [2005-02-24 Thu 15:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050224-1034
+
+This is rather interesting, apparently they\#$NEWLINE-MARKER$\#have software now that approaches translating by\#$NEWLINE-MARKER$\#learning from the efforts of other translators. "[Software\#$NEWLINE-MARKER$\#learns to translate by reading up](http://www.newscientist.com/article.ns?id=dn7054)" talks about this development.\#$NEWLINE-MARKER$\#This sort of learn from experience approach works exceptionally\#$NEWLINE-MARKER$\#well at recognizing spam, which I realize is not quite related,\#$NEWLINE-MARKER$\#but it is the same sort of language recognition problem that the\#$NEWLINE-MARKER$\#traditional hard coded rule sets have been failing at. It will be\#$NEWLINE-MARKER$\#interesting to see how well this sort of thing works.
+
+
+
+
+

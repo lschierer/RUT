@@ -1,0 +1,19 @@
+#+POSTID: 49
+#+DATE: [2005-02-08 Tue 16:07]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050208-1107
+
+**news run down**  
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#Less interesting but still noteworthy news:  
+\#$NEWLINE-MARKER$\#[Solar Cell Implant May Restore Some Sight for the Blind](http://www.scienceblog.com/cms/node/6906)  
+\#$NEWLINE-MARKER$\#[Engravings found in county cave](http://news.bbc.co.uk/2/hi/uk_news/england/somerset/4243787.stm)  
+\#$NEWLINE-MARKER$\#[Loophole in Photography Law Vexes Lawyers](http://news.findlaw.com/ap_stories/other/1110/2-8-2005/20050208004508_2.html)  
+\#$NEWLINE-MARKER$\#[Twins born two months apart](http://www.thisislondon.com/news/articles/16456161?source=Evening%20Standard)  
+\#$NEWLINE-MARKER$\#[Lab monkeys 'scream with fear' in tests](http://www.guardian.co.uk/uk_news/story/0,3604,1407818,00.html)
+
+
+
+
+

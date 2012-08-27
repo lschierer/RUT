@@ -1,0 +1,13 @@
+#+POSTID: 702
+#+DATE: [2006-09-11 Mon 21:06]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: personal, technical
+#+TAGS: 
+#+TITLE: Tiger Envelopes part N+1
+
+No go, my guess is that tiger envelopes cannot handle the fact that my ssl certificate is for server1.schierer.org not mail.schierer.org. I am not willing to use either IMAP or POP without ssl to protect the password for my account.
+
+
+
+
+

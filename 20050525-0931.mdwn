@@ -1,0 +1,26 @@
+#+POSTID: 331
+#+DATE: [2005-05-25 Wed 14:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Pidgin
+#+TAGS: 
+#+TITLE: 20050525-0931
+
+Okay, yes, I am vain, but this week's Debian Weekly News email\#$NEWLINE-MARKER$\#just made my day.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+> Debian-Volatile Strategy. The volatile team\#$NEWLINE-MARKER$\#[29]pondered to create a second [30]volatile archive with less\#$NEWLINE-MARKER$\#strict criteria. This would help packages such as [31]Gaim that\#$NEWLINE-MARKER$\#need to be updated during the lifetime of sarge in order to support\#$NEWLINE-MARKER$\#modified protocols. They are also looking for ways to announce\#$NEWLINE-MARKER$\#updated packages.   
+> \#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#29.\#$NEWLINE-MARKER$\#http://lists.debian.org/debian-devel-announce/2005/05/msg00016.html\#$NEWLINE-MARKER$\#  
+>  30. http://volatile.debian.net/   
+> \#$NEWLINE-MARKER$\#31. http://packages.debian.org/gaim
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+I talked to some of the \#Debian-release guys about this late\#$NEWLINE-MARKER$\#last week, when I learned that we would not be able to back port\#$NEWLINE-MARKER$\#some rather trivial bug fixes to Debian's 1.2.1 Gaim package with\#$NEWLINE-MARKER$\#any significant chance of getting them accepted. If we cannot get\#$NEWLINE-MARKER$\#trivial bug fixes in, how in the world would we ever get the kind\#$NEWLINE-MARKER$\#of significant changes that a new authentication for a protocol\#$NEWLINE-MARKER$\#would cause? I would rather avoid a situation like the current\#$NEWLINE-MARKER$\#Debian stable, which has a 0.58 that will not work with many of\#$NEWLINE-MARKER$\#the protocols it claims to support.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+It is nice to be listened to.
+
+
+
+
+
+

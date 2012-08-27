@@ -1,0 +1,13 @@
+#+POSTID: 72
+#+DATE: [2005-02-15 Tue 20:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Pidgin
+#+TAGS: 
+#+TITLE: 20050215-1533
+
+The [gaim](http://gaim.sf.net) [Off-the-Record](http://www.cypherpunks.ca/otr/)\#$NEWLINE-MARKER$\#plugin managed to attract [news.com's](http://news.com.com/) notice. See "[Making\#$NEWLINE-MARKER$\#your IM secure--and deniable](http://news.com.com/Making+your+IM+secure--and+deniable/2100-7355_3-5576246.html)." This is very cool because\#$NEWLINE-MARKER$\#security is one of the least understood concepts even in the\#$NEWLINE-MARKER$\#subset of computer users who somewhat understand their computers.\#$NEWLINE-MARKER$\#People fail to grasp that there is no guarantee that the screen\#$NEWLINE-MARKER$\#name you are talking to has not been hijacked by an attack on the\#$NEWLINE-MARKER$\#account's password or on the network itself; having a fairly common\#$NEWLINE-MARKER$\#news source talking about it cannot hurt.
+
+
+
+
+

@@ -1,0 +1,16 @@
+#+POSTID: 619
+#+DATE: [2006-02-13 Mon 20:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: politics/law
+#+TAGS: 
+#+TITLE: the illogical left
+
+\#$NEWLINE-MARKER$\#
+The poor logic of the left is quite evident in a recent post by Mr. Richard Stallman.^[[1]](http://www.stallman.org/archives/2005-nov-feb.html#12%20February%202006%20(Google%20Desktop%20Search)\ "Google\ Desktop\ Search")^ He is complaining that a government which ignores its own laws will be able to access files on Google's servers. His proposed solution is government regulation to prevent those files being on Google's servers in the first place. Why a government intent on violating civil liberties would enforce such a law is left up to the reader's imagination.
+
+Mr. Richard Stallman. "Google Desktop Search" Political Notes 2006-02-11. http://www.stallman.org/archives/2005-nov-feb.html\#12%20February%202006%20%28Google%20Desktop%20Search%29
+
+
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 91
+#+DATE: [2005-02-21 Mon 16:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050221-1119
+
+Robots and cyborgs and modified muscles in today's news. "[Brain-controlled\#$NEWLINE-MARKER$\#'robo-arm' hope](http://news.bbc.co.uk/1/hi/health/4275245.stm)" talks about controlling a robot\#$NEWLINE-MARKER$\#arm from probes embedded in a monkey's brain. "[Athlete\#$NEWLINE-MARKER$\#cheats seek genetic boost](http://news.bbc.co.uk/1/hi/sci/tech/3493839.stm)" has a really wrongheaded focus.\#$NEWLINE-MARKER$\#Athletes using drugs to build their bodies is nothing new.\#$NEWLINE-MARKER$\#Being able to use gene therapy to modify the body is much more\#$NEWLINE-MARKER$\#news worthy. Coupled together, these articles continue along a\#$NEWLINE-MARKER$\#series of posts I have made in which we will eventually be forced\#$NEWLINE-MARKER$\#to face questions of along the lines of "what constitutes life?"\#$NEWLINE-MARKER$\#"What is human?" and "What is intelligence?".
+
+
+
+
+

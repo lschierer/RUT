@@ -1,0 +1,17 @@
+#+POSTID: 127
+#+DATE: [2005-03-08 Tue 15:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050308-1014
+
+FindLaw reports in "[Senate\#$NEWLINE-MARKER$\#Defeats Minimum Wage Increase](http://news.findlaw.com/ap_stories/a/w/1153/3-7-2005/20050307161506_13.html)" that the Senate has resisted\#$NEWLINE-MARKER$\#efforts to increase the minimum wage. I see this as good news.\#$NEWLINE-MARKER$\#My logic for this is fairly simple. If I am paying Adam minimum\#$NEWLINE-MARKER$\#wage, and Bob ten cents more than that, and minimum wage is raised\#$NEWLINE-MARKER$\#ten cents, I will increase Adam's pay, but not Bob's. This means I\#$NEWLINE-MARKER$\#now have more people making minimum wage. Additionally, I really\#$NEWLINE-MARKER$\#cannot (or in some cases simply will not) allow my profit margin\#$NEWLINE-MARKER$\#to decrease; if I have enough people making minimum wage, that ten\#$NEWLINE-MARKER$\#cent increase might even have erased most of my profit. So I am now\#$NEWLINE-MARKER$\#going to raise prices. And this will have an effect on companies\#$NEWLINE-MARKER$\#that purchase my product, they will raise prices also. It will also\#$NEWLINE-MARKER$\#have an impact on consumers. They will be able to afford less of my\#$NEWLINE-MARKER$\#product, and less of the products of the companies who depend on me.\#$NEWLINE-MARKER$\#So *everyone* pays for the raised minimum wage with less\#$NEWLINE-MARKER$\#buying power. Not only that, but now we have more people making\#$NEWLINE-MARKER$\#minimum wage. The minimum wage then is a balancing act. Trying to\#$NEWLINE-MARKER$\#keep it high enough to prevent abuse of employees, but raising it\#$NEWLINE-MARKER$\#infrequently enough so as to prevent it from being a significant\#$NEWLINE-MARKER$\#source of inflation. Ideally of course we would not have a minimum\#$NEWLINE-MARKER$\#wage, or at least not a meaningful one. Given sufficient ability to\#$NEWLINE-MARKER$\#unionize, and sufficient Independence to be able to go to another\#$NEWLINE-MARKER$\#job, employees can demand a just wage. But even this is less than\#$NEWLINE-MARKER$\#ideal, ideally *employers* are also acting on sound moral\#$NEWLINE-MARKER$\#principles, and will be offering just compensation to begin with.\#$NEWLINE-MARKER$\#I am, however, more than aware that this is not an ideal world,\#$NEWLINE-MARKER$\#and so I accept the existence of a minimum wage, I just hesitate\#$NEWLINE-MARKER$\#to see it raised significantly or frequently (it has currently been\#$NEWLINE-MARKER$\#9 years since the last raise).
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+**Update: 20050308-1444** David Limbaugh feels somewhat more stongly on this issue than I do in his blog post, "[Minimum Wage Insanity](http://www.davidlimbaugh.com/mt/archives/2005/03/minimum_wage_in.html)."
+
+
+
+
+
+

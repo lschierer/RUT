@@ -1,0 +1,13 @@
+#+POSTID: 82
+#+DATE: [2005-02-16 Wed 22:59]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050216-1759
+
+The [Amazon\#$NEWLINE-MARKER$\#Honor System™](http://s1.amazon.com/exec/varzea/subst/fx/help/how-we-know.html/104-6176201-5722335) appears to be Amazon's attempt to compete\#$NEWLINE-MARKER$\#with PayPal®. It is very disconcerting to see my name on\#$NEWLINE-MARKER$\#some random site. Still, it appears to be cool, Amazon claims\#$NEWLINE-MARKER$\#they aren't telling the site operator who visits their page,\#$NEWLINE-MARKER$\#and that unlike everything else they do (which they track), they\#$NEWLINE-MARKER$\#are not even tracking what sites that use this system you visit!\#$NEWLINE-MARKER$\#I'm not sure how much I believe that last, but they do put it in\#$NEWLINE-MARKER$\#writing so perhaps it is true.
+
+
+
+
+

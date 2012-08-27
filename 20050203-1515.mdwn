@@ -1,0 +1,13 @@
+#+POSTID: 30
+#+DATE: [2005-02-03 Thu 20:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050203-1515
+
+The [New\#$NEWLINE-MARKER$\#York Times](www.nytimes.com) has a story on a new (very\#$NEWLINE-MARKER$\#expensive) gadget that creates a 3D video display. Entitled "[Virtual\#$NEWLINE-MARKER$\#Home Theater Promises Immersion and Fits on Your Head](http://www.nytimes.com/2005/02/03/technology/circuits/03soon.html?ex=1265173200&en=7db18d68202cff3e&ei=5088&partner=rssnyt),"\#$NEWLINE-MARKER$\#the article talks about its use for people who want to watch a\#$NEWLINE-MARKER$\#presentation or movie, but this isn't so much what strikes me\#$NEWLINE-MARKER$\#about it. Gnome has and is working on what they call "spacial"\#$NEWLINE-MARKER$\#metaphors for file management, and there is lots of talk about 3D\#$NEWLINE-MARKER$\#interfaces, especially in science fiction. Short of a true Star\#$NEWLINE-MARKER$\#Trek® style hologram, this offers really what seems to me to\#$NEWLINE-MARKER$\#be the first viable way to really go 3D; imagine what that could\#$NEWLINE-MARKER$\#mean for computer desktops, organizing your work flow. We'd need\#$NEWLINE-MARKER$\#some other pointer type device naturally, a mouse wouldn't make\#$NEWLINE-MARKER$\#much sense in 3D, perhaps a way to tell what a person is focusing\#$NEWLINE-MARKER$\#on, or something similar. It would probably confuse many users at\#$NEWLINE-MARKER$\#first, but for those of us who are used to multiple monitors and/or\#$NEWLINE-MARKER$\#multiple work spaces, this would be an interesting advancement.
+
+
+
+
+

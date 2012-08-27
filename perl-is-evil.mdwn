@@ -1,0 +1,16 @@
+#+POSTID: 573
+#+DATE: [2005-11-23 Wed 17:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: personal
+#+TAGS: 
+#+TITLE: Perl is evil
+
+Perl is evil. The proof of this assertion is that
+    ''=~('(?{'.('],)@*@'^'-^@.^`').'"'.(',.@:@}=():,:,^'^'`[+_`.^@@_^_^|').',$/})')
+
+will print my name. I rest my case.
+
+
+
+
+

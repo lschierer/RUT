@@ -1,0 +1,13 @@
+#+POSTID: 7
+#+DATE: [2005-01-24 Mon 17:12]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050124-1212
+
+I think I have this all set up for now. No RSS, but that's fine with\#$NEWLINE-MARKER$\#me, if you've managed to find this, you are already coming here\#$NEWLINE-MARKER$\#periodically already. Maybe I'll do that later. It would be an\#$NEWLINE-MARKER$\#interesting exercise in php's xml capabilities to see if I can\#$NEWLINE-MARKER$\#generate something fairly compliant on the fly. Thanks to Joe Duffy,\#$NEWLINE-MARKER$\#who's LiveJournal gave me some ideas on how to format this.
+
+
+
+
+

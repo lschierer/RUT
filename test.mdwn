@@ -1,0 +1,13 @@
+#+POSTID: 2
+#+DATE: [2005-06-06 Mon 23:53]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: test
+
+This is a test of the mtsend script\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#this is only a test
+
+
+
+
+

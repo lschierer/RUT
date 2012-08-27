@@ -1,0 +1,14 @@
+#+POSTID: 144
+#+DATE: [2005-03-16 Wed 15:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050316-1034
+
+If you read past the bias in "[\#$NEWLINE-MARKER$\#New row on climate 'hockey stick'](http://news.bbc.co.uk/2/hi/science/nature/4349133.stm)," you'll note that there are\#$NEWLINE-MARKER$\#significant concerns about the validity of the models that show a\#$NEWLINE-MARKER$\#dramatic increase in temperatures since 1900. Two points stood out.\#$NEWLINE-MARKER$\#One: they were looking for a "hockey stick" pattern. Two: phenomena\#$NEWLINE-MARKER$\#that we have fairly reliable historical records for, such as the\#$NEWLINE-MARKER$\#unusual warm period from 800AD to 1400AD and the unusually cold\#$NEWLINE-MARKER$\#period from 1600AD to 1850AD do not show up in the standard results.\#$NEWLINE-MARKER$\#One of the controversial paper's authors states that "uncertainties\#$NEWLINE-MARKER$\#in the methods used for climatic reconstruction underestimate the\#$NEWLINE-MARKER$\#changeability of climate in the past." Hmmmm. Sound at all like\#$NEWLINE-MARKER$\#there is a presupposition that only man can change the climate?
+
+
+
+
+
+

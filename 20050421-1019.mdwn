@@ -1,0 +1,14 @@
+#+POSTID: 214
+#+DATE: [2005-04-21 Thu 15:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050421-1019
+
+In a remarkable display of speculation and specious logic, "[Odd fly\#$NEWLINE-MARKER$\#uncovers evolution secret](http://news.bbc.co.uk/2/hi/science/nature/4461827.stm)" equates the presence of biodiversity\#$NEWLINE-MARKER$\#with its cause. This is a nice example of begging the question,\#$NEWLINE-MARKER$\#and leads me to ask, just how credulous do they think we are? Well,\#$NEWLINE-MARKER$\#given the infinite capacity for stupidity, probably only about half\#$NEWLINE-MARKER$\#as silly as they should.
+
+
+
+
+
+

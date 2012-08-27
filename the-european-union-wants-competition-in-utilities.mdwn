@@ -1,0 +1,17 @@
+#+POSTID: 785
+#+DATE: [2007-01-10 Wed 16:42]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: politics/law
+#+TAGS: 
+#+TITLE: The European Union wants competition in utilities
+
+> The commissioner said she wanted to "unbundle" large companies such as Germany's E.On, and Electricite de France - so that the businesses that generated power and supplied gas were not the same ones that controlled the network of pipelines.^[\\[1\\]][ref1]^
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#I wonder how that will square with the socialist governance of France.\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+\#$NEWLINE-MARKER$\#1. BBC. "EU warns inefficient energy firms" BBC News. 2007-01-10. http://news.bbc.co.uk/2/hi/business/6248227.stm\#$NEWLINE-MARKER$\#
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#[ref1]: http://news.bbc.co.uk/2/hi/business/6248227.stm "BBC NEWS | Business | EU warns inefficient energy firms"
+
+
+
+
+

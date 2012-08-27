@@ -1,0 +1,20 @@
+#+POSTID: 360
+#+DATE: [2005-06-13 Mon 19:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050613-1438
+
+A miserable day. Friday was bad, I was all head-achy, though\#$NEWLINE-MARKER$\#I managed to stay awake, which is an improvement over Thursday.\#$NEWLINE-MARKER$\#Saturday was okay, I was stuffy and a lot of drainage, but more\#$NEWLINE-MARKER$\#or less okay. Sunday was bad. My voice sounded like laryngitis\#$NEWLINE-MARKER$\#and I was borderline head-achy all day. Today is not much better.\#$NEWLINE-MARKER$\#I hate being sick, whatever cold I have caught is a pain. I am\#$NEWLINE-MARKER$\#pretty sure its just a cold though, I am sick, but not in an\#$NEWLINE-MARKER$\#infection sort of way, I have had enough of those to know.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+Nothing too noteworthy in the news today. Same old same old.\#$NEWLINE-MARKER$\#I rented "Ocean's 12" and "Electra" from Block Buster's yesterday.\#$NEWLINE-MARKER$\#I enjoyed both. "Electra" was a little odd, and I am somewhat\#$NEWLINE-MARKER$\#disappointed that it never mentions Daredevil at all. Will she\#$NEWLINE-MARKER$\#remember him? Lots of eastern mysticism type stuff, but not\#$NEWLINE-MARKER$\#*too* much, not the overload you saw in the later Matrix\#$NEWLINE-MARKER$\#movies for example. "Ocean's 12" was very enjoyable. I understand\#$NEWLINE-MARKER$\#why people do not like it as much as the first one, but it was funny\#$NEWLINE-MARKER$\#and enjoyable. It also closed things out rather more cleanly than\#$NEWLINE-MARKER$\#the previous one did. The Julia Roberts acting as someone acting as\#$NEWLINE-MARKER$\#Julia Roberts thing was odd, and some of the lines in those scenes\#$NEWLINE-MARKER$\#were forced, but it did not spoil it for me.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+But today I'm still not feeling right, my voice\#$NEWLINE-MARKER$\#is all messed up still, I am coughing some which I\#$NEWLINE-MARKER$\#think is just the decongestants finally taking some\#$NEWLINE-MARKER$\#effect (as I am not so stuffy). I am also looking at [moab](http://clusterresources.com/products/mwm/) again.\#$NEWLINE-MARKER$\#I hate moab. I think that it partly solves a non-problem and\#$NEWLINE-MARKER$\#partly takes too much configuration to be worth the few problems it\#$NEWLINE-MARKER$\#does solve. It also seems to be very much a pain in the neck to get\#$NEWLINE-MARKER$\#working correctly and keep working correctly. I am not pleased.
+
+
+
+
+
+

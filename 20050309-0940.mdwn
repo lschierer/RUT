@@ -1,0 +1,14 @@
+#+POSTID: 129
+#+DATE: [2005-03-09 Wed 14:40]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050309-0940
+
+Geologists have decided to worry about\#$NEWLINE-MARKER$\#the odds of a "super-volcano" erupting. "[Experts\#$NEWLINE-MARKER$\#weigh super-volcano risks](http://news.bbc.co.uk/2/hi/science/nature/4326987.stm)" reports that they think these happen\#$NEWLINE-MARKER$\#in the range of once per 100,000 years. They think that this could\#$NEWLINE-MARKER$\#devastate food production and communication, causing starvation\#$NEWLINE-MARKER$\#that would far outstrip the recent tsunami. Oh, and it would drop\#$NEWLINE-MARKER$\#global temperatures 5 to 10 degrees Celsius, or about 9 to 18 degrees\#$NEWLINE-MARKER$\#Fahrenheit. Could this be a cure for global warming then? ;-)
+
+
+
+
+
+

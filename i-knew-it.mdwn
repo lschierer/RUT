@@ -1,0 +1,13 @@
+#+POSTID: 920
+#+DATE: [2008-01-22 Tue 16:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: personal, technical
+#+TAGS: 
+#+TITLE: I knew it
+
+Yesterday I spent my work day converting a number of xen virtual servers into physical servers. There has got to be a better way than what I did, but I do not know of a rescue environment that has rsync installed (to my surprise, I tried several with no luck), and I did not have a usb stick or similar to install an OS on. \#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#That is neither here nor there though. While I was converting, I came across a number of small but indicative things that lead me to believe that the administrators employed by the customer whose servers I was converting are in fact incredibly incompetent. Gah, that was a bad overly clauseful sentence. \#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#Anyway, while nothing I found makes things certain, it was, as I said, certainly indicative. Today, I wake up, and they are complaining that files are missing from a vhost that I did not touch. At all. Sure enough, the file system is mounted but the files themselves are not there. \#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#Looking in history, I cannot prove that they ran the rm -rf themselves. The alternative is that they were hacked. Either way, it feels like a sort of bitter "I told you so" moment, because yesterday I spent a few minutes complaining to Dan about the state of the converted machines, and suggesting he contact the customer about it. I do not think the customer realizes how incompetent his administrators are, nor that he has enough technical skills to interview a system administrator adequately. As a good business partner, I personally feel we owe it to this customer to have given him a heads up. And Dan might have done so for all I know.\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#Still, it is deeply ironic that we have had a catastrophe \*the very night after I warn Dan that they are asking for one.\*\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#bah.
+
+
+
+
+

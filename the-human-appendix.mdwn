@@ -1,0 +1,21 @@
+#+POSTID: 672
+#+DATE: [2006-08-09 Wed 00:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: evolution
+#+TAGS: 
+#+TITLE: The Human Appendix
+
+The other day, Lauren mentioned to me that her anatomy professor was teaching the class that the appendix is a functionless organ.  This view, that it is a vestigal organ, a remnant of evolution, is certainly a common one.  There is, however, no real reason to believe it.  What follows is a collection of articles I have found, either directly via google search, or indirectly via the references in other articles (some of which are here).\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+1.  Loren G. Martin.  Answering "What is the function of the human appendix? Did it once have a purpose that has since been lost?" in the "Ask the Experts" section of Scientific American.  Answer posted 1999-10-21.  http://www.sciam.com/askexpert\_question.cfm?articleID=000CAE56-7201-1C71-9EB7809EC588F2D7
+2.  Ms. Julie Pomerantz.  Answering "Does the appendix serve a purpose in any animal?" in the "Ask the Experts" section of Scientific American.  Answer posted 2002-12-02.
+3.  Fisher, RE. 2000. "The primate appendix: a reassessment." The Anatomical Record (New Anatomist) 261:228-236.
+4.  Dasso JF. Obiakor H. Bach H. Anderson AO. Mage RG. 2000. "A morphological and immunohistological study of the human and rabbit appendix for comparison with the avian bursa." Developmental & Comparative Immunology. 24(8):797-814.
+5.  NIAID.  "The Immune System"  NIAID NetNews.  2003-09-25.  http://www.niaid.nih.gov/final/immun/immun.htm
+6.  Professor Gordon C. Mills, Professor Malcolm Lancaster, Professor Walter L. Bradley.  "Origin of Life & Evolution in Biology Textbooks - A Critique."  Reposted at Access Research Network.  2001-10-03.  http://www.arn.org/docs/mills/gm\_originoflifeandevolution.htm
+7.  Mr. Christopher Wanjek.  "The Appendix: Slimy But Not Worthless."  Health SciTech 2006-05-30.  http://www.livescience.com/humanbiology/060530\_bad\_appendix.html
+
+
+
+
+
+

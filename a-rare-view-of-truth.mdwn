@@ -1,0 +1,15 @@
+#+POSTID: 773
+#+DATE: [2006-12-08 Fri 16:38]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Society
+#+TAGS: 
+#+TITLE: a rare view of truth
+
+Contraception has often been linked to eugenics and population control. It is rare that we get to see the truth of that, as reflected in today's news.^[\\[1\\]][ref1]^ The telling point is after the article stops talking about the necessity of population control (which is debatable), and starts bemoaning the focus on abstinence before and faithfulness in marriage, and urges a greater availability of condoms.\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+\#$NEWLINE-MARKER$\#1. BBC News. "Birth rate 'harms poverty goals'" 2006-12-08 http://news.bbc.co.uk/2/hi/science/nature/6219922.stm\#$NEWLINE-MARKER$\#
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#[ref1]: http://news.bbc.co.uk/2/hi/science/nature/6219922.stm "BBC NEWS | Science/Nature | Birth rate 'harms poverty goals'"
+
+
+
+
+

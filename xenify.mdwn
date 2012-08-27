@@ -1,0 +1,13 @@
+#+POSTID: 808
+#+DATE: [2007-02-27 Tue 19:48]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: personal, technical
+#+TAGS: 
+#+TITLE: xenify!
+
+Over the weekend, Vincas and I made a series of breakthroughs that have resulted in a working setup to replace server1. We got xen, ldap, and ocfs2 each to work, and to play nicely with the others. We chose ocfs2 after realizing that gfs does not work in debian etch right now, and probably will not till debian unfreezes and starts to look at new kernels again. \#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#This has been an interesting process, fraught with much trouble. I think we now have all of server1's content migrated over to the various vhosts that are replacing it, and are finishing up the final few tasks that remain. It remains to be seen how much work it will be to get my family seeing, as nearly as possible, the same mail setup they previously saw. \#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#It is in question because I have chosen to force the use of Maildir for the inbox, while I allowed debian's default /var/spool/mail/ mbox to remain unchallenged on server1. I believe the version of pine I installed will handle the resulting setup adequately, but, as I said, time will tell.\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#It also remains to be seen how well this solution scales. The host it is on is significantly beefier than server1, so it should handle the schierer.org load without much trouble, though it might take some tweaking of the various vhosts to get resources allocated appropriately. Vincas and I would like to see it be able to grow significantly beyond schierer.org though, and to take on much of the work our joint boxen are currently hosting. Again, time will tell how well it works. \#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#If all goes well, we will almost certainly make the other box a xen host also.
+
+
+
+
+

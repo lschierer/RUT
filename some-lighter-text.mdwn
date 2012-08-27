@@ -1,0 +1,16 @@
+#+POSTID: 657
+#+DATE: [2006-07-13 Thu 21:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: personal
+#+TAGS: 
+#+TITLE: Some lighter text
+
+[Damian](http://damian792.livejournal.com/ "Postcards · from · the · Way · to · Armadillo")'s^[1]^ recent facelift prompted me to overcome ennui and lighten the text on my own site. It occurred to me over a month ago that it was hard to read in a brightly light room or in the presence of glare on the monitor. I ought to push the change out to the rest of \~luke, but that would take more effort: I would have to change a number of pages since I never set up a style sheet for anything but this wordpress theme.\#$NEWLINE-MARKER$\#
+\#$NEWLINE-MARKER$\#
+Alias used as per request.
+\#$NEWLINE-MARKER$\#
+
+
+
+
+

@@ -1,0 +1,13 @@
+#+POSTID: 43
+#+DATE: [2005-02-07 Mon 21:23]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050207-1623
+
+Ederlyn would find [this](http://arstechnica.com/news.ars/post/20050205-4590.html)\#$NEWLINE-MARKER$\#cool. I tend to find it scary. My capacity for cynicism is very\#$NEWLINE-MARKER$\#nearly in paranoia mode, and I cannot seem to curb it. Science is\#$NEWLINE-MARKER$\#consistently blurring the lines between life and non-life. In\#$NEWLINE-MARKER$\#*Diamond Age*, Neil Stephenson writes that the Catholic Church\#$NEWLINE-MARKER$\#(paraphrasing a science fiction novel set in the future here) argued\#$NEWLINE-MARKER$\#for a while and then decided that nanotech was okay as long as it\#$NEWLINE-MARKER$\#was not used to interface with the human brain. I'm not sure that is\#$NEWLINE-MARKER$\#the line the Church would draw. I'm ***really***\#$NEWLINE-MARKER$\#not sure where it *should* be drawn. I *do* know that\#$NEWLINE-MARKER$\#it ***must*** be drawn, and that we cannot trust\#$NEWLINE-MARKER$\#scientists, especially not materialistic ones, to draw the line.\#$NEWLINE-MARKER$\#This isn't really nanotech, but to my mind it falls into much\#$NEWLINE-MARKER$\#the same category. [ars](http://arstechnica.com/)\#$NEWLINE-MARKER$\#correctly draws parallels to the Terminator® series. I don't\#$NEWLINE-MARKER$\#know how possible that is, it really comes down to two questions,\#$NEWLINE-MARKER$\#1)the possibility of AI and 2)the limits of human stupidity. I know\#$NEWLINE-MARKER$\#not to limit the latter; *Diamond Age* speculates that there\#$NEWLINE-MARKER$\#are limits to the former, but I question not only that assertion,\#$NEWLINE-MARKER$\#but whether or not the limits would be significant enough to prevent\#$NEWLINE-MARKER$\#a Terminator®.
+
+
+
+
+

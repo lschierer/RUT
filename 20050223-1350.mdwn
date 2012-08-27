@@ -1,0 +1,13 @@
+#+POSTID: 98
+#+DATE: [2005-02-23 Wed 18:50]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050223-1350
+
+I wonder if the global warming article I mentioned\#$NEWLINE-MARKER$\#on [Friday,\#$NEWLINE-MARKER$\#18th of February 2005](./view.php?date=20050218-1203) took into account\#$NEWLINE-MARKER$\#microbes that shouldn't exist, as documented in "[Microbes\#$NEWLINE-MARKER$\#survive deep permafrost](http://news.bbc.co.uk/2/hi/science/nature/4287579.stm)."
+
+
+
+
+

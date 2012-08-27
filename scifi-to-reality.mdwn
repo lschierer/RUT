@@ -1,0 +1,16 @@
+#+POSTID: 627
+#+DATE: [2006-02-17 Fri 16:03]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: technical
+#+TAGS: 
+#+TITLE: SciFi to reality
+
+\#$NEWLINE-MARKER$\#
+[This^[1]^](http://video.google.com/videoplay?docid=6379146923853181774&q=apple+touch "Apple's Multi touch screen movie") is incredibly cool. It reminds me of the interface used in the movie *Minority Report*
+
+Mr. Jefferson Y. Han. "Apple's Multi touch screen movie" 2006-02-09 http://video.google.com/videoplay?docid=6379146923853181774&q=apple+touch
+
+
+
+
+

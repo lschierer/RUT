@@ -1,0 +1,15 @@
+#+POSTID: 764
+#+DATE: [2006-11-15 Wed 16:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: science
+#+TAGS: 
+#+TITLE: More on Peer Review
+
+Ms. Denyse O'Leary looks at the origin and flaws of the peer review process in some length.^[\\[1\\]][ref1]^ It is not just me you see.\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+\#$NEWLINE-MARKER$\#1. Ms. Denyse O'Leary. "Introduction: Peer Review - Gold standard in science - or 'gold in them thar hills'?" The ID Report. 2006-11-15. http://www.arn.org/blogs/index.php/2/2006/11/15/lstrongglemgintroduction\_l\_emg\_peer\_revi\#$NEWLINE-MARKER$\#
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#[ref1]: http://www.arn.org/blogs/index.php/2/2006/11/15/lstrongglemgintroduction\_l\_emg\_peer\_revi "Introduction: Peer Review - Gold standard in science - or 'gold in them thar hills'?"
+
+
+
+
+

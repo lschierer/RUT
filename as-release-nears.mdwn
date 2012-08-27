@@ -1,0 +1,13 @@
+#+POSTID: 840
+#+DATE: [2007-06-14 Thu 16:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Pidgin
+#+TAGS: 
+#+TITLE: as release nears
+
+As the release of pidgin & finch (and libPurple) 2.0.2 draws near, I cannot be but proud to work with such an amazing group of people. Though it appears that 65 tickets will slip, will be pushed from this release to the next, my co-developers have closed an amazing 89 tickets for this release, not counting the 25 tickets closed towards our next milestone, 2.1.0.\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#The growth of bugs in our new bug tracker has been nothing short of phenomenal. We have done our best to keep up with it, but all of us, myself particularly included, have a limited number of hours each week we can donate to the project. In light of that, the 150 ticket informal goal I set for this release was rather unrealistic. It is inevitable, with such a high count, that some tickets would slip. With over 100 open tickets already for the 2.1.0 release, this slippage will necessarily mean that the \*next\* release will also face severe challenges closing all the issues. \#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#That is why I must ask for patience from our users regularly. We value your input, we \*want\* to solve your issues. There is simply so very much that needs to happen, and so little time in which to do it. We will continue to do the best we can, with the resources we have, and help (in the form of patches) is \*always\* appreciated.
+
+
+
+
+

@@ -1,0 +1,14 @@
+#+POSTID: 113
+#+DATE: [2005-03-02 Wed 16:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050302-1147
+
+In yet another example of scientists realizing that their\#$NEWLINE-MARKER$\#models have left significant events out of the equation, "[Sun's\#$NEWLINE-MARKER$\#Temper Blamed for Arctic Ozone Loss](http://www.livescience.com/forcesofnature/050301_ozone_thinning.html)" talks about the unexpected\#$NEWLINE-MARKER$\#nature of the Arctic ozone loss this year. Apparently we didn't\#$NEWLINE-MARKER$\#expect the Sun to play a role. Will they revise the Antarctic\#$NEWLINE-MARKER$\#models because of this? Perhaps CFCs are not as significant as\#$NEWLINE-MARKER$\#previously thought?
+
+
+
+
+
+

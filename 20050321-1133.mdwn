@@ -1,0 +1,14 @@
+#+POSTID: 155
+#+DATE: [2005-03-21 Mon 16:33]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050321-1133
+
+In further science news, I present to the reader "[Scientists\#$NEWLINE-MARKER$\#Discover What You Are Thinking](http://pr.caltech.edu/media/Press_Releases/PR12660.html)." Some scientists think\#$NEWLINE-MARKER$\#they have figured out how to figure out the brain's signaling\#$NEWLINE-MARKER$\#for movement. That wording is really bad, but I am not sure\#$NEWLINE-MARKER$\#how to word it better. They have associated some of the brain's\#$NEWLINE-MARKER$\#signals, happening *just* before movement, to that movement.\#$NEWLINE-MARKER$\#Has the potential for helping develop robot arms, cybernetics,\#$NEWLINE-MARKER$\#and similar things. Lots of good potential, some bad potential,\#$NEWLINE-MARKER$\#I think I end up falling more or less in favor of this research,\#$NEWLINE-MARKER$\#it is the application that is sketchy, not the method.
+
+
+
+
+
+

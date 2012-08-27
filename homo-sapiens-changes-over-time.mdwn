@@ -1,0 +1,16 @@
+#+POSTID: 608
+#+DATE: [2006-01-25 Wed 19:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: evolution
+#+TAGS: 
+#+TITLE: Homo Sapiens changes over time
+
+\#$NEWLINE-MARKER$\#
+Scientists looking at the differences between 14Th Century skulls and modern skulls were surprised to find significant differences.^[[1]](http://news.bbc.co.uk/2/hi/science/nature/4643312.stm\ "Time\ changes\ modern\ human's\ face")^ I would like to consider, briefly, something the article does not. If skulls have changed noticeably in the last 650 years, how much more must they have changed in the last 2000 years? In the last 10,000 years? When does that change become significant enough for fossil finders to decide a new species has been discovered? Should that difference really denote a new species?
+
+Ms. Rebecca Morelle. "Time changes modern human's face" BBC News (online). 2006-01-25 http://news.bbc.co.uk/2/hi/science/nature/4643312.stm
+
+
+
+
+

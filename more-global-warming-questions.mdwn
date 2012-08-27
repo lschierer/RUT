@@ -1,0 +1,17 @@
+#+POSTID: 578
+#+DATE: [2005-12-28 Wed 22:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Global Warming
+#+TAGS: 
+#+TITLE: More Global Warming questions
+
+Along the same lines as [my previous post^[1]^](https://www.schierer.org/~luke/log/20051228-0959/the-health-benefits-of-the-sun "The Health Benefits of the Sun"), all sorts of people bemoan deforestation as a prime cause of global warming. They do this despite the fact that I have heard some studies suggest that there are actually *more* trees now than there were in the days of unchecked wildfires before the colonial period. Be that as it may, it turns out to still be too simplistic a view.^[[2]](http://www.wired.com/news/technology/0,69914-0.html\ "Careful\ Where\ You\ Put\ That\ Tree")^ It appears that northern forests have a higher cost in albedo change than they provide benefit in carbon absorption. This result reminds me of some of the other speculations I have made regarding albedo, I wonder anew what else they have failed to consider.
+
+1.  Mr. Luke Schierer. "The Health Benefits of the Sun" Random Unfinished Thoughts. 2005-12-28 https://www.schierer.org/\~luke/log/20051228-0959/the-health-benefits-of-the-sun
+2.  Ms. Elizabeth Svoboda. "Careful Where You Put That Tree" Wired News. 2005-12 http://www.wired.com/news/technology/0,69914-0.html
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+#+POSTID: 345
+#+DATE: [2005-06-03 Fri 21:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050603-1624
+
+The BBC currently has an article about President Bush's opposition\#$NEWLINE-MARKER$\#to the United Kingdom's plan for providing debt relief to African\#$NEWLINE-MARKER$\#nations.[1] As I read it, President Bush is opposed not to the\#$NEWLINE-MARKER$\#debt forgiveness, which is the right thing to be doing, but to\#$NEWLINE-MARKER$\#the plan to sell off the IMF gold reserve to fund yet another\#$NEWLINE-MARKER$\#non-governmental organization(NGO).
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+We do not need another NGO. We have too many of them, with\#$NEWLINE-MARKER$\#too much ill-defined authority already. Both are problematic,\#$NEWLINE-MARKER$\#their existence, and the ill-defined nature of their authority.\#$NEWLINE-MARKER$\#Power and responsibility *must* be coupled and proportional,\#$NEWLINE-MARKER$\#and that is exactly where these NGOs fail. For while they have\#$NEWLINE-MARKER$\#the power to disburse funds, to approve or reject plans, they have\#$NEWLINE-MARKER$\#no responsibility. Liberals suggest that the internal goodness\#$NEWLINE-MARKER$\#of the people making up the NGO will provide the necessary balance\#$NEWLINE-MARKER$\#to the power they have. That they will do the right thing simply\#$NEWLINE-MARKER$\#because they care. But care alone is not sufficient. To use a\#$NEWLINE-MARKER$\#trite example, care alone suggests giving a man a fish each day.\#$NEWLINE-MARKER$\#Classic socialism. But we know that such a benevolent harms him,\#$NEWLINE-MARKER$\#tends toward his dependence on you for a fish the next day, and\#$NEWLINE-MARKER$\#the day after. It makes him subservient to your whim, which is\#$NEWLINE-MARKER$\#good for neither party.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+Not held responsible for the failure to improve things, the\#$NEWLINE-MARKER$\#socialist approach then is to simply throw more money at it.\#$NEWLINE-MARKER$\#"Yes, I know this did not work before, but it will now, because\#$NEWLINE-MARKER$\#we will spend more to make it work, and because we care more now\#$NEWLINE-MARKER$\#than those who tried before did." It simply does not hold true.\#$NEWLINE-MARKER$\#Rather, with failure should come some cost. The loss of a job,\#$NEWLINE-MARKER$\#the loss of authority for leaders of governments and companies.\#$NEWLINE-MARKER$\#The need to work harder, to suffer, for men. Then the realization\#$NEWLINE-MARKER$\#is forced on one that a given idea simply does not work, try another.\#$NEWLINE-MARKER$\#Or if it does not, then at least the ability to implement that idea,\#$NEWLINE-MARKER$\#and in doing so cause harm, is removed. Then we would stop seeing\#$NEWLINE-MARKER$\#the same solutions tried endlessly, with the same failures.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#[1] http://news.bbc.co.uk/2/hi/business/4606197.stm
+
+
+
+
+

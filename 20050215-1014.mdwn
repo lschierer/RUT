@@ -1,0 +1,15 @@
+#+POSTID: 67
+#+DATE: [2005-02-15 Tue 15:14]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050215-1014
+
+Michelle Malkin's "[How\#$NEWLINE-MARKER$\#Effective Are Flu Shots?](http://michellemalkin.com/archives/001520.htm)" links to "[Impact\#$NEWLINE-MARKER$\#of Influenza Vaccination on Seasonal Mortality in the US\#$NEWLINE-MARKER$\#Elderly Population](http://archinte.ama-assn.org/cgi/content/abstract/165/3/265)" from the Archives of Internal Medicine.\#$NEWLINE-MARKER$\#She also links to a Los Angeles Times story, but I did not feel\#$NEWLINE-MARKER$\#like registering there to read it. The upshot of all these is\#$NEWLINE-MARKER$\#more confirmation of my overall impression that flu shots aren't\#$NEWLINE-MARKER$\#worth much.  
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#**UPDATED: 20040215-1335**  
+\#$NEWLINE-MARKER$\#"[Flu Shots for Elderly Questioned in Study](http://www.nytimes.com/2005/02/15/health/15flu.html?ei=5088&en=c45e6ea1c26dfb41&ex=1266210000&partner=rssnyt&pagewanted=print&position=)" provides some details as well. It seems flu shots are still recommended for children.
+
+
+
+
+

@@ -1,0 +1,14 @@
+#+POSTID: 666
+#+DATE: [2006-08-03 Thu 16:15]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: politics/law, technical
+#+TAGS: 
+#+TITLE: RFID Passports == Bad
+
+"A German computer security consultant has shown that he can clone the electronic passports that the United States and other countries are beginning to distribute this year."^[[1]](http://www.wired.com/news/technology/0,71521-0.html?tw=rss.index\ "Wired\ News:\ Hackers\ Clone\ E-Passports")^ And so comes confirmation that these new passports are a cause for concern.\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+Ms. Kim Zetter. "Hackers Clone E-Passports." Wired news, 2006-08-3. http://www.wired.com/news/technology/0,71521-0.html?tw=rss.index
+
+
+
+
+

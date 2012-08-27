@@ -1,0 +1,19 @@
+#+POSTID: 622
+#+DATE: [2006-02-14 Tue 21:45]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Society, technical
+#+TAGS: 
+#+TITLE: RFID Authentication
+
+[It has been a while^[1]^](https://www.schierer.org/~luke/log/20050504-1118/20050504-1118 "20050504-1118") since I last wrote about RFID. The most recent article I have read on the subject is substantially more of a concern than the others that show up in the recent history if you search "Random Unfinished Thoughts."^[[2]](https://www.schierer.org/~luke/log/index.php?s=RFID\ "Results\ of\ such\ a\ search")^ This is because I now read about tagging *people*, not *products* or even *documents*.^[[3]](http://news.ft.com/cms/s/ec414700-9bf4-11da-8baa-0000779e2340.html\ "US\ group\ implants\ electronic\ tags\ in\ workers")^ This takes the idea of biometric authentication to a new and highly disturbing level. Notably, it combines the worst aspects of biometrics' hard-to-deny with RFID's easy-to-covertly-read. Thus if it ever does prove forgable, as is rather likely, as it would be a purely technical matter of reverse engineering the chip inside, you will have a particularly nasty sort of identity theft.
+
+The pluses for those wishing to secure facilities and monitor workers are as considerable as the risks are, so I expect that this sort of monitoring will become more prevalent.
+
+Mr. Luke Schierer. "200505-04-1118" Random Unfinished Thoughts 2005-05-04. https://www.schierer.org/\~luke/log/20050504-1118/20050504-1118
+Mr. Luke Schierer. Search of Random Unfinished Thoughts for "RFID." https://www.schierer.org/\~luke/log/index.php?s=RFID This will naturally change with time.
+Mr. Richard Waters. "US group implants electronic tags in workers" Financial Times (online) 2006-02-12. http://news.ft.com/cms/s/ec414700-9bf4-11da-8baa-0000779e2340.html
+
+
+
+
+

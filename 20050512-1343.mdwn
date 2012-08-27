@@ -1,0 +1,15 @@
+#+POSTID: 301
+#+DATE: [2005-05-12 Thu 18:43]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050512-1343
+
+Terence Jeffrey has uncovered some of the horrors that the\#$NEWLINE-MARKER$\#National Academy of Science has cooked up and called "ethics."[1]\#$NEWLINE-MARKER$\#They recommend creating human clones. Since that is not palpable\#$NEWLINE-MARKER$\#to the majority of us (for now at least, a majority of us are not\#$NEWLINE-MARKER$\#that confused and insane), they then recommend killing those babies\#$NEWLINE-MARKER$\#when they reach 14 days old. And then they re-assure us that they\#$NEWLINE-MARKER$\#do not want to be injecting human stem cells into animal embryos,\#$NEWLINE-MARKER$\#which could result in a human brain "trapped" in an animal body,\#$NEWLINE-MARKER$\#"for now," and expect we will be satisfied.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#[1]\#$NEWLINE-MARKER$\#http://www.townhall.com/columnists/terencejeffrey/tj20050511.shtml
+
+
+
+
+

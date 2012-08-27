@@ -1,0 +1,13 @@
+#+POSTID: 95
+#+DATE: [2005-02-22 Tue 17:54]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050222-1254
+
+Here is one for Vincas to look into, he at least might\#$NEWLINE-MARKER$\#be able to. Several blogs talk about Choicepoint having\#$NEWLINE-MARKER$\#allowed quite a bit of customer data to be stolen. See [Michelle\#$NEWLINE-MARKER$\#Malkin](http://michellemalkin.com/archives/001571.htm), [Jackson's\#$NEWLINE-MARKER$\#Junction](http://treyjackson.typepad.com/junction/2005/02/choicepoint_wha.html), and [Ed\#$NEWLINE-MARKER$\#Foster](http://radio.weblogs.com/0123585/2005/02/21.html#a219).
+
+
+
+
+

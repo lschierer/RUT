@@ -1,0 +1,20 @@
+#+POSTID: 503
+#+DATE: [2005-09-14 Wed 18:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: evolution, morality/religion
+#+TAGS: 
+#+TITLE: Why bats make the news
+
+As the [BBC](http://news.bbc.co.uk/) reports on the mating patterns of horseshoe bats,^[[1]](http://news.bbc.co.uk/2/hi/science/nature/4245852.stm)^ this post raises an entirely tangential question. Why is this even news? Why would any sensible editor think that people would care about the mating patterns of bats? I can see why this might be of interest to biologists, and deserve a write-up in some scientific journal. I can see, however, only one possible reason to post this in a news source directed at the general public. It has no inherent interest, but is rather aimed at *educating the public*. Coming out of the "Science/Nature" section, this might be seen as harmless. After all, what do such sections exist for except to report things that the public otherwise would not know (short of attempting to follow the science journals)? But remember that even here, the hand of the editor and publisher persist.
+
+It might simply be my paranoia kicking in at an unusually high level today, but it strikes me that one good reason to include this would be if you, as a reporter, or as an editor, wished to sway public perception of sexuality. If you viewed humans as merely animals,^[[2]](https://www.schierer.org/~luke/log/20050912-0930/humans-just-another-primate)^^you\ might\ include\ this\ sort\ of\ story\ outlining\ animal\ sexuality\ in\ an\ attempt\ to\ sway\ human\ morality.\ After\ all,\ if\ animals\ are\ doing\ it,\ it\ must\ be\ "natural"\ and,\ so\ the\ logic\ goes,\ right.^
+
+This is inherently flawed reasoning. Cats routinely "play" with their food before consuming it, you can observe a cat releasing and re-catching a mouse, or throwing it through the air. Humans though, unlike cats, have both free will and a rational mind. We hold it to be immoral to kill the animals we consume in cruel ways. In fact, humans alone even define "cruelty." I am told that a jackal, unlike most animals, will kill more than it can eat. In a human this would be called and judged waste. In some species, babies must be protected from their fathers, this would be called child abuse or murder (depending on the outcome) among men. These and other examples abound. Man is called to a higher moral standard, man is, in fact, alone called to *any* moral standard. This covers not just what we eat and how we obtain our food. It looks not only at how we raise our children, but how we come by them.
+
+[1] BBC News. "Female bats keep it in the family" BBC News World Edition 2005-09-14. http://news.bbc.co.uk/2/hi/science/nature/4245852.stm   
+ [2] Mr. Luke Schierer. "Humans, just another primate?" Random Unfinished Thoughts 2005-09-12. https://www.schierer.org/\~luke/log/20050912-0930/humans-just-another-primate
+
+
+
+
+

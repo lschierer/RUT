@@ -1,0 +1,15 @@
+#+POSTID: 465
+#+DATE: [2005-08-15 Mon 14:29]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: personal
+#+TAGS: 
+#+TITLE: Geek quiz
+
+[This](http://www.nerdtests.com/ft_cg.php) was mildly amusing.
+
+[![My computer geek score is greater than 91% of all people in the world! How do you compare? Click here to find out!](http://www.nerdtests.com/images/ft/cg.php?val=1812)](http://www.nerdtests.com/ft_cg.php?im)
+
+
+
+
+

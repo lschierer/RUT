@@ -1,0 +1,17 @@
+#+POSTID: 670
+#+DATE: [2006-08-08 Tue 16:47]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: morality/religion, politics/law
+#+TAGS: 
+#+TITLE: The downward spiral of patient's rights in the UK
+
+This has been very scary to watch. Last year about this time, I wrote about doctors winning the right to overrule parents of a 22-month old baby, and refuse resuscitation.^[[1]](https://www.schierer.org/~luke/log/20050826-1048/parents-lose-the-right-to-make-medical-decisions-for-their-children\ "Parents\ lose\ the\ right\ to\ make\ medical\ decisions\ for\ their\ children")^ I suppose it is only logical, however scary, that this rulling would be extended to other classes of human beings.^[[2]](http://news.bbc.co.uk/2/hi/health/5257252.stm\ "Patient\ loses\ right-to-food\ fight")^ This time, a man with cerebellar ataxia, some sort of brain condition that apparently does not affect mental ability, but does affect the ability to express those thoughts, has lost the right to insist that he not die of starvation and/or dehydration.  
+The final blow appears to be, as the BBC article states, a classic catch 22.  The European Court of Human Rights, to which he appealed after losing his appeals in the British courts, decided that it is "premature" to consider the appeal, because there is no "imminent" risk.  Naturally, however, such a risk could only become "imminent" after Mr. Burke, the patient, has lost the ability to express his own wishes, and with it the ability to appeal to the court.
+1.  Mr. Luke Schierer. "Parents lose the right to make medical decisions for their children" Random Unfinished Thoughts, 2005-08-26. https://www.schierer.org/\~luke/log/20050826-1048/parents-lose-the-right-to-make-medical-decisions-for-their-children
+2.  BBC News. "Patient loses right-to-food fight" BBC News. 2006-08-08. http://news.bbc.co.uk/2/hi/health/5257252.stm
+
+
+
+
+
+

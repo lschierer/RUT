@@ -1,0 +1,15 @@
+#+POSTID: 295
+#+DATE: [2005-05-11 Wed 22:55]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050511-1755
+
+Robots reproduce![1] This would likely be useful, it should\#$NEWLINE-MARKER$\#eventually lead to robots that can self-repair, and, as it\#$NEWLINE-MARKER$\#is miniaturized, to specialty robots that build other things.\#$NEWLINE-MARKER$\#Think *Diamond Age*. On the other hand, it still tends\#$NEWLINE-MARKER$\#towards my overall worry that several hundred years from now, we\#$NEWLINE-MARKER$\#will think that robots evolved. I would like to think there will\#$NEWLINE-MARKER$\#continue to be a clear distinction between life and its simulation\#$NEWLINE-MARKER$\#(robots, AI, both). I worry that might cease to be.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#[1] http://news.bbc.co.uk/2/hi/science/nature/4538547.stm
+
+
+
+
+

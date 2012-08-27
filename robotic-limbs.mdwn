@@ -1,0 +1,15 @@
+#+POSTID: 394
+#+DATE: [2005-06-24 Fri 17:46]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: science
+#+TAGS: 
+#+TITLE: robotic limbs
+
+Even though I have read a number of different articles on robotic limbs now, mostly legs, I am still amazed when I read about it. A Chicago news station is talking about a man who has now been given two robotic arms — that he can control just as he would a normal arm, by thinking about it.[[1]](http://www.local6.com/news/4643968/detail.html)
+
+[1] http://www.local6.com/news/4643968/detail.html
+
+
+
+
+

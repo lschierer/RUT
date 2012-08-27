@@ -1,0 +1,131 @@
+#+POSTID: 696
+#+DATE: [2006-09-07 Thu 12:34]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: personal
+#+TAGS: 
+#+TITLE: pulseware personality quix
+
+  
+[**My Personality**](http://www.pulseware.com.au/site_pi.asp?p=wpa-16047)\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+# Personality Test Results
+
+Neuroticism
+[](site_pi.asp?p=wpa-13837&a=personality-tests&u=#s1)
+73
+Extraversion
+[](site_pi.asp?p=wpa-13837&a=personality-tests&u=#s2)
+8
+Openness To Experience
+[](site_pi.asp?p=wpa-13837&a=personality-tests&u=#s3)
+3
+Agreeableness
+[](site_pi.asp?p=wpa-13837&a=personality-tests&u=#s4)
+33
+Conscientiousness
+[](site_pi.asp?p=wpa-13837&a=personality-tests&u=#s5)
+36
+  
+You are introverted, reserved, and quiet with a preference for solitude and solitary activities. Your socializing tends to be restricted to a few close friends. You can be very easily upset, even by what most people consider the normal demands of living. People consider you to be extremely sensitive and emotional. As a practical person you like to think in plain and simple terms. Others describe you as down-to-earth, practical, and conservative. You have some concern with others' needs, and are generally pleasant, sympathetic, and cooperative. You are reasonably reliable, organized, and self-controlled.  
+This report compares you to other men between the ages of 21 and 40 in United States. It analyses you based on each of the five broad personality domains of the [Five-Factor Model (Goldberg, L R. 1999)](#x), and the six sub domains at each level.
+ 
+## Neuroticism
+
+**Overall Score**
+73
+Anxiety
+88
+Anger
+52
+Depression
+91
+Self-Consciousness
+83
+Immoderation
+12
+Vulnerability
+58
+  
+You can be very easily upset, even by what most people consider the normal demands of living. People consider you to be extremely sensitive and emotional. You feel tense, jittery, and nervous and often feel like something dangerous is about to happen. You may be afraid of specific situations or be just generally fearful. You don't usually get angry too easily but some things can annoy you. You tend to lack energy and have difficult initiating activities. You are sensitive about what others think of you. Your concern about rejection and ridicule cause you to feel shy and uncomfortable around others. You are easily embarrassed and often feel ashamed. Your fears that others will criticize or make fun of you are exaggerated and unrealistic, but your awkwardness and discomfort may make these fears a self-fulfilling prophecy. You do not experience strong, irresistible cravings and consequently do not find yourself tempted to overindulge. High levels of stress can lead to you feeling panic or confusion, but usually you cope with day to day pressures. 
+ 
+## Extraversion
+
+[explanation](javascript:void(0))   |   [back to top](#overview)
+**Overall Score**
+8
+Friendliness
+7
+Gregariousness
+21
+Assertiveness
+63
+Activity Level
+10
+Excitement-Seeking
+4
+Cheerfulness
+11
+  
+You are introverted, reserved, and quiet with a preference for solitude and solitary activities. Your socializing tends to be restricted to a few close friends. People generally perceive you as distant and reserved, and you do not usually reach out to others. You tend to feel overwhelmed by, and therefore actively avoid, large crowds. You often need privacy and time for yourself. You are an active group participant but usually prefer to let someone else be the group leader. You lead a leisurely and relaxed life. You would prefer to sit back and smell the roses than indulge in high energy activities. You get overwhelmed by too much noise and commotion and do not like thrill-seeking activities. You are not prone to spells of energetic high spirits. 
+ 
+## Openness To Experience
+
+**Overall Score**
+3
+Imagination
+28
+Artistic Interests
+0
+Emotionality
+43
+Adventurousness
+5
+Intellect
+70
+Liberalism
+0
+  
+As a practical person you like to think in plain and simple terms. Others describe you as down-to-earth, practical, and conservative. You prefer facts over fantasy and are more interested in what is happening in the real word. You are not interested in the arts and do not display aesthetic sensitivity. Generally you are not considered to be an emotional person, however you are aware of and in touch with your emotions. You prefer familiar routines and for things to stay the same. You can tend to feel uncomfortable with change. As a person who is open-minded to new and unusual ideas, you love to play with and think about ideas. You also like to debate intellectual issues and often enjoy riddles, puzzles and brain teasers. You prefer the security and stability brought by conformity to tradition. 
+ 
+## Agreeableness
+
+**Overall Score**
+33
+Trust
+61
+Morality
+72
+Altruism
+57
+Cooperation
+11
+Modesty
+18
+Sympathy
+31
+  
+You have some concern with others' needs, and are generally pleasant, sympathetic, and cooperative. You mostly assume that people are honest and fair, however you are wary and hold back from trusting people completely. You see no need for pretense or manipulation when dealing with others and are therefore candid, frank and sincere. People find it relatively easy to relate to you. You will help others if they are in need. If people ask for too much of your time you feel that they are imposing on you. You are not adverse to confrontation and will sometimes even intimidate others to get your own way. You feel superior to those around you and sometimes tend to be seen as arrogant by other people. You are not affected strongly by human suffering, priding yourself on making objective judgments based on reason. You are more concerned with truth and impartial justice than with mercy. 
+ 
+## Conscientiousness
+
+**Overall Score**
+36
+Self-Efficacy
+52
+Orderliness
+7
+Dutifulness
+95
+Achievement-Striving
+35
+Self-Discipline
+17
+Cautiousness
+56
+  
+You are reasonably reliable, organized, and self-controlled. You are moderately confident that you can achieve the goals you set yourself. In general you tend to be disorganized and scattered. You have a strong sense of duty and obligation, and feel a moral obligation to do the right thing. Mostly you work towards achieving your best, although in some areas you are content just to get the job done. You find yourself procrastinating and show poor follow-through on tasks. Often you fail to complete tasks - even tasks that you want very much to complete. You are not an overly cautious person. You will think about alternatives and consequences but make up your mind fairly quickly. 
+ 
+
+
+
+
+

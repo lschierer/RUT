@@ -1,0 +1,21 @@
+#+POSTID: 414
+#+DATE: [2005-07-05 Tue 18:08]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: personal, politics/law
+#+TAGS: 
+#+TITLE: Evacuation Drill
+
+So apparently last night as we left the Mall to head home from the fireworks (which were AWESOME!!), D.C. officials were testing their evacuation plans. After reading a New York Times article about it,[[1]](http://www.nytimes.com/2005/07/05/national/nationalspecial3/05evacuate.html?ex=1278216000&en=d26b0b92bc11d71f&ei=5088&partner=rssnyt&emc=rss) I understand a little more of what they were thinking than I did when my mom first mentioned it yesterday.
+
+At first I was thinking that it was a horridly stupid idea. Why would you test an evacuation plan on the Fourth of July, when we should be celebrating? After several years of small crowds (only some of which can be blamed on the weather, based on twenty some odd years of experience) and high security, I thought that this was the last thing we needed to be doing: causing yet more panic. Fortunately, the people planning this had a little more sense than I was giving them credit for. They didn't actually simulate a *need* to evacuate, or even really talk about the fact that an evacuation drill was "happening." In fact, I doubt anyone on the Mall, who had not heard about it before hand, knew that anything was different. Which is as it should be.
+
+Apparently, they just used the mass exiting that occurs after the fireworks each year to monitor how some basic changes (to traffic light timings and such) will help (or hinder) in the event of a real evacuation. They allowed the closed streets (due to the stupidly high security) and crowds of people walking to cars mimic the actual event for them. I really cannot say how well it simulated an evacuation. I would tend to think that it would do a poor job, as I would think there would at once be fewer people, crowded though it was based on post-9/11 standards, than a true evacuation, and a significantly higher percentage of people from out of area.
+
+Still, if from this they realized (apparently for the first time‽) that the scarcity of bridges and highways leading out of the city on the Virginia side would cause bottlenecks galore, they know it now, and that can only be a good thing. Not that I am really sure what they can or will do about that.
+
+[1] Wingfield, Brian. "Fireworks Crowd in Washington Provides Test of Evacuation Plan" New York Times (On-Line Edition) http://www.nytimes.com/2005/07/05/national/nationalspecial3/05evacuate.html?ex=1278216000&en=d26b0b92bc11d71f&ei=5088&partner=rssnyt&emc=rss
+
+
+
+
+

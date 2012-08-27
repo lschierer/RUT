@@ -1,0 +1,15 @@
+#+POSTID: 47
+#+DATE: [2005-02-08 Tue 15:27]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050208-1027
+
+Michael Behe, author of *Darwin's Black Box*, authored "[Design\#$NEWLINE-MARKER$\#for Living](http://www.nytimes.com/2005/02/07/opinion/07behe.html?oref=login)" in the New York Times. I'm rather amazed they\#$NEWLINE-MARKER$\#printed it, even in the opinion section. In it, he clearly and\#$NEWLINE-MARKER$\#insightfully explains what "Intelligent Design" is and isn't.\#$NEWLINE-MARKER$\#He is a very good author, his book was one of the first I read on\#$NEWLINE-MARKER$\#being introduced to the concept, along with some of his and Phillip\#$NEWLINE-MARKER$\#Johnson's papers available at [ARN](http://www.arn.org/).\#$NEWLINE-MARKER$\#My favorite quote from this piece is\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+> Still, some critics claim that science by definition\#$NEWLINE-MARKER$\#can't accept design, while others argue that science should keep\#$NEWLINE-MARKER$\#looking for another explanation in case one is out there. But we\#$NEWLINE-MARKER$\#can't settle questions about reality with definitions, nor does it\#$NEWLINE-MARKER$\#seem useful to search relentlessly for a non-design explanation of\#$NEWLINE-MARKER$\#Mount Rushmore.
+
+
+
+
+
+

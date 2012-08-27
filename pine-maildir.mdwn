@@ -1,0 +1,13 @@
+#+POSTID: 781
+#+DATE: [2007-01-02 Tue 20:19]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: personal, technical
+#+TAGS: 
+#+TITLE: pine + maildir
+
+note to self, there is a patch to add maildir support to pine at [http://www.math.washington.edu/\~chappa/pine/info/maildir.html](http://www.math.washington.edu/~chappa/pine/info/maildir.html)
+
+
+
+
+

@@ -1,0 +1,14 @@
+#+POSTID: 146
+#+DATE: [2005-03-16 Wed 20:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050316-1524
+
+A new advance in portable shelters is discussed in "[Need\#$NEWLINE-MARKER$\#a Building? Just Add Water](http://www.wired.com/news/technology/0,1282,66872,00.html)." A pair of British engineers have\#$NEWLINE-MARKER$\#thought up the idea of reinforcing a standard tent with cement,\#$NEWLINE-MARKER$\#resulting in a setup where you wet the material, inflate it,\#$NEWLINE-MARKER$\#and then allow it to dry, giving you the equivalent of a portable\#$NEWLINE-MARKER$\#building. Very cool.
+
+
+
+
+
+

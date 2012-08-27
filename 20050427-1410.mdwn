@@ -1,0 +1,14 @@
+#+POSTID: 240
+#+DATE: [2005-04-27 Wed 19:10]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050427-1410
+
+"[Your\#$NEWLINE-MARKER$\#Money Under More Scrutiny](http://www.wired.com/news/privacy/0,1848,67249,00.html?tw=wn_tophead_2)" looks at a little publicized aspect of\#$NEWLINE-MARKER$\#the USA PATRIOT Act. From the description, this really does, as [Ars\#$NEWLINE-MARKER$\#notes](http://arstechnica.com/news.ars/post/20050427-4855.html), this really does not sound like it is something\#$NEWLINE-MARKER$\#truly aimed primarily against terrorists or money launderers.\#$NEWLINE-MARKER$\#This sounds like something aimed at you and me. The potential for\#$NEWLINE-MARKER$\#headache here is astronomical, especially if, like me, you have an\#$NEWLINE-MARKER$\#(annoying) tendency to be somewhat random.
+
+
+
+
+
+

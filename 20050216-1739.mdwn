@@ -1,0 +1,13 @@
+#+POSTID: 81
+#+DATE: [2005-02-16 Wed 22:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050216-1739
+
+In science today, we have "[Age\#$NEWLINE-MARKER$\#of ancient humans reassessed](http://news.bbc.co.uk/2/hi/science/nature/4269299.stm)" and "[Exclusive:\#$NEWLINE-MARKER$\#NASA Researchers Claim Evidence of Present Life on Mars](http://www.space.com/scienceastronomy/mars_life_050216.html)." The\#$NEWLINE-MARKER$\#first pushes the origin of *Homo sapiens* back 40,000 years.\#$NEWLINE-MARKER$\#Even though not mentioned, this means that *Homo sapiens*\#$NEWLINE-MARKER$\#overlapped with earlier "ancestors" even more significantly.\#$NEWLINE-MARKER$\#The latter talks about finding methane on Mars, which is apparently\#$NEWLINE-MARKER$\#being taken as an indication of life on Mars.
+
+
+
+
+

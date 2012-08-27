@@ -1,0 +1,18 @@
+#+POSTID: 659
+#+DATE: [2006-07-18 Tue 18:31]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Society, technical
+#+TAGS: 
+#+TITLE: Localizers!
+
+HP has come out with a new chip that might have been designed to foster paranoia.^[[1]](http://news.bbc.co.uk/2/hi/technology/5186650.stm\ "BBC\ NEWS\ |\ Technology\ |\ Tiny\ wireless\ memory\ chip\ debuts")^ This new chip, the size of a grain of rice, is powered by induction and contains a wireless antenna for data exchange. This just *screams* localizer in a Vernor Vinge^[[2]](http://www.amazon.com/gp/product/0812536355/sr=8-4/qid=1153246853/ref=pd_bbs_4/104-8452981-6293526?ie=UTF8:\ "A\ Deepness\ in\ the\ Sky:\ A\ Novel\ (Zones\ of\ Thought)\ (Mass\ Market\ Paperback)\ ")^ style. For while this chip is too big to float through the air, and, at a dollar a chip, too expensive to try to saturate a city even if it were small enough to do so, it is inevitable that with time this technology will become cheaper and smaller. The idea has now crossed out of science fiction, and I fear there will be no putting the genie back in the lamp.\#$NEWLINE-MARKER$\#
+\#$NEWLINE-MARKER$\#
+BBC News. "Tiny wireless memory chip debuts" BBC News Technology 2006-07-17. http://news.bbc.co.uk/2/hi/technology/5186650.stm
+\#$NEWLINE-MARKER$\#
+Mr. Vernor Vinge. *A Deepness in the Sky*. ISBN: 0812536355
+\#$NEWLINE-MARKER$\#
+
+
+
+
+

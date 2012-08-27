@@ -1,0 +1,16 @@
+#+POSTID: 297
+#+DATE: [2005-05-12 Thu 15:11]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050512-1011
+
+The New York times is featuring an article on a robot not much\#$NEWLINE-MARKER$\#more expensive than the average middling-high end computer.[1] For\#$NEWLINE-MARKER$\#a little under $2000, its basically a computer case on wheels, from\#$NEWLINE-MARKER$\#the sounds of it, with some fancy optical gear built in. The company\#$NEWLINE-MARKER$\#selling these is White Box Robotics[2]. Ederlyn might be interested\#$NEWLINE-MARKER$\#in this sort of thing, she has a fascination with robots.
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#[1]\#$NEWLINE-MARKER$\#http://www.nytimes.com/2005/05/12/technology/circuits/12white.html?ex=1273550400&en=e966db94684d1aa6&ei=5088&partner=rssnyt&emc=rss\#$NEWLINE-MARKER$\#  
+ [2] http://www.whiteboxrobotics.com/2005/
+
+
+
+
+

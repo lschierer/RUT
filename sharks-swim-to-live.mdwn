@@ -1,0 +1,16 @@
+#+POSTID: 556
+#+DATE: [2005-10-31 Mon 18:35]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: science
+#+TAGS: 
+#+TITLE: Sharks swim to live
+
+So not only do salmon shark have to keep swimming so as to avoid sinking, they need to do so to avoid freezing as well.^[[1]](http://www.nsf.gov/news/news_summ.jsp?cntn_id=104543&org=NSF&from=news\ "How\ Hot\ Tuna\ (and\ Some\ Sharks)\ Stay\ Warm")^ Apparently doing so (swimming) helps it maintain its temperature. Very cool.
+
+1.  The National Science Foundation. "How Hot Tuna (and Some Sharks) Stay Warm" Press Release 05-187, 2005-10-27. http://www.nsf.gov/news/news\_summ.jsp?cntn\_id=104543&org=NSF&from=news
+
+
+
+
+
+

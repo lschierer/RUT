@@ -1,0 +1,16 @@
+#+POSTID: 632
+#+DATE: [2006-03-03 Fri 13:24]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Pidgin, technical
+#+TAGS: 
+#+TITLE: Google Talk
+
+[This](http://googletalk.blogspot.com/2006/03/third-party-client-use-of-google-talk.html "Third Party Client Use of the Google Talk Service")^[[1]](http://googletalk.blogspot.com/2006/03/third-party-client-use-of-google-talk.html\ "Third\ Party\ Client\ Use\ of\ the\ Google\ Talk\ Service")^ made my day. Further consider that some of those are libgaim using clients. ☺
+
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#
+Mr. Rod Chavez. "Third Party Client Use of the Google Talk Service" Google Talkabout 2006-03-02. http://googletalk.blogspot.com/2006/03/third-party-client-use-of-google-talk.html
+
+
+
+
+

@@ -1,0 +1,14 @@
+#+POSTID: 123
+#+DATE: [2005-03-07 Mon 18:39]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050307-1339
+
+[Continuing](./view.php?date=20050204-1128)\#$NEWLINE-MARKER$\#to [develop](./view.php?date=20050211-1421)\#$NEWLINE-MARKER$\#a [robot](./view.php?date=20050218-1203)\#$NEWLINE-MARKER$\#[theme](/view.php?date=20050221-1119), "[Ants -\#$NEWLINE-MARKER$\#learning from the collective](http://news.bbc.co.uk/2/hi/science/nature/4319739.stm)" once again brings us an example\#$NEWLINE-MARKER$\#of basing our robots off of nature. If this works, if they make\#$NEWLINE-MARKER$\#real, useful robots, especially nanotech robots, on these ideas,\#$NEWLINE-MARKER$\#we will, once again, be significantly blurring the lines between\#$NEWLINE-MARKER$\#life and non-life, intelligence, and what Neil Stephenson would\#$NEWLINE-MARKER$\#call "pseudo-intelligence." Again, I raise the specter of irony:\#$NEWLINE-MARKER$\#several hundred years from now, the thought of these robots having\#$NEWLINE-MARKER$\#been created will be as ludicrous to "science" as the thought\#$NEWLINE-MARKER$\#of man having been created is now. Of course this implies a\#$NEWLINE-MARKER$\#break down of history at some point, so that things must needs be\#$NEWLINE-MARKER$\#rediscovered. Any number of things could cause that though, give\#$NEWLINE-MARKER$\#or take a thousand years and you might not even need a breakdown,\#$NEWLINE-MARKER$\#just the normal blurring of time and the change of preferred format\#$NEWLINE-MARKER$\#for information.
+
+
+
+
+
+

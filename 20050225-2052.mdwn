@@ -1,0 +1,13 @@
+#+POSTID: 105
+#+DATE: [2005-02-26 Sat 00:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050225-2052
+
+Okay, so I just had a panic moment, I booted my machine back up (long\#$NEWLINE-MARKER$\#story why it was down, I may write that up after), and had no sound.\#$NEWLINE-MARKER$\#I'm at a total loss here, it was working fine before rebooting.\#$NEWLINE-MARKER$\#Note, this is the first reboot since having converted from Ubuntu\#$NEWLINE-MARKER$\#to Debian. I look at the modules, everything seems fine, but I'm\#$NEWLINE-MARKER$\#getting a snd\_ctrl\_open error which I have no clue what is, but\#$NEWLINE-MARKER$\#looks like a kernel module error to me. So I poke around loading\#$NEWLINE-MARKER$\#extra modules, no luck. I start googling, and one guy asks about the\#$NEWLINE-MARKER$\#output of alsamixer. Now, I have an alsamixergui, but no alsamixer;\#$NEWLINE-MARKER$\#what's up with that? Its very weird, that's what it is, Linux always\#$NEWLINE-MARKER$\#comes with a command line client before a graphical one. So just for\#$NEWLINE-MARKER$\#kicks, I install alsa-utils, and guess what? it's pulling alsa-base\#$NEWLINE-MARKER$\#and several other packages I'd have sworn I'd had. Apparently in\#$NEWLINE-MARKER$\#the conversion from Ubuntu to Debian, they were uninstalled. So a\#$NEWLINE-MARKER$\#second reboot later (that being the easiest way to make sure the\#$NEWLINE-MARKER$\#modules and alsabase and everything are all in sync that I know of,\#$NEWLINE-MARKER$\#though I'm sure the reboot wasn't necessary), I again have sound. :-)
+
+
+
+
+

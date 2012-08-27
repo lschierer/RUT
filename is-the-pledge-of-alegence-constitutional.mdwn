@@ -1,0 +1,15 @@
+#+POSTID: 462
+#+DATE: [2005-08-11 Thu 17:26]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: politics/law
+#+TAGS: 
+#+TITLE: Is the Pledge of Alegence Constitutional?
+
+The Pledge of Allegiance is back in court, and apparently doing fairly well.[[1]](http://www.law.com/jsp/article.jsp?id=1123684515276&rss=newswire) As the 4Th Circuit has upheld its constitutionality, it appears that this issue might reach the Supreme Court again more quickly than I had suspected, as the new case in California is not this far along. The article, however, makes no mention of the ruling that I would *like* to see: that there is no wall of separation between church and state, but only a requirement of non-establishment.
+
+[1] O'Dell, Larry. "4th Circuit Upholds Virginia Law Requiring Pledge of Allegiance in Schools" Law.com 2005-08-11 http://www.law.com/jsp/article.jsp?id=1123684515276&rss=newswire
+
+
+
+
+

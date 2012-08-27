@@ -1,0 +1,14 @@
+#+POSTID: 257
+#+DATE: [2005-05-04 Wed 16:18]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050504-1118
+
+"[Robots\#$NEWLINE-MARKER$\#to help out blind shoppers](http://news.bbc.co.uk/2/hi/technology/4509403.stm)" talks about using a robot with\#$NEWLINE-MARKER$\#a laser range finder and a RFID reader to help blind shoppers.\#$NEWLINE-MARKER$\#They will be taking an unusual approach it seems, using RFID to\#$NEWLINE-MARKER$\#mark *regions* of the store, rather than *specific\#$NEWLINE-MARKER$\#products*. This is much less worrisome to me as someone\#$NEWLINE-MARKER$\#concerned about privacy from corporations. However, the spurt of\#$NEWLINE-MARKER$\#robot developments does bring up the timeliness of Having Asimov's\#$NEWLINE-MARKER$\#"I, Robot" in theaters so recently. This is particularly on my\#$NEWLINE-MARKER$\#mind since I just now saw it for the first time, it finally having\#$NEWLINE-MARKER$\#reached the weekly rental section in Block Busters.
+
+
+
+
+
+

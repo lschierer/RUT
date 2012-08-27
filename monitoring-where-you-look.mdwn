@@ -1,0 +1,15 @@
+#+POSTID: 495
+#+DATE: [2005-09-06 Tue 21:52]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Society, science
+#+TAGS: 
+#+TITLE: monitoring where you look
+
+[This](http://apnews.myway.com/article/20050906/D8CENSB80.html) is disturbing. I can only imagine insurance companies requiring this. I can only imagine someone getting the bright idea to install an equivalent of the airplane's "black box" to see if the accident was your fault. Is this the way we want to live? I am all for saving lives and preventing car accidents, but I wonder if this is the best way to do that.
+
+Associated Press. "Toyota Computer Makes You Watch the Road" apnews.myway.com 2005-09-06. http://apnews.myway.com/article/20050906/D8CENSB80.html
+
+
+
+
+

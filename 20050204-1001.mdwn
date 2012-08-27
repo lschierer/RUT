@@ -1,0 +1,14 @@
+#+POSTID: 34
+#+DATE: [2005-02-04 Fri 15:01]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+#+CATEGORY: Uncategorized
+#+TAGS: 
+#+TITLE: 20050204-1001
+
+Two related doses of common sense are available in [Babies\#$NEWLINE-MARKER$\#'overfed on formula milk'](http://news.bbc.co.uk/2/hi/health/4236229.stm). First, some study has looked at\#$NEWLINE-MARKER$\#formula fed babies versus breast fed babies, and found that the\#$NEWLINE-MARKER$\#growth tables, based nearly exclusively on formula fed babies,\#$NEWLINE-MARKER$\#was wrong, it was expecting too much growth. This in turn caused\#$NEWLINE-MARKER$\#some doctors to recommend mothers supplement breast feeding with\#$NEWLINE-MARKER$\#formula, or not breast feed at all. Dr Mecedes de Onis comes out\#$NEWLINE-MARKER$\#with the oh so surprising statement that "Breast fed infants are the\#$NEWLINE-MARKER$\#biological norm." How could it be otherwise? Without getting into\#$NEWLINE-MARKER$\#whether or not parents should choose one or the other, after all,\#$NEWLINE-MARKER$\#its nice for the moms to let the dads do some of the night feeding,\#$NEWLINE-MARKER$\#surely we can realize that whether you believe in God or evolution,\#$NEWLINE-MARKER$\#both would tend towards that "discovery."  
+\#$NEWLINE-MARKER$\#\#$NEWLINE-MARKER$\#The second item of "news" is that your energy needs vary with your\#$NEWLINE-MARKER$\#exercise level, and thus a one-size-fits-all recommendation of\#$NEWLINE-MARKER$\#2,000 calories for women and 2,500 for men is too high for some\#$NEWLINE-MARKER$\#people and too low for others. Wow, I never would have guessed.
+
+
+
+
+
