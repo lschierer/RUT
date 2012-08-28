@@ -111,7 +111,7 @@ input#searchbox {
 	padding-right: 16px;
 }
 
-img#toplogo, #bottomlogo {
+.toplogo, .bottomlogo {
 	margin-left:auto;
 	margin-right:auto;
 	display:block;
