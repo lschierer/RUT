@@ -4,8 +4,8 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-[[!inline  pages="* and !*/Discussion and !templates/* and !posts and !archives/* and !*.css" sort="mtime" archive="yes" actions="no" show=10 feeds=no]]
-[[!inline  pages="* and !*/Discussion and !templates/* and !posts and !archives/* and !*.css" sort="mtime" archive="no" actions="no" show=0 feedsonly="yes" feedshow=20]]
+[[!inline  pages="* and !*/Discussion and !templates/* and !posts and !sidebar and !archives/* and !*.css" sort="mtime" archive="yes" actions="no" show=10 feeds=no]]
+[[!inline  pages="* and !*/Discussion and !templates/* and !posts and !sidebar and !archives/* and !*.css" sort="mtime" archive="no" actions="no" feedonly="yes" feedshow=20]]
 
 
 [[All Posts and Pages|posts]]
