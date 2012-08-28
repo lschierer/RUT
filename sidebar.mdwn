@@ -9,4 +9,4 @@
 [[!pagestats style="list" pages="./tags/*" ]]
 
 
-[[!inline  pages="* and !index and !templates/* and and !posts and !sidebar and !archives/* and !*.css" sort="mtime" archive="no" actions="no" feedonly="yes" feedshow=20]]
+[[!inline  pages="* and !templates/* and and !posts and !sidebar and !archives/* and !*.css" sort="mtime" archive="no" actions="no" feedonly="yes" feedshow=20]]
