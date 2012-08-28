@@ -34,20 +34,18 @@
 
 <TMPL_IF HTML5><section class="pageheader"><TMPL_ELSE><div class="pageheader"></TMPL_IF>
 <TMPL_IF HTML5><header class="header"><TMPL_ELSE><div class="header"></TMPL_IF>
-<span>
 <span class="parentlinks">
 <TMPL_LOOP PARENTLINKS>
 <a href="<TMPL_VAR URL>"><TMPL_VAR PAGE></a>/ 
 </TMPL_LOOP>
 </span>
-<span class="title" >
-	<center>
+<div align="center">
+	<span class="title" >
 		<a href="http://www.schierer.org/~luke/log" title="Random Unfinished Thoughts">
-			<img src="http://www.schierer.org/~luke/images/RUTLogo1.gif" alt="Random Unfinished Thoughts" width="98%" border="0"/>
+			<img src="http://www.schierer.org/~luke/images/RUTLogo1.gif" alt="Random Unfinished Thoughts" width="98%" >
 		</a>
-	</center>
-</span>
-</span>
+	</span>
+</div>
 <TMPL_IF SEARCHFORM>
 <TMPL_VAR SEARCHFORM>
 </TMPL_IF>
