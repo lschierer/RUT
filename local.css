@@ -25,8 +25,8 @@ acronym, abbr { border-bottom: 1px dotted #88CDAE; }
 acronym, abbr, span.caps { cursor: help; letter-spacing: .06em; }
 
 blockquote{
-	background: #468B79;
-        border-left: #AAFFD9 3px solid;
+	background: #000066;;
+    border-left: #AAFFD9 3px solid;
 	margin: 15px 55px 10px 25px;
 	padding: 5px 2px 2px 5px;
 }
