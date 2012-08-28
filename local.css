@@ -111,3 +111,9 @@ input#searchbox {
 	padding-right: 16px;
 }
 
+img#toplogo {
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
