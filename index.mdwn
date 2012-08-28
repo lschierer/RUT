@@ -5,8 +5,6 @@
 """]]
 
 [[!inline  pages="* and !*/Discussion and !templates/* and !posts and !sidebar and !archives/* and !*.css" sort="mtime" archive="yes" actions="no" show=10 feeds=no]]
-[[!inline  pages="* and !*/Discussion and !templates/* and !posts and !sidebar and !archives/* and !*.css" sort="mtime" archive="no" actions="no" feedonly="yes" feedshow=20]]
-
 
 [[All Posts and Pages|posts]]
 

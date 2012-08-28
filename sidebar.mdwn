@@ -8,3 +8,5 @@
 
 [[!pagestats style="list" pages="./tags/*" ]]
 
+
+[[!inline  pages="* and !*/Discussion and !templates/* and !posts and !sidebar and !archives/* and !*.css" sort="mtime" archive="no" actions="no" feedonly="yes" feedshow=20]]
