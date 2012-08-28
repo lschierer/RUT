@@ -104,11 +104,11 @@ input, textarea {
 }
 
 input#searchbox {
+	float: right;
 	background: url(wikiicons/search-bg.gif) no-repeat;
 	background-color: #fff;
 	background-position: 100% 50%;
 	color: #000;
-	padding-right: 16px;
 }
 
 .toplogo, .bottomlogo {
