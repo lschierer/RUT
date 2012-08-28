@@ -1,5 +1,11 @@
 Options +ExecCGI
 
+RewriteEngine On
+RewriteBase /~luke/log/
+RewriteRule ^(\d+)-\d+/(.*)$ $1/$2 [R]
+
+FallbackResource /~luke/log/
+
 <LimitExcept GET>
 	AuthType Basic
 	AuthBasicProvider ldap
