@@ -1,0 +1,1 @@
+[[!map pages="quotes/* and ! quotes/*/*"]]
