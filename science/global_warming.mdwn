@@ -15,4 +15,4 @@
 
 [^20121115-3]: Ibid.
 
-[20121125-1]: Mr. Christopher Mims and Ms. Stephanie Gruner Buckley.  "5 Charts About Climate Change That Should Have You Very, Very Worried" [the Atlantic](http://www.theatlantic.com) Last Viewed 2012-11-25.  <http://www.theatlantic.com/technology/archive/2012/11/5-charts-about-climate-change-that-should-have-you-very-very-worried/265554/>
+[^20121125-1]: Mr. Christopher Mims and Ms. Stephanie Gruner Buckley.  "5 Charts About Climate Change That Should Have You Very, Very Worried" [the Atlantic](http://www.theatlantic.com) Last Viewed 2012-11-25.  <http://www.theatlantic.com/technology/archive/2012/11/5-charts-about-climate-change-that-should-have-you-very-very-worried/265554/>
