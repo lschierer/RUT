@@ -9,4 +9,4 @@
 [[!pagestats style="list" pages="./tags/*" ]]
 
 
-[[!inline  pages="* and !index and !templates/* and !posts and !sidebar and !archives/* and !*.css" sort="mtime" archive="no" actions="no" feedonly="yes" atom=0 feedshow=20]](http://www.schierer.org/~luke/log/index.rss)
+[[!inline  rootpage="/" pages="* and !index and !templates/* and !posts and !sidebar and !archives/* and !*.css" sort="mtime" archive="no" actions="no" feedonly="yes" feedshow=20]]
