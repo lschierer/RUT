@@ -8,3 +8,5 @@
 
 [[All Posts and Pages|posts]]
 
+[[!inline  pages="* and !index and !templates/* and !posts and !sidebar and !archives/* and !*.css" sort="mtime" archive="no" actions="no" feedonly="yes" feedshow=20]]
+
