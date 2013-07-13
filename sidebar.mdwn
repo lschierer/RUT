@@ -1,10 +1,8 @@
-[[!if test="enabled(calendar)" then="""
-[[!calendar pages="page(./posts/*) and !*/Discussion"]]
-"""]]
-
 [[Archives]]
 
 [[Tags]]:
 
 [[!pagestats style="list" pages="./tags/*" ]]
+
+[[!inline  pages="* and !index and !templates/* and !posts and !sidebar and !archives/* and !*.css" sort="mtime" archive="no" actions="no" atom=yes feedonly="yes" feedshow=20]]
 
