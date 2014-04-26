@@ -29,6 +29,17 @@
 <TMPL_IF META><TMPL_VAR META></TMPL_IF>
 </head>
 <body>
+	<div id="ff_warning" style="padding:5px;height:auto;font-family:arial;background-color:#ffffaa;display:none;margin-top:0px;border:1px solid black;position:absolute;top:0px;left:0px;right:0px;z-index:1000">
+		<span style="float:right;font-size:11px;margin-right:5px;cursor:pointer" onClick="document.getElementById('ff_warning').style.display='none'">[close]</span>
+	<b>Firefox users</b> I wanted to take this space to let you know what Mozilla, the company that makes Firefox has been doing, and it's not good. Mozilla recently forced it's CEO to resign because he had, 5 years ago, donated $1,000 to a pro-family political group. Apparently Mozilla is intolerant of anyone that disagrees with their Liberal view of politics. To read more please visit <a href="http://whyfirefoxisblocked.com" target="_blank">WhyFirefoxIsBlocked.com</a>. (We aren't blocking Firefox, but we feel it is important to let you know what's going on.)
+	</div>
+	<script>
+		var is_firefox = /firefox/i.test(navigator.userAgent)
+		if(is_firefox)
+		{
+			document.getElementById('ff_warning').style.display='';	
+		}
+	</script>
 
 <TMPL_IF HTML5><article class="page"><TMPL_ELSE><div class="page"></TMPL_IF>
 
