@@ -31,4 +31,4 @@ partly takes too much configuration to be worth the few problems it
 does solve.  It also seems to be very much a pain in the neck to get
 working correctly and keep working correctly.  I am not pleased.</p>
 
-[[!tag  uncategorized]]
+[[!tag personal]]

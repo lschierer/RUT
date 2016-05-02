@@ -31,4 +31,5 @@ Your Right Brain Percentages<br />
 [^200712171]: The Art Institute of Vancouver "Right Brain vs Left Brain Creativity Test"  <http://www.wherecreativitygoestoschool.com/vancouver/left_right/rb_test.htm>
 
 
-[[!tag  uncategorized]]
+[[!tag quizes]]
+[[!tag personal]]
