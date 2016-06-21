@@ -42,7 +42,7 @@ I hate it even more when they think they can dictate priorities.
 Why can people not grasp that in an open source project, only the
 developers' priorities matter?
 
-[^20050126-1]: (http://news.findlaw.com/ap_stories/other/1110/1-26-2005/20050126030014_03.html) 
+[^20050126-1]: <http://news.findlaw.com/ap_stories/other/1110/1-26-2005/20050126030014_03.html> 
 
 [[!tag  morality-religion]]
 [[!tag  pidgin]]
