@@ -5,6 +5,7 @@ though the size of it does not reflect that.  *shrugs*
 Ah-well.
 
 **news**
+
 There is a man in
 Florida who has some incredible guts, whatever his other faults.
 [This story](http://news.findlaw.com/ap_stories/other/features/1120/1-26-2005/20050126053003_40.html) talks about a man who full-page newspaper ad in an
@@ -35,12 +36,13 @@ can aspire to?  For all its truth, how do you make that truth
 shine through?
 
 **gaim**
+
 I hate it when users get ideas about how easy something is to implement.
 I hate it even more when they think they can dictate priorities.
 Why can people not grasp that in an open source project, only the
 developers' priorities matter?
 
-[^20050126-1]: http://news.findlaw.com/ap_stories/other/1110/1-26-2005/20050126030014_03.html 
+[^20050126-1]: (http://news.findlaw.com/ap_stories/other/1110/1-26-2005/20050126030014_03.html) 
 
 [[!tag  morality-religion]]
 [[!tag  pidgin]]
