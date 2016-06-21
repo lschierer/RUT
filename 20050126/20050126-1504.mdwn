@@ -2,16 +2,22 @@
 [[!meta  date="2005-01-26 19:04:00"]]
 I've more or less been slowly writing this all day today,
 though the size of it does not reflect that.  *shrugs*
-Ah-well.<br  /> <strong>news</strong><br  /> There is a man in
-Florida who has some incredible guts, whatever his other faults.  <a href="http://news.findlaw.com/ap_stories/other/features/1120/1-26-2005/20050126053003_40.html">This
-story</a> talks about a man who full-page newspaper ad in an
+Ah-well.
+
+**news**
+There is a man in
+Florida who has some incredible guts, whatever his other faults.
+[This story](http://news.findlaw.com/ap_stories/other/features/1120/1-26-2005/20050126053003_40.html) talks about a man who full-page newspaper ad in an
 attempt to contact his wife and save his Marriage.  Whatever
 his faults, I think it must have taken great courage to use so
-public a method to reach her.  I hope things work out.<br  /> In
-Delaware, a "life" sentence now means 45 years<a href="#findlaw1"><font size="-1"><sup>1</sup></font></a>.  Lovely.  People argue
+public a method to reach her.  I hope things work out.
+
+In Delaware, a "life" sentence now means 45 years.[^20050126-1]  Lovely.  People argue
 against the death penalty saying that in the modern era, it is
 possible to keep society safe without it.  I tend to agree, but
-things like this make me wonder if that is true.<br  /> The BBC <a href="http://news.bbc.co.uk/2/hi/in_depth/4208479.stm">reports</a>
+things like this make me wonder if that is true.
+
+The BBC [reports](http://news.bbc.co.uk/2/hi/in_depth/4208479.stm)
 that birth rates are falling world wide.  The tone of the article
 seems to oscillate between sorrow that they are not falling faster
 and worry that they are falling.  How confused a world we live in,
@@ -23,14 +29,18 @@ we are going to have to realize that motherhood is important,
 and that having and raising children is the most important, most
 meaningful thing that a couple will, or could, ever do.  I don't
 know how to argue this one effectively.  I know that it is true,
-but how do seriously tell a girl that you don't think a career
+but how to seriously tell a girl that you don't think a career
 outside the home is the best course she can take, the best she
 can aspire to?  For all its truth, how do you make that truth
-shine through?<br  /> <hr  /> <strong>gaim</strong><br  /> I hate it
-when users get ideas about how easy something is to implement.
+shine through?
+
+**gaim**
+I hate it when users get ideas about how easy something is to implement.
 I hate it even more when they think they can dictate priorities.
 Why can people not grasp that in an open source project, only the
-developers' priorities matter?<br  /> <hr  /> <a name="findlaw1">1)</a> <a href="http://news.findlaw.com/ap_stories/other/1110/1-26-2005/20050126030014_03.html">http://news.findlaw.com/ap_stories/other/1110/1-26-2005/20050126030014_03.html</a>
+developers' priorities matter?
+
+[^20050126-1]: http://news.findlaw.com/ap_stories/other/1110/1-26-2005/20050126030014_03.html 
 
 [[!tag  morality-religion]]
 [[!tag  pidgin]]
