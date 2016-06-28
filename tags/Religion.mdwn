@@ -1,0 +1,4 @@
+[[!meta title="pages tagged Religion"]]
+
+[[!inline pages="tagged(Religion)" actions="no" archive="yes"
+feedshow=10]]
