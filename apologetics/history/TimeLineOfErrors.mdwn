@@ -2,5 +2,5 @@
 [[!tag history]]
 [[!meta title="Timeline of Errors"]]
 
-[[!table  file="./ErrorsAndDenominations.dsv" format=dsv]]
+[[!table  file="ErrorsAndDenominations.dsv" format=dsv]]
 
