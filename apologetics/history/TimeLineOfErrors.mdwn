@@ -2,9 +2,9 @@
 [[!tag history]]
 [[!meta title="Timeline of Errors"]]
 
-|Name|Founder|Date of Origin|prevalent through|church/denominiation names|Errors|References|
+|Name|church/denominiation names|Founder|Date of Origin|prevalent through|Errors|References|
 |--|--|--|--|--|--|--|
 |Judaizers|Pharisees who converted to Christianity|33AD|~387|none|All converts must follow all aspects of Jewish law|"Judaizers." *Wikipedia: The Free Encyclopedia*. Wikimedia Foundation, Inc. <https://en.wikipedia.org/w/index.php?title=Judaizers&oldid=722295897>|
-|Gnostism|Marcion|~144|~5th Century|Marcionism| *Belief in a "good" god and a separate "bad" or "evil" god\n * Belief that matter is evil|"Marcionism" *Wikipedia: The Free Encyclopedia*. Wikimedia Foundation, Inc. <https://en.wikipedia.org/w/index.php?title=Marcionism&oldid=723010381>
-|Gnostism|Mani|216<x<276|~780|Manichaeism|*Belief in a "good" god and a separate "bad" or "evil" god\n * Belief that matter is evil\n* Suicide and abortion as a moral good|"Manichaeism" Wikipedia: The Free Encyclopedia*. Wikimedia Foundation, Inc. <https://en.wikipedia.org/w/index.php?title=Manichaeism&oldid=727087727>|
+|Gnostism|Marcionism|Marcion|~144|~5th Century| *Belief in a "good" god and a separate "bad" or "evil" god\n * Belief that matter is evil|"Marcionism" *Wikipedia: The Free Encyclopedia*. Wikimedia Foundation, Inc. <https://en.wikipedia.org/w/index.php?title=Marcionism&oldid=723010381>
+|Gnostism|Manichaeism|Mani|216&lt;x&lt;276|~780|*Belief in a "good" god and a separate "bad" or "evil" god\n * Belief that matter is evil\n* Suicide and abortion as a moral good|"Manichaeism" Wikipedia: The Free Encyclopedia*. Wikimedia Foundation, Inc. <https://en.wikipedia.org/w/index.php?title=Manichaeism&oldid=727087727>|
 [Prototype table] 
