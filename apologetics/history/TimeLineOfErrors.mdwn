@@ -1,0 +1,6 @@
+[[!tag Religion]]
+[[!tag history]]
+[[!meta title="Timeline of Errors"]]
+
+[[!table  data="./ErrorsAndDenominations.dsv" format=dsv]]
+
