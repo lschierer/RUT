@@ -96,31 +96,31 @@ SyriacOrthodox [label="Syriac Orthodox"];
 
 33 -> 100 -> 200 -> 300 -> 400 -> 500 -> 600 -> 700 -> 800 -> 900 -> 1000 -> 1100 -> 1200 -> 1300 -> 1400 -> 1500 -> 1600 -> 1700 -> 1800 -> 1900 -> 2000 [weight=1,rankdir=LR];
 33 -> 34 [style=invis,weight=100,len=2];
-33 -> 50 -> 100 -> 150 -> 200 -> 250 -> 300 -> 350 -> 400 -> 450 -> 500 -> 550 -> 600 -> 650 -> 700 -> 750 -> 800 -> 850 -> 900 -> 950 -> 1000 -> 1050 -> 1100 -> 1150 -> 1200 -> 1250 -> 1300 -> 1350 -> 1400 -> 1450 -> 1500 -> 1550 -> 1600 -> 1650 -> 1700 -> 1750 -> 1800 -> 1850 -> 1900 -> 1950 -> 2000 [style=invis,weight=50,len=1];
+33 -> 50 -> 100 -> 150 -> 200 -> 250 -> 300 -> 350 -> 400 -> 450 -> 500 -> 550 -> 600 -> 650 -> 700 -> 750 -> 800 -> 850 -> 900 -> 950 -> 1000 -> 1050 -> 1100 -> 1150 -> 1200 -> 1250 -> 1300 -> 1350 -> 1400 -> 1450 -> 1500 -> 1550 -> 1600 -> 1650 -> 1700 -> 1750 -> 1800 -> 1850 -> 1900 -> 1950 -> 2000 [weight=50,len=1];
 199 -> 200 [style=invis,weight=100];
 
-34 [shape=point,style=invis];
-50 [shape=point,style=invis];
-150 [shape=point,style=invis];
-199 [shape=point,style=invis];
-250 [shape=point,style=invis];
-350 [shape=point,style=invis];
-450 [shape=point,style=invis];
-550 [shape=point,style=invis];
-650 [shape=point,style=invis];
-750 [shape=point,style=invis];
-850 [shape=point,style=invis];
-950 [shape=point,style=invis];
-1050 [shape=point,style=invis];
-1150 [shape=point,style=invis];
-1250 [shape=point,style=invis];
-1350 [shape=point,style=invis];
-1450 [shape=point,style=invis];
-1550 [shape=point,style=invis];
-1650 [shape=point,style=invis];
-1750 [shape=point,style=invis];
-1850 [shape=point,style=invis];
-1950 [shape=point,style=invis];
+34 [shape=point];
+50 [shape=point];
+150 [shape=point];
+199 [shape=point];
+250 [shape=point];
+350 [shape=point];
+450 [shape=point];
+550 [shape=point];
+650 [shape=point];
+750 [shape=point];
+850 [shape=point];
+950 [shape=point];
+1050 [shape=point];
+1150 [shape=point];
+1250 [shape=point];
+1350 [shape=point];
+1450 [shape=point];
+1550 [shape=point];
+1650 [shape=point];
+1750 [shape=point];
+1850 [shape=point];
+1950 [shape=point];
 
 """]]
 
