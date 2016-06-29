@@ -41,6 +41,7 @@ Catholic -> Donatism;
 Catholic -> Judaizers;
 Catholic -> Monarchianism;
 Catholic -> Monophysitism;
+Catholic -> Monothelitism;
 Catholic -> Montanism;
 Catholic -> Nestorianism;
 Catholic -> Pelagianism;
@@ -65,11 +66,11 @@ Modalism -> Sabellianism;
 Monarchianism -> Adoptionism;
 Monarchianism -> Modalism;
 Monarchianism [shape=polygon,sides=5,color=tomato,style=filled];
-Monophysitism -> Monothelitism;
-Monothelitism -> OrientalOrthodox
+Monophysitism -> OrientalOrthodox
 Monothelitism [shape=polygon,sides=5,color=tomato,style=filled];
 Nestorianism -> Iconoclasm;
 Ophites -> Sethian;
+OrientalOrthodox -> Monothelitism;
 OrientalOrthodox -> ArmenianApostolicChurch;
 OrientalOrthodox -> Coptic ;
 Ethiopian -> Eritrean;
