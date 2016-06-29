@@ -7,6 +7,7 @@ Adoptionism [ href=[[apologetics/Adoptionism]] ]
 Arianism [ href=[[apologetics/Arianism]] ]
 Catholic [ href=[[apologetics/Catholic_Church|CatholicChurch]] ]
 Docetism [ href=[[apologetics/Docetism]] ]
+Donatism [ href=[[apologetics/Donatism]] ]
 Gnosticism [ href=[[apologetics/Gnosticism]] ]
 Manichaeism [ href=[[apologetics/Gnosticism/Manichaeism]] ]
 Modalism [ href=[[apologetics/Modalism]] ]
@@ -37,4 +38,3 @@ Manichaeism -> Paulicianism;
 
 """]]
 
-Donatism [ href=[[apologetics/Donatism]] ]
