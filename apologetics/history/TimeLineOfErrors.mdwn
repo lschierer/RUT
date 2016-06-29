@@ -16,6 +16,9 @@ Monophysitism [ href=[[apologetics/Monophysitism]] ]
 Monothelitism [ href=[[apologetics/Monothelitism]] ]
 Nestorianism [ href=[[apologetics/Nestorianism]] ]
 Paulicianism [ href=[[apologetics/Gnosticism/Paulicianism]] ]
+Ophites [ href=[[apologetics/Gnosticism/Ophites]] ]
+Sethian [ href=[[apologetics/Gnosticism/Sethian]] ]
+Naassenes [ href=[[apologetics/Gnosticism/Naassenes]] ]
 Psilanthropism [ href=[[apologetics/Adoptionism]] ]
 Sabellianism [ href=[[apologetics/Modalism]] ]
 Unitarian [ href=[[apologetics/UnificationChurch]] ]
@@ -36,7 +39,10 @@ Psilanthropism -> Unitarian;
 Catholic -> Gnosticism;
 Gnosticism -> Manichaeism;
 Gnosticism -> Paulicianism;
+Gnosticism -> Ophites;
+Ophites -> Sethian;
 Manichaeism -> Paulicianism;
+Manichaeism -> Naassenes;
 
 """]]
 
