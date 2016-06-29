@@ -29,6 +29,7 @@ Unitarian [ href=[[apologetics/UnificationChurch]] ]
 
 Catholic -> Arianism;
 Catholic -> Antinomianism;
+Catholic -> Judaizers;
 Antinomianism -> Ophites;
 Catholic -> Donatism;
 Catholic -> Docetism;
