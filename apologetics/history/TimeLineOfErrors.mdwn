@@ -48,6 +48,7 @@ Gnosticism -> Paulicianism;
 Gnosticism [shape=polygon,sides=5];
 Judaizers -> Ebionites;
 Judaizers -> Marcionism;
+Judaizers [shape=polygon,sides=5];
 Manichaeism -> Naassenes;
 Manichaeism -> Paulicianism;
 Modalism -> Sabellianism;
