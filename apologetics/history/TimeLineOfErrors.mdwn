@@ -9,8 +9,11 @@ Arianism [ href=[[apologetics/Arianism]] ]
 Catholic [ href=[[apologetics/Catholic_Church|CatholicChurch]] ]
 Docetism [ href=[[apologetics/Docetism]] ]
 Donatism [ href=[[apologetics/Donatism]] ]
+Ebionites [ href=[[apologetics/Judaizers]] ]
 Gnosticism [ href=[[apologetics/Gnosticism]] ]
+Judaizers [ href=[[apologetics/Judaizers]] ]
 Manichaeism [ href=[[apologetics/Gnosticism/Manichaeism]] ]
+Marcionism [ href=[[apologetics/Judaizers]] ]
 Modalism [ href=[[apologetics/Modalism]] ]
 Monarchianism [ href=[[apologetics/Monarchianism]] ]
 Monophysitism [ href=[[apologetics/Monophysitism]] ]
@@ -30,6 +33,8 @@ Antinomianism -> Ophites;
 Catholic -> Donatism;
 Catholic -> Docetism;
 Catholic -> Monarchianism;
+Judaizers -> Ebionites;
+Judaizers -> Marcionism;
 Monarchianism -> Adoptionism;
 Monarchianism -> Modalism;
 Modalism -> Sabellianism;
