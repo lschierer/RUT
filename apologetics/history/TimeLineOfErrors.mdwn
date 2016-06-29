@@ -46,6 +46,7 @@ Catholic -> Arianism;
 Catholic -> Docetism;
 Catholic -> Donatism;
 Catholic -> Judaizers;
+Catholic -> Lutheranism;
 Catholic -> Monarchianism;
 Catholic -> Modernism;
 Catholic -> Monophysitism;
@@ -54,6 +55,18 @@ Catholic -> Montanism;
 Catholic -> Nestorianism;
 Catholic -> Pelagianism;
 Catholic -> Jansenism;
+Catholic -> Waldensians;
+Catholic -> Hussites;
+Catholic -> Calvinist;
+Calvinist -> Huguenot;
+Calvinist -> Reformed;
+Calvinist -> Puritans;
+Calvinist -> Separatists;
+Calvinist -> Independents;
+Separatists -> Congregationalism;
+Independents -> Congregationalism;
+Reformed -> Presbyterian;
+Catholic [color=green,fillcolor=gold,style=filled]
 Coptic [label="Coptic Orthodox"];
 Docetism -> Gnosticism;
 Docetism [shape=polygon,sides=5,color=tomato,style=filled];
@@ -62,6 +75,9 @@ Ethiopian [label="Ethiopian Orthodox Tewahedo"];
 Gnosticism -> Manichaeism;
 Gnosticism -> Ophites;
 Gnosticism [shape=polygon,sides=5,color=tomato,style=filled];
+Hussites -> Moravian
+Hussites -> UnityBrethren;
+Hussites -> Utraquism [color=green];
 Iconoclasm [shape=polygon,sides=5,color=tomato,style=filled];
 Jansenism [shape=polygon,sides=5,color=tomato,style=filled];
 JehovahsWitnesses [label="Jehovah's Witnesses"];
@@ -88,14 +104,17 @@ OrientalOrthodox -> Monothelitism;
 OrientalOrthodox -> ArmenianApostolicChurch;
 OrientalOrthodox -> Coptic ;
 Paulicianism -> Catharism;
+Protestantism [shape=polygon,sides=5,color=tomato,style=filled];
 Ethiopian -> Eritrean;
 Coptic -> Ethiopian;
 OrientalOrthodox -> Malankara;
 OrientalOrthodox -> SyriacOrthodox;
 OrientalOrthodox [label="Oriental Orthodox"];
+Presbyterian -> Unificationism;
 Psilanthropism -> Unificationism;
 Psilanthropism [shape=polygon,sides=5,color=tomato,style=filled];
 SyriacOrthodox [label="Syriac Orthodox"];
+UnityBrethren [label="Unity of the Brethren"];
 
 {rank=same 33 Catholic Judaizers }
 {rank=same 34 Antinomianism Docetism }
@@ -110,12 +129,18 @@ SyriacOrthodox [label="Syriac Orthodox"];
 {rank=same 700 Iconoclasm }
 {rank=same 800 Albanenses Paulicianism }
 {rank=same 900 Bogomils }
-{rank=same 1150 Catharism }
-{rank=same 1650 Jansenism }
+{rank=same 1150 Catharism Waldensians }
+{rank=same 1400 Hussites Utraquism }
+{rank=same 1450 Moravian UnityBrethren }
+{rank=same 1500 Calvinist Lutheranism Protestantism }
+{rank=same 1530 Huguenot }
+{rank=same 1550 Presbyterian }
+{rank=same 1600 Independents }
+{rank=same 1650 Jansenism Congregationalism }
 {rank=same 1850 Modernism }
 {rank=same 1870 Americanism BibleStudent }
 {rank=same 1931 JehovahsWitnesses }
-{rank=same 1950 Ethiopian Unification }
+{rank=same 1950 Ethiopian Unificationism }
 {rank=same Coptic SyriacOrthodox ArmenianApostolicChurch }
 
 33 -> 100 -> 200 -> 300 -> 400 -> 500 -> 600 -> 700 -> 800 -> 900 -> 1000 -> 1100 -> 1200 -> 1300 -> 1400 -> 1500 -> 1600 -> 1700 -> 1800 -> 1900 -> 2000 [weight=1000,len=2];
@@ -124,6 +149,7 @@ SyriacOrthodox [label="Syriac Orthodox"];
 34 -> 50 [style=invis];
 199 -> 200 [style=invis,weight=100,len=0.2];
 150 -> 199 [style=invis,weight=50,len=1];
+1500 -> 1530 -> 1550 [style=invis,len=0.5];
 1850 -> 1870 -> 1900 [style=invis,len=0.5];
 1900 -> 1931 -> 1950 [style=invis,len=0.5];
 
@@ -146,6 +172,7 @@ SyriacOrthodox [label="Syriac Orthodox"];
 1250 [shape=point,style=invis];
 1350 [shape=point,style=invis];
 1450 [shape=point,style=invis];
+1530 [shape=point,style=invis];
 1550 [shape=point,style=invis];
 1650 [shape=point,style=invis];
 1750 [shape=point,style=invis];
