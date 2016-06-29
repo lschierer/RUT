@@ -21,6 +21,7 @@ Sabellianism [ href=[[apologetics/Modalism]] ]
 Unitarian [ href=[[apologetics/UnificationChurch]] ]
 
 Catholic -> Arianism;
+Catholic -> Donatism;
 Catholic -> Docetism;
 Catholic -> Monarchianism;
 Monarchianism -> Adoptionism;
