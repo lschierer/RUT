@@ -44,7 +44,6 @@ Docetism -> Gnosticism;
 Docetism [shape=polygon,sides=5,color=tomato,style=filled];
 Gnosticism -> Manichaeism;
 Gnosticism -> Ophites;
-Gnosticism -> Paulicianism;
 Gnosticism [shape=polygon,sides=5,color=tomato,style=filled];
 Iconoclasm [shape=polygon,sides=5,color=tomato,style=filled];
 Judaizers -> Ebionites;
@@ -69,7 +68,7 @@ Psilanthropism [shape=polygon,sides=5,color=tomato,style=filled];
 
 rankdir=LR;
 {rank=same 33 Catholic Judaizers }
-{rank=same 100 Adoptionism Antinomianism Docetism Marcionism Sabellianism Ophites Sethian }
+{rank=same 100 Adoptionism Antinomianism Docetism Gnosticism Marcionism Sabellianism Ophites Sethian }
 {rank=same 200 Manichaeism }
 {rank=same 300 Donatism Ebionites Priscillianism }
 {rank=same 400 Monophysitism Nestorianism }
