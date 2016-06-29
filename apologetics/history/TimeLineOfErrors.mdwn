@@ -21,7 +21,7 @@ Monothelitism [ href=[[apologetics/Monothelitism]] ]
 Nestorianism [ href=[[apologetics/Nestorianism]] ]
 Paulicianism [ href=[[apologetics/Gnosticism/Paulicianism]] ]
 Ophites [ href=[[apologetics/Gnosticism/Ophites]] ]
-Oriental Orthodox [ href=[[apologetics/OrientalOrthodox]] ]
+OrientalOrthodox [ href=[[apologetics/OrientalOrthodox]] ]
 Sethian [ href=[[apologetics/Gnosticism/Sethian]] ]
 Naassenes [ href=[[apologetics/Gnosticism/Naassenes]] ]
 Psilanthropism [ href=[[apologetics/Adoptionism]] ]
@@ -30,6 +30,7 @@ Unitarian [ href=[[apologetics/UnificationChurch]] ]
 
 Adoptionism -> Psilanthropism;
 Antinomianism -> Ophites;
+Antinomianism [shape=polygon,sides=5];
 Catholic -> Antinomianism;
 Catholic -> Arianism;
 Catholic -> Docetism;
@@ -54,9 +55,10 @@ Monarchianism -> Adoptionism;
 Monarchianism -> Modalism;
 Monarchianism [shape=polygon,sides=5];
 Monophysitism -> Monothelitism;
-Monothelitism -> Oriental Orthodox
+Monothelitism -> OrientalOrthodox
 Monothelitism [shape=polygon,sides=5];
 Ophites -> Sethian;
+OrientalOrthodox [label="Oriental Orthodox",color=green];
 Psilanthropism -> Unitarian;
 
 """]]
