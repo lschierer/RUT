@@ -25,7 +25,6 @@ Sethian [ href=[[apologetics/Gnosticism/Sethian]] ]
 Naassenes [ href=[[apologetics/Gnosticism/Naassenes]] ]
 Psilanthropism [ href=[[apologetics/Adoptionism]] ]
 Sabellianism [ href=[[apologetics/Modalism]] ]
-Unitarian [ href=[[apologetics/UnificationChurch]] ]
 
 rankdir=LR;
 fontsize=10;
@@ -78,7 +77,7 @@ Coptic -> Ethiopian;
 OrientalOrthodox -> Malankara;
 OrientalOrthodox -> SyriacOrthodox;
 OrientalOrthodox [label="Oriental Orthodox"];
-Psilanthropism -> Unitarian;
+Psilanthropism -> Unificationism;
 Psilanthropism [shape=polygon,sides=5,color=tomato,style=filled];
 SyriacOrthodox [label="Syriac Orthodox"];
 
@@ -94,7 +93,7 @@ SyriacOrthodox [label="Syriac Orthodox"];
 {rank=same 600 Monothelitism }
 {rank=same 700 Iconoclasm }
 {rank=same 800 Paulicianism }
-{rank=same 1950 Ethiopian }
+{rank=same 1950 Ethiopian Unification }
 {rank=same Coptic SyriacOrthodox ArmenianApostolicChurch }
 
 33 -> 100 -> 200 -> 300 -> 400 -> 500 -> 600 -> 700 -> 800 -> 900 -> 1000 -> 1100 -> 1200 -> 1300 -> 1400 -> 1500 -> 1600 -> 1700 -> 1800 -> 1900 -> 2000 [weight=1000,len=2];
