@@ -27,32 +27,32 @@ Psilanthropism [ href=[[apologetics/Adoptionism]] ]
 Sabellianism [ href=[[apologetics/Modalism]] ]
 Unitarian [ href=[[apologetics/UnificationChurch]] ]
 
-Catholic -> Arianism;
-Catholic -> Antinomianism;
-Catholic -> Judaizers;
+Adoptionism -> Psilanthropism;
 Antinomianism -> Ophites;
-Catholic -> Donatism;
+Catholic -> Antinomianism;
+Catholic -> Arianism;
 Catholic -> Docetism;
+Catholic -> Donatism;
+Catholic -> Gnosticism;
+Catholic -> Judaizers;
 Catholic -> Monarchianism;
-Judaizers -> Ebionites;
-Judaizers -> Marcionism;
-Monarchianism -> Adoptionism;
-Monarchianism -> Modalism;
-Modalism -> Sabellianism;
 Catholic -> Monophysitism;
-Monophysitism -> Monothelitism;
 Catholic -> Monothelitism;
 Catholic -> Nestorianism;
-Adoptionism -> Psilanthropism;
-Psilanthropism -> Unitarian;
-Catholic -> Gnosticism;
-Gnosticism [shape=polygon,sides=5];
 Gnosticism -> Manichaeism;
-Gnosticism -> Paulicianism;
 Gnosticism -> Ophites;
-Ophites -> Sethian;
-Manichaeism -> Paulicianism;
+Gnosticism -> Paulicianism;
+Gnosticism [shape=polygon,sides=5];
+Judaizers -> Ebionites;
+Judaizers -> Marcionism;
 Manichaeism -> Naassenes;
+Manichaeism -> Paulicianism;
+Modalism -> Sabellianism;
+Monarchianism -> Adoptionism;
+Monarchianism -> Modalism;
+Monophysitism -> Monothelitism;
+Ophites -> Sethian;
+Psilanthropism -> Unitarian;
 
 """]]
 
