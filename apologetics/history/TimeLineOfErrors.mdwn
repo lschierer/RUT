@@ -30,7 +30,7 @@ Unitarian [ href=[[apologetics/UnificationChurch]] ]
 
 Adoptionism -> Psilanthropism;
 Antinomianism -> Ophites;
-Antinomianism [shape=polygon,sides=5];
+Antinomianism [shape=polygon,sides=5,color=tomato,style=filled];
 Catholic -> Antinomianism;
 Catholic -> Arianism;
 Catholic -> Docetism;
@@ -41,23 +41,23 @@ Catholic -> Monophysitism;
 Catholic -> Monothelitism;
 Catholic -> Nestorianism;
 Docetism -> Gnosticism;
-Docetism [shape=polygon,sides=5];
+Docetism [shape=polygon,sides=5,color=tomato,style=filled];
 Gnosticism -> Manichaeism;
 Gnosticism -> Ophites;
 Gnosticism -> Paulicianism;
-Gnosticism [shape=polygon,sides=5];
+Gnosticism [shape=polygon,sides=5,color=tomato,style=filled];
 Judaizers -> Ebionites;
 Judaizers -> Marcionism;
-Judaizers [shape=polygon,sides=5];
+Judaizers [shape=polygon,sides=5,color=tomato,style=filled];
 Manichaeism -> Naassenes;
 Manichaeism -> Paulicianism;
 Modalism -> Sabellianism;
 Monarchianism -> Adoptionism;
 Monarchianism -> Modalism;
-Monarchianism [shape=polygon,sides=5];
+Monarchianism [shape=polygon,sides=5,color=tomato,style=filled];
 Monophysitism -> Monothelitism;
 Monothelitism -> OrientalOrthodox
-Monothelitism [shape=polygon,sides=5];
+Monothelitism [shape=polygon,sides=5,color=tomato,style=filled];
 Ophites -> Sethian;
 OrientalOrthodox [label="Oriental Orthodox",color=green];
 Psilanthropism -> Unitarian;
