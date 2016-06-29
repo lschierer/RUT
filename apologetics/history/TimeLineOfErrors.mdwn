@@ -68,7 +68,7 @@ Psilanthropism [shape=polygon,sides=5,color=tomato,style=filled];
 
 rankdir=LR;
 {rank=same 33 Catholic Judaizers }
-{rank=same 100 Adoptionism Antinomianism Docetism Sabellianism Ophites Sethian }
+{rank=same 100 Adoptionism Antinomianism Docetism Marcionism Sabellianism Ophites Sethian }
 {rank=same 200 Manichaeism }
 {ranke=same 300 Donatism Ebionites Priscillianism }
 {ranke=same 400 Monophysitism Nestorianism }
