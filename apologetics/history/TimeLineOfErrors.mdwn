@@ -78,10 +78,13 @@ Psilanthropism -> Unitarian;
 Psilanthropism [shape=polygon,sides=5,color=tomato,style=filled];
 SyriacOrthodox [label="Syriac Orthodox"];
 
-33 ->  100 -> 200 -> 300 -> 400 -> 500 -> 600 -> 700 -> 800 -> 900 -> 1000 -> 1100 -> 1200 -> 1300 -> 1400 -> 1500 -> 1600 -> 1700 -> 1800 -> 1900 -> 2000;
-33 -> 34 -> 50 -> 100 -> 150-> 199 -> 400 -> 450  [style=invis];
+33 -> 100 -> 200 -> 300 -> 400 -> 500 -> 600 -> 700 -> 800 -> 900 -> 1000 -> 1100 -> 1200 -> 1300 -> 1400 -> 1500 -> 1600 -> 1700 -> 1800 -> 1900 -> 2000 [stlye=invis,weight=100];
+33 -> 34 [stlye=invis,weight=1];
+100 -> 150 -> 200 [stlye=invis,weight=50];
+199 -> 200 [stlye=invis,weight=1];
+400 -> 450 -> 500 [style=invis,weight=50];
+
 34 [style=invis];
-50 [style=invis];
 150 [style=invis];
 199 [style=invis];
 450 [style=invis];
