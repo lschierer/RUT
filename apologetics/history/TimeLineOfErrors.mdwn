@@ -30,9 +30,12 @@ rankdir=LR;
 fontsize=10;
 
 Adoptionism -> Psilanthropism;
+Adoptionism -> Bogomils;
+Albanenses -> Catharism;
 Antinomianism -> Ophites;
 Antinomianism [shape=polygon,sides=5,color=tomato,style=filled];
 ArmenianApostolicChurch [label="Armenian Apostolic Church "];
+Bogomils -> Catharism;
 Catholic -> Antinomianism;
 Catholic -> Arianism;
 Catholic -> Docetism;
@@ -58,9 +61,11 @@ Judaizers -> Marcionism;
 Judaizers -> Iconoclasm;
 Judaizers [shape=polygon,sides=5,color=tomato,style=filled];
 Malankara [label="Malankara Orthodox Syrian"];
+Manichaeism -> Albanenses;
 Manichaeism -> Naassenes;
 Manichaeism -> Paulicianism;
 Manichaeism -> Priscillianism;
+Manichaeism -> Bogomils;
 Modalism -> Sabellianism;
 Monarchianism -> Adoptionism;
 Monarchianism -> Modalism;
@@ -72,6 +77,7 @@ Ophites -> Sethian;
 OrientalOrthodox -> Monothelitism;
 OrientalOrthodox -> ArmenianApostolicChurch;
 OrientalOrthodox -> Coptic ;
+Paulicianism -> Catharism;
 Ethiopian -> Eritrean;
 Coptic -> Ethiopian;
 OrientalOrthodox -> Malankara;
@@ -92,7 +98,9 @@ SyriacOrthodox [label="Syriac Orthodox"];
 {rank=same 450 OrientalOrthodox }
 {rank=same 600 Monothelitism }
 {rank=same 700 Iconoclasm }
-{rank=same 800 Paulicianism }
+{rank=same 800 Albanenses Paulicianism }
+{rank=same 900 Bogomils }
+{rank=same 1150 Catharism }
 {rank=same 1950 Ethiopian Unification }
 {rank=same Coptic SyriacOrthodox ArmenianApostolicChurch }
 
