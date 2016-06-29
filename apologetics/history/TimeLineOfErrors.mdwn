@@ -10,7 +10,7 @@ Catholic [ href=[[apologetics/Catholic_Church|CatholicChurch]] ]
 Docetism [ href=[[apologetics/Docetism]] ]
 Donatism [ href=[[apologetics/Donatism]] ]
 Ebionites [ href=[[apologetics/Judaizers]] ]
-Gnosticism [ href=[[apologetics/Gnosticism]],shape=polygon,sides=5 ]
+Gnosticism [ href=[[apologetics/Gnosticism]] ]
 Judaizers [ href=[[apologetics/Judaizers]] ]
 Manichaeism [ href=[[apologetics/Gnosticism/Manichaeism]] ]
 Marcionism [ href=[[apologetics/Judaizers]] ]
@@ -46,6 +46,7 @@ Catholic -> Nestorianism;
 Adoptionism -> Psilanthropism;
 Psilanthropism -> Unitarian;
 Catholic -> Gnosticism;
+Gnosticism [shape=polygon,sides=5];
 Gnosticism -> Manichaeism;
 Gnosticism -> Paulicianism;
 Gnosticism -> Ophites;
