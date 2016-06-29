@@ -21,6 +21,7 @@ Monothelitism [ href=[[apologetics/Monothelitism]] ]
 Nestorianism [ href=[[apologetics/Nestorianism]] ]
 Paulicianism [ href=[[apologetics/Gnosticism/Paulicianism]] ]
 Ophites [ href=[[apologetics/Gnosticism/Ophites]] ]
+Oriental Orthodox [ href=[[apologetics/OrientalOrthodox]] ]
 Sethian [ href=[[apologetics/Gnosticism/Sethian]] ]
 Naassenes [ href=[[apologetics/Gnosticism/Naassenes]] ]
 Psilanthropism [ href=[[apologetics/Adoptionism]] ]
@@ -33,12 +34,13 @@ Catholic -> Antinomianism;
 Catholic -> Arianism;
 Catholic -> Docetism;
 Catholic -> Donatism;
-Catholic -> Gnosticism;
 Catholic -> Judaizers;
 Catholic -> Monarchianism;
 Catholic -> Monophysitism;
 Catholic -> Monothelitism;
 Catholic -> Nestorianism;
+Docetism -> Gnosticism;
+Docetism [shape=polygon,sides=5];
 Gnosticism -> Manichaeism;
 Gnosticism -> Ophites;
 Gnosticism -> Paulicianism;
@@ -50,7 +52,10 @@ Manichaeism -> Paulicianism;
 Modalism -> Sabellianism;
 Monarchianism -> Adoptionism;
 Monarchianism -> Modalism;
+Monarchianism [shape=polygon,sides=5];
 Monophysitism -> Monothelitism;
+Monothelitism -> Oriental Orthodox
+Monothelitism [shape=polygon,sides=5];
 Ophites -> Sethian;
 Psilanthropism -> Unitarian;
 
