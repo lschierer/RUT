@@ -33,21 +33,27 @@ Adoptionism -> Psilanthropism;
 Adoptionism -> Bogomils;
 Adoptionism [shape=polygon,sides=5,color=tomato,style=filled];
 Albanenses -> Catharism;
+Americanism [shape=polygon,sides=5,color=tomato,style=filled];
 Antinomianism -> Ophites;
 Antinomianism [shape=polygon,sides=5,color=tomato,style=filled];
 ArmenianApostolicChurch [label="Armenian Apostolic Church "];
+BibleStudent -> JehovahsWitnesses;
+BibleStudent [label="Bible Student Movement"];
 Bogomils -> Catharism;
+Catholic -> Americanism;
 Catholic -> Antinomianism;
 Catholic -> Arianism;
 Catholic -> Docetism;
 Catholic -> Donatism;
 Catholic -> Judaizers;
 Catholic -> Monarchianism;
+Catholic -> Modernism;
 Catholic -> Monophysitism;
 Catholic -> Monothelitism;
 Catholic -> Montanism;
 Catholic -> Nestorianism;
 Catholic -> Pelagianism;
+Catholic -> Jansenism;
 Coptic [label="Coptic Orthodox"];
 Docetism -> Gnosticism;
 Docetism [shape=polygon,sides=5,color=tomato,style=filled];
@@ -57,6 +63,8 @@ Gnosticism -> Manichaeism;
 Gnosticism -> Ophites;
 Gnosticism [shape=polygon,sides=5,color=tomato,style=filled];
 Iconoclasm [shape=polygon,sides=5,color=tomato,style=filled];
+Jansenism [shape=polygon,sides=5,color=tomato,style=filled];
+JehovahsWitnesses [label="Jehovah's Witnesses"];
 Judaizers -> Ebionites;
 Judaizers -> Marcionism;
 Judaizers -> Iconoclasm;
@@ -68,6 +76,7 @@ Manichaeism -> Paulicianism;
 Manichaeism -> Priscillianism;
 Manichaeism -> Bogomils;
 Modalism -> Sabellianism;
+Modernism [shape=polygon,sides=5,color=tomato,style=filled];
 Monarchianism -> Adoptionism;
 Monarchianism -> Modalism;
 Monarchianism [shape=polygon,sides=5,color=tomato,style=filled];
@@ -102,6 +111,10 @@ SyriacOrthodox [label="Syriac Orthodox"];
 {rank=same 800 Albanenses Paulicianism }
 {rank=same 900 Bogomils }
 {rank=same 1150 Catharism }
+{rank=same 1650 Jansenism }
+{rank=same 1850 Modernism }
+{rank=same 1870 Americanism BibleStudent }
+{rank=same 1931 JehovahsWitnesses }
 {rank=same 1950 Ethiopian Unification }
 {rank=same Coptic SyriacOrthodox ArmenianApostolicChurch }
 
@@ -111,6 +124,8 @@ SyriacOrthodox [label="Syriac Orthodox"];
 34 -> 50 [style=invis];
 199 -> 200 [style=invis,weight=100,len=0.2];
 150 -> 199 [style=invis,weight=50,len=1];
+1850 -> 1870 -> 1900 [style=invis,len=0.5];
+1900 -> 1931 -> 1950 [style=invis,len=0.5];
 
 550 -> Monothelitism [style=invis];
 
