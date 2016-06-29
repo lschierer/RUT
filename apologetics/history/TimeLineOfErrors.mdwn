@@ -53,6 +53,7 @@ Judaizers -> Iconoclasm;
 Judaizers [shape=polygon,sides=5,color=tomato,style=filled];
 Manichaeism -> Naassenes;
 Manichaeism -> Paulicianism;
+Manichaeism -> Priscillianism;
 Modalism -> Sabellianism;
 Monarchianism -> Adoptionism;
 Monarchianism -> Modalism;
