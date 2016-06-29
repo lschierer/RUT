@@ -3,7 +3,7 @@
 [[!meta title="Timeline of Errors"]]
 
 [[!graph src="""
-Adoptionism [ href=[[apologetics/Adoptionism]] ]
+Adoptionism [ href=[[apologetics/history/TableOfErrors]] ]
 Arianism [ href=[[apologetics/Arianism]] ]
 Catholic [ href=[[apologetics/Catholic_Church|CatholicChurch]] ]
 Docetism [ href=[[apologetics/Docetism]] ]
