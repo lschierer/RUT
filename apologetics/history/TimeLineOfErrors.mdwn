@@ -20,8 +20,8 @@ Psilanthropism [ href=[[apologetics/Adoptionism]] ]
 Sabellianism [ href=[[apologetics/Modalism]] ]
 Unitarian [ href=[[apologetics/UnificationChurch]] ]
 
-
 Catholic -> Arianism;
+"""]]
 Catholic -> Docetism;
 Catholic -> Monarchianism;
 Monarchianism -> Adoptionism;
@@ -37,4 +37,3 @@ Gnosticism -> Manichaeism;
 Gnosticism -> Paulicianism;
 Manichaeism -> Paulicianism;
 
-"""]]
