@@ -79,8 +79,9 @@ Psilanthropism [shape=polygon,sides=5,color=tomato,style=filled];
 SyriacOrthodox [label="Syriac Orthodox"];
 
 33 ->  100 -> 200 -> 300 -> 400 -> 500 -> 600 -> 700 -> 800 -> 900 -> 1000 -> 1100 -> 1200 -> 1300 -> 1400 -> 1500 -> 1600 -> 1700 -> 1800 -> 1900 -> 2000;
-33 -> 34 -> 150-> 199 -> 400 -> 450  [style=invis];
+33 -> 34 -> 50 -> 100 -> 150-> 199 -> 400 -> 450  [style=invis];
 34 [style=invis];
+50 [style=invis];
 150 [style=invis];
 199 [style=invis];
 450 [style=invis];
@@ -88,7 +89,7 @@ SyriacOrthodox [label="Syriac Orthodox"];
 rankdir=LR;
 {rank=same 33 Catholic Judaizers }
 {rank=same 34 Antinomianism Docetism }
-{rank=same 100 Antinomianism Gnosticism Sabellianism Ophites Sethian }
+{rank=same 100 Gnosticism Sabellianism Ophites Sethian }
 {rank=same 150 Marcionism Montanism }
 {rank=same 199 Adoptionism }
 {rank=same 200 Manichaeism }
