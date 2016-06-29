@@ -84,10 +84,7 @@ SyriacOrthodox [label="Syriac Orthodox"];
 199 -> 200 [style=invis,weight=100];
 400 -> 450 -> 500 [style=invis,weight=50];
 
-34 [style=invis];
-150 [style=invis];
-199 [style=invis];
-450 [style=invis];
+{ node[shape=point style=invis]  34 150 199 450 }
 
 rankdir=LR;
 {rank=same 33 Catholic Judaizers }
