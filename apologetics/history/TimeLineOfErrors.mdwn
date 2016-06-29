@@ -25,6 +25,7 @@ Catholic -> Docetism;
 Catholic -> Monarchianism;
 Monarchianism -> Adoptionism;
 Monarchianism -> Modalism;
+Modalism -> Sabellianism;
 Catholic -> Monophysitism;
 Monophysitism -> Monothelitism;
 Catholic -> Monothelitism;
