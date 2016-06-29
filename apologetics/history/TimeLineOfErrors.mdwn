@@ -57,6 +57,7 @@ Judaizers -> Ebionites;
 Judaizers -> Marcionism;
 Judaizers -> Iconoclasm;
 Judaizers [shape=polygon,sides=5,color=tomato,style=filled];
+Malankara [label="Malankara Orthodox Syrian"];
 Manichaeism -> Naassenes;
 Manichaeism -> Paulicianism;
 Manichaeism -> Priscillianism;
@@ -101,7 +102,10 @@ SyriacOrthodox [label="Syriac Orthodox"];
 199 -> 200 [color=blue,weight=100,len=0.2];
 150 -> 199 [color=blue,weight=50,len=1];
 
-500 -> Monothelitism [color=blue];
+550 -> Monothelitism [color=blue];
+550 -> 650 [color=blue];
+550 -> 700 [color=blue];
+550 -> 750 [color=blue];
 
 34 [shape=point,color=blue];
 50 [shape=point,color=blue];
