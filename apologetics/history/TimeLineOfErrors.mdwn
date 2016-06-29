@@ -78,7 +78,21 @@ Psilanthropism -> Unitarian;
 Psilanthropism [shape=polygon,sides=5,color=tomato,style=filled];
 SyriacOrthodox [label="Syriac Orthodox"];
 
-33 -> 100 -> 200 -> 300 -> 400 -> 500 -> 600 -> 700 -> 800 -> 900 -> 1000 -> 1100 -> 1200 -> 1300 -> 1400 -> 1500 -> 1600 -> 1700 -> 1800 -> 1900 -> 2000 [stlye=invis,weight=1];
+{rank=same 33 Catholic Judaizers }
+{rank=same 34 Antinomianism Docetism }
+{rank=same 100 Gnosticism Sabellianism Ophites Sethian }
+{rank=same 150 Marcionism Montanism }
+{rank=same 199 Adoptionism }
+{rank=same 200 Manichaeism }
+{rank=same 300 Arianism Donatism Ebionites Priscillianism }
+{rank=same 400 Monophysitism Nestorianism Pelagianism }
+{rank=same 450 OrientalOrthodox }
+{rank=same 600 Iconoclasm Monothelitism }
+{rank=same 800 Paulicianism }
+{rank=same 1950 Ethiopian }
+
+
+33 -> 100 -> 200 -> 300 -> 400 -> 500 -> 600 -> 700 -> 800 -> 900 -> 1000 -> 1100 -> 1200 -> 1300 -> 1400 -> 1500 -> 1600 -> 1700 -> 1800 -> 1900 -> 2000 [weight=1,rankdir=LR];
 33 -> 34 [style=invis,weight=100];
 50 -> 100 -> 150 -> 200 -> 250 -> 300 -> 350 -> 400 -> 450 -> 500 -> 550 -> 600 -> 650 -> 700 -> 750 -> 800 -> 850 -> 900 -> 950 -> 1000 -> 1050 -> 1100 -> 1150 -> 1200 -> 1250 -> 1300 -> 1350 -> 1400 -> 1450 -> 1500 -> 1550 -> 1600 -> 1650 -> 1700 -> 1750 -> 1800 -> 1850 -> 1900 -> 1950 -> 2000 [style=invis,weight=50];
 199 -> 200 [style=invis,weight=100];
@@ -107,18 +121,5 @@ SyriacOrthodox [label="Syriac Orthodox"];
 1950 [shape=point,style=invis];
 
 rankdir=LR;
-{rank=same 33 Catholic Judaizers }
-{rank=same 34 Antinomianism Docetism }
-{rank=same 100 Gnosticism Sabellianism Ophites Sethian }
-{rank=same 150 Marcionism Montanism }
-{rank=same 199 Adoptionism }
-{rank=same 200 Manichaeism }
-{rank=same 300 Arianism Donatism Ebionites Priscillianism }
-{rank=same 400 Monophysitism Nestorianism Pelagianism }
-{rank=same 450 OrientalOrthodox }
-{rank=same 600 Iconoclasm Monothelitism }
-{rank=same 800 Paulicianism }
-{rank=same 1950 Ethiopian }
-
 """]]
 
