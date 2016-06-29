@@ -3,8 +3,22 @@
 [[!meta title="Timeline of Errors"]]
 
 [[!graph  prog=dot type=digraph src="""
+Adoptionism [ href=[[apologetics/Adoptionism]] ]
 Arianism [ href=[[apologetics/Arianism]] ]
 Catholic [ href=[[apologetics/Catholic_Church|CatholicChurch]] ]
+Docetism [ href=[[apologetics/Docetism]] ]
+Donatism [ href=[[apologetics/Donatism]] ]
+Gnosticism [ href=[[apologetics/Gnosticism]] ]
+Manichaeism [ href=[[apologetics/Gnosticism/Manichaeism]] ]
+Modalism [ href= [[apologetics/Modalism]] ]
+Monarchianism [ href=[[apologetics/Monarchianism]] ]
+Monophysitism [ href=[[apologetics/Monophysitism]] ]
+Monothelitism [ href=[[apologetics/Monothelitism]] ]
+Nestorianism [ href=[[apologetics/Nestorianism]] ]
+Paulicianism [ href=[[apologetics/Gnosticism/Paulicianism]] ]
+Psilanthropism [ href=[[apologetics/Adoptionism]] ]
+Sabellianism [ href=[[apologetics/Modalism]] ]
+Unitarian [ href=[[apologetics/UnificationChurch]] ]
 
 Catholic -> Arianism;
 Catholic -> Docetism;
@@ -23,18 +37,4 @@ Gnosticism -> Paulicianism;
 Manichaeism -> Paulicianism;
 
 """]]
-Adoptionism [ href=[[apologetics/Adoptionism]] ]
-Docetism [ href=[[apologetics/Docetism]] ]
-Donatism [ href=[[apologetics/Donatism]] ]
-Gnosticism [ href=[[apologetics/Gnosticism]] ]
-Manichaeism [ href=[[apologetics/Gnosticism/Manichaeism]] ]
-Modalism [ href= [[apologetics/Modalism]] ]
-Monarchianism [ href=[[apologetics/Monarchianism]] ]
-Monophysitism [ href=[[apologetics/Monophysitism]] ]
-Monothelitism [ href=[[apologetics/Monothelitism]] ]
-Nestorianism [ href=[[apologetics/Nestorianism]] ]
-Paulicianism [ href=apologetics/Gnosticism/Paulicianism]] ]
-Psilanthropism [ href=[[apologetics/Adoptionism]] ]
-Sabellianism [ href=[[apologetics/Modalism]] ]
-Unitarian [ href=[[apologetics/UnificationChurch]] ]
 
