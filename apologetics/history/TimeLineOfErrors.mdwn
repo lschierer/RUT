@@ -71,8 +71,8 @@ rankdir=LR;
 {rank=same 33 Catholic Judaizers }
 {rank=same 100 Adoptionism Antinomianism Docetism Marcionism Sabellianism Ophites Sethian }
 {rank=same 200 Manichaeism }
-{ranke=same 300 Donatism Ebionites Priscillianism }
-{ranke=same 400 Monophysitism Nestorianism }
+{rank=same 300 Donatism Ebionites Priscillianism }
+{rank=same 400 Monophysitism Nestorianism }
 {rank=same 600 Iconoclasm Monothelitism }
 {rank=same 800 Paulicianism }
 
