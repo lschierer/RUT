@@ -73,7 +73,7 @@ Ethiopian -> Eritrean;
 Coptic -> Ethiopian;
 OrientalOrthodox -> Malankara;
 OrientalOrthodox -> SyriacOrthodox;
-OrientalOrthodox [label="Oriental Orthodox",color=green];
+OrientalOrthodox [label="Oriental Orthodox"];
 Psilanthropism -> Unitarian;
 Psilanthropism [shape=polygon,sides=5,color=tomato,style=filled];
 SyriacOrthodox [label="Syriac Orthodox"];
