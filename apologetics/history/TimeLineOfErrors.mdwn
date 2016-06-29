@@ -31,6 +31,7 @@ fontsize=10;
 
 Adoptionism -> Psilanthropism;
 Adoptionism -> Bogomils;
+Adoptionism [shape=polygon,sides=5,color=tomato,style=filled];
 Albanenses -> Catharism;
 Antinomianism -> Ophites;
 Antinomianism [shape=polygon,sides=5,color=tomato,style=filled];
