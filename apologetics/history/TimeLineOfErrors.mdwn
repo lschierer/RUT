@@ -101,6 +101,8 @@ SyriacOrthodox [label="Syriac Orthodox"];
 199 -> 200 [style=invis,weight=100,len=0.2];
 150 -> 199 [style=invis,weight=50,len=1];
 
+500 -> Monothelitism [style=invis];
+
 34 [shape=point];
 50 [shape=point];
 150 [shape=point];
