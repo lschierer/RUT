@@ -39,7 +39,9 @@ Catholic -> Judaizers;
 Catholic -> Monarchianism;
 Catholic -> Monophysitism;
 Catholic -> Monothelitism;
+Catholic -> Montanism;
 Catholic -> Nestorianism;
+Catholic -> Pelagianism;
 Docetism -> Gnosticism;
 Docetism [shape=polygon,sides=5,color=tomato,style=filled];
 Gnosticism -> Manichaeism;
@@ -65,16 +67,20 @@ OrientalOrthodox [label="Oriental Orthodox",color=green];
 Psilanthropism -> Unitarian;
 Psilanthropism [shape=polygon,sides=5,color=tomato,style=filled];
 33 ->  100 -> 200 -> 300 -> 400 -> 500 -> 600 -> 700 -> 800 -> 900 -> 1000 -> 1100 -> 1200 -> 1300 -> 1400 -> 1500 -> 1600 -> 1700 -> 1800 -> 1900 -> 2000;
-33 -> 34 [style=invis];
+33 -> 34 -> 150-> 199 [style=invis];
 34 [style=invis];
+150 [style=invis];
+199 [style=invis];
 
 rankdir=LR;
 {rank=same 33 Catholic Judaizers }
-{rank=same 34 Docetism }
-{rank=same 100 Adoptionism Antinomianism Gnosticism Marcionism Sabellianism Ophites Sethian }
+{rank=same 34 Antinomianism Docetism }
+{rank=same 100 Antinomianism Gnosticism Sabellianism Ophites Sethian }
+{rank=same 150 Marcionism Montanism }
+{rank=same 199 Adoptionism }
 {rank=same 200 Manichaeism }
-{rank=same 300 Donatism Ebionites Priscillianism }
-{rank=same 400 Monophysitism Nestorianism }
+{rank=same 300 Arianism Donatism Ebionites Priscillianism }
+{rank=same 400 Monophysitism Nestorianism Pelagianism }
 {rank=same 600 Iconoclasm Monothelitism }
 {rank=same 800 Paulicianism }
 
