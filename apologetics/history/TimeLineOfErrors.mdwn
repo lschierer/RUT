@@ -31,6 +31,7 @@ Unitarian [ href=[[apologetics/UnificationChurch]] ]
 Adoptionism -> Psilanthropism;
 Antinomianism -> Ophites;
 Antinomianism [shape=polygon,sides=5,color=tomato,style=filled];
+ArmenianApostolicChurch [label="Armenian Apostolic Church "];
 Catholic -> Antinomianism;
 Catholic -> Arianism;
 Catholic -> Docetism;
@@ -42,8 +43,11 @@ Catholic -> Monothelitism;
 Catholic -> Montanism;
 Catholic -> Nestorianism;
 Catholic -> Pelagianism;
+Coptic [label="Coptic Orthodox"];
 Docetism -> Gnosticism;
 Docetism [shape=polygon,sides=5,color=tomato,style=filled];
+Eritrean [label="Eritrean Orthodox Tewahedo"];
+Ethiopian [label="Ethiopian Orthodox Tewahedo"];
 Gnosticism -> Manichaeism;
 Gnosticism -> Ophites;
 Gnosticism [shape=polygon,sides=5,color=tomato,style=filled];
@@ -63,14 +67,23 @@ Monophysitism -> Monothelitism;
 Monothelitism -> OrientalOrthodox
 Monothelitism [shape=polygon,sides=5,color=tomato,style=filled];
 Ophites -> Sethian;
+OrientalOrthodox -> ArmenianApostolicChurch;
+OrientalOrthodox -> Coptic ;
+Ethiopian -> Eritrean;
+Coptic -> Ethiopian;
+OrientalOrthodox -> Malankara;
+OrientalOrthodox -> SyriacOrthodox;
 OrientalOrthodox [label="Oriental Orthodox",color=green];
 Psilanthropism -> Unitarian;
 Psilanthropism [shape=polygon,sides=5,color=tomato,style=filled];
+SyriacOrthodox [label="Syriac Orthodox"];
+
 33 ->  100 -> 200 -> 300 -> 400 -> 500 -> 600 -> 700 -> 800 -> 900 -> 1000 -> 1100 -> 1200 -> 1300 -> 1400 -> 1500 -> 1600 -> 1700 -> 1800 -> 1900 -> 2000;
-33 -> 34 -> 150-> 199 [style=invis];
+33 -> 34 -> 150-> 199 -> 400 -> 450  [style=invis];
 34 [style=invis];
 150 [style=invis];
 199 [style=invis];
+450 [style=invis];
 
 rankdir=LR;
 {rank=same 33 Catholic Judaizers }
@@ -81,6 +94,7 @@ rankdir=LR;
 {rank=same 200 Manichaeism }
 {rank=same 300 Arianism Donatism Ebionites Priscillianism }
 {rank=same 400 Monophysitism Nestorianism Pelagianism }
+{rank=same 450 OrientalOrthodox }
 {rank=same 600 Iconoclasm Monothelitism }
 {rank=same 800 Paulicianism }
 
