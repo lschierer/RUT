@@ -17,7 +17,6 @@ Marcionism [ href=[[apologetics/Judaizers]] ]
 Modalism [ href=[[apologetics/Modalism]] ]
 Monarchianism [ href=[[apologetics/Monarchianism]] ]
 Monophysitism [ href=[[apologetics/Monophysitism]] ]
-Monothelitism [ href=[[apologetics/Monothelitism]] ]
 Nestorianism [ href=[[apologetics/Nestorianism]] ]
 Paulicianism [ href=[[apologetics/Gnosticism/Paulicianism]] ]
 Ophites [ href=[[apologetics/Gnosticism/Ophites]] ]
@@ -42,7 +41,6 @@ Catholic -> Donatism;
 Catholic -> Judaizers;
 Catholic -> Monarchianism;
 Catholic -> Monophysitism;
-Catholic -> Monothelitism;
 Catholic -> Montanism;
 Catholic -> Nestorianism;
 Catholic -> Pelagianism;
@@ -69,6 +67,7 @@ Monarchianism [shape=polygon,sides=5,color=tomato,style=filled];
 Monophysitism -> Monothelitism;
 Monothelitism -> OrientalOrthodox
 Monothelitism [shape=polygon,sides=5,color=tomato,style=filled];
+Nestorianism -> Iconoclasm;
 Ophites -> Sethian;
 OrientalOrthodox -> ArmenianApostolicChurch;
 OrientalOrthodox -> Coptic ;
@@ -90,7 +89,8 @@ SyriacOrthodox [label="Syriac Orthodox"];
 {rank=same 300 Arianism Donatism Ebionites Priscillianism }
 {rank=same 400 Monophysitism Nestorianism Pelagianism }
 {rank=same 450 OrientalOrthodox }
-{rank=same 600 Iconoclasm Monothelitism }
+{rank=same 600 Monothelitism }
+{rank=same 700 Iconoclasm }
 {rank=same 800 Paulicianism }
 {rank=same 1950 Ethiopian }
 
