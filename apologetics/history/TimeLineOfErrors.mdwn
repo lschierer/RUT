@@ -4,6 +4,7 @@
 
 [[!graph src="""
 Adoptionism [ href=[[apologetics/history/TableOfErrors]] ]
+Antinomianism [ href=[[apologetics/Antinomianism]] ]
 Arianism [ href=[[apologetics/Arianism]] ]
 Catholic [ href=[[apologetics/Catholic_Church|CatholicChurch]] ]
 Docetism [ href=[[apologetics/Docetism]] ]
@@ -24,6 +25,8 @@ Sabellianism [ href=[[apologetics/Modalism]] ]
 Unitarian [ href=[[apologetics/UnificationChurch]] ]
 
 Catholic -> Arianism;
+Catholic -> Antinomianism;
+Antinomianism -> Ophites;
 Catholic -> Donatism;
 Catholic -> Docetism;
 Catholic -> Monarchianism;
