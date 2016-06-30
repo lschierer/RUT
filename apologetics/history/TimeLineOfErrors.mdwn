@@ -2,6 +2,8 @@
 [[!tag history]]
 [[!meta title="Timeline of Errors"]]
 
+Please note that the dates in this graph are approximate, not precise. 
+
 [[!graph src="""
 Adoptionism [ href=[[apologetics/history/TableOfErrors]] ]
 Antinomianism [ href=[[apologetics/Antinomianism]] ]
@@ -43,6 +45,8 @@ Anabaptism -> Mennonite;
 Anabaptism -> Hutterites;
 Anabaptism [color=darkorange,style=filled];
 Anglican -> Episcopalians;
+Anglican -> Evangelicalism;
+Anglican -> Methodism;
 Anglican -> Puritans;
 Anglican [color=darkorange,style=filled];
 Antinomianism -> Ophites;
@@ -82,9 +86,12 @@ Catholic -> Nestorianism;
 Catholic -> Pelagianism;
 Catholic -> Waldensians;
 Catholic [color=green,fillcolor=gold,style=filled];
+Congregationalism -> ChristianScience;
+Congregationalism -> Evangelicalism;
 Congregationalism [color=darkorange,style=filled];
 Coptic -> Ethiopian;
 Coptic [label="Coptic Orthodox"];
+ChristianScience [label="Christian Science",color=darkorange,fillcolor=crimson,style=filled];
 Davidians [label="Branch Davidians",color=darkorange,style=filled];
 Docetism -> Gnosticism;
 Docetism [shape=polygon,sides=5,color=tomato,style=filled];
@@ -92,6 +99,9 @@ Episcopalians [color=darkorange,style=filled];
 Eritrean [label="Eritrean Orthodox Tewahedo"];
 Ethiopian -> Eritrean;
 Ethiopian [label="Ethiopian Orthodox Tewahedo"];
+Evangelicalism -> Methodism;
+Evangelicalism -> Pentecostalism;
+Evangelicalism [shape=polygon,sides=5,color=tomato,style=filled];
 Gnosticism -> Manichaeism;
 Gnosticism -> Ophites;
 Gnosticism [shape=polygon,sides=5,color=tomato,style=filled];
@@ -113,6 +123,7 @@ Judaizers -> Iconoclasm;
 Judaizers -> Marcionism;
 Judaizers [shape=polygon,sides=5,color=tomato,style=filled];
 Luteranism -> Anabaptism;
+Luteranism -> Evangelicalism;
 Lutheranism [color=darkorange,style=filled];
 Malankara [label="Malankara Orthodox Syrian"];
 Manichaeism -> Albanenses;
@@ -120,6 +131,8 @@ Manichaeism -> Bogomils;
 Manichaeism -> Naassenes;
 Manichaeism -> Paulicianism;
 Manichaeism -> Priscillianism;
+Methodism -> SalvationArmy;
+Methodism [color=darkorange,style=filled];
 Monnonite -> BIC;
 Mennonite [color=darkorange,style=filled];
 Modalism -> Sabellianism;
@@ -139,6 +152,7 @@ OrientalOrthodox -> Monothelitism;
 OrientalOrthodox -> SyriacOrthodox;
 OrientalOrthodox [label="Oriental Orthodox"];
 Paulicianism -> Catharism;
+Pentecostalism [color=darkorange,style=filled];
 Presbyterian -> Anglican;
 Presbyterian -> Unificationism;
 Presbyterian [color=darkorange,style=filled];
@@ -153,6 +167,7 @@ Quakers [color=darkorange,style=filled];
 Reformed -> Anabaptism;
 Reformed -> Presbyterian;
 Reformed [color=darkorange,style=filled];
+SalvationArmy [label="Salvation Army",color=darkorange,style=filled];
 Separatists -> Baptist;
 Separatists -> Congregationalism;
 Separatists [color=darkorange,style=filled];
@@ -187,11 +202,13 @@ Waldensians [color=darkorange];
 {rank=same 1600 Independents Baptist}
 {rank=same 1650 Jansenism Congregationalism Quakers }
 {rank=same 1700 Amish }
+{rank=same 1730 Evangelicalism }
 {rank=same 1750 Shakers }
-{rank=same 1775 BIC }
+{rank=same 1775 BIC Methodism }
 {rank=same 1800 PrimitiveBaptists }
-{rank=same 1850 Modernism Adventist }
-{rank=same 1870 Americanism BibleStudent }
+{rank=same 1850 Modernism Adventist Pentecostalism }
+{rank=same 1860 SalvationArmy }
+{rank=same 1870 Americanism BibleStudent ChristianScience }
 {rank=same 1931 JehovahsWitnesses }
 {rank=same 1950 Davidians Ethiopian Unificationism }
 {rank=same Coptic SyriacOrthodox ArmenianApostolicChurch }
@@ -203,8 +220,8 @@ Waldensians [color=darkorange];
 199 -> 200 [style=invis,weight=100,len=0.2];
 150 -> 199 [style=invis,weight=50,len=1];
 1500 -> 1530 -> 1550 [style=invis,len=0.5];
-1750 -> 1775 -> 1800 [style=invis,len=0.5];
-1850 -> 1870 -> 1900 [style=invis,len=0.5];
+1700 -> 1730 -> 1750 -> 1775 -> 1800 [style=invis,len=0.5];
+1850 -> 1860 -> 1870 -> 1880 -> 1890 -> 1900 [style=invis,len=0.1,weight=200];
 1900 -> 1931 -> 1950 [style=invis,len=0.5];
 
 550 -> Monothelitism [style=invis];
@@ -229,10 +246,14 @@ Waldensians [color=darkorange];
 1530 [shape=point,style=invis];
 1550 [shape=point,style=invis];
 1650 [shape=point,style=invis];
+1730 [shape=point,style=invis];
 1750 [shape=point,style=invis];
 1775 [shape=point,style=invis];
 1850 [shape=point,style=invis];
+1860 [shape=point,style=invis];
 1870 [shape=point,style=invis];
+1880 [shape=point,style=invis];
+1890 [shape=point,style=invis];
 1931 [shape=point,style=invis];
 1950 [shape=point,style=invis];
 
