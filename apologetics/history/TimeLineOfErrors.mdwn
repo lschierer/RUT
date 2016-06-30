@@ -74,7 +74,7 @@ Catholic -> Montanism;
 Catholic -> Nestorianism;
 Catholic -> Pelagianism;
 Catholic -> Waldensians;
-Catholic [color=green,fillcolor=gold,style=filled]
+Catholic [color=green,fillcolor=gold,style=filled];
 Congregationalism [color=darkorange,style=filled];
 Coptic -> Ethiopian;
 Coptic [label="Coptic Orthodox"];
@@ -89,7 +89,7 @@ Gnosticism -> Manichaeism;
 Gnosticism -> Ophites;
 Gnosticism [shape=polygon,sides=5,color=tomato,style=filled];
 Huguenot [color=darkorange,style=filled];
-Hussites -> Moravian
+Hussites -> Moravian;
 Hussites -> UnityBrethren;
 Hussites -> Utraquism;
 Hussites [color=darkorange];
@@ -115,7 +115,7 @@ Modernism [shape=polygon,sides=5,color=tomato,style=filled];
 Monarchianism -> Adoptionism;
 Monarchianism -> Modalism;
 Monarchianism [shape=polygon,sides=5,color=tomato,style=filled];
-Monophysitism -> OrientalOrthodox
+Monophysitism -> OrientalOrthodox;
 Monothelitism [shape=polygon,sides=5,color=tomato,style=filled];
 Moravian [color=darkorange,style=filled];
 Nestorianism -> Iconoclasm;
@@ -140,7 +140,7 @@ Separatists -> Baptist;
 Separatists -> Congregationalism;
 Separatists [color=darkorange,style=filled];
 Seventh -> Davidians;
-Seventh [label="Seventh-day Adventist",color=darkorange,style=filled]
+Seventh [label="Seventh-day Adventist",color=darkorange,style=filled];
 SyriacOrthodox [label="Syriac Orthodox"];
 Unificationism [color=darkorange,fillcolor=crimson,style=filled];
 UnityBrethren [label="Unity of the Brethren",color=darkorange,style=filled];
