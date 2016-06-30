@@ -161,7 +161,7 @@ Presbyterian [color=darkorange,style=filled];
 PrimitiveBaptist [label="Primitive Baptists",color=darkorange,style=filled];
 Psilanthropism -> Unificationism;
 Psilanthropism [shape=polygon,sides=5,color=tomato,style=filled];
-Puritans -> Anglican;
+Puritans -> Anglican [constraint=false];
 Puritans -> Congregationalism;
 Puritans -> Quakers;
 Puritans [color=darkorange,style=filled];
