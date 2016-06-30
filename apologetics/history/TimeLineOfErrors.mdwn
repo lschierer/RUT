@@ -29,68 +29,87 @@ Sabellianism [ href=[[apologetics/Modalism]] ]
 rankdir=LR;
 fontsize=10;
 
-Adoptionism -> Psilanthropism;
 Adoptionism -> Bogomils;
+Adoptionism -> Psilanthropism;
 Adoptionism [shape=polygon,sides=5,color=tomato,style=filled];
+Adventist -> BibleStudent;
+Adventist -> Seventh;
+Adventist [color=darkorange,style=filled];
 Albanenses -> Catharism;
 Americanism [shape=polygon,sides=5,color=tomato,style=filled];
+Anglican -> Episcopalians;
+Anglican -> Puritans;
+Anglican [color=darkorange,style=filled];
 Antinomianism -> Ophites;
 Antinomianism [shape=polygon,sides=5,color=tomato,style=filled];
 ArmenianApostolicChurch [label="Armenian Apostolic Church "];
+Baptist -> Adventist;
+Baptist [color=darkorange,style=filled];
 BibleStudent -> JehovahsWitnesses;
-BibleStudent [label="Bible Student Movement"];
+BibleStudent [label="Bible Student Movement",color=darkorange,style=filled];
 Bogomils -> Catharism;
+Calvinist -> Anglican;
+Calvinist -> Huguenot;
+Calvinist -> Independents;
+Calvinist -> Puritans;
+Calvinist -> Reformed;
+Calvinist -> Separatists;
+Calvinist [color=darkorange,style=filled];
 Catholic -> Americanism;
+Catholic -> Anglican;
 Catholic -> Antinomianism;
 Catholic -> Arianism;
+Catholic -> Calvinist;
 Catholic -> Docetism;
 Catholic -> Donatism;
+Catholic -> Hussites;
+Catholic -> Jansenism;
 Catholic -> Judaizers;
 Catholic -> Lutheranism;
-Catholic -> Monarchianism;
 Catholic -> Modernism;
+Catholic -> Monarchianism;
 Catholic -> Monophysitism;
 Catholic -> Monothelitism;
 Catholic -> Montanism;
 Catholic -> Nestorianism;
 Catholic -> Pelagianism;
-Catholic -> Jansenism;
 Catholic -> Waldensians;
-Catholic -> Hussites;
-Catholic -> Calvinist;
-Calvinist -> Huguenot;
-Calvinist -> Reformed;
-Calvinist -> Puritans;
-Calvinist -> Separatists;
-Calvinist -> Independents;
-Separatists -> Congregationalism;
-Independents -> Congregationalism;
-Reformed -> Presbyterian;
 Catholic [color=green,fillcolor=gold,style=filled]
+Congregationalism [color=darkorange,style=filled];
+Coptic -> Ethiopian;
 Coptic [label="Coptic Orthodox"];
+Davidians [label="Branch Davidians",color=darkorange,style=filled];
 Docetism -> Gnosticism;
 Docetism [shape=polygon,sides=5,color=tomato,style=filled];
+Episcopalians [color=darkorange,style=filled];
 Eritrean [label="Eritrean Orthodox Tewahedo"];
+Ethiopian -> Eritrean;
 Ethiopian [label="Ethiopian Orthodox Tewahedo"];
 Gnosticism -> Manichaeism;
 Gnosticism -> Ophites;
 Gnosticism [shape=polygon,sides=5,color=tomato,style=filled];
+Huguenot [color=darkorange,style=filled];
 Hussites -> Moravian
 Hussites -> UnityBrethren;
-Hussites -> Utraquism [color=green];
+Hussites -> Utraquism;
+Hussites [color=darkorange];
+Iconoclasm -> Puritans;
 Iconoclasm [shape=polygon,sides=5,color=tomato,style=filled];
+Independents -> Congregationalism;
+Independents [color=darkorange,style=filled];
 Jansenism [shape=polygon,sides=5,color=tomato,style=filled];
-JehovahsWitnesses [label="Jehovah's Witnesses"];
+JehovahsWitnesses [label="Jehovah's Witnesses",color=darkorange,style=filled];
 Judaizers -> Ebionites;
-Judaizers -> Marcionism;
 Judaizers -> Iconoclasm;
+Judaizers -> Marcionism;
 Judaizers [shape=polygon,sides=5,color=tomato,style=filled];
+Lutheranism [color=darkorange,style=filled];
 Malankara [label="Malankara Orthodox Syrian"];
 Manichaeism -> Albanenses;
+Manichaeism -> Bogomils;
 Manichaeism -> Naassenes;
 Manichaeism -> Paulicianism;
 Manichaeism -> Priscillianism;
-Manichaeism -> Bogomils;
 Modalism -> Sabellianism;
 Modernism [shape=polygon,sides=5,color=tomato,style=filled];
 Monarchianism -> Adoptionism;
@@ -98,23 +117,35 @@ Monarchianism -> Modalism;
 Monarchianism [shape=polygon,sides=5,color=tomato,style=filled];
 Monophysitism -> OrientalOrthodox
 Monothelitism [shape=polygon,sides=5,color=tomato,style=filled];
+Moravian [color=darkorange,style=filled];
 Nestorianism -> Iconoclasm;
 Ophites -> Sethian;
-OrientalOrthodox -> Monothelitism;
 OrientalOrthodox -> ArmenianApostolicChurch;
 OrientalOrthodox -> Coptic ;
-Paulicianism -> Catharism;
-Protestantism [shape=polygon,sides=5,color=tomato,style=filled];
-Ethiopian -> Eritrean;
-Coptic -> Ethiopian;
 OrientalOrthodox -> Malankara;
+OrientalOrthodox -> Monothelitism;
 OrientalOrthodox -> SyriacOrthodox;
 OrientalOrthodox [label="Oriental Orthodox"];
+Paulicianism -> Catharism;
+Presbyterian -> Anglican;
 Presbyterian -> Unificationism;
+Presbyterian [color=darkorange,style=filled];
 Psilanthropism -> Unificationism;
 Psilanthropism [shape=polygon,sides=5,color=tomato,style=filled];
+Puritans -> Congregationalism;
+Puritans [color=darkorange,style=filled];
+Reformed -> Presbyterian;
+Reformed [color=darkorange,style=filled];
+Separatists -> Baptist;
+Separatists -> Congregationalism;
+Separatists [color=darkorange,style=filled];
+Seventh -> Davidians;
+Seventh [label="Seventh-day Adventist",color=darkorange,style=filled]
 SyriacOrthodox [label="Syriac Orthodox"];
-UnityBrethren [label="Unity of the Brethren"];
+Unificationism [color=darkorange,fillcolor=crimson,style=filled];
+UnityBrethren [label="Unity of the Brethren",color=darkorange,style=filled];
+Utraquism [color=darkorange,fillcolor=green,style=filled];
+Waldensians [color=darkorange];
 
 {rank=same 33 Catholic Judaizers }
 {rank=same 34 Antinomianism Docetism }
@@ -133,14 +164,14 @@ UnityBrethren [label="Unity of the Brethren"];
 {rank=same 1400 Hussites Utraquism }
 {rank=same 1450 Moravian UnityBrethren }
 {rank=same 1500 Calvinist Lutheranism Protestantism }
-{rank=same 1530 Huguenot }
+{rank=same 1530 Huguenot Anglican 
 {rank=same 1550 Presbyterian }
-{rank=same 1600 Independents }
+{rank=same 1600 Independents Baptist}
 {rank=same 1650 Jansenism Congregationalism }
-{rank=same 1850 Modernism }
+{rank=same 1850 Modernism Adventist }
 {rank=same 1870 Americanism BibleStudent }
 {rank=same 1931 JehovahsWitnesses }
-{rank=same 1950 Ethiopian Unificationism }
+{rank=same 1950 Davidians Ethiopian Unificationism }
 {rank=same Coptic SyriacOrthodox ArmenianApostolicChurch }
 
 33 -> 100 -> 200 -> 300 -> 400 -> 500 -> 600 -> 700 -> 800 -> 900 -> 1000 -> 1100 -> 1200 -> 1300 -> 1400 -> 1500 -> 1600 -> 1700 -> 1800 -> 1900 -> 2000 [weight=1000,len=2];
