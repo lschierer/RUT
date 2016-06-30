@@ -122,8 +122,8 @@ Judaizers -> Ebionites;
 Judaizers -> Iconoclasm;
 Judaizers -> Marcionism;
 Judaizers [shape=polygon,sides=5,color=tomato,style=filled];
-Luteranism -> Anabaptism;
-Luteranism -> Evangelicalism;
+Lutheranism -> Anabaptism;
+Lutheranism -> Evangelicalism;
 Lutheranism [color=darkorange,style=filled];
 Malankara [label="Malankara Orthodox Syrian"];
 Manichaeism -> Albanenses;
@@ -133,7 +133,7 @@ Manichaeism -> Paulicianism;
 Manichaeism -> Priscillianism;
 Methodism -> SalvationArmy;
 Methodism [color=darkorange,style=filled];
-Monnonite -> BIC;
+Mennonite -> BIC;
 Mennonite [color=darkorange,style=filled];
 Modalism -> Sabellianism;
 Modernism [shape=polygon,sides=5,color=tomato,style=filled];
@@ -156,7 +156,7 @@ Pentecostalism [color=darkorange,style=filled];
 Presbyterian -> Anglican;
 Presbyterian -> Unificationism;
 Presbyterian [color=darkorange,style=filled];
-PrimitiveBaptists [label="Primitive Baptists",color=darkorange,style=filled];
+PrimitiveBaptist [label="Primitive Baptists",color=darkorange,style=filled];
 Psilanthropism -> Unificationism;
 Psilanthropism [shape=polygon,sides=5,color=tomato,style=filled];
 Puritans -> Congregationalism;
@@ -205,7 +205,7 @@ Waldensians [color=darkorange];
 {rank=same 1730 Evangelicalism }
 {rank=same 1750 Shakers }
 {rank=same 1775 BIC Methodism }
-{rank=same 1800 PrimitiveBaptists }
+{rank=same 1800 PrimitiveBaptist }
 {rank=same 1850 Modernism Adventist Pentecostalism }
 {rank=same 1860 SalvationArmy }
 {rank=same 1870 Americanism BibleStudent ChristianScience }
