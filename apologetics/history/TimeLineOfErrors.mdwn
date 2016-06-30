@@ -44,11 +44,13 @@ Anabaptism -> Amish;
 Anabaptism -> Mennonite;
 Anabaptism -> Hutterites;
 Anabaptism [color=darkorange,style=filled];
+Anglican -> AnglicanOrdinate;
 Anglican -> Episcopalians;
 Anglican -> Evangelicalism;
 Anglican -> Methodism;
 Anglican -> Puritans;
 Anglican [color=darkorange,style=filled];
+AnglicanOrdinate [color=darkorange,fillcolor=green,style=filled];
 Antinomianism -> Ophites;
 Antinomianism [shape=polygon,sides=5,color=tomato,style=filled];
 ArmenianApostolicChurch [label="Armenian Apostolic Church "];
@@ -166,6 +168,7 @@ Presbyterian [color=darkorange,style=filled];
 PrimitiveBaptist [label="Primitive Baptists",color=darkorange,style=filled];
 Psilanthropism -> Unificationism;
 Psilanthropism [shape=polygon,sides=5,color=tomato,style=filled];
+Puritans -> Anglican [constraint=false];
 Puritans -> Congregationalism;
 Puritans -> Quakers;
 Puritans [color=darkorange,style=filled];
@@ -286,6 +289,7 @@ Ukrainian [label="Ukrainian Catholic",color=green,fillcolor=gold,style=filled];
 {rank=same 1900 PNCC }
 {rank=same 1931 JehovahsWitnesses }
 {rank=same 1950 Davidians Ethiopian Unificationism Liberation Traditionalists }
+{rank=same 2000 AnglicanOrdinate }
 {rank=same Coptic SyriacOrthodox ArmenianApostolicChurch }
 
 33 -> 100 -> 200 -> 300 -> 400 -> 500 -> 600 -> 700 -> 800 -> 900 -> 1000 -> 1100 -> 1200 -> 1300 -> 1400 -> 1500 -> 1600 -> 1700 -> 1800 -> 1900 -> 2000 [weight=1000,len=2];
