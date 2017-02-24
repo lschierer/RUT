@@ -1,14 +1,12 @@
 [[!meta  title="20050202-1419"]]
 [[!meta  date="2005-02-02 19:19:00"]]
-"Trusted Computing," which you can learn about at <a href="http://www.eff.org/Infrastructure/trusted_computing/">http://www.eff.org/Infrastructure/trusted_computing/</a>,
-particularly <a href="http://www.eff.org/Infrastructure/trusted_computing/20031001_tc.php">Trusted
-Computing: Promise and Risk</a>, has reared its ugly head again.
+"Trusted Computing," which you can learn about at <http://www.eff.org/Infrastructure/trusted_computing>,
+particularly [Trusted Computing: Promise and Risk](https://web.archive.org/web/20041217063231/http://www.eff.org/Infrastructure/trusted_computing/20031001_tc.php), has reared its ugly head again.
 Readers may recall various diatribes I've given on this subject
 in various conversations both on and offline, or in various
 emails.<br  /><br  />
 
-As discussed in <a href="http://www.linuxjournal.com/article/6633">Take
-Control of TCPA</a> published in the <a href="http://www.linuxjournal.com/">Linux Journal</a>, Trusted
+As discussed in [Take Control of TCPA](http://www.linuxjournal.com/article/6633) published in the [Linux Journal](http://www.linuxjournal.com/), Trusted
 Computing offers some significant benefits for mitigating the
 damage a hacked system can create, if properly integrated with
 an intrusion detection system.  Again trusting the LJ article, it
@@ -30,4 +28,6 @@ extent that he conforms to the expectations set in place by others.
 Gone would be the presumption of innocence, instead you would have
 to prove yourself to the computer, and to the network as a whole.
 
-[[!tag  uncategorized]]
+[[!tag politics-law]]
+[[!tag technical]]
+
