@@ -2,7 +2,7 @@
 [[!tag science]]
 [[!meta title="Global Warming"]]
 
-* We have had no warming over the last 16 years.[^20121115-2]
+* We have had no warming over the last 19 years.[^20121115-2][^20170513-3]
 * Previous statements to the effect that a 15 year pause might mean that the climate models are wrong has now been extended out to 20 years.[^20121115-3]
 * The World Bank and the US Research Council released reports that talk about the gloom and doom of the world being four degrees warmer, but not one word of how probable such a scenario is.[^20121125-1]  The report is further troubled, in my mind, by some questionable assumptions:
   * If Greenland once again becomes green, that would be a net plus for livable land, not necessarily a bad thing.
@@ -38,3 +38,5 @@
 [^20170513-1]: Mr. Christopher Booker. "Another Arctic ice panic over as world temperatures plummet" [The Telegraph](http://www.telegraph.co.uk/) Last Viewed 2017-05-13. <http://www.telegraph.co.uk/news/2017/05/06/another-arctic-ice-panic-world-temperatures-plummet/>
 
 [^20170513-2]: Ibid. 
+
+[^20170513-3]: Ibid. 
