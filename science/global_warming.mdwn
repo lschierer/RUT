@@ -2,7 +2,7 @@
 [[!tag science]]
 [[!meta title="Global Warming"]]
 
-* We have had no warming over the last 19 years.[^20121115-2][^20170513-3]
+* We have had no warming over the last 19 years.[^20121115-2][^20170513-1]
 * Previous statements to the effect that a 15 year pause might mean that the climate models are wrong has now been extended out to 20 years.[^20121115-3]
 * The World Bank and the US Research Council released reports that talk about the gloom and doom of the world being four degrees warmer, but not one word of how probable such a scenario is.[^20121125-1]  The report is further troubled, in my mind, by some questionable assumptions:
   * If Greenland once again becomes green, that would be a net plus for livable land, not necessarily a bad thing.
@@ -13,7 +13,7 @@
 * We know so little about the overall effects of carbon dioxide, and about the ecosystems we are working with in dealing with climate change, that we have totally misunderstood the immediate effects of increased carbon dioxide on forests.[^20130723-1]  While Mr. John Runions tries to put a positive spin on this, what we really have is a noticable prediction about a scientific theory being falsified.  That would be okay, if we were doing real science.  We would then adjust our theories.  Instead, we are dealing with dogmatic science, so we have to explain away the results. 
 * Every time I turn around, there are doubts about the science and data behind global warming claims.[^20150426-1]
 * [Drudge](http://drudgereport.com "Drudge Report") linked to an article[^20150728-1] from the blog "[Real Science](https://stevengoddard.wordpress.com)" asserting that the period 1920 to 2015 shows a *cooling* trend rather than a warming trend.  This site (Real Science) is however essentially a personal site of someone whose credentials I do not know, and who has a very long track record of arguing with the mainstream.  However, the [Telegraph](http://www.telegraph.co.uk/) says that at very least we have a lack of warming over the last 19 years.[^20170513-2]
-* The amount of ice in Antartica may be *increasing* instead of *decreasing*.[^20151108-1][^20170513-1]
+* The amount of ice in Antartica may be *increasing* instead of *decreasing*.[^20151108-1][^20170513-3]
 * Global Cooling is raising its head again,[^20151111-1] or if it is not global cooling, then it is just random bad luck[^20160523-1] that we have record amounts of rain and record low temperatures.
 
 
@@ -21,7 +21,7 @@
 
 [^20121115-2]: Mr. David Rose.  "Global warming stopped 16 years ago, reveals Met Office report quietly released... and here is the chart to prove it"  [Daily Mail](http://www.dailymail.co.uk)  Last Viewed 2012-11-15.  <http://www.dailymail.co.uk/sciencetech/article-2217286/Global-warming-stopped-16-years-ago-reveals-Met-Office-report-quietly-released--chart-prove-it.html>
 
-[^20121115-3]: Ibid.
+[^20121115-3]: Mr. David Rose.  "Global warming stopped 16 years ago, reveals Met Office report quietly released... and here is the chart to prove it"  [Daily Mail](http://www.dailymail.co.uk)  Last Viewed 2012-11-15.  <http://www.dailymail.co.uk/sciencetech/article-2217286/Global-warming-stopped-16-years-ago-reveals-Met-Office-report-quietly-released--chart-prove-it.html>
 
 [^20121125-1]: Mr. Christopher Mims and Ms. Stephanie Gruner Buckley.  "5 Charts About Climate Change That Should Have You Very, Very Worried" [the Atlantic](http://www.theatlantic.com) Last Viewed 2012-11-25.  <http://www.theatlantic.com/technology/archive/2012/11/5-charts-about-climate-change-that-should-have-you-very-very-worried/265554/>
 
@@ -37,6 +37,6 @@
 
 [^20170513-1]: Mr. Christopher Booker. "Another Arctic ice panic over as world temperatures plummet" [The Telegraph](http://www.telegraph.co.uk/) Last Viewed 2017-05-13. <http://www.telegraph.co.uk/news/2017/05/06/another-arctic-ice-panic-world-temperatures-plummet/>
 
-[^20170513-2]: Ibid. 
+[^20170513-2]: Mr. Christopher Booker. "Another Arctic ice panic over as world temperatures plummet" [The Telegraph](http://www.telegraph.co.uk/) Last Viewed 2017-05-13. <http://www.telegraph.co.uk/news/2017/05/06/another-arctic-ice-panic-world-temperatures-plummet/>
 
-[^20170513-3]: Ibid. 
+[^20170513-3]: Mr. Christopher Booker. "Another Arctic ice panic over as world temperatures plummet" [The Telegraph](http://www.telegraph.co.uk/) Last Viewed 2017-05-13. <http://www.telegraph.co.uk/news/2017/05/06/another-arctic-ice-panic-world-temperatures-plummet/>
