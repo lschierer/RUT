@@ -223,13 +223,13 @@ A knock sounded at the stately doors to the grand office. With a command of 'ent
 
 He took the parchment roll from his secretary and examined the wax to see if it could shed any light on the possible contents.
 
-Dear Mister Goblin Head,
-
-My name is Harry Potter. My friend said I should write. Her brother said that the Goblins could help with alot of things. I need help. Ginny said that I had to be honest with you. My aunt and uncle are not nice people. They don't like me and they hit me. It was really bad but I don't live there anymore. Ginny said I could live here with her. Ginny's real nice to me. But she says that if I'm found by her parents or brothers they will send be back with my aunt and uncle since they are my family. I don't want that. I want to stay with Ginny. But Ginny says that I would have to stay with family and she isn't family. I wish she could be my family. Her family is so nice. Can you help me so they don't find out that I'm here? Can you help me to not have to leave? They won't send me back if they don't know I'm here. Please help me so I'm not found.
-
-From Ginny and Harry.
-
-P.S. I put some blood on the bottom there. I don't know why. Ginny said to.
+> Dear Mister Goblin Head,
+> 
+> My name is Harry Potter. My friend said I should write. Her brother said that the Goblins could help with alot of things. I need help. Ginny said that I had to be honest with you. My aunt and uncle are not nice people. They don't like me and they hit me. It was really bad but I don't live there anymore. Ginny said I could live here with her. Ginny's real nice to me. But she says that if I'm found by her parents or brothers they will send be back with my aunt and uncle since they are my family. I don't want that. I want to stay with Ginny. But Ginny says that I would have to stay with family and she isn't family. I wish she could be my family. Her family is so nice. Can you help me so they don't find out that I'm here? Can you help me to not have to leave? They won't send me back if they don't know I'm here. Please help me so I'm not found.
+> 
+> From Ginny and Harry.
+> 
+> P.S. I put some blood on the bottom there. I don't know why. Ginny said to.
 
 There was indeed a drop of blood, which a common goblin piece of magic revealed to be from the true heir of the Potter name and legacy.
 
@@ -345,15 +345,11 @@ The bird immediately made use of the window and launched himself into the air fo
 
 The owl didn't respond, though Harry hadn't expect him to. He kneeled on the floor in front of the bed so he could see what it had in store. A label stuck on the outside identified its addressee as:
 
-Harry James Potter
-
-Ginevra Molly Weasley's Bedroom
-
-The Burrow
-
-Ottery St. Catchpole
-
-England
+> Harry James Potter  
+> Ginevra Molly Weasley's Bedroom  
+> The Burrow  
+> Ottery St. Catchpole  
+> England
 
 The first thing to strike him was the exactness that the magic world could use in addresses without using street numbers. He remembered Ginny referring to her house as 'the Burrow', although he didn't get the reference, but what surprised him was Ginny's real first name. He hadn't heard the name 'Ginevra' before, although it didn't bother him in the least. Harry decided that Ginny must not want to go by her full first name and he wouldn't force the issue.
 
@@ -361,17 +357,17 @@ Harry puled the loose ends of the bow and turned the package over. Without the s
 
 Harry removed the letter and opened it, as it was addressed to him.
 
-Mr. Potter,
-
-As you may see, I received your request for assistance and have decided to help.
-
-Enclosed, you will find some articles that I found upon inspection of your family's vaults here at Gringotts bank. I hope that you will find the assistance you need in these items. There were more items that you may find interesting and helpful when making your way in the world of magic, but I believe that these most suit your request to be concealed and to stay at your current residence.
-
-Please feel free to owl me again, as I would be pleased to help.
-
-Pickrake,
-
-Managing Goblin of Gringotts London
+> Mr. Potter,
+> 
+> As you may see, I received your request for assistance and have decided to help.
+> 
+> Enclosed, you will find some articles that I found upon inspection of your family's vaults here at Gringotts bank. I hope that you will find the assistance you need in these items. There were more items that you may find interesting and helpful when making your way in the world of magic, but I believe that these most suit your request to be concealed and to stay at your current residence.
+> 
+> Please feel free to owl me again, as I would be pleased to help.
+> 
+> Pickrake,
+> 
+> Managing Goblin of Gringotts London
 
 Curious, Harry set the letter aside and explored the package contents. There he found that the fabric Pickrake sent was a square many feet across, large enough to cover his aunt's couch. When he draped it over his arm, he was surprised to find his arm gone from the crook of the elbow to the vee of his thumb. Sticking out in the middle of nowhere were his four right fingers, but he could not see anything else. It wasn't like he saw the bloody ends of his fingers, thankfully, they just sat there.
 
@@ -500,4 +496,7 @@ They were silent for a moment as they let their thoughts settle.
 "I did," Harry agreed. "I've seen my aunt send out thank you notes to people every Christmas. I wrote a letter to Mr. Pickrake and sent it with the owl that was waiting."
 
 * * *
+
+[[Previous|Chapter1]]
+[[Next|Chapter3]]
 
