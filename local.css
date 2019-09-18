@@ -5,7 +5,7 @@ Theme URI: http://www.arthousewebdesign.com/blog/2008/10/free-wordpress-theme-br
 Description: Based on "Brain Power" by Art House Web Design.  
 Author: Luke Scchierer
 Author URI: http://www.schierer.org/~luke
-Tags: fixed width, two columns, widget ready, brain, physiology, black, blue, valid CSS, valid XHTML, unique header, gravatars, widgetized, 2 columns, right sidebar
+Tags: fixed width, two columns, widget ready, blue, valid CSS, valid XHTML, unique header, gravatars, widgetized, 2 columns, right sidebar
 */
 
 /* Please leave my link in the footer, thanks! */
@@ -66,19 +66,19 @@ hr { border-top: #ffffff 1px solid; }
 
 img { border: none; }
 
-input, textarea { color: 3399ff; background: black; border: #3399ff 1px solid; }
+input, textarea { color: 3399ff; background: #3C454B; border: #3399ff 1px solid; }
 
 p { line-height: 1.5em; margin: 0 0 1em; padding: 0; }
 
 input, textarea {
 	color: #3399ff;
-	background: black;
+	background: #3C454B;
 }
 
 .blogform, #blogform {
 	padding: 10px 10px;
 	border: 1px solid #aaa;
-	background: black;
+	background: #3C454B;
 	color: #3399ff !important;
 	width: auto;
 	overflow: auto;
@@ -98,7 +98,7 @@ input, textarea {
 	margin-bottom: 4px;
 	margin-top: -1px;
 	padding: 0ex 2ex;
-	background: black;
+	background: #3C454B;
 	border: 1px solid #3399ff;
 	color: #3399ff !important;
 }
