@@ -2,6 +2,7 @@
 [[!tag science]]
 [[!meta title="Global Warming"]]
 
+* Documenting decades of bad predictions: <https://cei.org/blog/wrong-again-50-years-failed-eco-pocalyptic-predictions>[^20190918-1]
 * We have had no warming over the last 19 years.[^20121115-2][^20170513-1]
 * Previous statements to the effect that a 15 year pause might mean that the climate models are wrong has now been extended out to 20 years.[^20121115-3]
 * The World Bank and the US Research Council released reports that talk about the gloom and doom of the world being four degrees warmer, but not one word of how probable such a scenario is.[^20121125-1]  The report is further troubled, in my mind, by some questionable assumptions:
@@ -16,6 +17,7 @@
 * The amount of ice in Antartica may be *increasing* instead of *decreasing*.[^20151108-1][^20170513-3]
 * Global Cooling is raising its head again,[^20151111-1] or if it is not global cooling, then it is just random bad luck[^20160523-1] that we have record amounts of rain and record low temperatures.
 
+[^20190918-1]: Mr. Myron Ebell. "Wrong Again: 50 Years of Failed Eco-pocalyptic Predictions" [Competitive Enterprise Institute](https://cei.org) Last Viewed 2019-09-18. <https://cei.org/blog/wrong-again-50-years-failed-eco-pocalyptic-predictions>
 
 [^20130723-1]: Mr. John Runions.  "Forests not as thirsty because of increasing carbon dioxide" [Ars Technical](http://arstechnica.com) Last Viewed 2013-07-23.  <http://arstechnica.com/science/2013/07/forests-not-as-thirsty-because-of-increasing-carbon-dioxide>
 
