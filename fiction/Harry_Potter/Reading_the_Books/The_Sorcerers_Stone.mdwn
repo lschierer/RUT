@@ -1,0 +1,1 @@
+[[!map pages="fiction/Harry_Potter/Reading_the_Books/The_Sorcerers_Stone/* and ! fiction/Harry_Potter/Reading_the_Books/The_Sorcerers_Stone/*/*"]]
