@@ -280,5 +280,6 @@ satisfied that every adult had correctly sworn the oath.
 first chapter of the first book, we can get started."  The Hat was clearly smug.
 
 [[Previous|Introduction]]
-[[Next|The Sorcerer's Stone/Chapter01]]
+
+[[Next|The_Sorcerers_Stone/Chapter01]]
 
