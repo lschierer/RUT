@@ -26,6 +26,71 @@ Last viewed 2019-10-25.
 
 Some authors of fanfiction have focused in on Dumbledore's talk of "the greater good" in his relationship with Gellert Grindelwald.  To what extent did Dumbledore actually turn away from this view of morality, that so long as you act for the greater good, you can cause suffering to individuals? Ms. Richa Venkatraman wrote a defense of Dumbledore on MuggleNet[^20190301-1] in which she seems to express well the view that Harry himself has in the book, that Dumbledore is ultimately a good, if flawed, person.  I have trouble with this, it is way too close to "the ends justify the means," and I am far from convinced that it differs in any important detail.  Yes you should act to promote the greatest good to the greatest number of people, but you may not do so using means that encompass actual harm to individuals.  The ends (the greater good) do not justify the means (cooperating with (in a moral sense) the abuse Harry suffers).  I suspect however, that Ms. Venkatraman is right, that Dumbledore suffers in his concience from the pain he causes, and he does _intend_ good.  For my purposes, Fawkes recognizes this good intent, but is not inteligent enough (a phoenix is an animal, not a being) to understand the flaws in Dumbledore's execution.  
 
+I myself am convinced that Dumbledore, while not formally evil
+per-se, strongly subscribes to a utilitarian world view that allows him to
+passively allow suffering, so long as he does not _directly_ cause it, and so long
+as he judges it necessary to obtain some end he deams worthy.  In short "the
+greater good" is a version of "the ends justify the means" except that
+Dumbledore pays semantics with different levels of cooperation with
+evil.[^20200624-1] Formally, Dumbledore's cooperation is often Remote Mediate Material Coperation,
+sometimes Proximate Mediate Material Cooperation, and only occassionally 
+Immediate Material Cooperation. Dumbledore himself would view only Formal
+Cooperation wrong (or "dark"), though he probably feels uneasy about Immediate Material
+cooperation. 
+
+Notice that even with Remote Mediate Material Cooperation, Catholic theology
+would require that Dumbledore exercise caution. Should he truly be _unknowing_,
+then he is naturally blameless, but I suspect he's more often being willfully
+ignorant if not aware and actually negligent. He is, to the extent that he does
+know of the evil results, or could and should know if he exercised a normal
+level of prudence, required to assess if his actions have a proportionately
+serious reason.  I suspect that Dumbledore always does this, so he is not guilty
+where is cooperationis Remote Mediate Material Cooperation.
+
+However, with Harry, Dumbledore goes beyond this.  By sending him back knowing
+his time there would be "dark" and "difficult,"[^20200624-2] I believe he has
+gone beyond Remote Cooperation and is now doing something that minimally "leads
+to the commission of the act" if not "is necessary for the immoral act to
+occur."[^20200624-3] With either of these two categories, Dumbledore is guilty to the extent
+he forsaw the evil, and even more guilty to the extent he continued his course
+of action after not just forseeing the evil, but being aware that it was a
+reality.
+
+Now sure, it isn't entirely fair to hold Dumbledore fully accountable to
+Catholic theology when he isn't Catholic.  That isn't to say that Catholic
+teachings aren't universally true and applicable, they are.  Rather, I am
+allowing that Dumbledore may be granted some leniency because he may honestly
+think that his judgements are both cogent and true. To the extent that he is
+wrong about either the cogency or the ultimate validity of his values and
+judgements, he can be judged to be sinful, but not mortally sinful, and thus not
+evil. It is only where he is self deceptive, that is he knows his arguements are
+either not cogent or not based on true value propisitions, that he can be held
+mortally accountable, and thus potentially evil.  In this Dumbledore contrasts
+positively with Riddle, who quite frankly doesn't care about either the cogency
+or the validity of his decisions. Dumbledore is certainly _less evil_ though
+possibly _more morally dangerous_ (in that he is more insidious) than Riddle.
+
+Dumbledore might (almost certainly is) wrong about what the Greater Good looks
+like. He is certainly wrong about what he can and cannot do to achieve it. I do,
+however, think that it is actually some version of good for the greatest number
+of people, and not merely for himself, that guides his actions. The reader can
+decide if this is damning him with faint praise, or giving him what little
+credit is due.
+
+[^20200624-1]: Cooperation with evil is discussed in formal terms by the Seido
+Foundation in "Morality of Cooperation in Evil" at
+<https://www.ewtn.com/catholicism/library/morality-of-cooperation-in-evil-9965>
+Last Viewed 2020-06-24.  There is a handy chart that will help you navigate a
+decision tree for which formal term to use at
+<http://archphila.org/HHS/pdf/CoopEvilChart.pdf> last viewed 2020-06-24, author
+unknown. 
+
+[^20200624-2]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_
+Chapter 37.  Loc 12230 of 13038 American Kindle Edition. 
+
+[^20200624-3]: <http://archphila.org/HHS/pdf/CoopEvilChart.pdf> last viewed
+2020-06-24, author unknown. 
+
 [^20180702-2]: <https://musings-of-apathy.fanficauthors.net/Family_Inseparable/Chapter_9/reviews/5/#comments> Last viewed 2018-07-02.  
 
 [^20190301-1]: _“For the Greater Good”: In Defense of Albus Dumbledore_ by Ms. Richa Venkatraman. Published 2017-08-02.  Last viewed 2019-03-01. <http://www.mugglenet.com/2017/08/greater-good-defense-albus-dumbledore/>
