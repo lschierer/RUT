@@ -19,6 +19,32 @@ Ron              |  0 |  0 |  0 |  0 |  1 |  2 |  4 |  7 |  8 |  9 | 10 | 11 | 1
 Ginny            |  0 |  0 |  0 |  0 |  0 |  1 |  3 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 
 """]]
 
+One of the interesting things about this is that it means Charlie's seventh year
+is the year before Harry and Ron start. The books go on and on about how Charlie
+"could have played for England"[^20200629-2], and then in Harry's third year
+Wood says that "Gryffindor hasn't won for seven years now."[^20200629-3] Per the
+chart above, this means that Gryffindor last won (assuming Wood is counting
+the current year) since 1987, Charlie's fourth year. From this I'm going to
+conclude that the great Quidditch player, never won a season as captain of the
+team.  
+
+Now we know from Harry's own Quidditch career that a winning seeker can have a
+losing season, but in Harry's case that is only because of games he didn't play.
+Still, it is sufficient grounds that I won't entirely hold that against Charlie.
+More damning is the fact that Wood is captain his fifth year, having overlapped
+with Charlie for at least a few years of play.  To be chosen captain, Wood must
+have shown some promise the year before.  So with a good keeper (Wood), an
+apparently excelent seeker (Charlie), and a decent if young pair of chasers
+(Angelina and Alicia) Gryffindor could not win the 1990 season? This is a strong
+argument that the above dates despite the peddigree of their source material
+must be wrong, and that there must in fact be more space between Charlie and
+Ron.
+
+[^20200629-3]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_.
+(p. 148). Pottermore Limited. American Kindle Edition. 
+
+[^20200629-2]: Citations needed.
+
 [^20190327-1]: <https://www.pottermore.com/explore-the-story/ron-weasley> Last viewed 2019-03-27
 
 [^20190327-2]: <https://www.pottermore.com/explore-the-story/fred-weasley> Last viewed 2019-03-27
