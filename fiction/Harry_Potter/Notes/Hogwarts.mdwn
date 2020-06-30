@@ -17,13 +17,37 @@ that in an age where people obsessively wiki things (myself not really
 excluded), someone would have compiled the available data, but if so I have not
 found it.
 
+#### Students starting in 1987
+
+[[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1987.dsv"]]
+
+#### Students starting in 1988
+
+[[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1988.dsv"]]
+
+#### Students starting in 1989
+
+[[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1989.dsv"]]
+
+#### Students starting in 1990
+
+[[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1990.dsv"]]
+
 #### Students starting in 1991
 
 [[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1991.dsv"]]
 
 #### Students starting in 1992
 
-[[!table format=dsv file="1992_class.dsv"]]
+[[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1992.dsv"]]
+
+#### Students starting in 1993
+
+[[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1993.dsv"]]
+
+#### Students starting in 1994
+
+[[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1994.dsv"]]
 
 [^20200419-1]: Mugglenet.  _The Revised Forty_
 [MuggleNet](https://mugglenet.com) last viewed 2020-04-19.
