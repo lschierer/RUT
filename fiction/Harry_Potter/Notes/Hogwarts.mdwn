@@ -2,7 +2,7 @@
 
 ### General Info
 
-#### [[Class Schedule|Class_Schedule_Rant.mdwn]]
+#### [[Class Schedule|Class_Schedule_Rant]]
 
 ### Students
 
@@ -10,7 +10,8 @@
 Yearmates](https://mugglenet.com/2016/03/the-revised-forty/)[^20200419-1] is
 probably the best source for information, though _Secrets of the
 Classlist_[^20200630-1] also
-contains a ton.  The two disagree on a few things. In general, the latter is
+contains a ton.  The two disagree on a few things. Some of this has been
+corrected by Mrs. Rowling,[^20200630-3] most of it has not. In general, the latter is
 better researched, the former easier to find information in. Information on the
 class lists for pretty much any other year is entirely absent. One would think
 that in an age where people obsessively wiki things (myself not really
@@ -55,3 +56,8 @@ found it.
 [^20200630-1]: Ms. Diana Summers. _Secrets of the Classlist: Harry Potter and
 the Original Forty Classmates_  Copyright 2011,2014. Amazon Kindle Direct
 Publishing. 
+
+[^20200630-3]: Mrs. J. K. Rowling. "[The Original
+Forty](https://www.wizardingworld.com/writing-by-jk-rowling/the-original-forty)"
+<https://www.wizardingworld.com/> Originally published 2015-08-10. Last Viewed
+2020-06-30.
