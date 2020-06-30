@@ -19,7 +19,7 @@ found it.
 
 #### Students starting in 1991
 
-[[!table format=dsv file="1991_class.dsv"]]
+[[!table format=dsv file="ClassOf1991.dsv"]]
 
 #### Students starting in 1992
 
