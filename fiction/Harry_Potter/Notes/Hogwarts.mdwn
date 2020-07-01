@@ -38,6 +38,18 @@ found it.
 
 [[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1991.dsv"]]
 
+Mrs. Rowling's original notes put Kevin Entwhistle in Ravenclaw[^20200701-3], but there are
+too many Ravenclaws and too many boys for her seeming desire for symmetry. Given
+my [[argument about how students would be sorted|Class_and_Blood]], I think he
+mutated to a Hufflepuff girl.  Based on the same logic, Rivers is almost
+certainly a pureblood, but might be a halfbood. 
+
+The [[same arguement|Class_and_Blood]] suggests the ambiguity of the Weasley
+social class. 
+
+[^20200701-3]:
+https://harrypotter.fandom.com/wiki/Harry_Potter_and_Me?file=Pagenotes.jpg
+
 #### Students starting in 1992
 
 [[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1992.dsv"]]
