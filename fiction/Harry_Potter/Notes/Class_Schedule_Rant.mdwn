@@ -34,19 +34,24 @@ extremely limited without a time turner.
 Hermione's schedule as a conflict between Charms and Ancient Runes exam
 times.[^20200629-5] We know from Ron's inspection of her schedule on the first
 day of class that there she is overlapping times for Divination, Muggle Studies,
-and Arithmancy.[^20200629-6] Now, _all_ of the other Gryffindor students take Divination and
+and Arithmancy.[^20200629-6] Now, at least seven of the other Gryffindor students take Divination and
 Care of Magical Creatures. The latter is shared with the Slytherins, but the
 former appears to be dedicated to them. Either way, those two time slots have no
 conflict with the core classes everyone has to take.
 
-Because no other Gryffindor third years take Muggle Studies, Arithmancy, or
+Because none of the other seven named Gryffindor third years take Muggle Studies, Arithmancy, or
 Ancient Runes, we are unsure if there _is_ a normal Gryffindor time slot for
-them.  Even if there was no interest (other than Hermione) that year, the time
+them.  We do not know what classes Sophie Roper or Lily Moon[^20200706-1] take as they are nearly entirely unmentioned 
+in the books, but even if there was no interest (other than Hermione) that year, the time
 slot should be available because that should not be consistent from year to
 year. Still, you could argue that Hogwarts for some truly bizzare reason has no
 standard schedule and the staff reinvents it each year.  In such a case, with
 only one student interested, they may have … neglected to schedule some time
 slots.  It is a viable argument, but rediculous. 
+
+[^20200706-1]: I know Fay Dunbar is the prototypical name for a Gryffindor girl.
+See my [[Notes]] on [[Hogwarts]] for why I am using these names. I pretty much
+have to pick between using a video game name or using a name from a note sheet.
 
 You could try to say that it has to be variable because interest is variable but
 while Divination is a dedicated class, Care of Magical Creatures is not, and yet
@@ -63,8 +68,9 @@ class everyone is required to take. Hermione's exam does.  The options are that
 the (again) that the schedule is a plot device, or that Hermione is in some
 other house's Ancient Runes class. Given my guess that all electives are doubled
 up, there are two Ancient Runes sections, one for Gryffindor and x, and the
-other for y and z.  While the Gryffindor Ancient Runes roster is a total of 1,
-we have no reason to think that the size of the class in x is equally small to
+other for y and z.  While the Gryffindor Ancient Runes roster is between one and
+three (depending on our two extra girls), we have no reason to think that the 
+size of the class in x is equally small to
 justify dropping the time slot for lack of interest. 
 
 Since Divination, Muggle Studies and Arithmancy are all on top of each other,
