@@ -101,3 +101,5 @@ Last Viewed 2020-06-23.
 <https://harrypotter.fandom.com/wiki/Wizengamot>
 
 [^20200623-8]: Ibid.
+
+[[!tag "HP Notes"]]
