@@ -1,1 +1,1 @@
-[[!map tagged="HP Notes"]]
+[[!map pages="fiction/Harry_Potter/Notes/* and tagged(HP_Notes) and ! fiction/Harry_Potter/Notes/*/*"]]
