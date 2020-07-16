@@ -82,9 +82,9 @@ really be Occlumency, but they _might_ be other magical arts that replace,
 supplement, or complement it.  Perhaps even ones that do not cause damage with
 long term use. 
 
-[[Meditation and focus]]
-[[Mental Shields]]
-[[Mind Palace]]
+* [[Meditation and focus]]
+* [[Mental Shields]]
+* [[Mind Palace]]
 
 [^20200716-1]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_ 
 (pp. 69-70). Pottermore Limited. American Kindle Edition. 
