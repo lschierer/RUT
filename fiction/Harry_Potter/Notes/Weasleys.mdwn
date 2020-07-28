@@ -4,7 +4,7 @@ The ages for Bill and Charlie are hard.
 * Harry is born in 1980
 * Per PotterMore[^20190327-1] Ron was born on 1980-03-01. 
 * Per PotterMore[^20190327-2] Fred and George were born on 1978-04-01.
-* PotterMore does not list Percy's birth year (his birtday is August 22)[^20190327-3]. I'm going to assume a Hogwarts cutoff of September 1.  Percy is in 5th year when Harry is in 1st, so Percy is 4 years older - 1976.  
+* PotterMore does not list Percy's birth year (his birthday is August 22)[^20190327-3]. I'm going to assume a Hogwarts cutoff of September 1.  Percy is in 5th year when Harry is in 1st, so Percy is 4 years older - 1976.  
 * Charlie and Bill are harder.  I'm going with the <https://www.hp-lexicon.org> date for them.  
   * Per the lexicon[^20190327-4], Charlie has a birthday of December 12 1972.
   * Per the lexicon[^20190327-5], Bill has a birthday of November 29, 1970. 
@@ -31,17 +31,24 @@ team.
 Now we know from Harry's own Quidditch career that a winning seeker can have a
 losing season, but in Harry's case that is only because of games he didn't play.
 Still, it is sufficient grounds that I won't entirely hold that against Charlie.
-More damning is the fact that Wood is captain his fifth year, having overlapped
-with Charlie for at least a few years of play.  To be chosen captain, Wood must
-have shown some promise the year before.  So with a good keeper (Wood), an
-apparently excelent seeker (Charlie), and a decent if young pair of chasers
+More damning is the fact that Wood is captain his fifth, Harry's first, year,
+and *Fred and George memorised Wood's speech from last year.*[^20200728-1]  Why
+in the world was Charlie not captain in his seventh year? Why was a Fourth year
+student given what is apparently the same rights as a prefect if a seventh year
+student, who was both a good player and had been captain, was still available? 
+
+So with a keeper (Wood) good enough to be made captain a year early, an
+apparently excellent seeker (Charlie), and a decent if young pair of chasers
 (Angelina and Alicia) Gryffindor could not win the 1990 season? This is a strong
-argument that the above dates despite the peddigree of their source material
+argument that the above dates despite the pedigree of their source material
 must be wrong, and that there must in fact be more space between Charlie and
 Ron.
 
 [^20200629-3]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_.
 (p. 148). Pottermore Limited. American Kindle Edition. 
+
+[^20200728-1]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_ 
+(p. 192). Pottermore Limited. American Kindle Edition. 
 
 [^20200629-2]: Citations needed.
 
