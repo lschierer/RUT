@@ -6,15 +6,15 @@ Where does magic come from?  How does it work?  What are the mechanics of it for
 lack of a better word? 
 
 We seem to have 
- * Wand Magic - curses, hexes, jinks, charms, transfiguration
- * Potions
- * Runes
- * Divination - tea cups, horoscopes, star charts, crystal balls, so on.
- * Arithmancy - Per Google, this should be part of Divination, but is apparently
-   something different. 
- * Rituals - Riddle's resurrection seems to be a combination of elements of the
-   above.  It is also interesting that it is normal spoken English where nothing
-   else we see of magic is.
+* Wand Magic - curses, hexes, jinks, charms, transfiguration
+* Potions
+* Runes
+* Divination - tea cups, horoscopes, star charts, crystal balls, so on.
+* Arithmancy - Per Google, this should be part of Divination, but is apparently
+  something different. 
+* Rituals - Riddle's resurrection seems to be a combination of elements of the
+  above.  It is also interesting that it is normal spoken English where nothing
+  else we see of magic is.
 
 ### Dark magic
 
