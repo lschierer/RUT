@@ -1,0 +1,103 @@
+## Magic
+
+### World-building
+
+Where does magic come from?  How does it work?  What are the mechanics of it for
+lack of a better word? 
+
+We seem to have 
+ * Wand Magic - curses, hexes, jinks, charms, transfiguration
+ * Potions
+ * Runes
+ * Divination - tea cups, horoscopes, star charts, crystal balls, so on.
+ * Arithmancy - Per Google, this should be part of Divination, but is apparently
+   something different. 
+ * Rituals - Riddle's resurrection seems to be a combination of elements of the
+   above.  It is also interesting that it is normal spoken English where nothing
+   else we see of magic is.
+
+### Dark magic
+
+Some magic is classified as being "dark."  Things so classified are harmful to
+the caster, the victim, or both in some way.  If there is a victim, the results
+are harder or even impossible to reverse.  In some places there is an
+implication that it is also harder to even block. I need citations for this. 
+
+#### Unforgivables
+
+I have read fanfiction that tries to present the three unforgivable curses as
+merely misunderstood bits of magic.  I dislike that idea.  Oh, there is some
+logic to it, particularly for the Imperius curse, but overall it does not fit
+with what we read in the books.  I need to look up the citations for this, but
+there are a couple of key points.  
+
+Fake professor Moody tells the class that the
+killing curse requires true hate as well as power.  He asserts that the class
+could cast it, but that he would be unlikely to get so much as a nose
+bleed.[^20200731-4]  You do not hate an animal you are trying to kill
+painlessly.  There is no obvious derivation from a spell used for animal
+slaughter to one that _requires_ this kind of hatred to work.  The addition of
+emotion may make a spell stronger, perhaps harder to block, but the spell as
+described does not overpower shields, it goes right through them.  
+
+Bellatrix tells Harry much the same thing when he fails to cast the cruciatus
+curse on her.[^20200731-5]  There is no medical application for hating someone.
+Sure you might envision medical applications for electrical stimulation (which
+might have similar effects as the curse), or otherwise shocking someone.
+However, your benign intent is the total inverse of that required for this
+curse. 
+
+In both cases these two curses are unforgivable in part because they are
+difficult to shield against (I am assuming conjuration of stone is, for most
+people, very hard, very draining, or very slow) and in part because of the mind
+set required to cast them. 
+
+We know less about the third, the imperious, and if the intent required is
+merely to override someone's will, then it is easier to see situations where you
+might justify it.  Ultimately I think what makes it so dangerous to society and
+thus punished so heavily is that they have trouble detecting it.  If you cannot
+know when someone has done something of their own will, you have utterly
+undermined your entire ability to hold trials, establish order, and effectively
+have civilisation.  
+
+I have read in one fanfiction that, while it has some very troubling elements,
+also has some really compelling world building elements, a view of unforgivables
+and perhaps dark magic in general that is not wholly incompatible with the
+above, but extends beyond it.  I am not sure it how cannon compatible it is, but
+it certainly allows for a lot of flexibility.
+
+> "Those spells require the right mind set to work as intended," Nicholas said.
+> "I dare say any magic user of moderate ability could cast one, but it would
+> not be nearly as effective and could be blocked and it would be magically
+> draining without the mind set. With the mind set, the spells are unblock-able
+> and do not drain the caster. The problem is that mind set would mean you are
+> no better than they are. To do the spells as intended, you cannot have any
+> regard for human life at all. You must be evil to the core. The more you use
+> those spells, the more proficient you become at them, the less human you
+> remain and the more you become that which you're fighting. But Harry is right.
+> Using those spells gives them an advantage in a fight one which can only be
+> countered by a degree of skill most never attain.[^20200731-6]
+
+This explains why the Death Eaters were so hard to fight, even though Aurors are
+supposedly some of the most skilled at magic that you could find, requiring five
+NEWTS with Exceeds Expectations including some of the harder
+disciplines.[^20200731-7]  I *strongly* suspect that not all inner circle Death Eaters have
+the same Exceeds Expectations or better in Charms, Transfiguration and Defence.
+If what they have instead is a type of magic that levels the playing field, or
+even tilts it the other way, a desperate Ministry losing the war might well
+decide to authorise it, and leave it up to each individual Auror to judge the
+cost.  
+
+[^20200731-4]: Mrs. J. K. Rowling.  _Harry Potter and the Goblet of Fire_ 
+
+[^20200731-5]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_
+
+[^20200731-6]: Radaslab.  _[Not Normal](https://www.fanfiction.net/s/7144149)_
+[Fanfiction.net](https://www.fanfiction.net/) [Chapter
+59](https://www.fanfiction.net/s/7144149/59/Not-Normal)  Published 2011-07-04,
+Updated 2013-08-10, Last Viewed 2020-07-31.
+
+[^20200731-7]: Citation needed. 
+
+[[!tag "HP Notes"]]
+
