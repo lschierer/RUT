@@ -107,6 +107,12 @@ https://harrypotter.fandom.com/wiki/Harry_Potter_and_Me?file=Pagenotes.jpg
 
 [[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1994.dsv"]]
 
+### Teachers
+
+* [[Albus Dumbledore|Dumbledore]]
+* [[Minerva McGonagall|General]]
+* [[Severus Snape|Snape]]
+
 [^20200419-1]: Mugglenet.  _The Revised Forty_
 [MuggleNet](https://mugglenet.com) last viewed 2020-04-19.
 
