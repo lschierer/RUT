@@ -18,7 +18,7 @@ we do know that punishments were more extreme not all that long in the past.
 
 Note that Mrs. Weasley is not expressing any negative emotion here.  She's
 recounting something she expects Harry and Bill to hear and accept without much
-surprise.  A Guardian article that is the top google result when I try to look
+surprise.  A Guardian article that is the top Google result when I try to look
 up corporal punishment in British schools tells me that Harry probably never
 experienced any, but quite possibly heard about it.[^20200720-10]
 
@@ -30,7 +30,7 @@ found in books](https://www.theguardian.com/childrens-books-site/2016/jul/01/cor
 [The Guardian](https://www.theguardian.com/) 2016-07-01.  Last viewed
 2020-07-20.  The article gives dates for different kinds of Schools. Looking at
 schools Harry likely attended, 1986 for British state schools, and 2000 for
-Scotish private schools. 
+Scottish private schools. 
 
 ### Students
 
@@ -72,7 +72,7 @@ my [[argument about how students would be sorted|Class_and_Blood]], I think he
 mutated to a Hufflepuff girl.  Based on the same logic, Rivers is almost
 certainly a pureblood, but might be a halfbood. 
 
-The [[same arguement|Class_and_Blood]] suggests the ambiguity of the Weasley
+The [[same argument|Class_and_Blood]] suggests the ambiguity of the Weasley
 social class. 
 
 Lots of fanfiction uses an extra female character named Fay Dunbar as one of the
@@ -93,7 +93,7 @@ impoverished.
 Last Viewed 2020-07-06. 
 
 [^20200701-3]:
-https://harrypotter.fandom.com/wiki/Harry_Potter_and_Me?file=Pagenotes.jpg
+<https://harrypotter.fandom.com/wiki/Harry_Potter_and_Me?file=Pagenotes.jpg>
 
 #### Students starting in 1992
 
@@ -110,8 +110,46 @@ https://harrypotter.fandom.com/wiki/Harry_Potter_and_Me?file=Pagenotes.jpg
 ### Teachers
 
 * [[Albus Dumbledore|Dumbledore]]
-* [[Minerva McGonagall|General]]
+* [[Minerva McGonagall|McGonagall]]
 * [[Severus Snape|Snape]]
+
+In more general terms, what is the role of the head of each house?
+[[McGonagall]] shows up to intervene in Gryffindor's internal discipline only in
+Harry's third year.[^20200811-1]  Harry finds Luna wandering the halls barefoot,
+posting flyers listing her stolen stuff, and Flitwick does nothing.[^20200811-2]
+I have a page dedicated to [[McGonagall]], and it would be hard to write too
+much here that would not also go there, so these two examples will have to
+suffice for now.  It seems that the school expects the prefects to run the
+school.  From reading other books, I think this might be typical of British
+boarding schools, but I think that most schools have a fall back mechanism when
+that fails.  _[Stalky & Co.](https://www.gutenberg.org/ebooks/3006)_ by Rudyard
+Kipling comes to mind.  I suspect that is probably the fairest account of
+boarding school life you will find in British literature.  It is certainly
+idealised, no doubt in a lot of ways, but if you read carefully you can tell
+there is a lot of bullying, it is a rough life, but it is kept sufficiently in
+check that most of them come out of it … typically British.  I suspect some of
+the problems in British society are because it was not kept _sufficiently_ in
+check after all. But I am going off on a tangent.  
+
+Look at the roles that play out in _Stalky_ versus _Harry Potter_.  In _Stalky_
+we see prefects (or at least their equivalent, I forget if the exact title is
+the same) giving out discipline, including corporal punishment, but each house
+has a head that advocates for its students, steps in for discipline problems
+within the house beyond the scope or abilities of the prefects, and is generally
+present and visible not just as a teacher, but _as a head of house_.  The Head
+is called in for exceptional problems, and if I recall, the punishment is made
+especially severe to discourage "bothering the Head."  Does any of this sound
+like Hogwarts?  At Hogwarts every problem most likely not at all, otherwise by
+the prefects, and finally, by Dumbledore with [[Snape]] attending as advisor, no
+matter who is involved.  Never mind [[McGonagall]] is Deputy Head, and therefore
+more logically the advisor at that point, we need a more Charles Dickens feel about
+it.  Which is probably precisely the point. 
+
+[^20200811-1]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_.
+Pottermore. American Kindle Edition.  Better citation needed. 
+
+[^20200811-2]: Mrs. J. K. Rowling.  I don't recall which book this is in.
+Better citation needed. 
 
 [^20200419-1]: Mugglenet.  _The Revised Forty_
 [MuggleNet](https://mugglenet.com) last viewed 2020-04-19.
