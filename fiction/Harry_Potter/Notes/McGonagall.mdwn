@@ -21,4 +21,4 @@ McGonagall](https://www.wizardingworld.com/writing-by-jk-rowling/professor-mcgon
 [^20200720-8]:  Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_ 
 (Kindle Location 4721). Pottermore Limited. American Kindle Edition. 
 
-[[meta title="Minerva McGonagall"]]
+[[!meta title="Minerva McGonagall"]]
