@@ -1,14 +1,15 @@
 #### History of the Harry Potter World
 
-* Romans pulled out of Britan around 410[^20200623-1].  While Hadrian's wall
+* Romans pulled out of Britain around 410[^20200623-1].  While Hadrian's wall
   isn't technically the furthest north they ever went, it seems to be the
   furthest consistently controlled, and probably represents the northern bounds
   of Christianity. Note, that bit about Christianity is pure speculation on my
-  part.
+  part.  Interestingly, the oldest known "split-nib metal dip pen" dates from
+  around then.[^20200816-1]
 
 * While the historical reality of King Arthur is uncertain, he would necessarily
   exist in this timeline.  To the extent that King Arthur and Merlin are
-  historical, they are somewherein the 500s.[^20200713-3]
+  historical, they are somewhere in the 500s.[^20200713-3]
 
 * Augustine of Canterbury arrived in 597.[^20200623-2] He focused on Kent, so it
  probably didn't impact northern Scotland till much later. 
@@ -29,10 +30,10 @@
   founders would also have been recruiting students from pagan backgrounds as
   well. While the Christian students might have been very anti-magic, the pagan
   ones would more likely have seen magic as part of their religion. Be they
-  druids, or norse, the pagan priest classes no doubt included as much magic as
-  Mrs. Rowling inserts into the Egyption priest class.  While the Cannon text
+  druids, or Norse, the pagan priest classes no doubt included as much magic as
+  Mrs. Rowling inserts into the Egyptian priest class.  While the Cannon text
   only hints at this, there is really no other good way to explain what Bill is
-  doing in Egypt. There was no Statute of Secrecy afterall.
+  doing in Egypt. There was no Statute of Secrecy after all.
 
 * 1066 Norman invasion.[^20200704-3]  Malfoy family established in
 * England[^20200810-1]
@@ -49,11 +50,11 @@
   influenced by Christianity by this point.  How influenced?  In other words,
   how much of the wizards' conversion is real and how much is for show?
   Reference the "Fat Friar"'s presence as a Hogwart's ghost. Even if they are
-  not practicing Catholics, how much of the pagan culture have they actually
+  not practising Catholics, how much of the pagan culture have they actually
   lost? This is not a purely academic question; its answer will determine how
   much of the magic that multi-generational wizarding families practice is just
   wands, potions, and engraved runes and how much is ritual song, dance, chants,
-  sacrafices, meals, and other elements of paganism.  It will also determine
+  sacrifices, meals, and other elements of paganism.  It will also determine
   how, for lack of a better word, Victorian wizarding society can possibly
   become. 
 
@@ -61,7 +62,7 @@
 
 * 1509 Henry VIII King of England[^20200704-1]
 
-* 1532 Begining of Henry subverting the Church in England.[^20200704-2]
+* 1532 Beginning of Henry subverting the Church in England.[^20200704-2]
 
 * 1544 at the latest Wizengamot active.[^20202623-7]
 
@@ -71,9 +72,13 @@
   War.[^20200704-5]
 
 * the International Statute of Secrecy in 1689.[^20200623-6]  In _[The
-  Accidental Animagus](https://www.fanfiction.net/s/9863146/89/The-Accidental-Animagus)_ fanfiction author White Squirrel speculates that not only did society take an abrubt shift, with the pure-blood mania becoming more prominent than it had ever been, but that the magical society probably started to rewrite its own history, erasing evidence of its dealings with non-magical society, and of its own mutations and shifts over time.  In England, the Potters argue for the Statue to protect the Muggles,[^20200810-3] the Malfoys argue against it (to continue exploiting the wealthy amoung whom Malfoys often marry).[^20200810-4]  Once it passes, the Malfoys pretend to have been in favor all along.[^20200810-5]
+  Accidental Animagus](https://www.fanfiction.net/s/9863146/89/The-Accidental-Animagus)_ fanfiction author White Squirrel speculates that not only did society take an abrupt shift, with the pure-blood mania becoming more prominent than it had ever been, but that the magical society probably started to rewrite its own history, erasing evidence of its dealings with non-magical society, and of its own mutations and shifts over time.  In England, the Potters argue for the Statue to protect the Muggles,[^20200810-3] the Malfoys argue against it (to continue exploiting the wealthy among whom Malfoys often marry).[^20200810-4]  Once it passes, the Malfoys pretend to have been in favour all along.[^20200810-5]
 
 * 1707 The Ministry of Magic established.[^20200623-8]
+
+* 1822 "In Newhall Street, John Mitchell pioneered mass production of steel pens
+  in 1822; prior to that the quill pen had been the most common form of writing
+  instrument."[^20200816-2]
 
 * 1837 Queen Victoria crowned.
 
@@ -172,5 +177,10 @@ Last Viewed 2020-06-23.
 <https://harrypotter.fandom.com/wiki/Wizengamot>
 
 [^20200623-8]: Ibid.
+
+[^20200816-1]: [Wikipedia](https://en.wikipedia.org/).
+"[Dip pen](https://en.wikipedia.org/wiki/Dip_pen)" Last Edited 2020-07-24. Last Viewed 2020-08-16
+
+[^20200816-2]: Ibid.
 
 [[!tag "HP Notes"]]

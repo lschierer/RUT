@@ -88,6 +88,62 @@ even tilts it the other way, a desperate Ministry losing the war might well
 decide to authorise it, and leave it up to each individual Auror to judge the
 cost.  
 
+#### Wands
+
+* There is a fascinating article on [wand
+  wood](https://www.wizardingworld.com/writing-by-jk-rowling/wand-woods) and the
+  personality traits and skills that go along with each.[^20200723-1]
+* The one on [size and flexibility](https://www.wizardingworld.com/writing-by-jk-rowling/wand-lengths-and-flexibility)
+  is more abbreviated, but points out that you must not be too
+  literal.[^20200723-2]
+* Olivander has researched wand cores and will use only three of
+  them.[^20200723-3]  Others are possible, but [the article on
+  cores](https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores)
+  was, like the other two, written as if by him and so focuses on those three.
+
+Given the above articles I talk some about [[Harry]]'s wand on the page
+dedicated to him.  Riddle's wand, I think it is fairly inevitable that he would
+have a yew wand, but I am somewhat surprised that he would have a phoenix
+feather core.  While it does say it is the most capable, in a sense, it says
+dragon heartstring is the most powerful.  Would Riddle value range and or power
+more?  He would certainly dislike that the phoenix feather wand might sometimes
+act of its own accord.[^20200806-5]  Naturally eleven year old Riddle knows
+nothing of wand lore and so is not deciding this, yet still, the wand must sense
+something of the wizard it is bonding with…
+
+[^20200723-1]: Mrs. J. K. Rowling. "[Wand
+Woods](https://www.wizardingworld.com/writing-by-jk-rowling/wand-woods)"
+Originally published 2015-08-10.  Last Viewed 2020-07-23.
+
+[^20200723-2]: Mrs. J. K. Rowling. "[Wand
+Lengths &
+Flexibility](https://www.wizardingworld.com/writing-by-jk-rowling/wand-lengths-and-flexibility)"
+Originally published 2015-08-10.  Last Viewed 2020-07-23.
+
+[^20200723-3]: Mrs. J. K. Rowling. "[Wand
+Cores](https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores)"
+Originally published 2015-08-10.  Last Viewed 2020-07-23.
+
+[^20200806-5]: Mrs. J. K. Rowling. "[Wand
+Cores](https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores)"
+Originally published 2015-08-10.  Last Viewed 2020-08-06.
+
+
+#### The Wards around Privet Drive and The Trace
+
+First of all, I am not going to spend much time worrying about whether or not
+"wards" are part of the cannon universe or not.  The books may never use the
+word, but the concept certainly exists.  The books provide no consistent name
+for area affect protection magics, particularly not long lasting ones.  I am
+going to join most of fanfiction and call these magics wards.  The books use all
+sorts of names, and in some places descriptions of effects without naming the
+magic behind it at all (you cannot apparate in Hogwarts).  I need a word, and
+"ward" works well.
+
+In the cannon Harry Potter universe, the wards were set to fail when Harry turns 17, becoming an adult.  This has lead some fanfiction authors to speculate that any event that causes Harry to be emancipated would also cause the wards to fail.  Per the books, the wards were stood up when Petunia took Harry into her home.[^20180709-2]  I have to deal with this in this story.  How exactly do the wards work, and what protection do they provide?  A related question is The Trace, which also terminates at 17.  I initially considered that the wards might not have activated, as this would both be a bit of ironic justice and make the story easier.  If the wards do not change when Harry gets married because they are not working right in the first place, I do not have to deal with the emancipation that also comes with the marriage.  However, I dislike contradicting the text when it comes to world mechanics more than I have to.  I mean, I do have to some - wizarding households function on magic, so the Decree for the Reasonable Restriction of Underage Sorcery and the Trace either allows for supervised household charm or does not function at all in wizarding households, probably the latter.  The whole "do not use magic outside of school" thing is more for muggle born witches and wizards rather than any real restriction.  Returning to topic, another possibility is that turning 17 is a magical event - literally.  Because Harry never takes arithmancy in the books, we do not see much about magic numbers, but we know they exist.  Perhaps this particular prime number impacts the operation of the wards (and the Trace must be some form of detection ward I think) in some way.  If that is true, then Harry's emancipation is a legal event, not a magical one, and so would not affect either the Trace or the wards.
+
+[^20180709-2]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_.  Chapter 37. Location 12236. 
+
 [^20200731-4]: Mrs. J. K. Rowling.  _Harry Potter and the Goblet of Fire_ 
 
 [^20200731-5]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_

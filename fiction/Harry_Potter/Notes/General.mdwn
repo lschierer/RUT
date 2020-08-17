@@ -1,8 +1,8 @@
-[[!toc  startlevel=4]]
+[[!toc  startlevel=3]]
 
-### Notes on the Harry Potter Universe
+## Notes on the Harry Potter Universe
 
-#### timeline
+### timeline
 * James Potter born 27 March 1960[^20190611-1] 
 * thus James, Lilly and Sirius start Hogwarts in 1971. 
 * thus they graduate in the 1977-1978 school year.  
@@ -30,7 +30,7 @@ Kindle edition approx Location 179 of 3996.
 [^20200806-4]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_ 
 (Kindle Location 5323). Pottermore Limited. American Kindle Edition. 
 
-#### Clothing
+### Clothing
 
 Mrs. Rowling insists that wizards wear robes.[^20200723-4] The problem is that
 she claims that this is because wizarding fashion is intentionally frozen in the
@@ -72,7 +72,7 @@ Last Edited 2020-05-17.  Last Viewed 2020-07-23.
 Last Edited 2020-06-25.  Last Viewed 2020-07-23.
 
 
-#### Greengrass family
+### Greengrass family
 
 Per an interview, Daphne was part of Pansy Parkinson's "gang"[^20200520-1].
 This is apparently established as part of book 5, but seems to be fairly
@@ -101,61 +101,83 @@ Harry" published 2007-12-19.  Last viewed 2020-05-20.  <http://content.time.com/
 Malfoy](https://www.wizardingworld.com/writing-by-jk-rowling/draco-malfoy)"
 <https://www.wizardingworld.com/> Last Viewed 2020-07-1. 
 
-#### Wands
+### Parchment and Quills
 
-* There is a fascinating article on [wand
-  wood](https://www.wizardingworld.com/writing-by-jk-rowling/wand-woods) and the
-  personality traits and skills that go along with each.[^20200723-1]
-* The one on [size and flexibility](https://www.wizardingworld.com/writing-by-jk-rowling/wand-lengths-and-flexibility)
-  is more abbreviated, but points out that you must not be too
-  literal.[^20200723-2]
-* Olivander has researched wand cores and will use only three of
-  them.[^20200723-3]  Others are possible, but [the article on
-  cores](https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores)
-  was, like the other two, written as if by him and so focuses on those three.
+I think the use of parchment and quills is a an example of Wizarding culture
+being deliberately antiquarian.  There may also be an element of exclusivity -
+it takes practice to use a quill with any degree of skill that pureblood
+children will have but that first generation children will utterly lack.  There
+may also be a sense of exclusivity in a second sense, parchment is *expensive*
+and the extensive use of parchment even stupid little notes and homework
+assignments will help keep poor families away from magical knowledge.  If you
+cannot afford parchment, your children cannot do as well at Hogwarts, and thus
+cannot do as well in later life. This came to me when I was reading a fanfiction
+that talked about not just Harry using a fountain pen, but that many pureblood
+wives "secretly" did the same for their (extensive) correspondence.[^20200816-3]
+For whatever reason, it occurred to me to look up the steel nibbed dip pens that
+predated fountain pens, wondering when in non-magical (actual) history pens
+started to replace the use of quills.  I was really quite surprised.  Apparently
+pens go *way* back, the [Wikipedia](https://en.wikipedia.org) was very Britain
+centric (which is actually fine for my purposes), but apparently our earliest
+pen (a copper one) dates from around 410, just as the Romans were pulling out of
+Britain.[^20200816-4] It does not come out and state it, but my guess is that
+for a long time fine metal work was *really* expensive, so quills remain the
+standard writing utensil until the mass production of steel pens in
+1822.[^20200816-5]  Interestingly, according to the article, these type of pens
+are still favoured over fountain pens for calligraphy and other artistic works
+that require precision and varied thicknesses.[^20200816-6]  
 
-Given the above articles I talk some about [[Harry]]'s wand on the page
-dedicated to him.  Riddle's wand, I think it is fairly inevitable that he would
-have a yew wand, but I am somewhat surprised that he would have a phoenix
-feather core.  While it does say it is the most capable, in a sense, it says
-dragon heartstring is the most powerful.  Would Riddle value range and or power
-more?  He would certainly dislike that the phoenix feather wand might sometimes
-act of its own accord.[^20200806-5]  Naturally eleven year old Riddle knows
-nothing of wand lore and so is not deciding this, yet still, the wand must sense
-something of the wizard it is bonding with…
+From this I can draw a couple of conclusions.  Magical users would dislike
+fountain pens, because they seem drawn to multi-coloured inks (which are more
+difficult with fountain pens), and because arts like ancient runes would need
+much the same precision that writing calligraphy does.  The dip pen on the other
+hand, should show no marked difference from a quill for writing your runes.
+Both would be substandard to a brush - there is a reason that Chinese and
+Japanese languages are painted, not written when you look at the really fancy
+stuff. The dip pen could further be _engraved_ with runes.  In the books you see
+spell correcting quills, and others with anti-cheating charms.  I can see both
+of these being done more reliably with runes.  You want a dicto-quill?  Again,
+you can see how this can be reproduced.  
 
-[^20200723-1]: Mrs. J. K. Rowling. "[Wand
-Woods](https://www.wizardingworld.com/writing-by-jk-rowling/wand-woods)"
-Originally published 2015-08-10.  Last Viewed 2020-07-23.
+Moreover, magical users are clearly drawn to the aesthetic quality of a fancy
+feather.  Fountain pens _can_ be artistic, but are generally fairly utilitarian.
+Your dip pen on the other hand could be a work of art.  I did a quick Google
+search on "steel nib feather" for example, and you can just imagine a wizard
+using many of those. 
 
-[^20200723-2]: Mrs. J. K. Rowling. "[Wand
-Lengths &
-Flexibility](https://www.wizardingworld.com/writing-by-jk-rowling/wand-lengths-and-flexibility)"
-Originally published 2015-08-10.  Last Viewed 2020-07-23.
+Paper and parchment is a bit more messy.  Paper is *really* old, perhaps as far
+back as 300 B.C. in China.[^20200816-7]  However, it took a while for paper to
+reach Europe, sometime around the 11th Century.[^20200816-8]  Paper was
+originally viewed with disdain, unworthy for formal communication, or important
+works[^20200816-9]; something that would definitely influence the magically
+community.  However, it seems that by the 16th Century or so, paper had largely
+replaced parchment, driven largely by the printing press.[^20200816-10] The
+Wizarding world does seem to have a sufficient trade in books to stock at least
+two book stores (one in Hogsmeade and one in Diagon Alley), and I am quite
+confident that the books give us a view of the press that the Quibbler is
+printed on.  This means that they do use paper books, and paper periodicals.
+The use of parchment for Hogwarts *must* be intentional.  
 
-[^20200723-3]: Mrs. J. K. Rowling. "[Wand
-Cores](https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores)"
-Originally published 2015-08-10.  Last Viewed 2020-07-23.
+[^20200816-3]: Sinyk. _[Angry Harry and the Seven](https://www.fanfiction.net/s/9750991)_ 
+[FanFiction](https://www.fanfiction.net/). Last Updated 2013-10-22. Last Viewed
+2020-08-16. 
 
-[^20200806-5]: Mrs. J. K. Rowling. "[Wand
-Cores](https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores)"
-Originally published 2015-08-10.  Last Viewed 2020-08-06.
+[^20200816-4]: [Wikipedia](https://en.wikipedia.org/).
+"[Dip pen](https://en.wikipedia.org/wiki/Dip_pen)" Last Edited 2020-07-24. Last Viewed 2020-08-16
 
+[^20200816-5]: Ibid.
 
-#### The Wards around Privet Drive and The Trace
+[^20200816-6]: Ibid.
 
-First of all, I am not going to spend much time worrying about whether or not
-"wards" are part of the cannon universe or not.  The books may never use the
-word, but the concept certainly exists.  The books provide no consistent name
-for area affect protection magics, particularly not long lasting ones.  I am
-going to join most of fanfiction and call these magics wards.  The books use all
-sorts of names, and in some places descriptions of effects without naming the
-magic behind it at all (you cannot apparate in Hogwarts).  I need a word, and
-"ward" works well.
+[^20200816-7]: ©Paper Sizes. "[The History Of Paper](https://www.papersizes.org/paper-history-overview.htm)"
+[International Paper Sizes and Formats](https://www.papersizes.org/) Last viewed 2020-08-16.
 
-In the cannon Harry Potter universe, the wards were set to fail when Harry turns 17, becoming an adult.  This has lead some fanfiction authors to speculate that any event that causes Harry to be emancipated would also cause the wards to fail.  Per the books, the wards were stood up when Petunia took Harry into her home.[^20180709-2]  I have to deal with this in this story.  How exactly do the wards work, and what protection do they provide?  A related question is The Trace, which also terminates at 17.  I initially considered that the wards might not have activated, as this would both be a bit of ironic justice and make the story easier.  If the wards do not change when Harry gets married because they are not working right in the first place, I do not have to deal with the emancipation that also comes with the marriage.  However, I dislike contradicting the text when it comes to world mechanics more than I have to.  I mean, I do have to some - wizarding households function on magic, so the Decree for the Reasonable Restriction of Underage Sorcery and the Trace either allows for supervised household charm or does not function at all in wizarding households, probably the latter.  The whole "do not use magic outside of school" thing is more for muggle born witches and wizards rather than any real restriction.  Returning to topic, another possibility is that turning 17 is a magical event - literally.  Because Harry never takes arithmancy in the books, we do not see much about magic numbers, but we know they exist.  Perhaps this particular prime number impacts the operation of the wards (and the Trace must be some form of detection ward I think) in some way.  If that is true, then Harry's emancipation is a legal event, not a magical one, and so would not affect either the Trace or the wards.
+[^20200816-8]: Ibid.
 
-[^20180709-2]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_.  Chapter 37. Location 12236. 
+[^20200816-9]: Reginmund. "[The Rise and Fall of Parchment](http://www.allempires.com/article/index.php?q=parchment)"
+[All Empires Online History Community](http://www.allempires.com/) 2007-01-10. Last Viewed 2020-08-16.
+
+[^20200816-10]: Ibid.
 
 [[!tag "HP Notes"]]
 
