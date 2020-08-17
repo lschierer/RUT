@@ -46,6 +46,58 @@ that in an age where people obsessively wiki things (myself not really
 excluded), someone would have compiled the available data, but if so I have not
 found it.
 
+One of the problems with the above two sources is that I've ended up with 6
+first generation wizards, 11 halfboods and 18 purebloods in Harry's class.  This
+gives me a class that is 45% pureblooded, despite Mr. Weasley being quoted as
+saying that purebloods are dying out, and that most families are
+halfblooded.[^20200817-1]  Some of that may be the influence of the first Riddle
+war, where entire families were wiped out.  I imagine the halfblooded families
+were disproportionately affected by that.  If there should be about 1000
+students at Hogwarts,[^20200817-2] then we should have 35-36 per house per year,
+not 40 per year total.  If we had 140 students in Harry's year, then the
+18 purebloods would be only 13% of the class, and the muggleborn only 4%.  That
+assumes that all 116 students killed by Riddle are halfblooded (or at least
+that the ones that were pureblooded would be in different years), which is
+probably not totally true but more nearly true than not.  
+
+One of the other interesting questions is how you would handle an extra 29 or 30
+students per house per year.  At 10 students per house per year, the common
+rooms hold 70 students; at 35 they hold 245.  The former figure is big enough it
+does not sound like it would really work - how would that many students actually
+survive trying to occupy that space as their primary place to relax every
+evening? The latter is frankly impossible.  It means that each common room has
+nearly as many people as the entire school does at the 10/house/year figure. 
+
+Like I do below when I look at teachers, I am tempted to use _[Stalky &
+Co.](https://www.gutenberg.org/ebooks/3006)_ by Rudyard Kipling as a secondary
+source to course correct.  That book had what sounds very like a common room per
+year for the younger students, with the older students of each house broken out
+into "studies" - groups of 3-5 students sharing a common living/sleeping space.
+The space sounds like more than a Hogwarts dorm room but less than a suite.  
+
+Gryffindor does not seem to have any correlary to _Stalky_'s studies.  However,
+it seems reasonable that it might have multiple common rooms, the rest of which
+are shutdown and disused.  Having pre-teens mixed in with your upper form
+students studying for their OWLs and NEWTs seems less than ideal, on the other
+hand having a common room maintained for 30 or 40 students when each can
+(apparently) hold 70 probably means too little supervision given the
+propotionate lack of staff.  
+
+If you put 1st and 2nd year together, 3rd and 4th year together, and assume not
+everyone came back for NEWTs, then you have 3 common rooms, 2 at 70ish each, and
+one that is variably sized depending on the size of the two NEWT classes.
+However, it probably works reasonably well as NEWT students are too busy (not to
+mention being older anyway) to be too rowdy.  Assign a junior teacher to monitor
+the junior forms for the day time hours in shifts, and the prefects are
+responsible for keeping the house quiet after curfew.  That might work. 
+
+[^20200817-1]: Mrs. J. K. Rowling.  I forget which book this is in.
+
+[^20200817-2]: Mrs. J. K. Rowling. "[About the Books: transcript of J.K.
+Rowling's live interview on
+Scholastic.com](http://www.accio-quote.org/articles/2000/1000-scholastic-chat.htm)"
+[Accio Quote](http://www.accio-quote.org/) 2000-10-16. Last Viewed 2020-08-17. 
+
 #### Students starting in 1987
 
 [[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1987.dsv"]]
