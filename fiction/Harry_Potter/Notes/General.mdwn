@@ -166,7 +166,34 @@ Wizarding world does seem to have a sufficient trade in books to stock at least
 two book stores (one in Hogsmeade and one in Diagon Alley), and I am quite
 confident that the books give us a view of the press that the Quibbler is
 printed on.  This means that they do use paper books, and paper periodicals.
-The use of parchment for Hogwarts *must* be intentional.  
+
+Any number of fanfiction works I've read have speculated that there might be a
+magical reason for using parchment instead of paper.  Most of these have not
+really made much sense given the above.  However one I came across recently
+does.  
+
+> Paper doesn’t take magic terribly well: parchment is a single piece of
+animal skin, a unitary object. Paper is laid fibre from multiple trees, a
+composite object and as such tricky to get predictable results out of when you
+enchant it. The more you know, et cetera.[^20200819-1]
+
+The reference is to some of the fragmentary descriptions we have from
+McGonagall's lectures on transfiguration.  You have to be able to visualise the
+object that you are working your magic on.  In this light it is actually easier
+to see why it might be troublesome to enchant paper.  It would be all too easy
+to have a charm take hold on only a subset of the fibres involved, and thus
+behave erratically across the document.  This makes a strong argument for using
+parchment (or vellum) for documents that are *actually magical in nature* (like
+contracts, tests charmed against cheating, official government or banking forms,
+etc), but not for standard every day things (like homework, class notes, and
+letters (unless you are including privacy charms)).  
+
+You would then want writing utensils that work equally well on both, but while
+I can't speak to how a fountain pen or ball point pen might work on parchment, a
+quill or dip pen should both work equally well on any decent quality paper.
+
+[^20200819-1]: AndrewWolfe. _[The Ghost of Privet Drive](https://archiveofourown.org/works/21500365)_
+[Archive of Our Own](https://archiveofourown.org) Last Updated 202008-14. Last Viewed 2020-08-19. 
 
 [^20200816-3]: Sinyk. _[Angry Harry and the Seven](https://www.fanfiction.net/s/9750991)_ 
 [FanFiction](https://www.fanfiction.net/). Last Updated 2013-10-22. Last Viewed
