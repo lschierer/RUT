@@ -55,10 +55,29 @@ war, where entire families were wiped out.  I imagine the halfblooded families
 were disproportionately affected by that.  If there should be about 1000
 students at Hogwarts,[^20200817-2] then we should have 35-36 per house per year,
 not 40 per year total.  If we had 140 students in Harry's year, then the
-18 purebloods would be only 13% of the class, and the muggleborn only 4%.  That
-assumes that all 116 students killed by Riddle are halfblooded (or at least
+18 purebloods would be only 13% of the class, and the muggleborn only 4%.  
+
+That assumes that all 116 students killed by Riddle are halfblooded (or at least
 that the ones that were pureblooded would be in different years), which is
-probably not totally true but more nearly true than not.  
+probably not totally true but more nearly true than not.  However, there is
+another interesting possibility.  As best I can recall, _the Deathly Hallows_
+never says what happens to the first generation wizards who should have been
+part of that year's first year class.  We know that some of the older ones went
+into hiding, some of them successfully, some not.[^20200819-2] On the other
+hand, it seems like at least some of them attended Hogwarts anyway, based on the
+people present in the Room of Requirement when Harry makes it
+there.[^20200819-3]  
+
+Another possibility is that the Death Eaters used contacts
+within the Ministry of Magic's Accidental Magic Reversal Squad or the Improper
+Use of Magic office to get word of under aged magic users, and to kill the muggle
+ones.[^20200819-4]  If so, the same work suggests that they may have killed
+*fewer* of them in the years between the two Riddle wars, but not completely
+stopped.  This would artificially deflate the number of first generation wizards
+not just in Harry's year, but in all of the classes we see in the books.  While
+Mr. Weasley's "Muggle Protection Act" argues against this idea, it does seem
+believable of Umbridge and those like her who set up the laws under Pius
+Thicknesse's puppet government. 
 
 One of the other interesting questions is how you would handle an extra 29 or 30
 students per house per year.  At 10 students per house per year, the common
@@ -97,6 +116,19 @@ responsible for keeping the house quiet after curfew.  That might work.
 Rowling's live interview on
 Scholastic.com](http://www.accio-quote.org/articles/2000/1000-scholastic-chat.htm)"
 [Accio Quote](http://www.accio-quote.org/) 2000-10-16. Last Viewed 2020-08-17. 
+
+[^20200819-2]:  I'm assuming that both Dean Thomas and the Death Eaters would
+have regarded Dean as a first generation wizard.  We are told Dean did not know
+about his father, and if the Death Eaters did, they would have considered him a
+blood traitor anyway. Thus that makes at least one student who went into hiding
+unsuccessfully. 
+
+[^20200819-3]: It certainly does not mention nearly enough people coming through
+the portrait tunnel, and pretty much his entire class, plus both Creevy boys
+seem to be there.  Get a citation for this.
+
+[^20200819-4]: AndrewWolfe. _[The Ghost of Privet Drive](https://archiveofourown.org/works/21500365)_ 
+[Archive of Our Own](https://archiveofourown.org) Last Updated 2020-08-14. Last Viewed 2020-08-19.
 
 #### Students starting in 1987
 
