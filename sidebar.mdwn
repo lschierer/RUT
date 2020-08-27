@@ -4,5 +4,3 @@
 
 [[!pagestats style="list" pages="./tags/*" ]]
 
-[[!inline  pages="* and !index and !recentchanges and !templates/* and !posts and !sidebar and !archives/* and !*.css" sort="mtime" archive="no" actions="no" atom=yes feedonly="yes" feedshow=20]]
-
