@@ -8,3 +8,4 @@
 
 [[All Posts and Pages|posts]]
 
+[[!meta HTML_LANG_CODE="en_US"]]
