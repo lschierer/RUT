@@ -8,7 +8,6 @@ The first nine chapters of this are copied, with permission, from Musings of Apa
 
 [[!inline pages="Family_Inseparable/*" archive=yes feeds=no trail=yes]]
 
-* [[!traillink Family Inseparable]]
 * [[!traillink Chapter01]]
 * [[!traillink Chapter02]]
 * [[!traillink Chapter03]]
