@@ -8,18 +8,6 @@ The first nine chapters of this are copied, with permission, from Musings of Apa
 
 [[!inline pages="Family_Inseparable/*" archive="yes" feeds="no" trail="yes"]]
 
-* [[!traillink Chapter01]]
-* [[!traillink Chapter02]]
-* [[!traillink Chapter03]]
-* [[!traillink Chapter04]]
-* [[!traillink Chapter05]]
-* [[!traillink Chapter06]]
-* [[!traillink Chapter07]]
-* [[!traillink Chapter08]]
-* [[!traillink Chapter09]]
-* [[!traillink Chapter10]]
-* [[!traillink Notes]]
-
 
 [^20180701-2]: <https://musings-of-apathy.fanficauthors.net/>
 
