@@ -27,9 +27,13 @@ Ginny            |  0 |  0 |  0 |  0 |  0 |  1 |  3 |  6 |  7 |  8 |  9 | 10 | 1
 """]]
 
 [^20190327-1]: <https://www.pottermore.com/explore-the-story/ron-weasley> Last viewed 2019-03-27
+
 [^20190327-2]: <https://www.pottermore.com/explore-the-story/fred-weasley> Last viewed 2019-03-27
+
 [^20190327-3]: <https://www.pottermore.com/explore-the-story/percy-weasley> Last viewed 2019-03-27
+
 [^20190327-4]: <https://www.hp-lexicon.org/2004/05/02/the-age-of-the-weasleys/> Last viewed 2019-03-27
+
 [^20190327-5]: <https://www.hp-lexicon.org/2004/05/02/the-age-of-the-weasleys/> Last viewed 2019-03-27
 
 #### Dumbledore
@@ -52,17 +56,20 @@ and
 
 Against this collection of problems is Dumbledore's friendship with Fawkes.  How inteligent are phoenixes?  Does the phoenix bond with its partner (popular in fanfiction), or is it more of a friendship thing?  A phoenix in the HP world is a highly loyal creature.  Would this loyalty persist if Dumbledore started to believe his own legand and allow power to corrupt him? We do not, to my knowledge, have good answers to any of these questions. 
 
-Some authors of fanfiction have focused in on Dumbledore's talk of "the greater good" in his relationship with Gellert Grindelwald.  To what extent did Dumbledore actually turn away from this view of morality, that so long as you act for the greater good, you can cause suffering to individuals? Ms. Richa Venkatraman wrote a defense of Dumbledore on MuggleNet[&20190301-1] in which she seems to express well the view that Harry himself has in the book, that Dumbledore is ultimately a good, if flawed, person.  I have trouble with this, it is way too close to "the ends justify the means," and I am far from convinced that it differs in any important detail.  Yes you should act to promote the greatest good to the greatest number of people, but you may not do so using means that encompass actual harm to individuals.  The ends (the greater good) do not justify the means (cooperating with (in a moral sense) the abuse Harry suffers).  I suspect however, that Ms. Venkatraman is right, that Dumbledore suffers in his concience from the pain he causes, and he does _intend_ good.  For my purposes, Fawkes recognizes this good intent, but is not inteligent enough (a phoenix is an animal, not a being) to understand the flaws in Dumbledore's execution.  
-
-[^20180702-2]: <https://musings-of-apathy.fanficauthors.net/Family_Inseparable/Chapter_9/reviews/5/#comments> Last viewed 2018-07-02.  
-[^20190301-1]: _“For the Greater Good”: In Defense of Albus Dumbledore_ by Ms. Richa Venkatraman. Published 2017-08-02.  Last viewed 2019-03-01. <http://www.mugglenet.com/2017/08/greater-good-defense-albus-dumbledore/>
+Some authors ofsfanfiction have focused in on Dumbledore's talk of "the greater good" in his relationship with Gellert Grindelwald.  To what extent did Dumbledore actually turn away from this view of morality, that so long as you act for the greater good, you can cause suffering to individuals? Ms. Richa Venkatraman wrote a defense of Dumbledore on MuggleNet[&20190301-1] in which she seems to express well the view that Harry himself has in the book, that Dumbledore is ultimately a good, if flawed, person.  I have trouble with this, it is way too close to "the ends justify the means," and I am far from convinced that it differs in any important detail.  Yes you should act to promote the greatest good to the greatest number of people, but you may not do so using means that encompass actual harm to individuals.  The ends (the greater good) do not justify the means (cooperating with (in a moral sense) the abuse Harry suffers).  I suspect however, that Ms. Venkatraman is right, that Dumbledore suffers in his concience from the pain he causes, and he does _intend_ good.  For my purposes, Fawkes recognizes this good intent, but is not inteligent enough (a phoenix is an animal, not a being) to understand the flaws in Dumbledore's execution.  
 
 #### The Wards around Privet Drive
 
 Musings of Apathy, in writing the original version of this story, speculates that the wards either can and have collapsed without the monitors showing it, or that they never worked.[^20180702-3]  I think, if we are going to preserve Dumbledore, I have to modify this theory.  I suspect that the wards did establish, and did work.  Harry, as of Chapter 9, is still afraid of being sent back to Privet Drive.  He is still thinking of the Burrow as _Ginny's home_ and not yet as _his home_, and has only been gone for a couple of months, less than he will later be gone as part of each school year.  Thus the wards would remain standing.  If I succeed in going anywhere with this attempt the wards will fail when Harry and Ginny come clean to her parents, and Harry starts to feel secure in his new life.  At that point, his view of home will shift, and, because he (at that point) no longer views Privet Drive as home, the wards will suddenly fail.  
 
-[^20180702-3]: <https://musings-of-apathy.fanficauthors.net/Family_Inseparable/Chapter_5/reviews/2/#comments> Last viewed 2018-07-02.
-
 In the cannon Harry Potter universe, the wards were set to fail when Harry turns 17, becoming an adult.  This has lead some fanfiction authors to speculate that any event that causes Harry to be emancipated would also cause the wards to fail.  Per the books, the wards were stood up when Petunia took Harry into her home.[^20180709-2]  I have to deal with this in this story.  How exactly do the wards work, and what protection do they provide?  A related question is The Trace, which also terminates at 17.  I initially considered that the wards might not have activated, as this would both be a bit of ironic justice and make the story easier.  If the wards do not change when Harry gets married because they are not working right in the first place, I do not have to deal with the emancipation that also comes with the marriage.  However, I dislike contradicting the text when it comes to world mechanics more than I have to.  I mean, I do have to some - wizarding households function on magic, so the Decree for the Reasonable Restriction of Underage Sorcery and the Trace either allows for supervised household charm or does not function at all in wizarding households, probably the latter.  The whole "do not use magic outside of school" thing is more for muggle born witches and wizards rather than any real restriction.  Returning to topic, another possibility is that turning 17 is a magical event - literally.  Because Harry never takes arithmancy in the books, we do not see much about magic numbers, but we know they exist.  Perhaps this particular prime number impacts the operation of the wards (and the Trace must be some form of detection ward I think) in some way.  If that is true, then Harry's emancipation is a legal event, not a magical one, and so would not affect either the Trace or the wards.
 
 [^20180709-2]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_.  Chapter 37. Location 12236. 
+
+[^20180702-2]: <https://musings-of-apathy.fanficauthors.net/Family_Inseparable/Chapter_9/reviews/5/#comments> Last viewed 2018-07-02.  
+
+[^20190301-1]: Ms. Richa Venkatraman.  _["For the Greater Good": In Defense of Albus Dumbledore](http://www.mugglenet.com/2017/08/greater-good-defense-albus-dumbledore/)_ 
+Published 2017-08-02.  Last viewed 2019-03-01. 
+
+[^20180702-3]: <https://musings-of-apathy.fanficauthors.net/Family_Inseparable/Chapter_5/reviews/2/#comments> Last viewed 2018-07-02.
+
