@@ -6,7 +6,7 @@ The first nine chapters of this are copied, with permission, from Musings of Apa
 
 ----
 
-[[!inline pages="Family_Inseparable/*" archive="yes" feeds="no" trail="yes"]]
+[[!inline pages="page(./Family_Inseparable/*)" archive="yes" quick="yes" trail="yes"]]
 
 
 [^20180701-2]: <https://musings-of-apathy.fanficauthors.net/>
