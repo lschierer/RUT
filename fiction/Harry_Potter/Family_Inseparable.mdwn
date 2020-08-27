@@ -1,3 +1,6 @@
+
+[[!inline pages="Family_Inseparable/*" archive=yes feeds=no trail=yes]]
+
 * [[!traillink Family Inseparable]]
 * [[!traillink Chapter01]]
 * [[!traillink Chapter02]]
