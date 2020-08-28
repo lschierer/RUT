@@ -21,7 +21,6 @@ Here is a full list of posts
 	!templates and
 	!/templates and
 	!/templates/* and
-	!/wikiicons and
-	!internal(*)" 
+	!/wikiicons" 
 	show=title]]
 
