@@ -217,9 +217,6 @@ Last edited <TMPL_VAR MTIME>
 <TMPL_IF EXTRAFOOTER><TMPL_VAR EXTRAFOOTER></TMPL_IF>
 </TMPL_UNLESS>
 <!-- from <TMPL_VAR WIKINAME> -->
-<TMPL_IF HTML5></footer><TMPL_ELSE></div></TMPL_IF>
-
-<TMPL_IF HTML5></article><TMPL_ELSE></div></TMPL_IF>
 <div>
 <span>
 	<a href="https://www.schierer.org/~luke/" title="Luke's Home Page">
@@ -234,5 +231,8 @@ Last edited <TMPL_VAR MTIME>
 	<br/>
 </span>
 </div>
+<TMPL_IF HTML5></footer><TMPL_ELSE></div></TMPL_IF>
+
+<TMPL_IF HTML5></article><TMPL_ELSE></div></TMPL_IF>
 </body>
 </html>
