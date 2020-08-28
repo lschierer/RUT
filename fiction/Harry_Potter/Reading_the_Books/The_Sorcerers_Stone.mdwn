@@ -1,1 +1,3 @@
-[[!map pages="fiction/Harry_Potter/Reading_the_Books/The_Sorcerers_Stone/* and ! fiction/Harry_Potter/Reading_the_Books/The_Sorcerers_Stone/*/*"]]
+[[!inline pages="page(./The_Sorcerers_Stone/*) 
+archive="yes" actions="no" trail="yes" rss="no" atom="no" template="titlepage"
+]]
