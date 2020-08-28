@@ -1,5 +1,5 @@
 
-[[!inline pages="page(./Reading_the_Books/*) and !*/*/*"
+[[!inline pages="page(./Reading_the_Books/*) and !./*/*"
 archive="yes" actions="no" trail="yes" rss="no" atom="no" template="titlepage"
 ]]
 
