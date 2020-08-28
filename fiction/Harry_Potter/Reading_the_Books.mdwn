@@ -1,5 +1,9 @@
-
-[[!inline pages="page(./Reading_the_Books/*) and !./Reading_the_Books/*/*"
-archive="yes" actions="no" trail="yes" rss="no" atom="no" template="titlepage"
+[[!traillink Introduction|./Reading_the_Books/Introduction]]
+[[!traillink Prologue|./Reading_the_Books/Prologue]]
+[[!inline pages="page(./Reading_the_Books/*) and 
+	!./Reading_the_Books/Introduction
+	!./Reading_the_Books/Prologue
+	!./Reading_the_Books/*/*"
+	archive="yes" actions="no" trail="yes" rss="no" atom="no" template="titlepage"
 ]]
 
