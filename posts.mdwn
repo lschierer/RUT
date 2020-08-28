@@ -1,4 +1,16 @@
 Here is a full list of posts 
 
-[[!map  pages="* and !blog/* and !*/*/* and !*.css and !smileys and !sidebar and !sandbox and !wikiicons and !*/ikiwiki and !favicon.ico and !*/shortcuts" show=title]]
+[[!map  pages="page(*) and 
+	!*/*/* and 
+	!*.css and 
+	!blog/* and 
+	!favicon.ico and 
+	!/smileys and 
+	!/sidebar and 
+	!/sandbox and 
+	!*/ikiwiki and 
+	!/shortcuts and
+	!/templates and
+	!/wikiicons" 
+	show=title]]
 
