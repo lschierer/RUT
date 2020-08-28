@@ -14,13 +14,11 @@ Here is a full list of posts
 	!sandbox and 
 	!/sandbox and 
 	!ikiwiki and 
-	!/ikiwiki and 
-	!/ikiwiki/* and 
+	!ikiwiki/* and 
 	!shortcuts and
 	!/shortcuts and
 	!templates and
-	!/templates and
-	!/templates/* and
+	!templates/* and
 	!/wikiicons" 
 	show=title]]
 
