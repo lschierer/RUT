@@ -1,9 +1,11 @@
 [[!traillink Introduction|./Reading_the_Books/Introduction]]
 [[!traillink Prologue|./Reading_the_Books/Prologue]]
+[[!traillink The Sorcerer's Stone|./Reading_the_Books/The_Sorcerers_Stone]]
 [[!inline pages="page(./Reading_the_Books/*) and 
 	!./Reading_the_Books/Introduction and
 	!./Reading_the_Books/Prologue and
+	!./Reading_the_Books/The_Sorcerers_Stone
 	!./Reading_the_Books/*/*"
-	archive="yes" actions="no" trail="yes" rss="no" atom="no" template="titlepage"
+	archive="yes" actions="no" trail="yes" rss="no" atom="no" template="titlepage" 
 ]]
 
