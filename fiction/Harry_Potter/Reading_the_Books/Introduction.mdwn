@@ -1,6 +1,8 @@
 ##Harry Potter and the Request for Help
 
 ###Introduction
+[[!meta title="Harry Potter and the Request for Help: Introduction"
+sortas="001"]]
 
 By Luke Schierer
 
