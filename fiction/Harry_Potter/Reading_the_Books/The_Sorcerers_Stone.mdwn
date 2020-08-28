@@ -1,3 +1,3 @@
 [[!inline pages="page(./The_Sorcerers_Stone/*)" 
-archive="yes" actions="no" trail="yes" rss="no" atom="no" template="titlepage"
+	archive="yes" actions="no" trail="yes" rss="no" atom="no" template="titlepage" sort="meta(title) title"
 ]]
