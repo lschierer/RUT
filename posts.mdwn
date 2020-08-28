@@ -7,12 +7,15 @@ Here is a full list of posts
 	!/archives and
 	!blog/* and 
 	!favicon.ico and 
+	!smileys and 
 	!/smileys and 
+	!sidebar and 
 	!/sidebar and 
 	!sandbox and 
 	!/sandbox and 
 	!ikiwiki and 
 	!/ikiwiki and 
+	!/ikiwiki/* and 
 	!shortcuts and
 	!/shortcuts and
 	!templates and
