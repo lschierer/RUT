@@ -184,6 +184,10 @@ Last Viewed 2020-07-06.
 
 [[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1994.dsv"]]
 
+#### Students starting in 1995
+
+[[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1995.dsv"]]
+
 ### Teachers
 
 * [[Albus Dumbledore|Dumbledore]]
