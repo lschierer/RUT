@@ -169,9 +169,6 @@ are the same person, and will probably go with Sophie as the name.
 "[Fay Dunbar](https://harrypotter.fandom.com/wiki/Fay_Dunbar#Behind_the_scenes)"
 Last Viewed 2020-07-06. 
 
-[^20200701-3]:
-<https://harrypotter.fandom.com/wiki/Harry_Potter_and_Me?file=Pagenotes.jpg>
-
 #### Students starting in 1992
 
 [[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1992.dsv"]]
@@ -231,6 +228,8 @@ Pottermore. American Kindle Edition.  Better citation needed.
 
 [^20200811-2]: Mrs. J. K. Rowling.  I don't recall which book this is in.
 Better citation needed. 
+
+[^20200701-3]: Mrs. J. K. Rowling.  <https://harrypotter.fandom.com/wiki/Harry_Potter_and_Me?file=Pagenotes.jpg>
 
 [^20200419-1]: Mugglenet.  _The Revised Forty_
 [MuggleNet](https://mugglenet.com) last viewed 2020-04-19.
