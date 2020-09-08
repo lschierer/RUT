@@ -1,5 +1,7 @@
 ## Hogwarts
 
+[[!toc  startlevel=3]]
+
 ### General Info
 
 #### [[Class Schedule|Class_Schedule_Rant]]
