@@ -1,9 +1,9 @@
 
 RewriteEngine On
-RewriteBase /~luke/log/
-RewriteRule "^~luke/log/(\d+)-\d+/(.*)$" "$1/$2" [R]
+RewriteBase /
+RewriteCond %{REQUEST_URI}" !-s 
+RewriteRule "^(\d+)-\d+/(.*)$" "$1/$2" [R,L]
 
-FallbackResource /~luke/log/
 
 <LimitExcept GET>
 	AuthType Basic
