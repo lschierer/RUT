@@ -1,0 +1,4 @@
+[[!meta title="pages tagged pidgin"]]
+
+[[!inline pages="tagged(pidgin)" actions="no" archive="yes"
+feedshow=10]]
