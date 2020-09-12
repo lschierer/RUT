@@ -1,0 +1,4 @@
+[[!meta title="pages tagged global-warming"]]
+
+[[!inline pages="tagged(global-warming)" actions="no" archive="yes"
+feedshow=10]]
