@@ -4,7 +4,24 @@
 [[!inline pages=sidebar raw=yes]]
 """]]
 
-[[!inline  pages="* and !*/Discussion and !ikiwiki and !ikiwiki/* and !recentchanges and !posts and !sandbox and !shortcuts and !sidebar and !smileys and !tags and !tags/* and !templates and !templates/* and !archives/* and !*.css and !*.gif and !*.ico and !*.png" sort="mtime" archive="yes" actions="no" show=10 feeds=yes atom=yes feedshow=20]]
+[[!inline  pages="* and 
+	!archives and !archives/* and 
+	!*/Discussion and 
+	!ikiwiki and 
+	!ikiwiki/* and 
+	!recentchanges and 
+	!posts and 
+	!sandbox and 
+	!shortcuts and 
+	!sidebar and 
+	!smileys and 
+	!tags and !tags/* and 
+	!templates and !templates/* and 
+	!wikiicons and
+	!*.css and 
+	!*.gif and 
+	!*.ico and 
+	!*.png" sort="mtime" archive="yes" actions="no" show=10 feeds=yes atom=yes feedshow=20]]
 
 [[All Posts and Pages|posts]]
 
