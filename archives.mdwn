@@ -1,3 +1,5 @@
+[[!meta  robots="noindex, nofollow"]]
+
 [[!if test="archives/*" then="""
 Browse through blog archives by year:
 [[!map pages="./archives/* and !./archives/*/* and !*/Discussion"]]
