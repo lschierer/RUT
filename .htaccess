@@ -1,8 +1,7 @@
-Options +ExecCGI
 
 RewriteEngine On
 RewriteBase /~luke/log/
-RewriteRule ^(\[0-9]+)-\[0-9]+/(.*)$ $1/$2 [R]
+RewriteRule "^~luke/log/(\d+)-\d+/(.*)$" "$1/$2" [R]
 
 FallbackResource /~luke/log/
 
