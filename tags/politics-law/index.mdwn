@@ -1,0 +1,4 @@
+[[!meta title="pages tagged politics-law"]]
+
+[[!inline pages="tagged(politics-law)" actions="no" archive="yes"
+feedshow=10]]
