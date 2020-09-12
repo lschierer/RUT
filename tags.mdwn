@@ -1,3 +1,5 @@
 [[!pagestats pages="./tags/*" among="./posts/*"]]
+[[!meta  robots="noindex, nofollow"]]
+
 
 On the right you can see the tag cloud for this blog.
