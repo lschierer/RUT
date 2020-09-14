@@ -1,6 +1,5 @@
-
 RewriteEngine On
-RewriteBase /
+RewriteBase /~luke/log/
 RewriteCond %{REQUEST_URI}" !-s 
 RewriteRule "^(\d+)-\d+/(.*)$" "$1/$2" [R,L]
 
