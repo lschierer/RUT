@@ -50,8 +50,8 @@ only one student interested, they may have … neglected to schedule some time
 slots.  It is a viable argument, but rediculous. 
 
 [^20200706-1]: I know Fay Dunbar is the prototypical name for a Gryffindor girl.
-See my [[Notes]] on [[Hogwarts]] for why I am using these names. I pretty much
-have to pick between using a video game name or using a name from a note sheet.
+    See my [[Notes]] on [[Hogwarts]] for why I am using these names. I pretty much
+    have to pick between using a video game name or using a name from a note sheet.
 
 You could try to say that it has to be variable because interest is variable but
 while Divination is a dedicated class, Care of Magical Creatures is not, and yet
@@ -92,16 +92,14 @@ the mystery 2) it lets Hermione be supper inteligent without informing Harry of
 anything 3) it provides reasons for her and Ron to fight.
 
 [^20200629-5]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_ 
-(p. 323). Pottermore Limited. American Kindle Edition. 
+    (p. 323). Pottermore Limited. American Kindle Edition. 
 
 [^20200629-6]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_ 
-(pp. 101-102). Pottermore Limited. American Kindle Edition. 
+    (pp. 101-102). Pottermore Limited. American Kindle Edition. 
 
-[^20200629-1]: ChokolatteJedi. _[Meta about Hogwarts Class
-Schedule](https://archiveofourown.org/works/17908985?view_full_work=true)_
-<https://archiveofourown.org/>
-<https://archiveofourown.org/works/17908985?view_full_work=true> Last Viewed
-2020-06-29
+[^20200629-1]: ChokolatteJedi. 
+    _[Meta about Hogwarts Class Schedule](https://archiveofourown.org/works/17908985?view_full_work=true)_
+    <https://archiveofourown.org/> Last Viewed 2020-06-29
 
 [[!tag "HP Notes"]]
 
