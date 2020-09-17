@@ -23,7 +23,7 @@
 	!*.ico and 
 	!*.png" sort="mtime" archive="yes" actions="no" show=10 feeds=no atom=no]]
 
-[[!inline  pages="page(*) and 
+[[!inline  pages="page(*) and creation_year(2020)
 	!archives and !archives/* and 
 	!*/Discussion and 
 	!ikiwiki and 
@@ -40,7 +40,7 @@
 	!*.css and 
 	!*.gif and 
 	!*.ico and 
-	!*.png" sort="mtime" creation_year(2020) feedonly=yes actions="no" feeds=yes atom=yes feedshow=20]]
+	!*.png" sort="ctime" feedonly=yes actions="no" feeds=yes atom=yes feedshow=20]]
 
 [[All Posts and Pages|posts]]
 
