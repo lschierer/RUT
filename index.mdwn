@@ -40,7 +40,7 @@
 	!*.css and 
 	!*.gif and 
 	!*.ico and 
-	!*.png" sort="ctime" feedonly=yes actions="no" feeds=yes atom=yes feedshow=20]]
+	!*.png" sort="meta(date)" feedonly=yes actions="no" feeds=yes atom=yes feedshow=20]]
 
 [[All Posts and Pages|posts]]
 
