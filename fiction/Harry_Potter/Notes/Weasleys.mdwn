@@ -45,10 +45,10 @@ must be wrong, and that there must in fact be more space between Charlie and
 Ron.
 
 [^20200629-3]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_.
-(p. 148). Pottermore Limited. American Kindle Edition. 
+    (p. 148). Pottermore Limited. American Kindle Edition. 
 
 [^20200728-1]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_ 
-(p. 192). Pottermore Limited. American Kindle Edition. 
+    (p. 192). Pottermore Limited. American Kindle Edition. 
 
 [^20200629-2]: Citations needed.
 
