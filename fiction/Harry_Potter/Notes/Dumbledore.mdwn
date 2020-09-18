@@ -232,7 +232,7 @@ well:[^20200720-1]
 
 > “Power is always useless when it is just possessed, merely collected
 like a bauble. The honors were meant for a protector. One must wonder
-how you ended up with them.”[^20200720-1]
+how you ended up with them.”[^20200720-6]
 
 > “Mimicry may be the highest form of flattery,” she replied
 pointedly, “but mockery is just an insult. Goodness is not served by
@@ -242,7 +242,7 @@ been wronged in order to purchase personal favors to be named at a later
 date. Goodness is not served when knowledge is hidden and innovation
 stifled in order to preserve the oppression which allows you to keep ahold
 of all your worthless titles and stolen honors. You are not a good man,
-Albus, warlock of Britannia.”[^20200720-1]
+Albus, warlock of Britannia.”[^20200720-7]
 
 > “Warlock fits you better than you know,” she stated in echoing
 tones. “The wizards of Britannia claimed it as a martial title for
@@ -255,7 +255,7 @@ of humility is not a valid excuse for not using the authority granted
 to you in order to serve the needs of the people who trusted you to act
 in their best interests over your personal desires. If you truly did
 not believe you could be trusted with the power imbued in the roles,
-you should have passed them to another who could.”[^20200720-1]
+you should have passed them to another who could.”[^20200720-8]
 
 Interestingly, Wikipedia confirms that "Warlock" does in fact imply
 both male magic user and betrayer.[^20200720-2] This contrasts
@@ -344,7 +344,7 @@ broken.
 
 But what would replace it?  Democracy is a poor choice from Dumbledore's
 perspective.  He has never trusted people, but has grown up in an atmosphere of
-secrets and lies.[^20200812-7]  He alone is intelligent enough to see what must
+secrets and lies.[^20200812-8]  He alone is intelligent enough to see what must
 be done for the good of all.  Sacrifices must be made, and the muggleborn cannot
 be trusted to realise that their families must be subjugated.  Dumbledore has
 done home visits.  Sure he has seen situations like that of Riddle, but he has
@@ -408,11 +408,11 @@ Is is public face at all related to his private goals?
     Pottermore. American Kindle Editions. Better Citation Needed. 
 
 
-[^20200812-6]:  Mrs. J. K. Rowling.  _Harry Potter and the Deathly Hallows_
+[^20200812-7]:  Mrs. J. K. Rowling.  _Harry Potter and the Deathly Hallows_
     Pottermore. American Kindle Editions. Chapter 8.
 
 
-[^20200812-7]:  Mrs. J. K. Rowling.  _Harry Potter and the Deathly Hallows_
+[^20200812-8]:  Mrs. J. K. Rowling.  _Harry Potter and the Deathly Hallows_
     Pottermore. American Kindle Editions. Better Citation Needed. 
 
 
@@ -422,6 +422,18 @@ Is is public face at all related to his private goals?
 
 
 [^20200720-1]:  Magi Silverwolf.  _[The Greater Will](https://archiveofourown.org/works/16234799)_ 
+	[Archive of Our Own](https://archiveofourown.org/).  Published 2018-10-08.  
+	Last Viewed 2020-07-20.
+
+[^20200720-6]:  Magi Silverwolf.  _[The Greater Will](https://archiveofourown.org/works/16234799)_ 
+	[Archive of Our Own](https://archiveofourown.org/).  Published 2018-10-08.  
+	Last Viewed 2020-07-20.
+
+[^20200720-7]:  Magi Silverwolf.  _[The Greater Will](https://archiveofourown.org/works/16234799)_ 
+	[Archive of Our Own](https://archiveofourown.org/).  Published 2018-10-08.  
+	Last Viewed 2020-07-20.
+
+[^20200720-8]:  Magi Silverwolf.  _[The Greater Will](https://archiveofourown.org/works/16234799)_ 
 	[Archive of Our Own](https://archiveofourown.org/).  Published 2018-10-08.  
 	Last Viewed 2020-07-20.
 

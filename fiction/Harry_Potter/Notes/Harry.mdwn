@@ -76,7 +76,7 @@ use that "not a bad mind" mentioned above away from Ron's influence).
 
 On a truly trivial note, the scene from Snape's memory showing the confrontation
 after the OWL tests shows that James purposefully messed up his
-hair.[20200710-1]  Harry's
+hair.[^20200710-1]  Harry's
 hair was unfixably messy.  Unfortunately, we know that that while James did mess
 up his hair, it was also unfixably untidy.[^20200710-2]  The most likely
 explanation of this is that it is purely genetic, but lots of authors have had
@@ -169,9 +169,9 @@ me is surprised she did not pick fir.  Larch, rowan and willow would lend
 themselves to a more alternate universe tale, while still, I think, allowing you
 to keep the essence of who Harry is as a character intact.  
 
-[20200710-1]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_ Kindle Locations 9456-9457. Pottermore Limited. American Kindle Edition. 
+[^20200710-1]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_ Kindle Locations 9456-9457. Pottermore Limited. American Kindle Edition. 
 
-[20200710-2]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_ p.
+[^20200710-2]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_ p.
     208. Pottermore Limited. American Kindle Edition. 
 
 [^20200710-3]: Tom Kristal. 
