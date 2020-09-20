@@ -185,11 +185,9 @@ to keep the essence of who Harry is as a character intact.
 [^20200527-1]: ivybelle.  _Don't Touch Me_, 
     [Archive of Our Own](https://archiveofourown.org/) last viewed 2020-05-27. 
 
-[^20200725-1]:  Mrs. J. K. Rowling. _Harry Potter and the Deathly Hallows_
-    better citation needed. 
+[^20200725-1]:  Mrs. J. K. Rowling. _Harry Potter and the Deathly Hallows_ better citation needed. 
 
-[20200725-2]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_ 
-    better citation needed.
+[^20200725-2]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_ better citation needed.
 
 
 [[!tag "HP Notes"]]
