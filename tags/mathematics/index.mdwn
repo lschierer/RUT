@@ -1,0 +1,4 @@
+[[!meta title="pages tagged mathematics"]]
+
+[[!inline pages="tagged(mathematics)" actions="no" archive="yes"
+feedshow=10]]
