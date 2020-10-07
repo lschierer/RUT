@@ -11,5 +11,5 @@ fairly simple bash for loop using the bsd-games primes command:
 
 `m=1000; for i in ``seq 0 $m 1000000``; do j=$(( $i+$m )); k=``primes $i $j | wc -l``;  echo "$j $k" >> input.dat; done` 
 
-[[!img ./distribution.png]]
+[[!img distribution.png alt="distribution of prime numbers per 1000" ]]
 
