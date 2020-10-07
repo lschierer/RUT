@@ -1,5 +1,5 @@
 [[!tag mathematics]]
-[[!tag title="Distribution of Prime Numbers"]]
+[[!meta title="Distribution of Prime Numbers"]]
 
 I over heard Peter asking about how frequently prime numbers occur,
 specifically, are they less frequent as numbers get bigger.  This made me
