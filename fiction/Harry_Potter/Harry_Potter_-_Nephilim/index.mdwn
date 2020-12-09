@@ -1,0 +1,49 @@
+== Harry Potter - Nephilim
+
+=== Introduction
+
+I recently read _[Many Waters][MW]_ by Madeleine L'Engle.  Her theology in that book is *really really* sketchy, but like many distortions of true Catholic thought, makes for interesting fiction.  It occurred to me that while I have no real interest in doing a true crossover with her works, that it would be fun to cross over some of the (fake) theology from this book with the Harry Potter series.  L'Engle, in her book, extends one of the two theories for understanding the term *[nephilim][^20201209-1]* from the Old Testament. Specifically, she takes the view that the those angels that rebelled against God had intercourse with human women.  A lot of authors will try to do almost all their world building within the narrative.  I realise this is technically better, but it is also harder to do.  Since I am doing essentially a 3 way cross over between Harry Potter, Many Waters, and actual Catholic theology, I am going to set the stage here in this introduction.  These world building notes are useful to understand the story, but are hopefully not truly necessary.  That being said, I am not going to go out of my way to explain in depth the way some authors do, I will just include it either here, or in an appendix. 
+
+Some points of divergence from her ideas:
+
+* she calls the fallen angels the nephilim.  I'm using more orthodox theology and calling the progeny of the union of an angel and a human a nephil (I'm using seraph - seraphim, cherub - cherubim, nephil - nephilim). 
+* she has all such end with the great flood.  Later passages in the Old Testament suggest that nephilim continue to exist after the flood.  I am positing that fallen angels continued to seduce women during the Old Testament times. 
+
+Some ideas I am specifically pulling:
+
+* being seduced by a fallen angel is not just a matter of falling in love with the wrong person, the fallen angel also seduces you into an evil ritual that corrupts your soul. I am going to extend this and call such a person a witch.  See below for deviations from Harry Potter.
+* the fallen angels directly interact with humanity and have visible manifestations of the powers they retain from their angelic nature.  I'm extending this to say that some of these are inherited.
+
+Some points of divergence from Harry Potter:
+
+* Witches are those corrupted by union with fallen angels.  They do gain power (magic) from this union, but are corrupted by it.  Should they repent and receive forgiveness from their sins, they would also lose their access to magic.
+* Modern day welders of magic, heavily influenced by paganism, and by those who have given into temptation, have obscured the difference between those who inherit magic and those who have gained it through sin. They call all female welders of magic witches, this is part denial, part self delusion, and part ignorance. Exactly how much of which differs from person to person. 
+* The Old Testament references to witches refer to those corrupted by union with fallen angels, not to the children of such unions (This is almost certainly bogus and entirely fictional theology, but it is necessary for world building).
+* The Statue of Secrecy was imperfectly implemented.  At one point, knowledge of the a-fore bullet points was commonly taught to most clergy.  With the disruptions to the educational wrought by the enlightenment, and worse, by the modern era, now only a few priests and bishops know this history. 
+* Per the above, I am asserting a historical fiction: witch hunting was a product of ignorance (sometimes poorly educated priests yes) and even more so of Protestantism.  The rejection of those parts of Sacred Tradition not contained in the Bible by Protestants caused them to reject the true understanding of the interactions between the fallen angels and humanity.
+* Magic users *are not human.*  Just like a hippogriff is a blend of the incompatible horse and eagle that is not fully one nor the other, the person who can use magic is a nephilim, not a human.  
+  * Sufficiently inbred children of nephilim go strange in a variety of ways.  From this over the centuries (though this is lost in time) you get:
+	  * Goblins - twisted, in that concupiscence is *much* stronger in them than in either humans or nephilim, able to use magic, but in ways strange and different to the nephilim.  Moral behaviour is not impossible for a Goblin, but compared to a human, their free will is much reduced, they are much more ruled by their emotions and passions, especially greed, envy, and wrath. 
+		* Giants - reduced in intelligence, massively increased in size.  Like the Goblins, concupiscence is massively increased, especially the temptation to wrath (though unlike the Goblins, the temptation to greed and envy is not so noticeably distorted), which is increased several times that of even the Goblins. So again, moral behaviour is not impossible, but free will is massively reduced, which coupled with the reduction in intelligence (which Goblins do _not_ experience, Goblins have a fully human intelligence), makes them almost fully ruled by their emotions and passions. They are nearly, but not quite, reduced to animals, if that were possible for a being with an immortal soul. 
+		* Squibs - the most common result, one that still crops up in the modern era, this is a child that is _nearly_ human, the angelic nature is almost entirely uninherited. Occasionally the children of squibs will regain the traits of the nephilim, this is more or less an example of hybrid vigour or [heterosis][^20201209-2]. 
+	* As a distortion of God's creation, nephilim do not, cannot fit cleanly into either creation or Divine Law. [Soteriology][WP1], [Missiology][WP2], and [Ecclesiology][WP3] get interesting (and fictional) curlicues and footnotes trying to deal with the chaotic fallout of the interaction between the angelic and the human in a nephil's nature. 
+	* Children of humans and the nephilim are generally either human or nephil.  They do not form squibs.  For world building reasons, the angelic nature is either fully inherited, or fully not inherited. 
+	* Children of two nephilim generally inherit the angelic abilities of one parent _or_ the other, occasionally but very rarely both, and only in cases of extreme inbreeding neither (squibs).  No investigation has been done into why children do not follow more statistical Mendelian inheritance patterns.  
+	  * This is why muggle-born are rare, because it requires the rare case of a child inheriting the fractional (insufficient) angelic nature from *both* squib parents to obtain the hybrid vigour effect, sometimes several times over, before the squib parents have a "muggle-born" child. 
+		* Muggle-born children are *usually* but *not always* very low in power. A child can "squib out" due to:
+		  * loss of access to angelic power (affected by "anti-muggle" charms/wards).
+			* loss of control over angelic power (like Argus Finch, able to bypass an "anti-muggle" charm/ward, but unable to cast a spell)
+			* a combination of both - this is the most common. 
+		* This produces a societal bias in favour of having a magically powerful spouse, since children's magical ability is usually identical to exactly one parent's.
+
+[WP1]: https://en.wikipedia.org/
+
+[WP2]: https://en.wikipedia.org/
+
+[WP3]: https://en.wikipedia.org/
+
+[MW]: https://en.wikipedia.org/wiki/Many_Waters
+
+[^20201209-1]: [Wikipedia](https://en.wikipedia.org/).  [Nephilim](https://en.wikipedia.org/wiki/Nephilim) Last edited 2020-12-06.  
+
+[^20201209-2]: [wikipedia](https://en.wikipedia.org/).  [Heterosis](https://en.wikipedia.org/wiki/Heterosis) Last edited 2020-12-01. 
