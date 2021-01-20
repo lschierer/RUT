@@ -23,7 +23,9 @@
 	!*.ico and 
 	!*.png" sort="mtime" archive="yes" actions="no" show=10 feeds=no atom=no]]
 
-[[!inline  pages="page(*) and creation_year(2020) and
+[[!inline  pages="page(*) and 
+	(creation_year(2020) or
+	 creation_year(2021) ) and
 	!archives and !archives/* and 
 	!*/Discussion and 
 	!ikiwiki and 
