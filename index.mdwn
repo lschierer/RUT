@@ -28,8 +28,7 @@
 	 creation_year(2021) ) and
 	!archives and !archives/* and 
 	!*/Discussion and 
-	!ikiwiki and 
-	!ikiwiki/* and 
+	!ikiwiki and !ikiwiki/* and 
 	!recentchanges and 
 	!posts and 
 	!sandbox and 
@@ -38,11 +37,8 @@
 	!smileys and 
 	!tags and !tags/* and 
 	!templates and !templates/* and 
-	!wikiicons and
-	!*.css and 
-	!*.gif and 
-	!*.ico and 
-	!*.png" sort="meta(date) age" feedonly=yes actions="no" feeds=yes atom=yes feedshow=20]]
+	!wikiicons
+	" sort="meta(date) age" feedonly=yes actions="no" feeds=yes atom=yes feedshow=20]]
 
 [[All Posts and Pages|posts]]
 
