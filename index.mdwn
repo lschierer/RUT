@@ -38,7 +38,7 @@
 	!tags and !tags/* and 
 	!templates and !templates/* and 
 	!wikiicons
-	" sort="meta(date) age" feedonly=yes actions="no" feeds=yes atom=yes feedshow=20]]
+	" sort="-meta(date) age" feedonly=yes actions="no" feeds=yes atom=yes feedshow=20]]
 
 [[All Posts and Pages|posts]]
 
