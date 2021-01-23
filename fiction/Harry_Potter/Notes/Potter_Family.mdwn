@@ -1,15 +1,19 @@
 ? - ? Fleamont
       ^
-      |
-Henry ? Potter - ? 
-      ^
-      |
-Fleamont ? Potter - Euphemia ? 
-      ^
-      |
-James ? Potter - Lily ? Evans
+      |-----------------------------------
+			|                                  |
+Henry ? Potter - ?                       ? - ?
+      ^                                  ^  
+      |                                  |
+Fleamont ? Potter - Euphemia ?           Charlus ? Potter - Dorea Black
+      ^                                          ^
+      |                                          |
+James ? Potter - Lily ? Evans                    ?
       ^
       |
 Harry James Potter
 
 [[!tag "HP Notes"]] 
+
+
+This tree is speculative based on the available information.  Charlus Potter is placed based on Dorea Potter's birthday, and Henry Potter's dates of service in the Wizengamot.  It is unlikely that Henry's child's wife was born as Henry retired from public service.  It is more likely that his term in the Wizengamot came in recognition for sucess in some prior career and thus later in life, after his child(ren) are/were born. Since that pushes the connection up a generation, I'm inserting a missing couple between Henry's mom (whose last name was Fleamont) and Charlus (who had to be young enough to marry Dorea).  Sure marriages happen with mismatched ages, but I think most witches and wizards marry right out of Hogwarts.  I have no real basis for that belief, the Weasley children contradict it, but I think it fits the culture I am envisioning. 
