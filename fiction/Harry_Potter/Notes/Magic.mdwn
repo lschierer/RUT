@@ -90,16 +90,13 @@ cost.
 
 #### Wands
 
-* There is a fascinating article on [wand
-  wood](https://www.wizardingworld.com/writing-by-jk-rowling/wand-woods) and the
+* There is a fascinating article on [wand wood][20210126-1] and the
   personality traits and skills that go along with each.[^20200723-1]
-* The one on [size and flexibility](https://www.wizardingworld.com/writing-by-jk-rowling/wand-lengths-and-flexibility)
-  is more abbreviated, but points out that you must not be too
-  literal.[^20200723-2]
+* The one on [size and flexibility][20210126-2] is more abbreviated, but points 
+  out that you must not be too literal.[^20200723-2]
 * Olivander has researched wand cores and will use only three of
-  them.[^20200723-3]  Others are possible, but [the article on
-  cores](https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores)
-  was, like the other two, written as if by him and so focuses on those three.
+  them.[^20200723-3]  Others are possible, but [the article on cores][20210126-3]
+	was, like the other two, written as if by him and so focuses on those three.
 
 Given the above articles I talk some about [[Harry]]'s wand on the page
 dedicated to him.  Riddle's wand, I think it is fairly inevitable that he would
@@ -111,22 +108,25 @@ act of its own accord.[^20200806-5]  Naturally eleven year old Riddle knows
 nothing of wand lore and so is not deciding this, yet still, the wand must sense
 something of the wizard it is bonding with…
 
-[^20200723-1]: Mrs. J. K. Rowling. "[Wand
-Woods](https://www.wizardingworld.com/writing-by-jk-rowling/wand-woods)"
-Originally published 2015-08-10.  Last Viewed 2020-07-23.
+[20210126-1]: <https://www.wizardingworld.com/writing-by-jk-rowling/wand-woods>
+[20210126-2]: <https://www.wizardingworld.com/writing-by-jk-rowling/wand-lengths-and-flexibility>
+[20210126-3]: <https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores>
 
-[^20200723-2]: Mrs. J. K. Rowling. "[Wand
-Lengths &
-Flexibility](https://www.wizardingworld.com/writing-by-jk-rowling/wand-lengths-and-flexibility)"
-Originally published 2015-08-10.  Last Viewed 2020-07-23.
+[^20200723-1]: Mrs. J. K. Rowling. 
+    "[Wand Woods](https://www.wizardingworld.com/writing-by-jk-rowling/wand-woods)"
+    Originally published 2015-08-10.  Last Viewed 2020-07-23.
 
-[^20200723-3]: Mrs. J. K. Rowling. "[Wand
-Cores](https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores)"
-Originally published 2015-08-10.  Last Viewed 2020-07-23.
+[^20200723-2]: Mrs. J. K. Rowling. 
+    "[Wand Lengths & Flexibility](https://www.wizardingworld.com/writing-by-jk-rowling/wand-lengths-and-flexibility)"
+    Originally published 2015-08-10.  Last Viewed 2020-07-23.
 
-[^20200806-5]: Mrs. J. K. Rowling. "[Wand
-Cores](https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores)"
-Originally published 2015-08-10.  Last Viewed 2020-08-06.
+[^20200723-3]: Mrs. J. K. Rowling. 
+    "[Wand Cores](https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores)"
+    Originally published 2015-08-10.  Last Viewed 2020-07-23.
+
+[^20200806-5]: Mrs. J. K. Rowling. 
+    "[Wand Cores](https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores)"
+    Originally published 2015-08-10.  Last Viewed 2020-08-06.
 
 
 #### The Wards around Privet Drive and The Trace
@@ -148,10 +148,11 @@ In the cannon Harry Potter universe, the wards were set to fail when Harry turns
 
 [^20200731-5]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_
 
-[^20200731-6]: Radaslab.  _[Not Normal](https://www.fanfiction.net/s/7144149)_
-[Fanfiction.net](https://www.fanfiction.net/) [Chapter
-59](https://www.fanfiction.net/s/7144149/59/Not-Normal)  Published 2011-07-04,
-Updated 2013-08-10, Last Viewed 2020-07-31.
+[^20200731-6]: Radaslab.  
+    _[Not Normal](https://www.fanfiction.net/s/7144149)_
+    [Fanfiction.net](https://www.fanfiction.net/) 
+		[Chapter 59](https://www.fanfiction.net/s/7144149/59/Not-Normal)  Published 2011-07-04,
+    Updated 2013-08-10, Last Viewed 2020-07-31.
 
 [^20200731-7]: Citation needed. 
 
