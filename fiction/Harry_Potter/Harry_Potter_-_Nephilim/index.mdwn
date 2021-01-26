@@ -34,8 +34,8 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 1. For every generation that a mundane trait *does not* follow Mendelian genetics, the odds that the next generation also will not increases by 10%.  Thus things like Weasley red hair (many generations), or Potter hair (at least 3 generations) start to become non-mundane traits.
 1. For non-mundane traits, a male child will have (a female child has similar numbers, but switch father/mother ).
     * a 50% chance of inheriting solely from his father, 
-    * a 15% chance of inheriting the sum total of both parents, 
-    * a 15% chance of a partial inheritance from both parents,
+    * a 16% chance of inheriting the sum total of both parents, 
+    * a 14% chance of a partial inheritance from both parents,
     * a 7.5% chance of a partial inheritance from just his father, 
     * a 7% chance of inheriting solely from his mother, 
     * a 4% chance of a partial inheritance from just his mother,
@@ -92,7 +92,7 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 * Harry Potter talks about two classes that require special mention, squibs and muggle born.  They are effectively inverse of each other. 
    * A true squib is the child who resulted from the 0.5% chance of becoming mundane.  Such a child is fully human, and no "muggle-born" will ever descend from such a child." 
    * It is possible for a child receiving a partial inheritance from his or her parent(s) to have very low power.  On the scale of 1 to 10, in practice a child with a power level of 2 or below on all categories will be called a squib.  A child with 3 or below on all categories will not be invited to any magical school, but might be able to effectively use some magic.  A program like Kwick Spell might prey on such people.  
-   * Because it is possible (15% chance) for the parents' abilities to recombine, these "squibs" who are actually extremely low powered nephilim, can eventually produce higher powered children.  These children will *generally* be low powered.  However, sometimes (1% chance) the something bizarre increases the child's ability beyond expectations. 
+   * Because it is possible (16% chance) for the parents' abilities to recombine, these "squibs" who are actually extremely low powered nephilim, can eventually produce higher powered children.  These children will *generally* be low powered.  However, sometimes (1% chance) the something bizarre increases the child's ability beyond expectations. 
    * This partially explains some of the bias against these "first generation" magical users.  Not only are they new to a xenophobic culture, but marrying them *generally* creates a risk of low powered children.  With this background, being of "pure" blood is basically ignoring the 19.5% chance of being under powered as compared to your parents. Illogical, but considering other human prejudices, not unreasonable. 
 	 
 
