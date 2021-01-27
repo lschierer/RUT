@@ -101,7 +101,6 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 	archive=yes
 	feedonly=1
 	limit=0
-	quick=no
 	trail=yes
 	sort="title_natural path_natural"
 ]]
