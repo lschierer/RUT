@@ -99,7 +99,6 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 	fiction/Harry_Potter/Harry_Potter_-_Nephilim/*,
 	"
 	archive=yes
-	feedonly=0
 	limit=0
 	trail=yes
 	sort="title_natural path_natural"
