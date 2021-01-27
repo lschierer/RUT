@@ -99,9 +99,10 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 	 
 [[!inline pages="title(Harry Potter - Nephilim:*)"
 	archive=yes
-	trail=yes
+	feedonly=yes
 	reverse=yes
 	sort="title_natural path_natural"
+	trail=yes
 ]]
 [[!trailoptions sort="meta(title)" circular="yes"]]
 [[!trailitem Prologue]]
