@@ -95,8 +95,7 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
    * Because it is possible (16% chance) for the parents' abilities to recombine, these "squibs" who are actually extremely low powered nephilim, can eventually produce higher powered children.  These children will *generally* be low powered.  However, sometimes (1% chance) the something bizarre increases the child's ability beyond expectations. 
    * This partially explains some of the bias against these "first generation" magical users.  Not only are they new to a xenophobic culture, but marrying them *generally* creates a risk of low powered children.  With this background, being of "pure" blood is basically ignoring the 19.5% chance of being under powered as compared to your parents. Illogical, but considering other human prejudices, not unreasonable. 
 	 
-[[!inline pages="
-	fiction/Harry_Potter/Harry_Potter_-_Nephilim and
+[[!inline pages="fiction/Harry_Potter/Harry_Potter_-_Nephilim and
 	fiction/Harry_Potter/Harry_Potter_-_Nephilim/*"
 	archive=yes
 	trail=yes
