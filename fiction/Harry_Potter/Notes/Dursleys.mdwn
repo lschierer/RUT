@@ -40,6 +40,14 @@
 * On the other hand "I accept there’s something strange about you, probably nothing
   a good beating wouldn’t have cured"[^20190610-7] suggests that Harry's abuse has been
   emotional in nature (along with neglect of course) and not physical.
+* Dumbledore's most quoted words on the subject come from the meeting in his (Dumbledore's) office just after Sirius dies.
+
+  > Five years ago you arrived at Hogwarts, Harry, safe and whole, as I had planned and intended. Well - not quite whole. You had suffered. I knew you would when I left you on your aunt and uncle's doorstep. I knew I was condemning you to ten dark and difficult years.[^20210128-1]
+
+	This statement is ambiguous in a number of different senses.  Just what did Dumbledore know, considering the Dursleys had not acted yet, what does Dumbledore mean by "not quite whole," "suffered," and "dark and difficult"? each of these can be taken a number of different ways.  His next statement on the subject, in book six, sheds somewhat more meaningful light:
+
+	> You have never treated Harry as a son. He has known nothing but neglect and often cruelty at your hands. The best that can be said is that he has at least escaped the appalling damage you have inflicted upon the unfortunate boy sitting between you.[^20210128-2]
+
 
 There are also some descriptions of Veron's behavior, particularly in the third chapter of
 _the Philosopher's Stone_, that may or may not be Veron talking more aggressively
@@ -64,31 +72,37 @@ is a ring of truth to it:
 
 [^20200610-1]: White_Squirrel.  _His Mother's Love_.  <https://archiveofourown.org/works/14006394/chapters/32253831> Last viewed 2020-06-10. 
 
-[^20190610-2]:  J. K. Rowling.  _Harry Potter and the Sorcerer's Stone_ American Kindle edition approx Location 293 of 3996.
+[^20190610-2]:  Mrs. J. K. Rowling.  _Harry Potter and the Sorcerer's Stone_ American Kindle edition approx Location 293 of 3996.
 
-[^20190610-3]:  J. K. Rowling.  _Harry Potter and the Sorcerer's Stone_ American Kindle edition approx Location 293 of 3996.
+[^20190610-3]:  Mrs. J. K. Rowling.  _Harry Potter and the Sorcerer's Stone_ American Kindle edition approx Location 293 of 3996.
 
-[^20190610-4]:  J. K. Rowling.  _Harry Potter and the Sorcerer's Stone_ American Kindle edition approx Location 324 of 3996.
+[^20190610-4]:  Mrs. J. K. Rowling.  _Harry Potter and the Sorcerer's Stone_ American Kindle edition approx Location 324 of 3996.
 
-[^20190610-5]:  J. K. Rowling.  _Harry Potter and the Sorcerer's Stone_ American Kindle edition approx Location 356 of 3996.
+[^20190610-5]:  Mrs. J. K. Rowling.  _Harry Potter and the Sorcerer's Stone_ American Kindle edition approx Location 356 of 3996.
 
-[^20190610-6]:  J. K. Rowling.  _Harry Potter and the Sorcerer's Stone_ American Kindle edition approx Location 356 of 3996.
+[^20190610-6]:  Mrs. J. K. Rowling.  _Harry Potter and the Sorcerer's Stone_ American Kindle edition approx Location 356 of 3996.
 
-[^20190610-8]:  J. K. Rowling.  _Harry Potter and the Sorcerer's Stone_ American Kindle edition approx Location 356 of 3996. I need to double check this citation, I'm not sure I didn't confuse it with a different one.
+[^20190610-8]:  Mrs. J. K. Rowling.  _Harry Potter and the Sorcerer's Stone_ American Kindle edition approx Location 356 of 3996. I need to double check this citation, I'm not sure I didn't confuse it with a different one.
 
-[^20190610-7]:  J. K. Rowling.  _Harry Potter and the Sorcerer's Stone_ American Kindle edition approx Location 738 of 3996.
+[^20190610-7]:  Mrs. J. K. Rowling.  _Harry Potter and the Sorcerer's Stone_ American Kindle edition approx Location 738 of 3996.
 
-[^20200513-1]:  J. K. Rowling.  _Harry Potter and the Sorcerer's Stone_ American Kindle edition approx Location 541 of 3996.
+[^20200513-1]:  Mrs. J. K. Rowling.  _Harry Potter and the Sorcerer's Stone_ American Kindle edition approx Location 541 of 3996.
 
-[^20200513-2]:  J. K. Rowling.  _Harry Potter and the Chamber of Secrets_ American Kindle edition approx Location 148 of 4470. 
+[^20200513-2]:  Mrs. J. K. Rowling.  _Harry Potter and the Chamber of Secrets_ American Kindle edition approx Location 148 of 4470. 
 
-[^20200513-3]:  J. K. Rowling.  _Harry Potter and the Chamber of Secrets_ American Kindle edition approx Location 306 of 4470. 
+[^20200513-3]:  Mrs. J. K. Rowling.  _Harry Potter and the Chamber of Secrets_ American Kindle edition approx Location 306 of 4470. 
 
-[^20200513-4]:  J. K. Rowling. _Harry Potter and the Order of the Phoenix_ American Kindle edition approx Location 146 of 13038.
+[^20200513-4]:  Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_ American Kindle edition approx Location 146 of 13038.
 
-[^20200513-5]:  J. K. Rowling. _Harry Potter and the Order of the Phoenix_ American Kindle edition approx Location 9606 of 13038.
+[^20200513-5]:  Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_ American Kindle edition approx Location 9606 of 13038.
 
-[^20200513-6]:  J. K. Rowling. _Harry Potter and the Half-Blood Prince_ American Kindle edition approx Location 611 of 8473.
+[^20200513-6]:  Mrs. J. K. Rowling. _Harry Potter and the Half-Blood Prince_ American Kindle edition approx Location 611 of 8473.
 
 [[!tag "HP Notes"]]
+
+[^20210128-1]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_ American Kindle edition Locations 12222-12223 of 13038). Pottermore Limited. 
+
+[^20210128-2]: Mrs. J. K. Rowling. 
+    _Harry Potter and the Half-Blood Prince_ (p. 46, Loc 743 of 8473). 
+    Pottermore Publishing. American Kindle Edition. 
 
