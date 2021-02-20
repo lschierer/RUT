@@ -12,8 +12,8 @@ Inbreeding among the aristocracy was prevalent enough that some recessive geneti
 problematic for them, most notably the clotting disorder that some of Europe's
 royals carried.  It is hardly surprising that the magical world would have
 adopted similar attitudes, and if their lifespans are truly longer on average
-(something I am not sure cannon supports, or if it is just a common fanfiction
-concept), then their isolation would make it an even bigger and longer lasting
+(Harry's OWLs are administered by an examiner who also administered the NEWT exams for Professor Dumbledore[^20210220-1]), 
+then their isolation would make it an even bigger and longer lasting
 problem that could easily persist to Harry's time.  I suspect that pure-blood is
 actually an over simplification of the average pure-blood's world view.  I suspect that
 Mrs. Rowling, being focused on school kids, simply did not expose us to the
@@ -21,7 +21,7 @@ class structure that _must_ have carried over from the non-magical world as the
 Statute of Secrecy gave a final divide to the two societies.  
 
 Thus while some may have been obsessive about blood, I'm going to bet the real reason the
-Crabbes or the Goyles aren't on the list is that they are _servants._  It is not
+Crabbes or the Goyles are not part of the "Sacred Twenty-Eight" is that they are _servants._  It is not
 that I am ignoring or discounting Mrs. Rowling's
 [article](https://www.wizardingworld.com/writing-by-jk-rowling/pure-blood) on the origin and
 development of the idea of pure-blood and half-blood status.  It is simply that
@@ -123,6 +123,9 @@ We have Ravenclaws who are members of the DA, and others who steal from Luna.
 
 [^20200701-2]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_ 
     (Kindle Locations 3027-3028). Pottermore Limited. American Kindle Edition. 
+
+[^20210220-1]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_ 
+    (Kindle Location 10438). Pottermore Limited. American Kindle Edition. 
 
 [[!tag "HP Notes"]]
 
