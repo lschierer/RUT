@@ -116,9 +116,13 @@
 
 * 1925 - Phineus Nigellus Black dies.[^20210122-19]
 
+* 1926 - December 31, Tom Marvolo Riddle born[^20210223-1]
+
 * 1938 - Cygnus Black II born.[^20210122-13]
 
 * 1943 - Cygnus Black I dies.[^20210122-21]
+
+* 1953/1954 - Lucius Malfoy born.[^20210223-3]
 
 * 1959 - Regulus Black (Arcturus' brother) dies.[^20210122-15] 
 * 1959 - Arcturus Black I dies.[^20210122-23]
@@ -127,7 +131,8 @@
 
 * 1961 - Regulus Black born [^20210122-5]
 
-* thus James, Lilly and Sirius start Hogwarts in 1971. 
+* 1971 - September 1st thus James, Lilly and Sirius start Hogwarts in 1971. 
+* Lucius Malfoy is a prefect.[^20210223-2]
 
 * 1977 - Dorea Potter nee Black dies[^20210122-4]
 
@@ -178,6 +183,9 @@
 
 [^20200806-4]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_ 
     (Kindle Location 5323). Pottermore Limited. American Kindle Edition. 
+
+[^20210223-2]: Mrs. J. K. Rowling. _Harry Potter and the Deathly Hallows_
+    American Kindle edition approx location 8539 of 9604, approx page 278. Pottermore Publishing.
 
 [^20210122-1]: J. K. Rowling. [The Black Family Tree](https://harrypotter.fandom.com/wiki/House_of_Black?file=JKRBlackFamilyTree.jpg) Last viewed 2021-01-22
 
@@ -326,6 +334,12 @@
 
 [^20200623-7]: [Harry Potter Wiki](https://harrypotter.fandom.com/). 
     "[Wizengamot](https://harrypotter.fandom.com/wiki/Wizengamot)"
+
+[^20210223-1]: [Harry Potter Wiki](https://harrypotter.fandom.com/).
+    "[Tom Riddle](https://harrypotter.fandom.com/wiki/Tom_Riddle)" The logic used in the citation for this is persuasive. Last edited 2021-02-19. Last viewed 2021-02-23.
+
+[^20210223-3]: [Harry Potter Wiki](https://harrypotter.fandom.com/).
+    "[Lucius Malfoy](https://harrypotter.fandom.com/wiki/Lucius_Malfoy)" The logic used in this citation is persuasive. Last edited 2021-02-10. Last viewed 2021-02-23.
 
 [^20200623-8]: Harry Potter Wiki. "Wizengamot"
     <https://harrypotter.fandom.com/>
