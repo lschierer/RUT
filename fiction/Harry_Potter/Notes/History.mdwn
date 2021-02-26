@@ -94,6 +94,8 @@
 
 * 1847 - Phineus Nigellus Black born.[^20210122-18]
 
+* 1850 - Pens with metal nibs become widely used in the mid 1800s in the muggle world.[^20210226-3]
+
 * 1853 - Sirius Black I dies.[^20210122-17]
 
 * 1881 Albus Percival Wulfric Brian Dumbledore born.[^20200714-1]
@@ -127,7 +129,7 @@
 * 1959 - Regulus Black (Arcturus' brother) dies.[^20210122-15] 
 * 1959 - Arcturus Black I dies.[^20210122-23]
 
-* James Potter born 27 March 1960[^20190611-1] 
+* 1960-03-27 - James Potter born[^20190611-1] 
 
 * 1961 - Regulus Black born [^20210122-5]
 
@@ -136,7 +138,7 @@
 
 * 1977 - Dorea Potter nee Black dies[^20210122-4]
 
-* thus they graduate in the 1977-1978 school year.  
+* 1977-1978 school year - James, Lily, Severus Snape, et al graduate. 
 
 * James and Lilly get married between June of 1978 and fall of 1979, a roughly
   18 month window of time for them to get married and for any job he has.
@@ -351,5 +353,7 @@
 
 [^20200816-2]: [Wikipedia](https://en.wikipedia.org/).
     "[Dip pen](https://en.wikipedia.org/wiki/Dip_pen)" Last Edited 2020-07-24. Last Viewed 2020-08-16
+
+[^20210226-3]: Mr. David Kittredge. "[Pens and penmanship: a brief history](https://www.eagletimes.com/lifestyles/pens-and-penmanship-a-brief-history/article_8ffbdc8e-c35b-11e8-acb3-7771f36823b2.html)" [Eagle Times](https://www.eagletimes.com/) 2018-09-29. Last viewed 2021-02-26. 
 
 [[!tag "HP Notes"]]
