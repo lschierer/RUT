@@ -108,6 +108,8 @@
 
 * 1901 - Arcturus Black (Sirius Orion's Paternal Grandfather) born.[^20210122-10]
 
+* 1903 - The Pistols Act 1903: regulates the sale of firearms with a barrel of less than 9 inches.  In practice, this bill does nothing.[^20210228-1]
+
 * 1906 - Regulus Black (Arcturus' brother) born.[^20210122-11]
 
 * 1912 - Pollux Black (Sirius Orion's Maternal Grandfather) born.[^20210122-12]
@@ -116,9 +118,13 @@
 
 * 1920 - Dorea Black born[^20210122-3]
 
+* 1920 - The Firearms Act 1920: "It required anyone wanting to purchase or possess a firearm or ammunition to obtain a firearm certificate. The certificate, which lasted for three years, specified not only the firearm but also the amount of ammunition the holder could buy or possess."[^20210228-2]  This law does not affect smooth bore guns.[^20210228-3]
+
 * 1925 - Phineus Nigellus Black dies.[^20210122-19]
 
 * 1926 - December 31, Tom Marvolo Riddle born[^20210223-1]
+
+* 1937 - The Firearms Act 1937: extends the 1920 bill to smooth bore shotguns with short barrels, and a few other changes.[^20210228-4]
 
 * 1938 - Cygnus Black II born.[^20210122-13]
 
@@ -132,6 +138,8 @@
 * 1960-03-27 - James Potter born[^20190611-1] 
 
 * 1961 - Regulus Black born [^20210122-5]
+
+* 1968 - Firearms Act 1968: long barrelled shotguns controlled for the first time.  
 
 * 1971 - September 1st thus James, Lilly and Sirius start Hogwarts in 1971. 
 * Lucius Malfoy is a prefect.[^20210223-2]
@@ -163,11 +171,15 @@
 
 * 1985 - Walburga Black dies[^20210122-7]
 
+* 1988 - The Firearms (Amendment) Act 1988: no more pump action or other shotguns that have magazines.[^20210228-5]
+
 * 1990 - Pollux Black (Sirius Orion's Maternal Grandfather) dies.[^20210122-8]
 
 * 1991 - Arcturus Black (Sirius Orion's Paternal Grandfather) dies.[^20210122-9]
 
 * 1992 - Cygnus Black II dies.[^20210122-14]
+
+* 1997 - 1997 Firearms (Amendment) Acts: nearly all guns banned.[^20210228-6]
 
 [^20210222-1]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_
     Sirius mentions that he intended to check on Pettigrew on "Wednesday" in Chapter 10. Never mind it should have been a Saturday that day. 
@@ -288,6 +300,30 @@
 
 [^20200713-3]: [Wikipedia](https://en.wikipedia.org/).  
     "[King Arthur](https://en.wikipedia.org/wiki/King_Arthur)" Last Viewed 2020-07-13.
+
+[^20210228-1]: [Wikipedia](https://en.wikipedia.org/).  
+    "[Firearms regulation in the United Kingdom](https://en.wikipedia.org/wiki/Firearms_regulation_in_the_United_Kingdom)"
+    Last Edited 2021-02-14. Last Viewed 2021-02-28.
+
+[^20210228-2]: [Wikipedia](https://en.wikipedia.org/).  
+    "[Firearms regulation in the United Kingdom](https://en.wikipedia.org/wiki/Firearms_regulation_in_the_United_Kingdom)"
+    Last Edited 2021-02-14. Last Viewed 2021-02-28.
+
+[^20210228-3]: [Wikipedia](https://en.wikipedia.org/).  
+    "[Firearms regulation in the United Kingdom](https://en.wikipedia.org/wiki/Firearms_regulation_in_the_United_Kingdom)"
+    Last Edited 2021-02-14. Last Viewed 2021-02-28.
+
+[^20210228-4]: [Wikipedia](https://en.wikipedia.org/).  
+    "[Firearms regulation in the United Kingdom](https://en.wikipedia.org/wiki/Firearms_regulation_in_the_United_Kingdom)"
+    Last Edited 2021-02-14. Last Viewed 2021-02-28.
+
+[^20210228-5]: [Wikipedia](https://en.wikipedia.org/).  
+    "[Firearms regulation in the United Kingdom](https://en.wikipedia.org/wiki/Firearms_regulation_in_the_United_Kingdom)"
+    Last Edited 2021-02-14. Last Viewed 2021-02-28.
+
+[^20210228-6]: [Wikipedia](https://en.wikipedia.org/).  
+    "[Firearms regulation in the United Kingdom](https://en.wikipedia.org/wiki/Firearms_regulation_in_the_United_Kingdom)"
+    Last Edited 2021-02-14. Last Viewed 2021-02-28.
 
 [^20200704-1]: [Wikipedia](https://en.wikipedia.org/).  
     "[Henry VIII](https://en.wikipedia.org/wiki/Henry_VIII)" Last Viewed 2020-07-04.
