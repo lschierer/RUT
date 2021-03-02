@@ -1,5 +1,7 @@
 ## Magic
 
+[[!toc  startlevel=3]]
+
 ### World-building
 
 Where does magic come from?  How does it work?  What are the mechanics of it for
@@ -15,6 +17,45 @@ We seem to have
 * Rituals - Riddle's resurrection seems to be a combination of elements of the
   above.  It is also interesting that it is normal spoken English where nothing
   else we see of magic is.
+
+### Healing
+
+Healing seems to use charms for diagnosis, and a combination of spells (charms
+and transfiguration?) and potions for the actual healing.  Per Mrs. Rowling:
+
+> I decided that, broadly speaking, wizards would have the power to correct or
+> override ‘mundane’ nature, but not ‘magical’ nature. Therefore, a wizard could
+> catch anything a Muggle might catch, but he could cure all of it; he would
+> also comfortably survive a scorpion sting that might kill a Muggle, whereas he
+> might die if bitten by a Venomous Tentacula. Similarly, bones broken in
+> non-magical accidents such as falls or fist fights can be mended by magic, but
+> the consequences of curses or backfiring magic could be serious, permanent or
+> life-threatening.[^20210302-1]
+
+Against this we have the fact that Percy wears horn-rimmed glasses[^20210302-2].
+The question then becomes did the Weasleys not fix his eyesight because
+
+* it is too costly to do so 
+	* I know of at least one where it is "extremely painful and very expensive, not to
+		mention very hard, to make"[^20210302-3] where "very expensive" means "a
+		couple of thousand Galleons."[^20210302-4]
+* it is morally distasteful to do so (requires dark magic?)
+* it is not possible to do so (contradicts the above quote from the website)
+  * from one fanfiction: 
+	  > your homeostasis is having poor eyesight. Most healing magic works to get
+		> things back to normal. If you cut your eye and then healed it, your eyesight
+		> would remain the same. You'd have to purposefully leave a scar to leave an
+		> impact, which would only happen with a cursed or highly magical injury.
+		> Imagine! Cursing your own eyes to heal them, muggles are
+		> deranged![^20210302-5]
+* it does not occur to British pureblood society to do so 
+  * You could take the above quote, and assume that the shop owner is actually
+		only partially right.  Perhaps *most* healing magic returns you to "normal"
+		and thus some forms of poor eye sight could not be affected by that magic.
+		That would not preclude *uncommon* magic that changes your genetic
+		predisposition to better eyesight, nor would it preclude magic fixing the
+		need for glasses caused by eye strain, eye trauma, or other things that a
+		muggleborn might show up in his shop with. 
 
 ### Dark magic
 
@@ -88,7 +129,7 @@ even tilts it the other way, a desperate Ministry losing the war might well
 decide to authorise it, and leave it up to each individual Auror to judge the
 cost.  
 
-#### Wands
+### Wands
 
 * There is a fascinating article on [wand wood][20210126-1] and the
   personality traits and skills that go along with each.[^20200723-1]
@@ -129,7 +170,7 @@ something of the wizard it is bonding with…
     Originally published 2015-08-10.  Last Viewed 2020-08-06.
 
 
-#### The Wards around Privet Drive and The Trace
+### The Wards around Privet Drive and The Trace
 
 First of all, I am not going to spend much time worrying about whether or not
 "wards" are part of the cannon universe or not.  The books may never use the
@@ -140,7 +181,30 @@ sorts of names, and in some places descriptions of effects without naming the
 magic behind it at all (you cannot apparate in Hogwarts).  I need a word, and
 "ward" works well.
 
-In the cannon Harry Potter universe, the wards were set to fail when Harry turns 17, becoming an adult.  This has lead some fanfiction authors to speculate that any event that causes Harry to be emancipated would also cause the wards to fail.  Per the books, the wards were stood up when Petunia took Harry into her home.[^20180709-2]  I have to deal with this in this story.  How exactly do the wards work, and what protection do they provide?  A related question is The Trace, which also terminates at 17.  I initially considered that the wards might not have activated, as this would both be a bit of ironic justice and make the story easier.  If the wards do not change when Harry gets married because they are not working right in the first place, I do not have to deal with the emancipation that also comes with the marriage.  However, I dislike contradicting the text when it comes to world mechanics more than I have to.  I mean, I do have to some - wizarding households function on magic, so the Decree for the Reasonable Restriction of Underage Sorcery and the Trace either allows for supervised household charm or does not function at all in wizarding households, probably the latter.  The whole "do not use magic outside of school" thing is more for muggle born witches and wizards rather than any real restriction.  Returning to topic, another possibility is that turning 17 is a magical event - literally.  Because Harry never takes arithmancy in the books, we do not see much about magic numbers, but we know they exist.  Perhaps this particular prime number impacts the operation of the wards (and the Trace must be some form of detection ward I think) in some way.  If that is true, then Harry's emancipation is a legal event, not a magical one, and so would not affect either the Trace or the wards.
+In the cannon Harry Potter universe, the wards were set to fail when Harry turns
+17, becoming an adult.  This has lead some fanfiction authors to speculate that
+any event that causes Harry to be emancipated would also cause the wards to
+fail.  Per the books, the wards were stood up when Petunia took Harry into her
+home.[^20180709-2]  I have to deal with this in this in any story.  How exactly do the
+wards work, and what protection do they provide?  A related question is The
+Trace, which also terminates at 17.  I initially considered that the wards might
+not have activated, as this would both be a bit of ironic justice and make the
+story easier.  If the wards do not change when Harry gets married because they
+are not working right in the first place, I do not have to deal with the
+emancipation that also comes with the marriage.  However, I dislike
+contradicting the text when it comes to world mechanics more than I have to.  I
+mean, I do have to some - wizarding households function on magic, so the Decree
+for the Reasonable Restriction of Underage Sorcery and the Trace either allows
+for supervised household charm or does not function at all in wizarding
+households, probably the latter.  The whole "do not use magic outside of school"
+thing is more for muggle born witches and wizards rather than any real
+restriction.  Returning to topic, another possibility is that turning 17 is a
+magical event - literally.  Because Harry never takes arithmancy in the books,
+we do not see much about magic numbers, but we know they exist.  Perhaps this
+particular prime number impacts the operation of the wards (and the Trace must
+be some form of detection ward I think) in some way.  If that is true, then
+Harry's emancipation is a legal event, not a magical one, and so would not
+affect either the Trace or the wards.
 
 [^20180709-2]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_.  Chapter 37. Location 12236. 
 
@@ -155,6 +219,24 @@ In the cannon Harry Potter universe, the wards were set to fail when Harry turns
     Updated 2013-08-10, Last Viewed 2020-07-31.
 
 [^20200731-7]: Citation needed. 
+
+[^20210302-1]: Mrs. J. K. Rowling. 
+    "[Illness and Disability](https://www.wizardingworld.com/writing-by-jk-rowling/illness-and-disability)"
+    Originally published on Pottermore on 2015-08-10.  Last Viewed 2021-03-02. 
+
+[^20210302-2]: Mrs. J. K. Rowling. _Harry Potter and the Chamber of Secrets_
+    Pottermore Limited. American Kindle Edition. Approx Location 4405 of 4470.
+
+[^20210302-3]: kb0. _[Fate's Mistake](https://www.fanfiction.net/s/4084005)_
+    [Chapter 1](https://www.fanfiction.net/s/4084005/1/Fate-s-Mistake)
+
+[^20210302-4]: kb0. _[Fate's Mistake](https://www.fanfiction.net/s/4084005)_
+    [Chapter 1](https://www.fanfiction.net/s/4084005/1/Fate-s-Mistake)
+		Published 2008-02-19. Updated 2008-03-02. Last viewed 2021-03-02.
+
+[^20210302-5]: Sunlesswarmth. _[BrokenProphecy](https://www.fanfiction.net/s/13712386)_
+    [Chapter 3](https://www.fanfiction.net/s/13712386/3/Broken-Prophecy)
+		Published 2020-10-04. Updated 2020-12-01. Last Viewed 2021-03-02.
 
 [[!tag "HP Notes"]]
 
