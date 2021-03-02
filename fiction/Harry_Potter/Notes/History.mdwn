@@ -202,7 +202,7 @@
 [^20200629-4]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_
     (p. 212). Pottermore Limited. American Kindle Edition. 
 
-[^20190610-1]: Mrs. J. K. Rowling.  _Harry Potter and the Sorcerer's Stone_ American
+[^20190610-1]: Mrs. J. K. Rowling  _Harry Potter and the Sorcerer's Stone_ American
     Kindle edition approx Location 179 of 3996.
 
 [^20200806-4]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_ 
@@ -272,7 +272,7 @@
 
 [^20210111-1]: <https://www.pottermore.com/collection/all-about-slytherin> better citation needed as this is now only actually available via the wayback machine.
 
-[^20200714-1]: [Harry Potter Wiki](https://harrypotter.fandom.com).  [Screenshot
+[^20200714-1]: [Harry Potter Wiki](https://harrypotter.fandom.com). [Screenshot
     of the old potermore fact file for
     dumbledore](https://harrypotter.fandom.com/wiki/Main_Page?file=Albus+Dumbledore+Fact+File+-+PM+via+Internet+Archive.png)
     Last viewed 2020-07-14
@@ -281,31 +281,31 @@
     "[Magna Carta](https://en.wikipedia.org/wiki/Magna_Carta)" Last Viewed 2020-07-13.
 
 [^20200713-2]: Aaran St Vines. _["Great Scott, Potter, This is War!"](https://aaran-st-vines.nsns.fanficauthors.net/Great_Scott_Potter_This_is_War)_
-    Chapter 15.  <http://fanficauthors.net> 2007-04-29.  Last Viewed 2020-07-13. 
+    Chapter 15. <http://fanficauthors.net> 2007-04-29. Last Viewed 2020-07-13. 
 
 [^20200810-1]: Mrs. J. K. Rowling. 
     "[The Malfoy family](https://www.wizardingworld.com/writing-by-jk-rowling/the-malfoy-family)"
-    Pottermore 2015-08-10.  Last Seen [Wizarding World](https://www.wizardingworld.com/) 2020-08-10. 
+    Pottermore 2015-08-10. Last Seen [Wizarding World](https://www.wizardingworld.com/) 2020-08-10. 
 
 [^20200810-2]: Mrs. J. K. Rowling. 
     "[The Potter Family](https://www.wizardingworld.com/writing-by-jk-rowling/the-potter-family)"
-    Pottermore 2015-09-21.  Last Seen [Wizarding World]((https://www.wizardingworld.com/) 2020-08-10. 
+    Pottermore 2015-09-21. Last Seen [Wizarding World]((https://www.wizardingworld.com/) 2020-08-10. 
 
 [^20200810-3]: Mrs. J. K. Rowling. 
     "[The Potter Family](https://www.wizardingworld.com/writing-by-jk-rowling/the-potter-family)"
-    Pottermore 2015-09-21.  Last Seen [Wizarding World]((https://www.wizardingworld.com/) 2020-08-10. 
+    Pottermore 2015-09-21. Last Seen [Wizarding World]((https://www.wizardingworld.com/) 2020-08-10. 
 
 [^20200810-4]: Mrs. J. K. Rowling. 
     "[The Malfoy family](https://www.wizardingworld.com/writing-by-jk-rowling/the-malfoy-family)"
-    Pottermore 2015-08-10.  Last Seen [Wizarding World](https://www.wizardingworld.com/) 2020-08-10. 
+    Pottermore 2015-08-10. Last Seen [Wizarding World](https://www.wizardingworld.com/) 2020-08-10. 
 
 [^20200810-5]: Mrs. J. K. Rowling. 
     "[The Malfoy family](https://www.wizardingworld.com/writing-by-jk-rowling/the-malfoy-family)"
-    Pottermore 2015-08-10.  Last Seen [Wizarding World](https://www.wizardingworld.com/) 2020-08-10. 
+    Pottermore 2015-08-10. Last Seen [Wizarding World](https://www.wizardingworld.com/) 2020-08-10. 
 
 [^20200810-6]: Mrs. J. K. Rowling. 
     "[The Potter Family](https://www.wizardingworld.com/writing-by-jk-rowling/the-potter-family)"
-    Pottermore 2015-09-21.  Last Seen [Wizarding World]((https://www.wizardingworld.com/) 2020-08-10. 
+    Pottermore 2015-09-21. Last Seen [Wizarding World]((https://www.wizardingworld.com/) 2020-08-10. 
 
 [^20200818-1]: © COPYRIGHT COUTTS & CO. "[OUR HISTORY](https://www.coutts.com/about/our-history.html)"
 
@@ -315,38 +315,38 @@
 [^20200713-3]: [Wikipedia](https://en.wikipedia.org/). 
     "[King Arthur](https://en.wikipedia.org/wiki/King_Arthur)" Last Viewed 2020-07-13.
 
-[^20210228-1]: [Wikipedia](https://en.wikipedia.org/).  
+[^20210228-1]: [Wikipedia](https://en.wikipedia.org/). 
     "[Firearms regulation in the United Kingdom](https://en.wikipedia.org/wiki/Firearms_regulation_in_the_United_Kingdom)"
     Last Edited 2021-02-14. Last Viewed 2021-02-28.
 
-[^20210228-2]: [Wikipedia](https://en.wikipedia.org/).  
+[^20210228-2]: [Wikipedia](https://en.wikipedia.org/). 
     "[Firearms regulation in the United Kingdom](https://en.wikipedia.org/wiki/Firearms_regulation_in_the_United_Kingdom)"
     Last Edited 2021-02-14. Last Viewed 2021-02-28.
 
-[^20210228-3]: [Wikipedia](https://en.wikipedia.org/).  
+[^20210228-3]: [Wikipedia](https://en.wikipedia.org/). 
     "[Firearms regulation in the United Kingdom](https://en.wikipedia.org/wiki/Firearms_regulation_in_the_United_Kingdom)"
     Last Edited 2021-02-14. Last Viewed 2021-02-28.
 
-[^20210228-4]: [Wikipedia](https://en.wikipedia.org/).  
+[^20210228-4]: [Wikipedia](https://en.wikipedia.org/). 
     "[Firearms regulation in the United Kingdom](https://en.wikipedia.org/wiki/Firearms_regulation_in_the_United_Kingdom)"
     Last Edited 2021-02-14. Last Viewed 2021-02-28.
 
-[^20210228-5]: [Wikipedia](https://en.wikipedia.org/).  
+[^20210228-5]: [Wikipedia](https://en.wikipedia.org/). 
     "[Firearms regulation in the United Kingdom](https://en.wikipedia.org/wiki/Firearms_regulation_in_the_United_Kingdom)"
     Last Edited 2021-02-14. Last Viewed 2021-02-28.
 
-[^20210228-6]: [Wikipedia](https://en.wikipedia.org/).  
+[^20210228-6]: [Wikipedia](https://en.wikipedia.org/). 
     "[Firearms regulation in the United Kingdom](https://en.wikipedia.org/wiki/Firearms_regulation_in_the_United_Kingdom)"
     Last Edited 2021-02-14. Last Viewed 2021-02-28.
 
-[^20200704-1]: [Wikipedia](https://en.wikipedia.org/).  
+[^20200704-1]: [Wikipedia](https://en.wikipedia.org/). 
     "[Henry VIII](https://en.wikipedia.org/wiki/Henry_VIII)" Last Viewed 2020-07-04.
 
-[^20200704-2]: [Wikipedia](https://en.wikipedia.org/).  
+[^20200704-2]: [Wikipedia](https://en.wikipedia.org/). 
     "[Henry VIII](https://en.wikipedia.org/wiki/Henry_VIII#Reformation)" 
     Last Viewed 2020-07-04.
 
-[^20200704-3]: [Wikipedia](https://en.wikipedia.org/).  
+[^20200704-3]: [Wikipedia](https://en.wikipedia.org/). 
     "[Norman conquest of England](https://en.wikipedia.org/wiki/Norman_conquest_of_England)" 
     Last Viewed 2020-07-04
 
