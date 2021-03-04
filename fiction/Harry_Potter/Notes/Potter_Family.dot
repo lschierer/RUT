@@ -1,4 +1,4 @@
-Potters { 
+{ 
 	subgraph Generation0 {
 		rank = same;
 		Q1P [label="? ? Potter\nb? - d?", shape=box];
@@ -22,7 +22,7 @@ Potters {
 		H1PaQ3Q [shape = point];
 		Q3Q [label="? ? ?\nb? - d?"];
 		H1P -> H1PaQ3Q [dir = none];
-		Q3Q -> H1PaQ3Q [dir = none];
+		H1PaQ3Q -> Q3Q [dir = none];
 	}
 	H1PG0C -> H1P [dir=none];
 
@@ -40,17 +40,9 @@ Potters {
 		F1PaE1Q [shape = point];
 		E1Q [label="Euphemia ? ?\nb? - d?"];
 		F1P -> F1PaE1Q [dir = none];
-		E1Q -> F1PaE1Q [dir = none];
+		F1PaE1Q -> E1Q [dir = none];
 	}
 	F1PC -> F1P [dir=none];
-
-	subgraph Generation2C {
-		rank = same;
-		F1PaE1Qc [shape = point];
-		J1PC [shape = point];
-		J1PC -> F1PaE1Qc [dir=none];
-	}
-	F1PaE1Q -> F1PaE1Qc [dir=none];
 
 	subgraph Generation3 {
 		rank = same;
@@ -58,21 +50,13 @@ Potters {
 		J1PaLJE [shape = point];
 		LJE [label="Lily J. Evans\nb1960-01-30 - d1981-10-31"];
 		J1P -> J1PaLJE [dir=none];
-		LJE -> J1PaLJE [dir=none];
+		J1PaLJE -> LJE [dir=none];
 	}
-	J1PC -> J1P [dir=none];
-
-	subgraph Generation3C {
-		rank = same;
-		J1PaLJEc [shape = point];
-		HJPc [shape=point];
-		HJPc -> J1PaLJEc [dir=none];
-	}
-	J1PaLJE -> J1PaLJEc [dir=none];
+	F1PaE1Q -> J1P [dir=none];
 
 	subgraph Generation4 {
 		rank = same;
 		HJP [label="Harry James Potter\nb1980-07-31 - "];
 	}
-	HJPc -> HJP [dir=none];
+	J1PaLJE -> HJP [dir=none];
 }
