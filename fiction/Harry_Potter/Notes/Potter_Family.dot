@@ -35,17 +35,6 @@
 	H1Pc -> H1P [dir=none];
 	Q5Pc -> Q5P [dir=none];
 
-	subgraph Generation1C {
-		rank = same;
-		H1PaQ3Qc [shape = point];
-		F1Pc [shape = point];  
-		C1Pc [shape = point];
-		F1Pc -> H1PaQ3Qc [dir = none];
-		H1PaQ3Qc -> C1Pc [dir = none];
-
-	}
-	H1PaQ3Q -> H1PaQ3Qc [dir = none];
-
 	subgraph Generation2 {
 		rank = same;
 		F1P [label="Fleamont ? Potter\nb? - d1979", shape=box];
@@ -60,8 +49,8 @@
 		C1P -> C1PaD1B [dir = none];
 		C1PaD1B -> D1B [dir = none];
 	}
-	F1Pc -> F1P [dir=none];
-	C1Pc -> C1P [dir=none];
+	H1PaQ3Q -> F1P [dir=none];
+	Q5PaQ5Q -> C1P [dir = none];
 
 	subgraph Generation3 {
 		rank = same;
