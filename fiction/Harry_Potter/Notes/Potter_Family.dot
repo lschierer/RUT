@@ -28,7 +28,7 @@
 		H1PaQ3Q -> Q3Q [dir = none];
 
 		Q5P [label="? ? Potter\nb? - d?", shape=box];
-		Q5PaQ5Q [shape=none,label=""];
+		Q5PaQ5Q [shape=point,width=0.01];
 		Q5Q [label="? ? ?\nb? - d?", shape=box];
 		Q5P -> Q5PaQ5Q [dir=none];
 		Q5PaQ5Q -> Q5Q [dir=none];
@@ -69,7 +69,7 @@
 	subgraph Generation4 {
 		rank = same;
 		HJP [label="Harry James Potter\nb1980-07-31 - ", shape=box];
-		HJPaGMW [shape=none,label=""];
+		HJPaGMW [shape=point,width=0.01];
 		GMW [label="Ginevra Molly Weasley\nb1981 - ", shape=box];
 		HJP -> HJPaGMW [dir=none];
 		HJPaGMW -> GMW [dir=none];
