@@ -62,6 +62,7 @@
 		J1P -> J1PaLJE [dir=none];
 		J1PaLJE -> LJE [dir=none];
 		Q4P [label="? ? Potter\nb? - d?", shape=box];
+		J1P -> LJE -> Q4P [dir=none, penwidth=0.0, style="invis"];
 
 	}
 	F1PaE1Q -> J1P [dir=none];
@@ -74,6 +75,7 @@
 		GMW [label="Ginevra Molly Weasley\nb1981 - ", shape=box];
 		HJP -> HJPaGMW [dir=none];
 		HJPaGMW -> GMW [dir=none];
+		HJP -> GMW [dir=none, penwidth=0.0, style="invis"];
 
 	}
 	J1PaLJE -> HJP [dir=none];
