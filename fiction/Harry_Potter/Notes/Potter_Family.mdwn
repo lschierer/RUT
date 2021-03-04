@@ -13,6 +13,8 @@ James ? Potter - Lily ? Evans                    ?
       |
 Harry James Potter
 
+[[!graph file="Potter_Family.dot"]]
+
 [[!tag "HP Notes"]] 
 
 
