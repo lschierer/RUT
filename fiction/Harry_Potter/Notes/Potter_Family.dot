@@ -49,6 +49,7 @@
 		D1B [label="Dorea ? Black\nb1920 - d1977", shape=box]
 		C1P -> C1PaD1B [dir = none];
 		C1PaD1B -> D1B [dir = none];
+		F1P -> E1Q -> C1P -> D1B [dir=none, penwidth=0.0, style="invis"];
 	}
 	H1PaQ3Q -> F1P [dir=none];
 	Q5PaQ5Q -> C1P [dir = none];
