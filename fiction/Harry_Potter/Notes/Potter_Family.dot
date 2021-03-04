@@ -31,7 +31,7 @@
 		Q5Q [label="? ? ?\nb? - d?", shape=box];
 		Q5P -> Q5PaQ5Q [dir=none];
 		Q5PaQ5Q -> Q5Q [dir=none];
-		H1P -> Q3Q -> Q5P -> Q5Q [style="invis"];
+		H1P -> Q3Q -> Q5P -> Q5Q [dir=none, penwidth=0.0, style="invis"];
 	}
 	H1Pc -> H1P [dir=none];
 	Q5Pc -> Q5P [dir=none];
