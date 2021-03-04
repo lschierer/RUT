@@ -13,8 +13,8 @@
 		Q1PaQ2Fc [shape=point,width=0.01];
 		H1Pc [shape=point,width=0.01];
 		Q5Pc [shape=point,width=0.01];
-		H1Pc -> Q1PaQ2Fc [dir = none];
-		Q1PaQ2Fc -> Q5Pc [dir = none];
+		Q5Pc -> Q1PaQ2Fc [dir = none];
+		Q1PaQ2Fc -> H1Pc [dir = none];
 
 	}
 	Q1PandQ2F -> Q1PaQ2Fc [dir = none];
