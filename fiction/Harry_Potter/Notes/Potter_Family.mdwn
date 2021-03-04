@@ -1,17 +1,3 @@
-? - ? Fleamont
-      ^
-      |-----------------------------------
-			|                                  |
-Henry ? Potter - ?                       ? - ?
-      ^                                  ^  
-      |                                  |
-Fleamont ? Potter - Euphemia ?           Charlus ? Potter - Dorea Black
-      ^                                          ^
-      |                                          |
-James ? Potter - Lily ? Evans                    ?
-      ^
-      |
-Harry James Potter
 
 [[!graph width=5, file="fiction/Harry_Potter/Notes/Potter_Family.dot"]]
 

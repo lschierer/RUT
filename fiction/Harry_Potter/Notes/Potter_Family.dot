@@ -18,9 +18,9 @@
 
 	subgraph Generation1 {
 		rank = same;
-		H1P [label="Henry ? Potter\nb? - d?"];
+		H1P [label="Henry ? Potter\nb? - d?", shape=box];
 		H1PaQ3Q [shape = point];
-		Q3Q [label="? ? ?\nb? - d?"];
+		Q3Q [label="? ? ?\nb? - d?", shape=box];
 		H1P -> H1PaQ3Q [dir = none];
 		H1PaQ3Q -> Q3Q [dir = none];
 	}
@@ -30,33 +30,42 @@
 		rank = same;
 		H1PaQ3Qc [shape = point];
 		F1PC [shape = point];  
+		C1PC [shape = point];
 		F1PC -> H1PaQ3Qc [dir = none];
+		H1PaQ3Qc -> C1PC [dir = none];
 	}
 	H1PaQ3Q -> H1PaQ3Qc [dir = none];
 
 	subgraph Generation2 {
 		rank = same;
-		F1P [label="Fleamont ? Potter\nb? - d1979"];
+		F1P [label="Fleamont ? Potter\nb? - d1979", shape=box];
 		F1PaE1Q [shape = point];
-		E1Q [label="Euphemia ? ?\nb? - d?"];
+		E1Q [label="Euphemia ? ?\nb? - d?", shape=box];
 		F1P -> F1PaE1Q [dir = none];
 		F1PaE1Q -> E1Q [dir = none];
+		C1P [label="Charlus ? Potter\nb? - d?", shape=box];
+		C1PaD1B [shape = point];
+		D1B [label="Dorea ? Black\nb1920 - d1977", shape=box]
 	}
 	F1PC -> F1P [dir=none];
+	C1PC -> C1P [dir=none];
 
 	subgraph Generation3 {
 		rank = same;
-		J1P [label="James ? Potter\nb1960 - d1981-10-31"];
+		J1P [label="James ? Potter\nb1960 - d1981-10-31", shape=box];
 		J1PaLJE [shape = point];
-		LJE [label="Lily J. Evans\nb1960-01-30 - d1981-10-31"];
+		LJE [label="Lily J. Evans\nb1960-01-30 - d1981-10-31", shape=box];
 		J1P -> J1PaLJE [dir=none];
 		J1PaLJE -> LJE [dir=none];
+		Q4P [label="? ? Potter\b? - d?", shape=box];
+
 	}
 	F1PaE1Q -> J1P [dir=none];
+	C1PaD1B -> Q4P [dir=none];
 
 	subgraph Generation4 {
 		rank = same;
-		HJP [label="Harry James Potter\nb1980-07-31 - "];
+		HJP [label="Harry James Potter\nb1980-07-31 - ", shape=box];
 	}
 	J1PaLJE -> HJP [dir=none];
 }
