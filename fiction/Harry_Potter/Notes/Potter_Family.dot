@@ -11,8 +11,11 @@
 	subgraph Generation0C {
 		rank = same;
 		Q1PaQ2Fc [shape = point];
-		H1PG0C [shape = point];
-		H1PG0C -> Q1PaQ2Fc [dir = none];
+		H1Pc [shape = point];
+		Q5Pc [shape = point];
+		H1Pc -> Q1PaQ2Fc [dir = none];
+		Q1PaQ2Fc -> Q5Pc [dir = none];
+
 	}
 	Q1PandQ2F -> Q1PaQ2Fc [dir = none];
 
@@ -23,16 +26,23 @@
 		Q3Q [label="? ? ?\nb? - d?", shape=box];
 		H1P -> H1PaQ3Q [dir = none];
 		H1PaQ3Q -> Q3Q [dir = none];
+		Q5P [label="? ? Potter\nb? - d?", shape=box];
+		Q5PaQ5Q [shape=point];
+		Q5Q [label="? ? ?\nb? - d?", shape=box];
+		Q5P -> Q5PaQ5Q [dir=none];
+		Q5PaQ5Q -> Q5Q [dir=none];
 	}
-	H1PG0C -> H1P [dir=none];
+	H1Pc -> H1P [dir=none];
+	Q5Pc -> Q5P [dir=none];
 
 	subgraph Generation1C {
 		rank = same;
 		H1PaQ3Qc [shape = point];
-		F1PC [shape = point];  
-		C1PC [shape = point];
-		F1PC -> H1PaQ3Qc [dir = none];
-		H1PaQ3Qc -> C1PC [dir = none];
+		F1Pc [shape = point];  
+		C1Pc [shape = point];
+		F1Pc -> H1PaQ3Qc [dir = none];
+		H1PaQ3Qc -> C1Pc [dir = none];
+
 	}
 	H1PaQ3Q -> H1PaQ3Qc [dir = none];
 
@@ -43,12 +53,15 @@
 		E1Q [label="Euphemia ? ?\nb? - d?", shape=box];
 		F1P -> F1PaE1Q [dir = none];
 		F1PaE1Q -> E1Q [dir = none];
+
 		C1P [label="Charlus ? Potter\nb? - d?", shape=box];
 		C1PaD1B [shape = point];
 		D1B [label="Dorea ? Black\nb1920 - d1977", shape=box]
+		C1P -> C1PaD1B [dir = none];
+		C1PaD1B -> D1B [dir = none];
 	}
-	F1PC -> F1P [dir=none];
-	C1PC -> C1P [dir=none];
+	F1Pc -> F1P [dir=none];
+	C1Pc -> C1P [dir=none];
 
 	subgraph Generation3 {
 		rank = same;
@@ -57,7 +70,7 @@
 		LJE [label="Lily J. Evans\nb1960-01-30 - d1981-10-31", shape=box];
 		J1P -> J1PaLJE [dir=none];
 		J1PaLJE -> LJE [dir=none];
-		Q4P [label="? ? Potter\b? - d?", shape=box];
+		Q4P [label="? ? Potter\nb? - d?", shape=box];
 
 	}
 	F1PaE1Q -> J1P [dir=none];
