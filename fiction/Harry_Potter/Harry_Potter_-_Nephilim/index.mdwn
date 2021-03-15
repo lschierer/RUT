@@ -119,34 +119,34 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 	era, every child has a highly mixed heritage, though the precise values 1-10
 	for each category differ significantly from child to child.  
 * Harry Potter cannon breaks magic down into 
-	 * charms - generally a mix of inheritance from Virtues and Powers for the
-		 lower years, however 
-			- things like "cheering charms" are _actually_ a form of transmutation
-			  manipulating the form of brain chemicals, and thus, temporarily, their
-				effect. 
-			- memory charms like oblivation are a mix of transmutation on brain
-			  chemicals with the Seraphic ability to percieve (and thus target the
-			  transmutation really precisely).  
-			- Confundus type charms only work well on nephil, because they extend
-			  memory charms by depending on abilities inherited from Dominions. 
+  * charms - generally a mix of inheritance from Virtues and Powers for the
+    lower years, however 
+    - things like "cheering charms" are _actually_ a form of transmutation
+		  manipulating the form of brain chemicals, and thus, temporarily, their
+			effect. 
+    - memory charms like oblivation are a mix of transmutation on brain
+		  chemicals with the Seraphic ability to percieve (and thus target the
+		  transmutation really precisely).  
+    - Confundus type charms only work well on nephil, because they extend
+		  memory charms by depending on abilities inherited from Dominions. 
    * transfiguration is primarily from Thrones
-	 * conjuring requires inheritance from the Powers, as you are in essence
+   * conjuring requires inheritance from the Powers, as you are in essence
 		 manipulating quantum probabilities. 
-	 * Vanishing, though considered transfiguration, comes from the Powers, it is
+   * Vanishing, though considered transfiguration, comes from the Powers, it is
 		 a form of dissolving something.  Because it is explained so poorly,
 		 students new to the practice will often actually attempt to modify the
 		 thing being vanished, resulting in transparent versions instead of
 		 something that has, to paraphrase McGonagall, gone into everything.  
-	 * Potions are complicated.   The magic comes in part from the brewer
+   * Potions are complicated.   The magic comes in part from the brewer
 		 (primarily from the Virtues), and in part from the ingredients (depends on
 		 the potion in question). 
-	 * Alchemy is the attempt to make a transmutation affect not just the form
+   * Alchemy is the attempt to make a transmutation affect not just the form
 		 but the substance.  In practice Alchemy is almost entirely coming from the
 		 Powers, but happening at the subatomic level.  Things like the Elixir of
 		 life are not *really* Alchemical at all, they are really potions only
 		 possible with the use of elements that can only be created/obtained
 		 through the use of Alchemical processes.  
-	 * Runes are also complicated.  Runes are _created_ from powers inherited
+   * Runes are also complicated.  Runes are _created_ from powers inherited
 		 from the Virtues, but *powered* by the inheritance related to the effect
 		 of the runes in question.  Thus two people equally skilled at creating
 		 runes might not be equally skilled at powering those runes, or vice versa.
@@ -161,23 +161,23 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 		 magic at full efficacy.  Overall, this effect would bulster Hogwart's
 		 reputation for being one of the safest places in Britian. 
    * divination has two categories.
-			 * prophesy is a morally suspect magic.  I am going to go with Biblical
+       * prophesy is a morally suspect magic.  I am going to go with Biblical
 				 theology here; in divination the nephil knowingly or unknowingly
 				 communicates with fallen angels.  If they ever tell anything truthful,
 				 it is only because they judge it useful to lead us further into sin.
 				 Users of this magic make future generations more susceptible to magics
 				 inherited from the Seraphim and Dominions (for four generations per
 				 above).  Thus most prophesies are misleading, false, or both. 
-			 * Users particularly skilled in the abilities from the Seraphim may be
+       * Users particularly skilled in the abilities from the Seraphim may be
 				 able to use these abilities to make incredibly accurate predictions
 				 about people without crossing any lines.  Knowing that someone is
 				 clumsy from their memories, knowing that someone is afraid from their
 				 emotions, the user can predict some short term events and reactions in
 				 ways that might seem like divination.  Practices like palm reading, tea
 				 leaves, and crystal gazing grew from this magical insight into people. 
-			 * There is some crossover between the two, generally to the detriment of
+       * There is some crossover between the two, generally to the detriment of
 				 both the user and any understanding of the truth.
-	 * Arithmancy has a wikipedia definition as being a speciality of divination.
+   * Arithmancy has a wikipedia definition as being a speciality of divination.
 		 For my purposes this is _almost_ true.  For my purposes Arithmany attempts
 		 to predict the effect of a use of magic.  It attempts to make magic
 		 scientific.  However, it is complicated by the fact that its practitioners
@@ -185,9 +185,9 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 		 which mathematical system(s) they are using to do this in.  The field is
 		 dominated by people with only the vaguest idea of what the mundane world
 		 has done with either numbers or science in the past 200 years.  
-		* Legilimency - requires both an inheritance from the Seraphim and the
-			Dominions, for this work it comes in 3 phases.  
-			 * Passively, it is solely from the Seraphim, and is morally neutral. This
+   * Legilimency - requires both an inheritance from the Seraphim and the
+     Dominions, for this work it comes in 3 phases.  
+       * Passively, it is solely from the Seraphim, and is morally neutral. This
 				 will tell you a target's emotional state (anything related to brain
 				 chemistry), whether or not the person is telling the truth (again based
 				 on brain chemistry and things like pulse rates, but done automatically
@@ -196,7 +196,7 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 				 memories. A really skilled user may be able to infer thoughts from a
 				 combination of this information and the subject/target's actions
 				 however with a fair degree of accuracy.  
-			 * Communicatively, it adds in abilities from the Dominions, forcing the
+       * Communicatively, it adds in abilities from the Dominions, forcing the
 				 recipient to hear your thoughts. This is a bit of a grey area morally.
 				 This shows in that its effects are, unlike most magic with moral
 				 content, irregularly inherited.  The more welcome, and the less forced,
@@ -209,11 +209,11 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 				 spoiler for the story.  While some fanfiction has suggested that
 				 legilimancy could be used to implant memories or manipulate a target's
 				 emotions, I will not go there *directly*. 
-			 * Actively, you force the victim to reveal their thoughts.  This is
+       * Actively, you force the victim to reveal their thoughts.  This is
 				 morally repugnant, and comes at a magical cost.  Excessive use of this
 				 form of legilimency will impact future generations.  Per the above,
 				 what constitutes "excessive" has not been quantified.  
-		* Occlumency - the magical suppression of emotion and with that access to
+    * Occlumency - the magical suppression of emotion and with that access to
 			thoughts comes at a similar moral and magical cost to active legilimancy.
 			This work will offer magical defences to legilimancy besides that of
 			occlumency.  
