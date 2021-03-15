@@ -77,7 +77,7 @@ The question then becomes did the Weasleys not fix his eyesight because
 			eyesight would remain the same. You'd have to purposefully leave a scar
 			to leave an impact, which would only happen with a cursed or highly
 			magical injury. Imagine! Cursing your own eyes to heal them, muggles are
-		  deranged![^20210302-5]
+		  deranged\![^20210302-5]
 * it does not occur to British pureblood society to do so 
   * You could take the above quote, and assume that the shop owner is actually
 		only partially right.  Perhaps *most* healing magic returns you to "normal"
