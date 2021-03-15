@@ -132,6 +132,7 @@ chose, Harry should have inherited more than he seems to have.
 
 ### Harry's official OWL results
 
+Harry's official grades are as follows:[^20210304-7]
 | Astronomy | A |
 | Care of Magical Creatures | E |
 | Charms | E | 
@@ -140,7 +141,9 @@ chose, Harry should have inherited more than he seems to have.
 | Herbology | E |
 | History of Magic | D |
 | Potions | E |
-| Transfiguration | E | [^20210304-7]
+| Transfiguration | E |
+
+Any story needs to give an actual reason to deviate from these.  Failure to do so introduces a noticable discontinuity to your story, it disrupts the flow from cannon to fanfiction in a way I dislike. 
 
 ### What if Harry had a different wand? 
 All quotes from the Ollivander pages on Pottermore. See [[Wands|General]]
