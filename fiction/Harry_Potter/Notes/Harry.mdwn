@@ -133,15 +133,17 @@ chose, Harry should have inherited more than he seems to have.
 ### Harry's official OWL results
 
 Harry's official grades are as follows:[^20210304-7]
-| Astronomy | A |
-| Care of Magical Creatures | E |
-| Charms | E | 
-| Defense Against the Dark Arts | O |
-| Divination | P |
-| Herbology | E |
-| History of Magic | D |
-| Potions | E |
-| Transfiguration | E |
+[[!table data="""
+Astronomy | A
+Care of Magical Creatures | E
+Charms | E
+Defense Against the Dark Arts | O
+Divination | P
+Herbology | E
+History of Magic | D
+Potions | E
+Transfiguration | E
+"""]]
 
 Any story needs to give an actual reason to deviate from these.  Failure to do so introduces a noticable discontinuity to your story, it disrupts the flow from cannon to fanfiction in a way I dislike. 
 
