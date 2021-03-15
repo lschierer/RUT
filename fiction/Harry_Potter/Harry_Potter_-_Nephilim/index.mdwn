@@ -43,12 +43,38 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
     * a 4% chance of a partial inheritance from just his mother,
     * a 1% chance of something truly bizarre happening
     * a 0.5% chance of becoming mundane,
-1. Some uses of magic *requires* an emotional content (unforgivables require hatred, the patronus requires positive emotions, so on).  
-    * Sufficient use of this magic predisposes the next generation to be susceptible to these emotions by 10% _per parent_.  
+1. Some uses of magic *requires* an emotional content (unforgivables require
+	 hatred, the patronus requires positive emotions, so on).  
+    * Sufficient use of this magic predisposes the next generation to be
+			susceptible to these emotions by 10% _per parent_.  
     * How much use qualifies as "sufficient" is insufficiently researched. 
-    * Only magic that *requires* emotion does this.  Magic merely *affected* by emotion does not. 
+    * Only magic that *requires* emotion does this.  Magic merely *affected* by
+			emotion does not. 
     * This effect lasts for four generations.  
-    * If the total effect exceeds 90% (at 100% you would have no free will), then the odds off something bizarre happening goes up by one percent for every 10% of difference.  So if for example all of your progenitors on both sizes excessively used the killing curse, you would be susceptible to hatred by 300% base, since the total effect cannot remove your free will, you are susceptible to hatred by 90%, but the odds of something bizarre happening to you are the base 1% plus an additional 21% for a total of 22% chance.
+    * If the total effect exceeds 90% (at 100% you would have no free will),
+			then the odds off something bizarre happening goes up by one percent for
+			every 10% of difference.  So if for example all of your progenitors on
+			both sizes excessively used the killing curse, you would be susceptible
+			to hatred by 300% base, since the total effect cannot remove your free
+			will, the actual effect is more complicated.  Your great-grandparents
+			each had a 20% boost, but your grandparents inherited that 20% boost
+			*from both sides* and *in addition* a 10% boost from each
+			great-grandparent, for a total of a 60% boost.  Your parents were the
+			first generation to exceed 90%: a 60% boost from each side plus 10% from
+			each parent for a total of 140%.  This is reduced to 90%, but the chance
+			of something bizarre is increased by 5%.  You then inherit 90% from each
+			parent (180%) which is again reduced to 90%, but causes an additional
+			boost on the chance of the bizarre, this time by 9%.  You are thus
+			susceptible to hatred	by 90%, but the odds of something bizarre happening
+			to you are the base	1% plus an additional 19% (5% from each parent plus
+			9% from your own overflow) for a total of a 20% chance.
+		* Inbreeding would make the above worse, as some progenitors would be
+			counted twice over. 
+		* Thus someone like Draco Malfoy actually does have tremendous trouble
+			controlling his instinctual behaviour in many ways. Judged by human
+			standards, he is mentally crippled, with severely damaged executive
+			function, particularly in the areas of impulse control, aggression, and
+			judgement. 
 1. Harry Potter talks about two classes that require special mention, squibs and
 	 muggle born.  They are effectively inverse of each other. 
 	 * A true squib is the child who resulted from the 0.5% chance of becoming
@@ -56,10 +82,10 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 		 descend from such a child.
 	 * It is possible for a child receiving a partial inheritance from his or her
 		 parent(s) to have very low power.  On the scale of 1 to 10, in practice a
-		 child with a power level of 2 or below on all categories will be called a
-		 squib.  A child with 3 or below on all categories will not be invited to
-		 any magical school, but might be able to effectively use some magic.  A
-		 program like Kwick Spell might prey on such people.  
+		 child with a power level of 2 or below on all categories (see below) will
+		 be called a squib.  A child with 3 or below on all categories will not be
+		 invited to any magical school, but might be able to effectively use some
+		 magic.  A program like Kwick Spell might prey on such people.  
 	 * Because it is possible (16% chance) for the parents' abilities to
 		 recombine, these "squibs" who are actually extremely low powered nephilim,
 		 can eventually produce higher powered children.  These children will
@@ -98,7 +124,7 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 	 * From the Virtues the ability to temporarily augment the nature of the
 		 natural world
 	 * From the Powers, temporary & localised manipulation of the laws of physics
-		 and chemistry. Memory charms are a highly specialized use of this, because
+		 and chemistry. Memory charms are a highly specialised use of this, because
 		 they interfere with the chemicals in your brain to manipulate the
 		 memories.
 	 * From the Principalities, the ability to create area effects on populations
@@ -114,10 +140,11 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 	 * From the angels, defensive magics (these can also be corrupted to the
 		 point of being dangerous to the user)
 * Originally, centuries in the past, people tended to be highly specialised
-	into one of these.  However, overall there is a 30% chance of a child mixing
-	the magical/angelic heritage of his/her parents.  In practice, in the modern
-	era, every child has a highly mixed heritage, though the precise values 1-10
-	for each category differ significantly from child to child.  
+	into one of these.  Overall there is a 30% chance of a child mixing
+	the magical/angelic heritage of his/her parents.  While that might seem low,
+	it is compounded over the number of generations.  In practice, in the modern
+	era, every child has a reasonably mixed heritage, though the precise values
+	1-10 for each category differ significantly from child to child.  
 * Harry Potter cannon breaks magic down into 
   * charms - generally a mix of inheritance from Virtues and Powers for the
     lower years, however 
@@ -125,7 +152,7 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 		  manipulating the form of brain chemicals, and thus, temporarily, their
 			effect. 
     - memory charms like oblivation are a mix of transmutation on brain
-		  chemicals with the Seraphic ability to percieve (and thus target the
+		  chemicals with the Seraphic ability to perceive (and thus target the
 		  transmutation really precisely).  
     - Confundus type charms only work well on nephil, because they extend
 		  memory charms by depending on abilities inherited from Dominions. 
@@ -158,8 +185,8 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 		 like Hogwarts, it would be safer to practice your magic because the effect
 		 of each spell would be lessened.  The Hospital Wing would need to be
 		 shielded from this effect to ensure that you could still be cured using
-		 magic at full efficacy.  Overall, this effect would bulster Hogwart's
-		 reputation for being one of the safest places in Britian. 
+		 magic at full efficacy.  Overall, this effect would bluster Hogwart's
+		 reputation for being one of the safest places in Britain. 
    * divination has two categories.
        * prophesy is a morally suspect magic.  I am going to go with Biblical
 				 theology here; in divination the nephil knowingly or unknowingly
@@ -217,7 +244,9 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 			thoughts comes at a similar moral and magical cost to active legilimancy.
 			This work will offer magical defences to legilimancy besides that of
 			occlumency.  
-* "truly bizarre" things include the birth of 
+* Per the above, it takes approximately six consecutive generations of magical
+	abuse for "truly bizarre" things to become not just possible but probable.
+	These include the birth of 
 	 * goblins - people who are highly susceptible to greed, envy, and wrath.
 		 Their form has been distorted by the sins of their forefathers centuries
 		 ago.  They are still capable of good deeds, and some have been so highly
@@ -235,7 +264,7 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 		 have become "mundane" and are now governed by Mendelian inheritance.  
 	 * hags - a people who are consumed by envy and lust.  Their sins robbed their
 		 ancestors of all they can now value. They have particularly strong
-		 inheritances from the Dominions, reasonable inheritances from the Virtules
+		 inheritances from the Dominions, reasonable inheritances from the Virtues
 		 and Powers.  Some have partial inheritances of random other types.
 	 * mermen - one of the few cases of a true 1% chance on top of 1% chance
 		 resulting in a different species.  They have lost the use of most magics
