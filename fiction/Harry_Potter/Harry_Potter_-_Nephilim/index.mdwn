@@ -49,6 +49,36 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
     * Only magic that *requires* emotion does this.  Magic merely *affected* by emotion does not. 
     * This effect lasts for four generations.  
     * If the total effect exceeds 90% (at 100% you would have no free will), then the odds off something bizarre happening goes up by one percent for every 10% of difference.  So if for example all of your progenitors on both sizes excessively used the killing curse, you would be susceptible to hatred by 300% base, since the total effect cannot remove your free will, you are susceptible to hatred by 90%, but the odds of something bizarre happening to you are the base 1% plus an additional 21% for a total of 22% chance.
+1. Harry Potter talks about two classes that require special mention, squibs and
+	 muggle born.  They are effectively inverse of each other. 
+	 * A true squib is the child who resulted from the 0.5% chance of becoming
+		 mundane.  Such a child is fully human, and no "muggle-born" will ever
+		 descend from such a child.
+	 * It is possible for a child receiving a partial inheritance from his or her
+		 parent(s) to have very low power.  On the scale of 1 to 10, in practice a
+		 child with a power level of 2 or below on all categories will be called a
+		 squib.  A child with 3 or below on all categories will not be invited to
+		 any magical school, but might be able to effectively use some magic.  A
+		 program like Kwick Spell might prey on such people.  
+	 * Because it is possible (16% chance) for the parents' abilities to
+		 recombine, these "squibs" who are actually extremely low powered nephilim,
+		 can eventually produce higher powered children.  These children will
+		 *generally* be low powered (a mix of 3s, 4s and 5s in the various
+		 categories).  However, sometimes (1% chance) the something bizarre
+		 increases the child's ability beyond expectations. 
+	 * This partially explains some of the bias against these "first generation"
+		 magical users.  Not only are they new to a xenophobic culture, but marrying
+		 them *generally* creates a risk of low powered children.  With this
+		 background, being of "pure" blood is basically ignoring the 19.5% chance of
+		 being under powered as compared to your parents. Illogical, but considering
+		 other human prejudices, not unreasonable. 
+	 * Per the the above, it is possible for a pure human to gain magic through
+		 the union with a fallen angel.  In practice, this has not happened in
+		 centuries, but magical society remembers adults suddenly having magic where
+		 none had been present before.  From this comes stories of magic being
+		 "stolen."  This is not true of course, no one lost the magic the witch
+		 gained from her unholy union, but most magic users do not believe in
+		 angels, much less fallen angels, and have a strong distrust for the Church.
 
 #### Specifically human/nephil 
 
@@ -57,46 +87,151 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
    * From the Seraphim, the ability to perceive the hearts of men (and nephilim)
    * From the Cherubim, the ability to perceive/detect what is done with these abilities
    * From the Thrones, the ability to transmute the form, but not the substance, of one thing to another
-   * From the Dominions, the ability to bind the will of other nephilim.  For the purposes of this story, and *unlike cannon Harry Potter*, this ability has marginal *at best* affect on full humans.  
+   * From the Dominions, the ability to bind the will of other nephilim.  For the purposes of this story, and *unlike cannon Harry Potter*, this ability has marginal *at best* affect on full humans. Things like the imperious curse or the confundus charm fit in here. 
    * From the Virtues the ability to temporarily augment the nature of the natural world
-   * From the Powers, temporary & localised manipulation of the laws of physics and chemistry
-   * From the Principalities, the ability to create area effects on populations (unplottable, "muggle repelling", so on)
+   * From the Powers, temporary & localised manipulation of the laws of physics and chemistry. Memory charms are a highly specialized use of this, because they interfere with the chemicals in your brain to manipulate the memories.
+   * From the Principalities, the ability to create area effects on populations (unplottable, "muggle repelling", so on). This differs from the Dominions in that the gifts from the Dominions affect individuals regardless of location.  The gifts from the Principalities affect whoever, full human or nephil, is in the right location to be affected, and no one who is not in relationship to that location.  Your ability to see into a place, remember a place, stay near a place, so on.
    * From the Archangels, offensive magics (recall that the nephilim come from fallen angels, so some of these offensive magics are corrupted and should not be used)
    * From the angels, defensive magics (these can also be corrupted to the point of being dangerous to the user)
 * Originally, centuries in the past, people tended to be highly specialised into one of these.  However, overall there is a 30% chance of a child mixing the magical/angelic heritage of his/her parents.  In practice, in the modern era, every child has a highly mixed heritage, though the precise values 1-10 for each category differ significantly from child to child.  
 * Harry Potter cannon breaks magic down into 
-   * charms - generally a mix of inheritance from Virtues and Powers for the lower years, however things like "cheering charms" are _actually_ a form of transmutation manipulating the form of brain chemicals, and thus, temporarily, their effect. 
+   * charms - generally a mix of inheritance from Virtues and Powers for the lower years, however 
+	     * things like "cheering charms" are _actually_ a form of transmutation manipulating the form of brain chemicals, and thus, temporarily, their effect. 
+			 * memory charms like oblivation are a mix of transmutation on brain chemicals with the Seraphic ability to percieve (and thus target the transmutation really precisely).  
+			 * Confundus type charms only work well on nephil, because they extend memory charms by depending on abilities inherited from Dominions. 
    * transfiguration is primarily from Thrones
    * conjuring requires inheritance from the Powers, as you are in essence manipulating quantum probabilities. 
    * Vanishing, though considered transfiguration, comes from the Powers, it is a form of dissolving something.  Because it is explained so poorly, students new to the practice will often actually attempt to modify the thing being vanished, resulting in transparent versions instead of something that has, to paraphrase McGonagall, gone into everything.  
-   * Potions is the use of abilities from the Powers to trigger effects in either that, *or another* category of magic in delayed ways (typically when the potion is consumed).  
+   * Potions are complicated.   The magic comes in part from the brewer (primarily from the Virtues), and in part from the ingredients (depends on the potion in question). 
    * Alchemy is the attempt to make a transmutation affect not just the form but the substance.  In practice Alchemy is almost entirely coming from the Powers, but happening at the subatomic level.  Things like the Elixir of life are not *really* Alchemical at all, they are really potions only possible with the use of elements that can only be created/obtained through the use of Alchemical processes.  
-   * Runes are like potions, ways of triggering effects without actively using your own resources at that precise time. 
-   * divination is a morally suspect magic.  I am going to go with Biblical theology here; in divination the nephil knowingly or unknowingly communicates with fallen angels.  If they ever tell anything truthful, it is only because they judge it useful to lead us further into sin. Users of this magic make future generations more susceptible to magics inherited from the Seraphim and Dominions (for four generations per above).  Thus most prophesies are misleading, false, or both. 
-   * Arithmancy has a wikipedia definition as being a speciality of divination.  For my purposes this is _almost_ true.  For my purposes Arithmany attempts to predict the effect of a use of magic.  It attempts to make magic scientific.  However, it is complicated by the fact that its practitioners themselves do not actually understand the scientific method, nor agree on which mathematical system(s) they are using to do this in.  The field is dominated by people with only the vaguest idea of what the mundane world has done with either numbers or science in the past 200 years.  
-    * Legilimency - requires both an inheritance from the Seraphim and the Dominions, for this work it comes in 3 phases.  
-       * Passively, it is solely from the Seraphim, and is morally neutral. This will tell you a target's emotional state (anything related to brain chemistry), whether or not the person is telling the truth (again based on brain chemistry and things like pulse rates, but done automatically for you by the magic), energy level/alertness, and other purely physical things but _not_ about the person's actual thoughts or memories. A really skilled user may be able to infer thoughts from a combination of this information and the subject/target's actions however with a fair degree of accuracy.  
-       * Communicatively, it adds in abilities from the Dominions, forcing the recipient to hear your thoughts. This is a bit of a grey area morally.  This shows in that its effects are, unlike most magic with moral content, irregularly inherited.  The more welcome, and the less forced, your thoughts are to the "listener", the effects of using this magic become less inherited by future generations.  Where the use of the killing curse is not just a mortal sin, it also affects the amount of free will available to your children, this magic has primarily bizarre effects on your own mind and will, and on the mind and will of those you primarily use it on.  Elaborating here would quickly become a spoiler for the story.  While some fanfiction has suggested that legilimancy could be used to implant memories or manipulate a target's emotions, I will not go there *directly*. 
-       * Actively, you force the victim to reveal their thoughts.  This is morally repugnant, and comes at a magical cost.  Excessive use of this form of legilimency will impact future generations.  Per the above, what constitutes "excessive" has not been quantified.  
-    * Occlumency - the magical suppression of emotion and with that access to thoughts comes at a similar moral and magical cost to active legilimancy.  This work will offer magical defences to legilimancy that besides occlumency.  
+   * Runes are also complicated.  Runes are _created_ from powers inherited from the Virtues, but *powered* by the inheritance related to the effect of the runes in question.  Thus two people equally skilled at creating runes might not be equally skilled at powering those runes, or vice versa.  This is also a deviation from the cannon Harry Potter universe.  Runes can also be created to *absorb* power from the surrounding area to power connected sequences of runes, using abilities inherited from the Principalities.  This in practice reduces the effect of any attempt to use other powers in any way not connected to that rune sequence.  For a school like Hogwarts, it would be safer to practice your magic because the effect of each spell would be lessened.  The Hospital Wing would need to be shielded from this effect to ensure that you could still be cured using magic at full efficacy.  Overall, this effect would bulster Hogwart's reputation for being one of the safest places in Britian. 
+   * divination has two categories.
+			 * prophesy is a morally suspect magic.  I am going to go with Biblical
+				 theology here; in divination the nephil knowingly or unknowingly
+				 communicates with fallen angels.  If they ever tell anything truthful,
+				 it is only because they judge it useful to lead us further into sin.
+				 Users of this magic make future generations more susceptible to magics
+				 inherited from the Seraphim and Dominions (for four generations per
+				 above).  Thus most prophesies are misleading, false, or both. 
+			 * Users particularly skilled in the abilities from the Seraphim may be
+				 able to use these abilities to make incredibly accurate predictions
+				 about people without crossing any lines.  Knowing that someone is
+				 clumsy from their memories, knowing that someone is afraid from their
+				 emotions, the user can predict some short term events and reactions in
+				 ways that might seem like divination.  Practices like palm reading, tea
+				 leaves, and crystal gazing grew from this magical insight into people. 
+			 * There is some crossover between the two, generally to the detriment of
+				 both the user and any understanding of the truth.
+	 * Arithmancy has a wikipedia definition as being a speciality of divination.
+		 For my purposes this is _almost_ true.  For my purposes Arithmany attempts
+		 to predict the effect of a use of magic.  It attempts to make magic
+		 scientific.  However, it is complicated by the fact that its practitioners
+		 themselves do not actually understand the scientific method, nor agree on
+		 which mathematical system(s) they are using to do this in.  The field is
+		 dominated by people with only the vaguest idea of what the mundane world
+		 has done with either numbers or science in the past 200 years.  
+		* Legilimency - requires both an inheritance from the Seraphim and the
+			Dominions, for this work it comes in 3 phases.  
+			 * Passively, it is solely from the Seraphim, and is morally neutral. This
+				 will tell you a target's emotional state (anything related to brain
+				 chemistry), whether or not the person is telling the truth (again based
+				 on brain chemistry and things like pulse rates, but done automatically
+				 for you by the magic), energy level/alertness, and other purely
+				 physical things but _not_ about the person's actual thoughts or
+				 memories. A really skilled user may be able to infer thoughts from a
+				 combination of this information and the subject/target's actions
+				 however with a fair degree of accuracy.  
+			 * Communicatively, it adds in abilities from the Dominions, forcing the
+				 recipient to hear your thoughts. This is a bit of a grey area morally.
+				 This shows in that its effects are, unlike most magic with moral
+				 content, irregularly inherited.  The more welcome, and the less forced,
+				 your thoughts are to the "listener", the effects of using this magic
+				 become less inherited by future generations.  Where the use of the
+				 killing curse is not just a mortal sin, it also affects the amount of
+				 free will available to your children, this magic has primarily bizarre
+				 effects on your own mind and will, and on the mind and will of those
+				 you primarily use it on.  Elaborating here would quickly become a
+				 spoiler for the story.  While some fanfiction has suggested that
+				 legilimancy could be used to implant memories or manipulate a target's
+				 emotions, I will not go there *directly*. 
+			 * Actively, you force the victim to reveal their thoughts.  This is
+				 morally repugnant, and comes at a magical cost.  Excessive use of this
+				 form of legilimency will impact future generations.  Per the above,
+				 what constitutes "excessive" has not been quantified.  
+		* Occlumency - the magical suppression of emotion and with that access to
+			thoughts comes at a similar moral and magical cost to active legilimancy.
+			This work will offer magical defences to legilimancy besides that of
+			occlumency.  
 * "truly bizarre" things include the birth of 
-   * goblins - people who are highly susceptible to greed, envy, and wrath.  Their form has been distorted by the sins of their forefathers centuries ago.  They are still capable of good deeds, and some have been so highly virtuous as to have actually reduced their susceptibility from the 90% maximum to a more manageable 60-70 (this represents the *best* of goblin families), but the physical changes wrought on them have become "mundane," and are now governed by Mendelian inheritance.  Despite their flaws, these populations retained their intelligence and their magic. 
-   * giants - a people who are consumed by wrath and sloth.  They neither build nor have any true culture as a result.  They have lost the use of nearly all magics through successive generations of partial inheritance, despite the odds.  Like the goblins the physical changes wrought on them by sin have become "mundane" and are now governed by Mendelian inheritance.  
-   * hags - a people who are consumed by envy and lust.  Their sins robbed their ancestors of all they can now value. 
-   * mermen - one of the few cases of a true 1% chance on top of 1% chance resulting in a different species.  They have lost the use of most magics through successive generations of partial inheritance despite the odds. 
-   * veela - a people who are consumed by lust.  For the purposes of this story, veela are "dark" creatures[^20210126-4] that have some of the strongest inheritances from the Dominions of all humanoid magic users.  A "half-veela" is a veela/human or veela/nephil cross where the veela nature was, against the odds, only partially inherited.  A pure veela is an example of the primordial highly specialised magic user, with power in only a single category (Dominions obviously). Like _[Maskirovat][knffnm]_ I am going to speculate that the pure veela's lifespan is shorter than a normal human's, and fertility has shifted such that female births outnumber male births.  
-   * centaurs - a primordial people who abused divination magic until something truly bizarre happened.  They became nearly immune to the magic of the Dominations as practices by other mortals, but almost entirely ruled by subconscious influences of the angelic hosts, both those fallen and those who remained faithful.  They are thus incredibly sensitive to the state of balance between them in society.  Whenever society takes a turn for the worse, so do they, whenever the societies they live near turn towards God, the centaur populations become more friendly.  However, as they remain addicted to divination, they never reconcile with the peoples the reside near. As a primordial people, centaurs never had the ability to use anything beyond their original inheritance, in this case from the Cherubim.  
-* Other "races" are not really people at all, they have varying levels of intelligence, but are all effectively the same as meeting different qualities of AI players, as if you were encountering cyborgs.  
-   * trolls - created by the extreme use of magics on apes, the *most* intelligent trolls might be able to perform similarly to a human with mental retardation capable of living in a group home. 
-   * gnomes - created by the extreme use of magics on clay figures, these beings have no long term memory at all. 
-   * fairies - created by the extreme use of magics on insects, these beings appear humanoid, but still reproduce by laying eggs like insects.  Unlike gnomes, they have some ability to form long term memories, but only very limited ability to learn from these experiences; their actions are guided by instincts so strong as to make learning very very exceptional and difficult. 
-   * house elves - created by the extreme use of magics on an unknown mammal (not a human), they are the most nearly human of all created beings.  They are capable of learning, loyalty and betrayal, they have memories equivalent to ours.  They closely mimic having true free will, just as some human scientists speculate the highest animals do.  House elves were created with an innate *need* for *altruistic work*.  An idle elf will get sick and die.  Even levels of self-interest that would be normal and healthily in a human is also sufficient to cause a fatal illness in a house elf. Thus while they need not be magically bound to servitude as is traditional, they can at best be in an underpaid servant's position.  When bound, and elf can "feed" on the bond, using its master's magic to amplify its own. 
-* Harry Potter talks about two classes that require special mention, squibs and muggle born.  They are effectively inverse of each other. 
-   * A true squib is the child who resulted from the 0.5% chance of becoming mundane.  Such a child is fully human, and no "muggle-born" will ever descend from such a child.
-   * It is possible for a child receiving a partial inheritance from his or her parent(s) to have very low power.  On the scale of 1 to 10, in practice a child with a power level of 2 or below on all categories will be called a squib.  A child with 3 or below on all categories will not be invited to any magical school, but might be able to effectively use some magic.  A program like Kwick Spell might prey on such people.  
-   * Because it is possible (16% chance) for the parents' abilities to recombine, these "squibs" who are actually extremely low powered nephilim, can eventually produce higher powered children.  These children will *generally* be low powered (a mix of 3s, 4s and 5s in the various categories).  However, sometimes (1% chance) the something bizarre increases the child's ability beyond expectations. 
-   * This partially explains some of the bias against these "first generation" magical users.  Not only are they new to a xenophobic culture, but marrying them *generally* creates a risk of low powered children.  With this background, being of "pure" blood is basically ignoring the 19.5% chance of being under powered as compared to your parents. Illogical, but considering other human prejudices, not unreasonable. 
-   * Per the the above, it is possible for a pure human to gain magic through the union with a fallen angel.  In practice, this has not happened in centuries, but magical society remembers adults suddenly having magic where none had been present before.  From this comes stories of magic being "stolen."  This is not true of course, no one lost the magic the witch gained from her unholy union, but most magic users do not believe in angels, much less fallen angels, and have a strong distrust for the Church.
+	 * goblins - people who are highly susceptible to greed, envy, and wrath.
+		 Their form has been distorted by the sins of their forefathers centuries
+		 ago.  They are still capable of good deeds, and some have been so highly
+		 virtuous as to have actually reduced their susceptibility from the 90%
+		 maximum to a more manageable 60-70 (this represents the *best* of goblin
+		 families), but the physical changes wrought on them have become "mundane,"
+		 and are now governed by Mendelian inheritance.  Despite their flaws, these
+		 populations retained their intelligence and their magic. They are
+		 particularly strong inheritors from the Virtues, Powers, and Archangels,
+		 with lesser inheritances from the Principalities and angels.
+	 * giants - a people who are consumed by wrath and sloth.  They neither build
+		 nor have any true culture as a result.  They have lost the use of nearly
+		 all magics through successive generations of partial inheritance, despite
+		 the odds.  Like the goblins the physical changes wrought on them by sin
+		 have become "mundane" and are now governed by Mendelian inheritance.  
+	 * hags - a people who are consumed by envy and lust.  Their sins robbed their
+		 ancestors of all they can now value. They have particularly strong
+		 inheritances from the Dominions, reasonable inheritances from the Virtules
+		 and Powers.  Some have partial inheritances of random other types.
+	 * mermen - one of the few cases of a true 1% chance on top of 1% chance
+		 resulting in a different species.  They have lost the use of most magics
+		 through successive generations of partial inheritance despite the odds. 
+	 * veela - a people who are consumed by lust.  For the purposes of this story,
+		 veela are "dark" creatures[^20210126-4] that have some of the strongest
+		 inheritances from the Dominions of all humanoid magic users.  A
+		 "half-veela" is a veela/human or veela/nephil cross where the veela nature
+		 was, against the odds, only partially inherited.  A pure veela is an
+		 example of the primordial highly specialised magic user, with power in only
+		 a single category (Dominions obviously). Like _[Maskirovat][knffnm]_ I am
+		 going to speculate that the pure veela's lifespan is shorter than a normal
+		 human's, and fertility has shifted such that female births outnumber male
+		 births.  
+	 * centaurs - a nearly primordial people (inheriting from both the the
+		 Seraphim and Cherubim) who abused divination magic until something truly
+		 bizarre happened.  They became nearly immune to the magic of the
+		 Dominations as practices by other mortals, but almost entirely ruled by
+		 subconscious influences of the angelic hosts, both those fallen and those
+		 who remained faithful.  They are thus incredibly sensitive to the state of
+		 balance between them in society. Whenever society takes a turn for the
+		 worse, so do they, whenever the societies they live near turn towards God,
+		 the centaur populations become more friendly.  However, as they remain
+		 addicted to divination, they never reconcile with the peoples the reside
+		 near. 
+* Other "races" are not really people at all, they have varying levels of
+	intelligence, but are all effectively the same as meeting different qualities
+	of AI players, as if you were encountering cyborgs.  
+	 * trolls - created by the extreme use of magics on apes, the *most*
+		 intelligent trolls might be able to perform similarly to a human with
+		 mental retardation capable of living in a group home. 
+	 * gnomes - created by the extreme use of magics on clay figures, these beings
+		 have no long term memory at all. 
+	 * fairies - created by the extreme use of magics on insects, these beings
+		 appear humanoid, but still reproduce by laying eggs like insects.  Unlike
+		 gnomes, they have some ability to form long term memories, but only very
+		 limited ability to learn from these experiences; their actions are guided
+		 by instincts so strong as to make learning very very exceptional and
+		 difficult. 
+	 * house elves - created by the extreme use of magics on an unknown mammal
+		 (not a human), they are the most nearly human of all created beings.  They
+		 are capable of learning, loyalty and betrayal, they have memories
+		 equivalent to ours.  They closely mimic having true free will, just as some
+		 human scientists speculate the highest animals do.  House elves were
+		 created with an innate *need* for *altruistic work*.  An idle elf will get
+		 sick and die.  Even levels of self-interest that would be normal and
+		 healthily in a human is also sufficient to cause a fatal illness in a house
+		 elf. Thus while they need not be magically bound to servitude as is
+		 traditional, they can at best be in an underpaid servant's position.  When
+		 bound, and elf can "feed" on the bond, using its master's magic to amplify
+		 its own. 
 	 
 [[!inline pages="title(Harry Potter - Nephilim:*)"
 	archive=yes
