@@ -7,17 +7,20 @@
 Where does magic come from?  How does it work?  What are the mechanics of it for
 lack of a better word? 
 
-We seem to have 
+We seem to have:
+
 * Spells - curses, hexes, jinks, charms, transfiguration
-  * > The wand is a European invention, and while African witches and wizards have adopted it as a useful tool in the last century, many spells are cast simply by pointing the finger or through hand gestures.[^20210304-5]
+	 * > The wand is a European invention, and while African witches and wizards
+		 > have adopted it as a useful tool in the last century, many spells are
+		 > cast simply by pointing the finger or through hand gestures.[^20210304-5]
 * Potions
 * Runes
 * Divination - tea cups, horoscopes, star charts, crystal balls, so on.
 * Arithmancy - Per Google, this should be part of Divination, but is apparently
-  something different. 
+   something different. 
 * Rituals - Riddle's resurrection seems to be a combination of elements of the
-  above.  It is also interesting that it is normal spoken English where nothing
-  else we see of magic is.
+   above.  It is also interesting that it is normal spoken English where nothing
+   else we see of magic is.
 
 ### Animagus
 
