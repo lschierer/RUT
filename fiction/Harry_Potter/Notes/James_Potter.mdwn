@@ -1,6 +1,6 @@
 ## James Potter
 
-James Potter is one of the more controversial figures in the Harry Potter series.  There is so little information about him, that both fanfiction authors and just opinion pieces and commentors are working with an almost blank slate. 
+James Potter is one of the more controversial figures in the Harry Potter series.  There is so little information about him, that both fanfiction authors and just opinion pieces and commentators are working with an almost blank slate. 
 
 ### From the books
 
@@ -8,7 +8,7 @@ James Potter is one of the more controversial figures in the Harry Potter series
 
 ---
 
-> Harry recognized his father; his untidy black hair stuck up at the back like Harry’s, and he too wore glasses.[^20210128-22]
+> Harry recognised his father; his untidy black hair stuck up at the back like Harry’s, and he too wore glasses.[^20210128-22]
 
 ---
 
@@ -151,6 +151,47 @@ James Potter is one of the more controversial figures in the Harry Potter series
 ---
 
 > Fleamont and Euphemia lived long enough to see James marry a Muggle-born girl called Lily Evans, but not to meet their grandson, Harry. Dragon pox carried them off within days of each other, due to their advanced age, and James Potter then inherited Ignotus Peverell’s Invisibility Cloak.[^20210128-29]
+
+### When did he get the Cloak
+
+In book three, Lupin refers to seeing James use the cloak many times.[^20210318-4] At first I was inclined to disregard this, the fact that Lupin knows
+that you still show up on the Marauder's Map implies that it was at school, but
+does not prove that.  For all we know the two got curious when James inherited
+the cloak *after graduation* and tested the cloak against the charms they had
+used.  After all, while they had lost the map, as the creators, they could have
+recreated enough of its detection mechanisms to prove the test case, or
+alternately there may have been multiple copies of the map originally, only one
+of which was seized.[^20210318-5] However, further down, he definitively places
+the cloak in James' possession by at least their fifth year, as it was used to
+get out of the castle each full moon.[^20210318-6]
+
+Given that he would not officially inherit the Cloak until his father dies, why
+was such a valuable heirloom sent with an irresponsible child to school?  This
+is pure speculation, but one possibility is that James was *not* as irresponsible
+as he is made out to be.  By 1975 the Riddle's violence was no doubt ramping up,
+if not already in full swing.  We know, reference my discussion of James above,
+and my discussion of [[Snape]], that some of the Slytherin students are
+experimenting with [[dark magic|Magic]].  Perhaps Fleamont sent his son to
+school with the cloak as an additional layer of protection for a beloved, and
+yes, somewhat spoiled heir, knowing the boy (James) was feuding with such evil
+already.  Despite his many illicit forays out after curfew, this supposedly
+irresponsible boy kept the Cloak out of larcenous[^20210318-7] enemy hands,
+despite the fact that he supposedly has no cunning or intelligence. 
+
+[^20210318-7]: The Sorting Hat says that Slytherins will use any means, and we
+    have proven they will use magic that will potentially maim and kill, so
+    larceny is hardly a stretch. 
+
+[^20210318-6]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_ 
+    p. 354. Pottermore Limited. American Kindle Edition. 
+
+[^20210318-5]: CmptrWz. _[For Want of an Outfit](https://archiveofourown.org/works/28507302)_.
+    [Chapter 10](https://archiveofourown.org/works/28507302/chapters/73098891)
+    [Archive of Our Own](https://archiveofourown.org/). 
+    Published: 2021-01-02. Updated: 2021-03-12. Last Viewed: 2021-03-18.
+
+[^20210318-4]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_
+    p. 347. Pottermore Limited. American Kindle Edition. 
 
 [^20210128-29]: Mrs. J. K. Rowling. "[The Potter Family](https://web.archive.org/web/20190331103342/https://www.pottermore.com/writing-by-jk-rowling/the-potter-family)" Archived version of [Pottermore](https://www.pottermore.com), archived 2019-03-31. Last Viewed 2021-01-28. 
 
