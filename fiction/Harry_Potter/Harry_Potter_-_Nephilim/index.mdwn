@@ -236,10 +236,13 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 				 spoiler for the story.  While some fanfiction has suggested that
 				 legilimancy could be used to implant memories or manipulate a target's
 				 emotions, I will not go there *directly*. 
-       * Actively, you force the victim to reveal their thoughts.  This is
+       * Actively, you force the victim to reveal their memories.  This is
 				 morally repugnant, and comes at a magical cost.  Excessive use of this
 				 form of legilimency will impact future generations.  Per the above,
-				 what constitutes "excessive" has not been quantified.  
+				 what constitutes "excessive" has not been quantified.  For some unknown
+         reason, this only works on people that have at least some magic, note
+         that I said that inheritances from the Dominions work at best
+         marginally on full humans.
     * Occlumency - the magical suppression of emotion and with that access to
 			thoughts comes at a similar moral and magical cost to active legilimancy.
 			This work will offer magical defences to legilimancy besides that of
@@ -298,12 +301,12 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 		 mental retardation capable of living in a group home. 
 	 * gnomes - created by the extreme use of magics on clay figures, these beings
 		 have no long term memory at all. 
-	 * fairies - created by the extreme use of magics on insects, these beings
-		 appear humanoid, but still reproduce by laying eggs like insects.  Unlike
-		 gnomes, they have some ability to form long term memories, but only very
-		 limited ability to learn from these experiences; their actions are guided
-		 by instincts so strong as to make learning very very exceptional and
-		 difficult. 
+	 * fairies/pixies/doxies - created by the extreme use of magics on insects,
+		 these beings appear humanoid, but still reproduce by laying eggs like
+		 insects.  Unlike gnomes, they have some ability to form long term
+		 memories, but only very limited ability to learn from these experiences;
+		 their actions are guided by incredibly strong instinct rather than by
+		 reasoning.
 	 * house elves - created by the extreme use of magics on an unknown mammal
 		 (not a human), they are the most nearly human of all created beings.  They
 		 are capable of learning, loyalty and betrayal, they have memories
