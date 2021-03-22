@@ -2,13 +2,18 @@
 
 I really want to like Professor McGonagall, but so much that happens at Hogwarts
 is troubling that I am conflicted about her. _The Board_[^20190823-1] by
-[Clell65619](https://deluded-musings.fanficauthors.net) shows a critical view of her that I am, despite myself, really drawn to. 
+[Clell65619](https://deluded-musings.fanficauthors.net) shows a critical view of her that I am, despite myself, really drawn to.  This view is more or less seconded by _[When Is It a Contract][WIIAC]_ which focuses on the conflicts between her roles as Deputy and Head of House.[^20210322-2]
 
 Her timeline is ambiguous.  She joined Hogwarts at a time when there was more
 than one teacher in the Transfiguration Department, approximately 2 or 3 years
 after her graduation.[^20200720-7]  She informs Umbridge that she will have been
 at Hogwarts "Thirty-nine years this December,"[^20200720-8] sometime in the
 beginning of fifth year, or 1995. That puts her start date in 1956. 
+
+[^20210322-2]: Aealket.
+    _[When Is It a Contract](https://www.fanfiction.net/s/7382549)_ Published 2011-09-14. 
+
+[WIIAC]: <https://www.fanfiction.net/s/7382549>
 
 [^20190823-1]: <https://deluded-musings.fanficauthors.net/The_Board/The_Board/>
 Last viewed 2019-08-23.
@@ -22,3 +27,5 @@ McGonagall](https://www.wizardingworld.com/writing-by-jk-rowling/professor-mcgon
 (Kindle Location 4721). Pottermore Limited. American Kindle Edition. 
 
 [[!meta title="Minerva McGonagall"]]
+[[!tag "HP Notes"]]
+
