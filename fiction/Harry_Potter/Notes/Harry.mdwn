@@ -77,8 +77,8 @@ use that "not a bad mind" mentioned above away from Ron's influence).
 
 On a truly trivial note, the scene from Snape's memory showing the confrontation
 after the OWL tests shows that James purposefully messed up his
-hair.[^20200710-1]  Harry's hair was unfixably messy.  Unfortunately, we know 
-that while James did mess up his hair, it was also unfixably untidy.[^20200710-2]  
+hair.[^20200710-1]  Harry's hair was unfix-ably messy.  Unfortunately, we know 
+that while James did mess up his hair, it was also unfix-ably untidy.[^20200710-2]  
 The most likely explanation of this is that it is purely genetic, but lots of 
 authors have had fun speculating a magical origin for this hair.  I read one 
 idea that I found really amusing, that Harry's hair was a prank that James 
@@ -128,7 +128,7 @@ Harry such a vault that he gets access to when he is either emancipated or turns
 seventeen.  Others say that Dumbledore essentially stole everything.  Still
 others make James a fool who liquidated everything to fund the Order of the
 Phoenix, only for Harry to discover Dumbledore is in fact evil.  Whichever you
-chose, Harry should have inherited more than he seems to have.
+chose, Harry should have inherited more than he seems to have. One interesting twist is that the second vault may require something (a ring or a key) to unlock that was itself locked in the vault in question, because _everything_ the Potters owned was placed in the vault without forethought.[^20210322-1]
 
 ### Harry's official OWL results
 
@@ -145,7 +145,7 @@ Potions | E
 Transfiguration | E
 """]]
 
-Any story needs to give an actual reason to deviate from these.  Failure to do so introduces a noticable discontinuity to your story, it disrupts the flow from cannon to fanfiction in a way I dislike. 
+Any story needs to give an actual reason to deviate from these.  Failure to do so introduces a noticeable discontinuity to your story, it disrupts the flow from cannon to fanfiction in a way I dislike. 
 
 ### What if Harry had a different wand? 
 All quotes from the Ollivander pages on Pottermore. See [[Wands|Magic]]
@@ -190,6 +190,11 @@ to keep the essence of who Harry is as a character intact.
 
 [^20200710-2]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_ p.
     208. Pottermore Limited. American Kindle Edition. 
+
+[^20210322-1]: TheBeardedOne.
+    _[Little Whinging Pet Shop](https://archiveofourown.org/works/27669059)_
+    [Chapter 22: Harry Roth - Expanded](https://archiveofourown.org/works/27669059/chapters/73491705)
+		[ArchiveOfOurOwn](https://archiveofourown.org) Published 2020-11-22. Updated 2021-03-05. Last Viewed 2021-03-22.
 
 [^20200710-3]: Tom Kristal. 
     _[Prongs Final Prank](https://www.fanfiction.net/s/4279550/1/Prongs-Final-Prank)_  
