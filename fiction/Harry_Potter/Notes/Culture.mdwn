@@ -150,7 +150,7 @@ they want their static society, they have options:
     This is probably the clearest reference, though really the entire chapter
     proves the point.
 
-[^20210323-6] Ms. Clare Feikert-Ahalt. 
+[^20210323-6]: Ms. Clare Feikert-Ahalt. 
     "[Laws Concerning Children of Undocumented Migrants: United Kingdom](https://www.loc.gov/law/help/undocumented-migrants/uk.php)"
     Section III: "Pathways to Legal Residence and Citizenship for Illegal
     Immigrants" Subsection A: "Children".
