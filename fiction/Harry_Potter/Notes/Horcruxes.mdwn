@@ -101,7 +101,7 @@ testimony to his overall dependence on the prophecy, and failure to act.
     December 2007.](http://www.accio-quote.org/articles/2007/1217-pottercast-anelli.html)"
     [Accio-Quote](http://www.accio-quote.org/) Last viewed 2020-07-31. 
 
-#### Harry's Scar
+### Harry's Scar
 
 I first read this in [The Thorny Rose 2][TTR213]:
 > "But if you know about the Horcruxes, then you will know that they can only be
@@ -160,12 +160,12 @@ Horcruxes that he did not ask even people he trusted.[^20210323-3]
 [^20210323-3]: I know someone not me actually came up with this theory first,
     but to give them credit I have to re-find it.
 
-#### Mostly Unsupported Nonsense
+### Mostly Unsupported Nonsense
 
-Even though the other 6 have no real legitimate speculation given what is in
-cannon, it would be _fun_ if we did. I will not promise that I will not ever do
-so in anything I attempt to write. I really hadn't considered just how much fun
-you could have with this until I read offsides' [Long Live The
+Even though the other 6 have no real legitimate room for speculation given what
+is in cannon, it would be _fun_ if we did. I will not promise that I will not
+ever do so in anything I attempt to write. I really hadn't considered just how
+much fun you could have with this until I read offsides' [Long Live The
 Queen](https://www.fanfiction.net/s/11500936).  From Chapter 32:
 
 > “I've reviewed the diary," said Croaker, jumping straight in, "along with
@@ -232,6 +232,37 @@ the idea of a seven part soul, that does not mean it is possible, let there be
 some arithmetical limit he hits before that, so that it is something he tried
 for, but ultimately could not do. 
 
+On the opposite side of the spectrum, souls are clearly not really *splitable*
+at all.  If the soul was *truly* split, then the horcrux would not anchor you to
+this life, the death of one half would simply not affect the other.  That is
+probably where the idea that a horcrux gets consumed in a resurrection comes
+from, because the author implicitly assumes that there is no wraith to
+resurrect. The problem is that Riddle's existence in the first book contradicts
+the theory.  The part of his soul that was not in a horcrux did not pass on, but
+rather fled, without a body (or container) to the forest in
+Albania.[^20210324-4]  
+
+Building on that, given that the soul does not really split, lets force the
+death of one segment, by throwing a horcrux through the veil, and let it pull
+the other segments through with it.[^20210324-5] The cannon discrepancy from
+that work is that the diary horcrux was destroyed by the basilisk fang, so while
+the soul parts are not entirely disconnected (and so can be anchors) they are
+not entirely connected either (the containers can be de-horcrux-ified if
+destroyed).  
+
+I suppose you could speculate on if the *soul fragment* was destroyed with the
+diary or not.  It is theoretically possible that instead of dying that soul
+fragment was released from the container.  The problem then would be explaining
+what is up with Harry's scar, since we are told that a soul fragment latched on
+to him, instead of rejoining some other soul fragment (or the main soul piece
+that was the wraith). 
+
+[^20210324-5]: Yunaine.
+    _[Public Safety](https://www.fanfiction.net/s/10387771)_
+    Published: 2014-05-29. Last Viewed: 2021-03-24.
+
+[^20210324-4]: Mrs. J. K. Rowling. _Harry Potter and the Philosopher's Stone_.
+    Better citation needed.
 
 [^20200625-2]: Mrs. J. K. Rowling. _Harry Potter and the Goblet of Fire_ (Kindle Locations 9729-9731). Pottermore Limited. American Kindle Edition. 
 
