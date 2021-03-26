@@ -147,12 +147,12 @@ I have read:
 > and meek; that he was now trying to duplicate it through Serverus'
 > good offices.  
 > 
-> The world did not need another Voldemort: a powerful
-> magical user working at the top of his skill level, with curiosity and
-> drive and ambition. And with enough hatred to doom the entire world.
+> The world did not need another Voldemort: a powerful magical user working at
+> the top of his skill level, with curiosity and drive and ambition. And with
+> enough hatred to doom the entire world.
 > 
-> The world also did not need a Harry Potter raised by Sirius Black
-> amid privilege and wealth and freedom. That wouldn't do.  
+> The world also did not need a Harry Potter raised by Sirius Black amid
+> privilege and wealth and freedom. That wouldn't do.  
 > 
 > No, the world needed this Harry, shy, polite, an indifferent student, and utterly
 > incurious, save for what he could learn about his parents.[^20200721-1]
@@ -177,23 +177,23 @@ was responsible to keep all students safe.  If the marauder's pranks were
 justified by the injustice they fought, so much the worse for Dumbledore.
 If the pranks were truly unjustified, the difference hardly helps his
 (Dumbledore's) case.  Either way the students had to defend themselves
-with no intervention from authority.  However, it is fairly clear that
-James arrived at Hogwarts spoiled and at least somewhat of a brat.
-Dumbledore could not afford for [[Harry]] to do the same.  [[Harry]] was being
-groomed to be self sacrificing from the moment he entered Hogwarts.
-But Dumbledore cannot act directly to effect this.  So what does he do?
-He places [[Harry]] with family.  On the surface that's a legitimate and
-nearly unimpeachable decision.  Never mind the abuse, Dumbledore will
-be blind to it.  Never aware of how bad it was, and sorrowful that it
-happened at all.  He puts [[Snape]] in a position of authority as Potions
-teacher, but allows him to be a poor, biased, and cruel teacher.[^20210318-7]
-Then he makes the situation worse by making [[Snape]] head of Slytherin.
-Now [[Snape]] can justify his behaviour in terms of the bias his ([[Snape]]'s)
-house faces from everyone else in the school.  As head of house, [[Snape]]
-has to show them that someone on the staff will support them right?
-No matter what that means to the rest of the school, his house must be
-his priority; surely you cannot argue about that.  And so Dumbledore
-remains "blameless," at least in his own view.
+with no intervention from authority.  
+
+However, it is fairly clear that James arrived at Hogwarts spoiled and at least
+somewhat of a brat. Dumbledore could not afford for [[Harry]] to do the same.
+[[Harry]] was being groomed to be self sacrificing from the moment he entered
+Hogwarts. But Dumbledore cannot act directly to effect this.  So what does he
+do? He places [[Harry]] with family.  On the surface that's a legitimate and
+nearly unimpeachable decision.  Never mind the abuse, Dumbledore will be blind
+to it.  Never aware of how bad it was, and sorrowful that it happened at all.
+He puts [[Snape]] in a position of authority as Potions teacher, but allows him
+to be a poor, biased, and cruel teacher.[^20210318-7] Then he makes the
+situation worse by making [[Snape]] head of Slytherin. Now [[Snape]] can justify
+his behaviour in terms of the bias his ([[Snape]]'s) house faces from everyone
+else in the school.  As head of house, [[Snape]] has to show them that someone
+on the staff will support them right? No matter what that means to the rest of
+the school, his house must be his priority; surely you cannot argue about that.
+And so Dumbledore remains "blameless," at least in his own view.
 
 Now sure, it isn't entirely fair to hold Dumbledore fully accountable to
 Catholic theology when he isn't Catholic.  That isn't to say that Catholic
@@ -216,6 +216,8 @@ to achieve it. I do, however, think that it is actually some version
 of good for the greatest number of people, and not merely for himself,
 that guides his actions. The reader can decide if this is damning him
 with faint praise, or giving him what little credit is due.
+
+### On titles
 
 The quotes attributed to the Oracle of Delphi in _[The Greater
 Will](https://archiveofourown.org/works/16234799)_ put it
