@@ -202,6 +202,8 @@ something of the wizard it is bonding with…
 
 ### The Wards around Privet Drive and The Trace
 
+#### The Wards
+
 First of all, I am not going to spend much time worrying about whether or not
 "wards" are part of the cannon universe or not.  The books may never use the
 word, but the concept certainly exists.  The books provide no consistent name
@@ -216,25 +218,79 @@ In the cannon Harry Potter universe, the wards were set to fail when Harry turns
 any event that causes Harry to be emancipated would also cause the wards to
 fail.  Per the books, the wards were stood up when Petunia took Harry into her
 home.[^20180709-2]  I have to deal with this in this in any story.  How exactly do the
-wards work, and what protection do they provide?  A related question is The
-Trace, which also terminates at 17.  I initially considered that the wards might
-not have activated, as this would both be a bit of ironic justice and make the
-story easier.  If the wards do not change when Harry gets married because they
-are not working right in the first place, I do not have to deal with the
-emancipation that also comes with the marriage.  However, I dislike
-contradicting the text when it comes to world mechanics more than I have to.  I
-mean, I do have to some - wizarding households function on magic, so the Decree
-for the Reasonable Restriction of Underage Sorcery and the Trace either allows
-for supervised household charm or does not function at all in wizarding
-households, probably the latter.  The whole "do not use magic outside of school"
-thing is more for muggle born witches and wizards rather than any real
-restriction.  Returning to topic, another possibility is that turning 17 is a
-magical event - literally.  Because Harry never takes arithmancy in the books,
-we do not see much about magic numbers, but we know they exist.  Perhaps this
-particular prime number impacts the operation of the wards (and the Trace must
-be some form of detection ward I think) in some way.  If that is true, then
-Harry's emancipation is a legal event, not a magical one, and so would not
-affect either the Trace or the wards.
+wards work, and what protection do they provide? I initially considered that the
+wards might not have activated, as this would both be a bit of ironic justice
+and make any story easier.  In _[[Family Inseparable|Family_Inseparable]]_ I
+adopted a story in which Harry gets married at a young age.  What affect, if
+any, would such a marriage have on the wards?  In the non-magical world,
+[Wikipedia](https://en.wikipedia.org/) suggests that England does not have a
+concept of emancipation of minors.[^20210329-12] If that is true, his marriage
+should have no effect on the wards (or on the Trace), particularly since, per
+the same article, this seems to be in line with older systems of law.  
+
+Another possibility is that turning 17 is a magical event - literally. Because
+Harry never takes arithmancy in the books, we do not see much about magic
+numbers, but we know they exist.  Perhaps this particular prime number impacts
+the operation of the wards (and the Trace must be some form of detection ward I
+think) in some way.  If that is true, then it does not matter if emancipation
+exists in the magical world or not, because it would be a legal event and not a
+magical one, and so would not affect either the Trace or the wards.
+
+#### The Trace
+
+A related question is The Trace, which also terminates at 17.  How does this
+operate?  As I said, I think it has to be a detection ward of some sort.  I have
+read number of different ideas about it.
+
+* One author suggested that it gets added to wands that ride the Hogwarts
+  Express.[^20210329-13] The problem with this is that I believe it would effect
+  the wands of 7th year students, most if not all of whom are already 17. 
+* One author suggested it gets added (to either wands or students) as they ride
+  the boats on their way to Hogwarts for the first time.[^20210329-14]
+* One author suggested there is a network of rune-engraved ward-stones across
+  the country.[^20210329-15] 
+* One author suggests that monitoring devices are placed near the address of
+  witches and wizards known to be underaged.[^20210329-16] The Trace then only
+  works near such devices. 
+* A number of authors suggest that there is "equipment" at the Ministry that is used to
+  detect magic.  Some think that equipment can distinguish between underaged and
+  over aged magic.[^20210329-17] This would effectively be an example of 17 as a
+  magical number that effects the way magic operates at a fundamental level.
+  Some think that the equipment is "tuned" to detect certain magic, and could be
+  returned to detect different magic.[^20210329-18] I am not sure that really differs. 
+* One interesting idea suggested that the trace, regardless of which of the
+  above, only worked for wands in which the person requesting the report had an
+  owning interest in, and thus the Ministry subsidised wand sales to
+  minors.[^20210329-19] By paying for part of a child's wand, the Ministry has
+  partial ownership and could thus get magical reports on the wand's use. 
+
+In all of my stories, I need to figure out which approach I am going to take,
+either one of the above, or some other approach.  I dislike contradicting the
+text when it comes to world mechanics more than I have to.  However, I do have
+to some - wizarding households function on magic, so the Decree for the
+Reasonable Restriction of Underage Sorcery and the Trace either allows for
+supervised household charm or does not function at all in wizarding households,
+probably the latter.  The whole "do not use magic outside of school" thing is
+more for muggle born witches and wizards rather than any real restriction. See
+[[Culture]] for more on this. 
+
+[^20210329-13]: Need Citation
+
+[^20210329-14]: Need Citation
+
+[^20210329-15]: Need Citation
+
+[^20210329-16]: Need Citation
+
+[^20210329-17]: Need Citation
+
+[^20210329-18]: Need Citation
+
+[^20210329-19]: Need Citation
+
+[^20210329-12]: [Wikipedia](https://en.wikipedia.org/) 
+    "[Emancipation of minors](https://en.wikipedia.org/wiki/Emancipation_of_minors)
+    Last Updated: 2021-03-27. Last Viewed: 2021-03-29.
 
 [^20180709-2]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_.  Chapter 37. Location 12236. 
 
