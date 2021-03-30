@@ -86,6 +86,9 @@ reference.
   in.[^20210329-9]
 * We know that, at least when sitting as a court, Mr. Malfoy is not allowed
   in.[^20210329-10]
+* It is strongly implied that the Malfoy family does in fact have a title from
+  the norman conquest.[^20210330-2]
+* We are told that a Potter "has twice sat on the Wizengamot"[^20210330-1]
 * There exists a "British Youth Representative to the Wizengamot"[^20210329-11]
 * We know that the Wizengamot has a Charter of Rights.[^20210329-5] This
   suggests, but does not prove, a legislative function. 
@@ -123,6 +126,16 @@ reference.
 
 [^20210329-10]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_
     Kindle Location 2290-2291. Pottermore Limited. American Kindle Edition. 
+
+[^20210330-1]: Mrs. J. K. Rowling. 
+    "[The Potter Family](https://www.wizardingworld.com/writing-by-jk-rowling/the-potter-family)"
+    [Wizarding World](https://www.wizardingworld.com/) Originally Published on
+    Pottermore: 2015-09-21. Last Viewed: 2021-03-30. 
+
+[^20210330-2]: Mrs. J. K. Rowling.
+    "[The Malfoy family](https://www.wizardingworld.com/writing-by-jk-rowling/the-malfoy-family)"
+    [Wizarding World](https://www.wizardingworld.com/) Originally Published on
+    Pottermore: 2015-08-10. Last Viewed: 2021-03-30.
 
 ### Clothing
 
