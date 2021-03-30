@@ -4,8 +4,8 @@ First of all, I'm not going to even start about what the proper plural is.  I
 do not care.  Horcruxes works, and I am going to go with that. 
 
 I am also going to use this page for the general discussion of whatever magic it
-was that 1) allowed Riddle to survive hitting Harry with the killing curse and
-2) affects Harry's scar regardless of if that magic is actually a horcrux or
+was that 1) allowed Riddle to survive hitting [[Harry]] with the killing curse and
+2) affects [[Harry]]'s scar regardless of if that magic is actually a horcrux or
 not.
 
 [[!toc  startlevel=3]]
@@ -29,7 +29,7 @@ BC.[^20210323-13]  For my purposes the overlap is actually useful.
 
 DisobedienceWriter wrote a fairly extensive one-shot, _[The Valley of the Kings
 Massacre][TVotKM]_, which focused a fair amount on horcruxes.  I dislike the
-characterisation of Harry in this work, but I do like some of the backstory it
+characterisation of [[Harry]] in this work, but I do like some of the backstory it
 posits. He suggests that the Egyptian priest class delved deep in to runic magic
 and soul magic, including Horcruxes and "the ancestor of the modern Killing
 Curse."[^20210323-14] In my mind both the killing curse and horcruxes are evil,
@@ -98,9 +98,9 @@ testimony to his overall dependence on the prophecy, and failure to act.
 ### Harry's Scar
 
 Cannon makes it very clear that Mrs. Rowling has gone with 6 horcruxes plus
-Harry's scar, plus the portion of the soul that floats around for the first 3.x
+[[Harry]]'s scar, plus the portion of the soul that floats around for the first 3.x
 books and is finally fully resurrected at the end of book four. That is fine,
-and her prerogative. When it comes to Harry's scar, I think that cannon is a bit
+and her prerogative. When it comes to [[Harry]]'s scar, I think that cannon is a bit
 ambiguous, and leaves open some legitimate speculation.  If you include
 interviews as part of cannon, then it starts to lean heavily in favour of it
 being … complicated.[^20200731-1]
@@ -118,10 +118,10 @@ I first read this in [The Thorny Rose 2][TTR213]:
  
 However I now know that this theory is more or less exactly what Mrs. Rowling
 intended:[^20200731-2] a horcrux has to be intentional, the bit of soul in
-Harry's scar is not, therefor he is not a true horcrux.  Because he is not a
+[[Harry]]'s scar is not, therefor he is not a true horcrux.  Because he is not a
 true horcrux, it cannot take him over the way a real one would.  The pain is the
 bit of soul trying to rejoin the rest of Riddle; and the few times we see it
-actually influencing Harry it is because he is, independently, emotionally
+actually influencing [[Harry]] it is because he is, independently, emotionally
 vulnerable to it due to feeling things similar to what Riddle would have been
 feeling. 
 
@@ -139,7 +139,17 @@ this theory is that there are people that Dumbledore trusts (like Bill Weasley)
 who had studied such records, but Dumbledore was so paranoid about knowledge of
 Horcruxes that he did not ask even people he trusted.[^20210323-3]
 
+Of course all of this assumes that the soul fragment is actually attached to
+*[[Harry]]* and not something embedded in his scar.[^20210330-46]  It is very
+clear that Mrs. Rowling intends precisely that; works with something in the scar
+really fall into the "nonsense" section below. 
+
 [TTR213]: <http://www.siye.co.uk/viewstory.php?sid=129781&textsize=1&chapter=13>
+
+[^20210330-46]: White Angel of Auralon.
+    _[Champion](https://www.fanfiction.net/s/8754033)_
+    [FanFiction](https://www.fanfiction.net) Originally Published: 2012-12-01.
+    Updated: 2013-10-27. Last Viewed: 2021-03-30.
 
 [^20210311-1]: Brennus. _[The Thorny Rose  2](https://www.siye.co.uk/viewstory.php?sid=129781)_
     [Chapter 13](https://www.siye.co.uk/viewstory.php?sid=129781&textsize=1&chapter=13)
@@ -156,7 +166,7 @@ Horcruxes that he did not ask even people he trusted.[^20210323-3]
     [Accio-Quote](http://www.accio-quote.org/) Last viewed 2020-07-31. 
 
 [^20210323-2]: DisobedienceWriter.
-    _[Harry Potter and the Muggle Mess](https://www.fanfiction.net/s/5180286)_
+    _[[[Harry]] Potter and the Muggle Mess](https://www.fanfiction.net/s/5180286)_
     Published 2009-06-30. Last Viewed 2021-03-23. 
 
 [^20210323-3]: I know someone not me actually came up with this theory first,
@@ -191,7 +201,7 @@ Queen](https://www.fanfiction.net/s/11500936).  From Chapter 32:
 > became clear that while the diary contained some sort of consciousness that
 > interacted with her “the one thing it lacked was a soul, which it was slowly
 > leeching as she wrote more and more in the diary. I also reviewed the memory
-> of Harry Potter from his encounter with the construct of Tom Marvolo Riddle
+> of [[Harry]] Potter from his encounter with the construct of Tom Marvolo Riddle
 > when he ultimately destroyed the diary, and from that came to a rather
 > astonishing conclusion.”
 > 
@@ -255,7 +265,7 @@ destroyed).
 I suppose you could speculate on if the *soul fragment* was destroyed with the
 diary or not.  It is theoretically possible that instead of dying that soul
 fragment was released from the container.  The problem then would be explaining
-what is up with Harry's scar, since we are told that a soul fragment latched on
+what is up with [[Harry]]'s scar, since we are told that a soul fragment latched on
 to him, instead of rejoining some other soul fragment (or the main soul piece
 that was the wraith). 
 
