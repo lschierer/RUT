@@ -39,14 +39,13 @@ experienced any, but quite possibly heard about it.[^20200720-10]
 [Harry's
 Yearmates](https://mugglenet.com/2016/03/the-revised-forty/)[^20200419-1] is
 probably the best source for information, though _Secrets of the
-Classlist_[^20200630-1] also
-contains a ton.  The two disagree on a few things. Some of this has been
-corrected by Mrs. Rowling,[^20200630-3] most of it has not. In general, the latter is
-better researched, the former easier to find information in. Information on the
-class lists for pretty much any other year is entirely absent. One would think
-that in an age where people obsessively wiki things (myself not really
-excluded), someone would have compiled the available data, but if so I have not
-found it.
+Classlist_[^20200630-1] also contains a ton.  The two disagree on a few things.
+Some of this has been corrected by Mrs. Rowling,[^20200630-3] most of it has
+not. In general, the latter is better researched, the former easier to find
+information in. Information on the class lists for pretty much any other year is
+entirely absent. One would think that in an age where people obsessively wiki
+things (myself not really excluded), someone would have compiled the available
+data, but if so I have not found it.
 
 One of the problems with the above two sources is that I've ended up with 6
 first generation wizards, 11 halfboods and 18 purebloods in Harry's class.  This
@@ -70,16 +69,16 @@ hand, it seems like at least some of them attended Hogwarts anyway, based on the
 people present in the Room of Requirement when Harry makes it
 there.[^20200819-3]  
 
-Another possibility is that the Death Eaters used contacts
-within the Ministry of Magic's Accidental Magic Reversal Squad or the Improper
-Use of Magic office to get word of under aged magic users, and to kill the muggle
-ones.[^20200819-4]  If so, the same work suggests that they may have killed
-*fewer* of them in the years between the two Riddle wars, but not completely
-stopped.  This would artificially deflate the number of first generation wizards
-not just in Harry's year, but in all of the classes we see in the books.  While
-Mr. Weasley's "Muggle Protection Act" argues against this idea, it does seem
-believable of Umbridge and those like her who set up the laws under Pius
-Thicknesse's puppet government. 
+Another possibility is that the Death Eaters used contacts within the Ministry
+of Magic's Accidental Magic Reversal Squad or the Improper Use of Magic office
+to get word of under aged magic users, and to kill the muggle ones.[^20200819-4]
+If so, the same work suggests that they may have killed *fewer* of them in the
+years between the two Riddle wars, but not completely stopped.  This would
+artificially deflate the number of first generation wizards not just in Harry's
+year, but in all of the classes we see in the books.  While Mr. Weasley's
+"Muggle Protection Act" argues against this idea, it does seem believable of
+Umbridge and those like her who set up the laws under Pius Thicknesse's puppet
+government. 
 
 One of the other interesting questions is how you would handle an extra 29 or 30
 students per house per year.  At 10 students per house per year, the common
@@ -151,11 +150,11 @@ responsible for keeping the house quiet after curfew.  That might work.
 
 [[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1991.dsv"]]
 
-Mrs. Rowling's original notes put Kevin Entwhistle in Ravenclaw[^20200701-3], but there are
-too many Ravenclaws and too many boys for her seeming desire for symmetry. Given
-my [[argument about how students would be sorted|Class_and_Blood]], I think he
-mutated to a Hufflepuff girl.  Based on the same logic, Rivers is almost
-certainly a pureblood, but might be a halfbood. 
+Mrs. Rowling's original notes put Kevin Entwhistle in Ravenclaw[^20200701-3],
+but there are too many Ravenclaws and too many boys for her seeming desire for
+symmetry. Given my [[argument about how students would be
+sorted|Class_and_Blood]], I think he mutated to a Hufflepuff girl.  Based on the
+same logic, Rivers is almost certainly a pureblood, but might be a halfbood. 
 
 The [[same argument|Class_and_Blood]] suggests the ambiguity of the Weasley
 social class. 
@@ -234,12 +233,12 @@ it.  Which is probably precisely the point.
 
 [^20200630-1]: Ms. Diana Summers. 
     _Secrets of the Classlist: Harry Potter and the Original Forty Classmates_  
-	Copyright 2011,2014. Amazon Kindle Direct Publishing. 
+    Copyright 2011,2014. Amazon Kindle Direct Publishing. 
 
 [^20200630-3]: Mrs. J. K. Rowling. 
     "[The Original Forty](https://www.wizardingworld.com/writing-by-jk-rowling/the-original-forty)"
     <https://www.wizardingworld.com/> Originally published 2015-08-10. 
-	Last Viewed 2020-06-30.
+    Last Viewed 2020-06-30.
 
 [^20200706-2]: "[Fay Dunbar](https://harrypotter.fandom.com/wiki/Fay_Dunbar#Behind_the_scenes)"
     Last Viewed 2020-07-06. 
