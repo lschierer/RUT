@@ -83,10 +83,83 @@ reference.
 [^20210329-3]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_
     Kindle Location 1436. Pottermore Limited. American Kindle Edition. 
 
+#### Separation from the Non-Magical World
+
+We do not know precisely how or when the British magical society began to
+separate from the non-magical world.  While the [International Statute of
+Wizarding Secrecy][ISWS-1] is fairly precisely dated, the government that
+ratified it on behalf of the British people is not. The popular theory is that,
+for one reason or another, the ruling class among the wizards (which may or may
+not have been a democratically elected body and thus all of them) convinced the
+Crown to sign a treaty granting them some level of autonomy in exchange for
+fealty and non-interference.  Stories like _Not Normal_[^20210406-47], _A
+Military Man_[^20210406-48], and _Mutant Storm_[^20210406-49] all fall into this
+category, though there are others.  Most seem to call this treaty "The Treaty of
+Kent" though there seams to be no true basis for this name.  While most authors
+have settled on that as a name, there is no similar consensus on a date for this
+inferred treaty.  The one that makes the most sense to me is that from _Not
+Normal_, that it came out of the unrest from the War of the
+Roses.[^20210406-50]
+
+If you go with this theory, while the two governments might have been split at
+this time time, it was not in fact illegal for wizards to live among or do
+business with non-wizards by virtue of this treaty, and would not be until the
+ISWS came in the late 1600s.  However, with the advent of the ISWS, many things
+that some wizards, like the Malfoys, had been doing for years, suddenly became
+illegal.  This prompted the British wizards to revisit their system of
+government and revamp it into the more centralised, more organised, and
+(theoretically) more effective Ministry of Magic.  
+
+This theory fits the available cannon sources.  If the two societies had not
+*already* been largely split, then implementing the ISWS would not have been
+practicable.  If the two societies had been already *effectively* split, then
+the ISWS would not have been necessary.  British people being who and what they
+are, and the ISWS being a "foreign" concept (IE not originated by them), they
+would not have gone for it unless it solved a local need.  While there *was* an
+up swing in witch hunts in the mid 1600s, it was never a particularly wide
+spread or particularly effective practice in Britain.[^20210406-51] 
+
+If, on the other hand, suppose there were *already* two societies, even if some
+members crossed over more than the ISWS would permit.  Further suppose, per the
+Treaty of Kent (or whatever name) theory, there was *already* in place
+mechanisms for dealing with land ownership, taxes, law enforcement, and
+citizenship across the two societies.  For all its flaws, _Not Normal_ does a
+fairly good job of world building a history of the separation for
+example.[^20210406-52] In that case, it would be a case of making those
+properties secret, and the offices in charge of keeping them separate equally
+so.  That is much more obtainable than implementing all of that in a vacuum to
+solve a threat that largely does not exist, is already in decline to the extent
+it does exist, and requires admitting that those who do not have magic are a
+threat to (and thus not fully inferior to) those who do. 
+
+[^20210406-49]: Bobmin356. _[Mutant Storm](https://www.fanfiction.net/s/7404056)_
+    [Chapter 15](https://www.fanfiction.net/s/7404056/15/Mutant-Storm)
+    Published: 2011-09-22. Updated: 2011-09-26. Last Viewed: 2021-04-06. 
+
+[^20210406-48]: Writer of olde. _[A Military Man](https://www.fanfiction.net/s/11494711)_
+    [Chapter 7](https://www.fanfiction.net/s/11494711/7/A-Military-Man)
+    Published: 2015-09-07. Updated: 2017-02-01. Last Viewed: 2021-04-06.
+
+[^20210406-47]: Radaslab. _[Not Normal](https://www.fanfiction.net/s/7144149)_
+    [Chapter 21](https://www.fanfiction.net/s/7144149/21/Not-Normal). Published:
+    2011-07-04. Updated: 2013-08-10. Last Viewed: 2021-04-06. 
+
+[^20210406-50]: Radaslab. _[Not Normal](https://www.fanfiction.net/s/7144149)_
+    [Chapter 21](https://www.fanfiction.net/s/7144149/21/Not-Normal). Published:
+    2011-07-04. Updated: 2013-08-10. Last Viewed: 2021-04-06. 
+
+[^20210406-52]: Radaslab. _[Not Normal](https://www.fanfiction.net/s/7144149)_
+    Several different chapters, and partially revised by the unfinished sequel.
+    Published: 2011-07-04. Updated: 2013-08-10. Last Viewed: 2021-04-06. 
+
+[^20210406-51]: I note this upswing in the [[timeline|History]]. 
+
+[ISWS-1]: <https://www.hp-lexicon.org/thing/international-statute-of-secrecy>
+
 #### Ministry of Magic
 
 * The Minister for Magic is democratically elected.[^20210330-6]
-* Like the British parlament, there is no fixed term.[^20210330-7]
+* Like the British Parliament, there is no fixed term.[^20210330-7]
 * Elections at least once every seven years.[^20210330-8]
 
 [^20210330-6]: Mrs. J. K. Rowling.
@@ -117,7 +190,7 @@ reference.
 * We know that, at least when sitting as a court, Mr. Malfoy is not allowed
   in.[^20210329-10]
 * It is strongly implied that the Malfoy family does in fact have a title from
-  the norman conquest.[^20210330-2]
+  the Norman conquest.[^20210330-2]
 * We are told that a Potter "has twice sat on the Wizengamot"[^20210330-1]
 * There exists a "British Youth Representative to the Wizengamot"[^20210329-11]
 * We know that the Wizengamot has a Charter of Rights.[^20210329-5] This
@@ -167,7 +240,7 @@ reference.
 ### Clothing
 
 Mrs. Rowling insists that wizards wear robes.[^20200723-4] The problem is that
-she claims that this is because wizarding fashion is intentionally frozen in the
+she claims that this is because Wizarding fashion is intentionally frozen in the
 16th century.  This is a problem because while academics, clerics, and scholars
 wore robes in the 16th century, male fashion varied considerably for those in
 other occupations.  This is very much part of era of doublets and
@@ -181,15 +254,15 @@ of the century she cites allow for both.  The working classes and farming
 families would have wanted something more practical as well, even if they did
 use magic in place of manual labour as much as possible and even when somewhat
 unreasonable.  Who seriously wears robes with little or nothing under them to do
-such classic wizarding things like flying a broom or duelling? 
+such classic Wizarding things like flying a broom or duelling? 
 
 The real question then is how the girls dress.  Magic allows for greater gender
 equality, and the society described in the books _mostly_ supports that, though
 it hints that there may be some severe social limitations on married witches,
 and what is "proper" versus what is "allowed."  Do the girls consistently wear
 long dresses, or do they also adopt activity appropriate garb?  If only the
-quidditch players adopt activity appropriate garments, that might well be why
-girls playing quidditch is not "proper." 
+Quidditch players adopt activity appropriate garments, that might well be why
+girls playing Quidditch is not "proper." 
 
 [^20200723-4]: Mrs. J. K. Rowling.
     "[Clothing](https://www.wizardingworld.com/writing-by-jk-rowling/clothing)"
