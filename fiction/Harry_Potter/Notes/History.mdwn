@@ -143,7 +143,8 @@
 
 * 1485 - War of the Roses ends.[^20210406-26]
 
-* 1485 - Henry VII of England.[^20210406-27]
+* 1485 - Henry VII of England.[^20210406-27] Sir Nicholas dates from this
+  time.[^20210406-46]
 
 * 1509 Henry VIII King of England[^20200704-1]
 
@@ -374,6 +375,11 @@
 * 1996 - Rufus Scrimgeour elected Minister for Magic.[^20210330-43]
 
 * 1997 - 1997 Firearms (Amendment) Acts: nearly all guns banned.[^20210228-6]
+
+[^20210406-46]: Mrs. J. K. Rowling.
+   "[Hogwarts Ghosts](https://www.wizardingworld.com/writing-by-jk-rowling/hogwarts-ghosts)"
+   [Wizarding World](https://www.wizardingworld.com/) Originally Published on
+   Pottermore 2015-08-10. Last Viewed: 2021-04-06.
 
 [^20210330-8]: Mrs. J. K. Rowling.
     "[Ministers for Magic](https://www.wizardingworld.com/writing-by-jk-rowling/ministers-for-magic)"
