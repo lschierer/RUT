@@ -25,6 +25,8 @@
 * The Norse raiders imposed paganism in the areas they controlled, starting
   sometime around 800 through apparently the 10th century.[^20200623-5]
 
+* 927 - July 12, Kingdom of England formed by Æthelstan.[^20210406-1]
+
 * Hogwarts was founded "over a thousand years" before HP2.[^20200622-1] Given
   the above, we can safely say that by pretty much any date in the 800s or 900s
   Christianity was around. However, it seems safe to say that the Hogwarts
@@ -59,13 +61,29 @@
   how, for lack of a better word, Victorian wizarding society can possibly
   become. 
 
+* 1258 - Parliament, initially a council of 15 barons, assembled under Henry III
+  due to the "Provisions of Oxford" and the "Provisions of Westminster," unsure
+  which (or both).[^20210406-3]
+
+* 1284 - England conquers Wales.[^20210406-2]
+
 * 1289 International Warlock Convention [^20200622-2]
+
+* 1455 - War of the Roses starts.[^20210406-4]
 
 * 1509 Henry VIII King of England[^20200704-1]
 
 * 1532 Beginning of Henry subverting the Church in England.[^20200704-2]
 
+* 1542 - Full & final union between England and Wales.[^20210406-5]
+
+* 1542 - Ireland conquered by England but continues to be ruled separately from
+  the rest of England.[^20210406-6]
+
 * 1544 at the latest Wizengamot active.[^20200623-7]
+
+* 1603 - James VI of Scotland becomes James I of England and
+  Ireland.[^20210406-7]
 
 * 1612-1652 Ralston Potter seated in the Wizengamot.  Statute of Secrecy being debated.[^20210122-24] 
 
@@ -73,6 +91,10 @@
 
 * 1644-1647 Witch hunting in England peaks during the English Civil
   War.[^20200704-5]
+
+* 1688 - "The kingdom of England, as well as its successor states the Kingdom of
+  Great Britain and the United Kingdom, have functioned in effect as a
+  constitutional monarchy."[^20210406-8]
 
 * 1689 - the International Statute of Secrecy in 1689.[^20200623-6]  In _[The
   Accidental Animagus](https://www.fanfiction.net/s/9863146/89/The-Accidental-Animagus)_ fanfiction author White Squirrel speculates that not only did society take an abrupt shift, with the pure-blood mania becoming more prominent than it had ever been, but that the magical society probably started to rewrite its own history, erasing evidence of its dealings with non-magical society, and of its own mutations and shifts over time.  In England, the Potters argue for the Statue to protect the Muggles,[^20200810-3] the Malfoys argue against it (to continue exploiting the wealthy among whom Malfoys often marry).[^20200810-4]  Once it passes, the Malfoys pretend to have been in favour all along.[^20200810-5]
@@ -83,6 +105,8 @@
   of Secrecy.[^20200818-2]
 
 * 1693 - Mrs. Rowling would have The Magical Congress of the United States of America, known to American witches and wizards by the abbreviation [[MACUSA]], established here.[^20210228-7]  
+
+* 1707 - The Acts of Union 1707 establish Great Britian.[^20210406-9]
 
 * 1707 - The Ministry of Magic established.[^20200623-8]
 
@@ -586,6 +610,42 @@
 
 [^20200713-3]: [Wikipedia](https://en.wikipedia.org/). 
     "[King Arthur](https://en.wikipedia.org/wiki/King_Arthur)" Last Viewed 2020-07-13.
+
+[^20210406-1]: [Wikipedia](https://en.wikipedia.org/).
+    "[Kingdom of England](https://en.wikipedia.org/wiki/Kingdom_of_England)"
+    Last Edited: 2021-04-05. Last Viewed: 2021-04-06.
+
+[^20210406-2]: [Wikipedia](https://en.wikipedia.org/).
+    "[Kingdom of England](https://en.wikipedia.org/wiki/Kingdom_of_England)"
+    Last Edited: 2021-04-05. Last Viewed: 2021-04-06.
+
+[^20210406-3]: [Wikipedia](https://en.wikipedia.org/).
+    "[Parliament of England](https://en.wikipedia.org/wiki/Parliament_of_England)"
+    Last Edited: 2021-03-23. Last Viewed: 2021-04-06. 
+
+[^20210406-4]: [Wikipedia](https://en.wikipedia.org/).
+    "[Kingdom of England](https://en.wikipedia.org/wiki/Kingdom_of_England)"
+    Last Edited: 2021-04-05. Last Viewed: 2021-04-06.
+
+[^20210406-5]: [Wikipedia](https://en.wikipedia.org/).
+    "[Kingdom of England](https://en.wikipedia.org/wiki/Kingdom_of_England)"
+    Last Edited: 2021-04-05. Last Viewed: 2021-04-06.
+
+[^20210406-6]: [Wikipedia](https://en.wikipedia.org/).
+    "[Kingdom of England](https://en.wikipedia.org/wiki/Kingdom_of_England)"
+    Last Edited: 2021-04-05. Last Viewed: 2021-04-06.
+
+[^20210406-7]: [Wikipedia](https://en.wikipedia.org/).
+    "[Kingdom of England](https://en.wikipedia.org/wiki/Kingdom_of_England)"
+    Last Edited: 2021-04-05. Last Viewed: 2021-04-06.
+
+[^20210406-8]: [Wikipedia](https://en.wikipedia.org/).
+    "[Kingdom of England](https://en.wikipedia.org/wiki/Kingdom_of_England)"
+    Last Edited: 2021-04-05. Last Viewed: 2021-04-06.
+
+[^20210406-9]: [Wikipedia](https://en.wikipedia.org/).
+    "[Kingdom of England](https://en.wikipedia.org/wiki/Kingdom_of_England)"
+    Last Edited: 2021-04-05. Last Viewed: 2021-04-06.
 
 [^20210228-1]: [Wikipedia](https://en.wikipedia.org/). 
     "[Firearms regulation in the United Kingdom](https://en.wikipedia.org/wiki/Firearms_regulation_in_the_United_Kingdom)"
