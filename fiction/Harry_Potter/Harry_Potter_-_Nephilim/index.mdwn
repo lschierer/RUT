@@ -145,6 +145,19 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 	it is compounded over the number of generations.  In practice, in the modern
 	era, every child has a reasonably mixed heritage, though the precise values
 	1-10 for each category differ significantly from child to child.  
+* "Standard" nephilim seem more or less humans with extra abilities, but this is
+  not really true. If you consider creation as a hierarchy, humanity has always
+  occupied a messy place - top of the material creation, bottom of the spiritual
+  order, but destined, through grace, not merit, to be raised above its (our)
+  natural place.  Introducing the nephilim in this fictional world, I am putting
+  the nephilim as being an unnatural hybrid of two things God created. In making
+  this hybrid, something of each was lost. They are thus *slightly* lesser than
+  humans. Despite having greater capabilities in some ways, they have deficits
+  in others, most notably, they are overall *less free.*  Their choices are
+  often constrained in ways that are not externally apparent, things that would
+  be temptations to a human can be overriding compulsions to a nephil, and they
+  are vulnerable to each other (and to others who can use similar powers) in
+  ways that humans are not. 
 * Harry Potter cannon breaks magic down into 
   * charms - generally a mix of inheritance from Virtues and Powers for the
     lower years, however 
@@ -249,8 +262,21 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 			occlumency.  
 * Per the above, it takes approximately six consecutive generations of magical
 	abuse for "truly bizarre" things to become not just possible but probable.
-	These include the birth of 
-	 * goblins - people who are highly susceptible to greed, envy, and wrath.
+   * In _The Screwtape Letters_, describes the effect of sin on the fallen
+     angels.[^20210408-1] At the risk of adding *yet another* crossover to this
+     story, this is at the heart of explaining what is happening in the
+     following instances of something "truly bizarre" happening instead of
+     explicable magical inheritance. Essentially these represent instances of
+     Divine Justice.  
+   * Building on what I wrote above comparing "standard humans" to nephil,
+     beings in these categories are even more corrupted by the combination of
+     sin and the inherent weakness of being of a race that was made, and not
+     created. For lack of of a better word, they are more nearly animals, they
+     *do* have immortal souls, but, to differing degrees (depending on species)
+     lack even more of the free will that is already impaired in the nephilim. 
+     This list is essentially ordered from most nearly equal to the nephilim to
+     least nearly equal. 
+   * goblins - people who are highly susceptible to greed, envy, and wrath.
 		 Their form has been distorted by the sins of their forefathers centuries
 		 ago.  They are still capable of good deeds, and some have been so highly
 		 virtuous as to have actually reduced their susceptibility from the 90%
@@ -260,29 +286,14 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 		 populations retained their intelligence and their magic. They are
 		 particularly strong inheritors from the Virtues, Powers, and Archangels,
 		 with lesser inheritances from the Principalities and angels.
-	 * giants - a people who are consumed by wrath and sloth.  They neither build
-		 nor have any true culture as a result.  They have lost the use of nearly
-		 all magics through successive generations of partial inheritance, despite
-		 the odds.  Like the goblins the physical changes wrought on them by sin
-		 have become "mundane" and are now governed by Mendelian inheritance.  
-	 * hags - a people who are consumed by envy and lust.  Their sins robbed their
+   * hags - a people who are consumed by envy and lust.  Their sins robbed their
 		 ancestors of all they can now value. They have particularly strong
 		 inheritances from the Dominions, reasonable inheritances from the Virtues
 		 and Powers.  Some have partial inheritances of random other types.
-	 * mermen - one of the few cases of a true 1% chance on top of 1% chance
+   * mermen - one of the few cases of a true 1% chance on top of 1% chance
 		 resulting in a different species.  They have lost the use of most magics
 		 through successive generations of partial inheritance despite the odds. 
-	 * veela - a people who are consumed by lust.  For the purposes of this story,
-		 veela are "dark" creatures[^20210126-4] that have some of the strongest
-		 inheritances from the Dominions of all humanoid magic users.  A
-		 "half-veela" is a veela/human or veela/nephil cross where the veela nature
-		 was, against the odds, only partially inherited.  A pure veela is an
-		 example of the primordial highly specialised magic user, with power in only
-		 a single category (Dominions obviously). Like _[Maskirovat][knffnm]_ I am
-		 going to speculate that the pure veela's lifespan is shorter than a normal
-		 human's, and fertility has shifted such that female births outnumber male
-		 births.  
-	 * centaurs - a nearly primordial people (inheriting from both the the
+   * centaurs - a nearly primordial people (inheriting from both the the
 		 Seraphim and Cherubim) who abused divination magic until something truly
 		 bizarre happened.  They became nearly immune to the magic of the
 		 Dominations as practices by other mortals, but almost entirely ruled by
@@ -293,6 +304,32 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 		 the centaur populations become more friendly.  However, as they remain
 		 addicted to divination, they never reconcile with the peoples the reside
 		 near. 
+   * veela - a people who are consumed by lust.  For the purposes of this story,
+		 veela are "dark" creatures[^20210126-4] that have some of the strongest
+		 inheritances from the Dominions of all humanoid magic users.  A
+     "half-veela" is a veela/human or veela/nephil cross where either the veela
+     nature was, against the odds, only partially inherited; or the 16% chance
+     that the veela nature is inherited in addition to a full nephil
+     inheritance.   A pure veela is an example of the primordial highly
+     specialised magic user, with power in only a single category (Dominions
+     obviously). In a striking irony, if a veela falls in love, his or her magic
+     implodes in a particularly harsh, and intirely involuntary way. The
+     *veela's* magic will cause the beloved to exert an effect on the veela to
+     the same (except obviously inverted) extent as if the veela were, not just
+     using but *pushing* his/her abilities to affect someone else.[^20210408-2]
+     Because the veela's own magic is doing this, the other person cannot stop
+     affecting the veela. This remains true of the "half-veela." Like
+     _[Maskirovat][knffnm]_ I am going to speculate that the pure veela's
+     lifespan is shorter than a normal human's, and fertility has shifted such
+     that female births outnumber male births. If the half-veela falls in the
+     16% total of both, he or she will inherit the greater of the two lifespans;
+     if the 14% partial from both, the average of the two lifespans; otherwise
+     lifespan follows either being veela or not being veela. 
+   * giants - a people who are consumed by wrath and sloth.  They neither build
+		 nor have any true culture as a result.  They have lost the use of nearly
+		 all magics through successive generations of partial inheritance, despite
+		 the odds.  Like the goblins the physical changes wrought on them by sin
+		 have become "mundane" and are now governed by Mendelian inheritance.  
 * Other "races" are not really people at all, they have varying levels of
 	intelligence, but are all effectively the same as meeting different qualities
 	of AI players, as if you were encountering cyborgs.  
@@ -344,6 +381,14 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 
 [^20201209-2]: [wikipedia](https://en.wikipedia.org/).  [Heterosis](https://en.wikipedia.org/wiki/Heterosis) Last edited 2020-12-01. 
 
+[^20210408-2]: Anyone who has read Jeconais' story
+  _[Hope](https://jeconais.fanficauthors.net/Hope/index/)_ will recognise this
+  concept.  I have not copied it precisely as he came up with it, my version is
+  less voluntary, and does not include the death inducing madness, nor the bond
+  aspect. 
+
 [^20210126-4]: Yanna N.
     "[Veelas – What Exactly Are The Slavic Seductresses From Harry Potter?](https://www.slavorum.org/veelas-what-exactly-are-the-slavic-seductresses-from-harry-potter/)"
     [The Official Slavorum](https://www.slavorum.org/) Last Viewed 2020-07-07.
+
+[^20210408-1]: Mr. C. S. Lewis. _The Screwtape Letters_. pp. 120-121. Copyright 1942. HarperOne. Kindle Edition. 
