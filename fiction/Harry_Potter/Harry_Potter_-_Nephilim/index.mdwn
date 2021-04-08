@@ -276,6 +276,20 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
      lack even more of the free will that is already impaired in the nephilim. 
      This list is essentially ordered from most nearly equal to the nephilim to
      least nearly equal. 
+   * mermen - These were once a magically powerful people who used inheritances
+     from the Thrones to transmute themselves to survive the great Flood. They
+     failed to consider that they might not be able to undo their own spells,
+     and the effects were not only permanent, but inherited. They have lost the
+     use of most magics through successive generations of partial inheritance
+     despite the odds. In their quest to regain their human form, some groups
+     did make progress, hence non-magical peoples have mythology about merfolk
+     looking like a more literally half man half fish.  Between wars between
+     tribes and wars between merfolk and other peoples, only those most capable
+     of living fully submerged have survived. While mentally and spiritually
+     most nearly equal to the nephilim from whom they (distantly) descend, their
+     extreme physical changes, and near entire loss of magic means that they
+     have little ability to form more than the most rudimentary farming
+     societies in their fully aquatic environments. 
    * goblins - people who are highly susceptible to greed, envy, and wrath.
 		 Their form has been distorted by the sins of their forefathers centuries
 		 ago.  They are still capable of good deeds, and some have been so highly
@@ -290,41 +304,57 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 		 ancestors of all they can now value. They have particularly strong
 		 inheritances from the Dominions, reasonable inheritances from the Virtues
 		 and Powers.  Some have partial inheritances of random other types.
-   * mermen - one of the few cases of a true 1% chance on top of 1% chance
-		 resulting in a different species.  They have lost the use of most magics
-		 through successive generations of partial inheritance despite the odds. 
    * centaurs - a nearly primordial people (inheriting from both the the
 		 Seraphim and Cherubim) who abused divination magic until something truly
 		 bizarre happened.  They became nearly immune to the magic of the
 		 Dominations as practices by other mortals, but almost entirely ruled by
-		 subconscious influences of the angelic hosts, both those fallen and those
-		 who remained faithful.  They are thus incredibly sensitive to the state of
-		 balance between them in society. Whenever society takes a turn for the
-		 worse, so do they, whenever the societies they live near turn towards God,
-		 the centaur populations become more friendly.  However, as they remain
-		 addicted to divination, they never reconcile with the peoples the reside
-		 near. 
+		 subconscious influences of the angelic and nephilim from the surrounding
+     areas, both those fallen and those who remained faithful.  They are thus
+     incredibly sensitive to the state of balance between them in society.
+     Whenever society takes a turn for the worse, so do they, whenever the
+     societies they live near turn towards God, the centaur populations become
+     more friendly.  However, as they remain addicted to divination, they never
+     reconcile with the peoples the reside near. Their form comes from the fact
+     that in their dependence on divination, they (as a people) adopted a herd
+     mentality, and in a 1% chance freak event of Divine Justice, their form
+     came to, in part, match their mentality. 
    * veela - a people who are consumed by lust.  For the purposes of this story,
 		 veela are "dark" creatures[^20210126-4] that have some of the strongest
 		 inheritances from the Dominions of all humanoid magic users.  A
      "half-veela" is a veela/human or veela/nephil cross where either the veela
      nature was, against the odds, only partially inherited; or the 16% chance
      that the veela nature is inherited in addition to a full nephil
-     inheritance.   A pure veela is an example of the primordial highly
-     specialised magic user, with power in only a single category (Dominions
-     obviously). In a striking irony, if a veela falls in love, his or her magic
-     implodes in a particularly harsh, and intirely involuntary way. The
-     *veela's* magic will cause the beloved to exert an effect on the veela to
-     the same (except obviously inverted) extent as if the veela were, not just
-     using but *pushing* his/her abilities to affect someone else.[^20210408-2]
-     Because the veela's own magic is doing this, the other person cannot stop
-     affecting the veela. This remains true of the "half-veela." Like
-     _[Maskirovat][knffnm]_ I am going to speculate that the pure veela's
-     lifespan is shorter than a normal human's, and fertility has shifted such
-     that female births outnumber male births. If the half-veela falls in the
-     16% total of both, he or she will inherit the greater of the two lifespans;
-     if the 14% partial from both, the average of the two lifespans; otherwise
-     lifespan follows either being veela or not being veela. 
+     inheritance.   The pure veela is not however a true example of a primordial
+     people.  In reality, the veela race comes from a cross from a really really
+     strong primordial nephil of the Dominion type, with a primordial nephil of
+     the Thrones type whose partial inheritance of those abilities means that
+     the veela can only transmute really small molecules.  As a race, the veela
+     combined these abilities in acts of true depravity, giving way to unbridled
+     lust, and using their abilities to transmute to create pheromones, and
+     their abilities to force the will to go beyond sexual temptation to enslave
+     those they had maddened with lust.   These were a fallen people who took
+     their powers as a license to abuse those weaker than them.  In this case
+     their 1% chance rendered their behaviour a racial genetic trait, but also
+     created a cruel, and highly ironic trap. If a veela falls in love, his or
+     her magic implodes in a particularly harsh, and entirely involuntary way.
+     The *veela's* magic will cause the beloved to exert an effect on the veela
+     to the same (except obviously inverted) extent as if the veela were, not
+     just using but *pushing* his/her abilities to affect someone
+     else.[^20210408-2] Because the veela's own magic is doing this, the other
+     person cannot stop affecting the veela. Combined with the weakened will
+     power that comes with abuse of mind magics, the veela is ill equipped to
+     turn off his or her own magic and so the slaver becomes enslaved. This
+     remains true of the "half-veela." Like _[Maskirovat][knffnm]_ I am going to
+     speculate that the pure veela's lifespan is shorter than a normal human's,
+     and fertility has shifted such that female births outnumber male births
+     (most male sperm are simply not viable and so fewer males are conceived).
+     If the half-veela falls in the 16% total of both, he or she will inherit
+     the greater of the two lifespans; if the 14% partial from both, the average
+     of the two lifespans; otherwise lifespan follows either being veela or not
+     being veela. The animagus-like transformation into an avian form is the
+     result of a second 1% chance like event that became dominant in the veela
+     race and is now effectively a permanent trait of all who inherit any
+     portion of the veela nature. 
    * giants - a people who are consumed by wrath and sloth.  They neither build
 		 nor have any true culture as a result.  They have lost the use of nearly
 		 all magics through successive generations of partial inheritance, despite
