@@ -19,14 +19,14 @@ the best idea.  While he had been in school, it had been one thing.  The
 teachers mostly meant well, and you could feel the confusion the spells on Harry
 caused in their emotions.  Similarly, Harry was bright enough to realise, with
 only a little prompting, how much his classmates feared Dudley and his nascent
-gang of bullies.  During the summer, however, Harry was exposed to a very
+gang of bullies.  During the summer however, Harry was exposed to a very
 different set of people.  Petunia occasionally hosted some of the other local
 ladies for tea, and Harry became all too aware of the undercurrent of
 satisfaction and even happiness that they felt beneath the false expressions of
 sympathy and dismay as they gossiped about the latest neighbourhood scandals.
 Harry correctly realised that these adults believed the worst of him not because
 of the confusion caused by any spell, but because it pleased them to believe the
-worst of anyone; their children, only a few of whom were in his class,  were no
+worst of anyone; their children, only a few of whom were in his class, were no
 better.  Lily had hoped to show Harry that the Dursleys were the exception.  He
 was instead learning that those with both the power and willingness to help him
 were few and far between.  
@@ -43,31 +43,32 @@ what they were *feeling,* but that was about it.  With Mrs. Figg, Harry was
 getting flashes of memories as well.  He had a strong sense of her hiding
 something whenever she was talking to him, even when it was just about her cats.
 What could she possibly have to hide about her cats‽ As always Harry never said
-much beyond "Yes Ma'am" or "No Ma'am," he certainly never asked questions.  Why
+much beyond "Yes Ma'am" or "No Ma'am;" he certainly never asked questions.  Why
 would she lie to him? 
 
-And her memories, for one thing, why could he see them at all?  Secondly, there
-were such strange things in them.  People dressed in odd clothing, waving wooden
-sticks (Lily had not bothered to waste energy teaching him about wands when he
-could not get one yet), he would have thought he was watching scenes from a
-movie - not that he had ever seen a whole movie, but occasionally he saw bits
-and pieces of whatever Dudley was watching.  Most disturbing of all, some of the
-memories seemed to be about conversations she had had with these strange people
-*about him.*  She knew.  *Knew and remembered* that he was too small, that he
-was almost always seen doing chores and never seen playing, that he sometimes
-had suspicious bruises.  She knew, and yet she had done nothing.  Harry hated
-her.  He was used to the fact that his aunt and uncle disliked him, it was so
-old a pain that he almost forgot it hurt sometimes.  This, however, was new, and
-it drove home how alone he was in a way he had never felt before.  Sure, he
-could still see the two souls battling endlessly within him, the good soul he
-was learning had been his mum's, and the evil soul that still regularly caused
-his nightmares.  They were, however, so locked in their seemingly unending
-struggle that his mum rarely had time to do more than teach him the little bits
-of magic he used to spy on the minds around him and to heal himself.  
+And her memories, for one thing, why could he see them at all?[^20210412-1]
+Secondly, there were such strange things in them.  People dressed in odd
+clothing, waving wooden sticks (Lily had not bothered to waste energy teaching
+him about wands when he could not get one yet), he would have thought he was
+watching scenes from a movie - not that he had ever seen a whole movie, but
+occasionally he saw bits and pieces of whatever Dudley was watching.  Most
+disturbing of all, some of the memories seemed to be about conversations she had
+had with these strange people *about him.*  She knew.  *Knew and remembered*
+that he was too small, that he was almost always seen doing chores and never
+seen playing, that he sometimes had suspicious bruises.  She knew, and yet she
+had done nothing.  Harry hated her.  He was used to the fact that his aunt and
+uncle disliked him, it was so old a pain that he almost forgot it hurt
+sometimes.  This, however, was new, and it drove home how alone he was in a way
+he had never felt before.  Sure, he could still see the two souls battling
+endlessly within him, the good soul he was learning had been his mum's, and the
+evil soul that still regularly caused his nightmares.  They were, however, so
+locked in their seemingly unending struggle that his mum rarely had time to do
+more than teach him the little bits of magic he used to spy on the minds around
+him and to heal himself.  
 
 Harry had not much liked sitting listening to stories about cats, but when Mrs.
 Figg fed him regularly, he thought it meant she cared *something* for him.  He
-now new that minding him was just a job, and one she resented at that.  She was
+now knew that minding him was just a job, and one she resented at that.  She was
 nearly as jealous of his ability to do magic as his aunt, and making sure he had
 to sit there bored stiff was her way of lashing out.  Meanwhile she told stories
 to the strange old man with the beard (Dumbledore her memories told him) about
@@ -94,3 +95,9 @@ the identity of his other adversary, and disbelief that such a respected person
 could have betrayed all he claimed to stand for so fundamentally. 
 
 [^20210208-3]: The idea for the author of the Harry Potter stories that Ginny grows up reading comes from a fanfiction I read, but I can't remember which right now. I do not want to give just who it is away here though if you can't figure it out from the fairly obvious reference. 
+
+[^20210412-1]: Per my inheritance notes, for this story, I am asserting that
+    Petunia is not in fact a Squib, but inherited no magic from either side.
+    Lily's parents were Squibs with power levels borderline being low level
+    nephil. Lily inherited from both parents, defying the odds on muggleborn
+    power levels. 
