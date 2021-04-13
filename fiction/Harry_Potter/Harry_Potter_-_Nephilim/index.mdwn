@@ -4,37 +4,107 @@
 
 ### Introduction
 
-I recently read _[Many Waters][MW]_ by Madeleine L'Engle.  Her theology in that book is *really really* sketchy, but like many distortions of true Catholic thought, makes for interesting fiction.  It occurred to me that while I have no real interest in doing a true crossover with her works, that it would be fun to cross over some of the (fake) theology from this book with the Harry Potter series.  L'Engle, in her book, extends one of the two theories for understanding the term *[nephilim][^20201209-1]* from the Old Testament. Specifically, she takes the view that the those angels that rebelled against God had intercourse with human women.  A lot of authors will try to do almost all their world building within the narrative.  I realise this is technically better, but it is also harder to do.  Since I am doing essentially a 3 way cross over between Harry Potter, Many Waters, and actual Catholic theology, I am going to set the stage here in this introduction.  These world building notes are useful to understand the story, but are hopefully not truly necessary.  That being said, I am not going to go out of my way to explain in depth the way some authors do, I will just include it either here, or in an appendix. 
+I recently read _[Many Waters][MW]_ by Madeleine L'Engle.  Her theology in that
+book is *really really* sketchy, but like many distortions of true Catholic
+thought, makes for interesting fiction.  It occurred to me that while I have no
+real interest in doing a true crossover with her works, that it would be fun to
+cross over some of the (fake) theology from this book with the Harry Potter
+series.  L'Engle, in her book, extends one of the two theories for understanding
+the term *[nephilim][^20201209-1]* from the Old Testament. Specifically, she
+takes the view that the those angels that rebelled against God had intercourse
+with human women.  A lot of authors will try to do almost all their world
+building within the narrative.  I realise this is technically better, but it is
+also harder to do.  Since I am doing essentially a 3 way cross over between
+Harry Potter, Many Waters, and actual Catholic theology, I am going to set the
+stage here in this introduction.  These world building notes are useful to
+understand the story, but are hopefully not truly necessary.  That being said, I
+am not going to go out of my way to explain in depth the way some authors do, I
+will just include it either here, or in an appendix. 
 
 Some points of divergence from her ideas:
 
-* she calls the fallen angels the nephilim.  I'm using more orthodox theology and calling the progeny of the union of an angel and a human a nephil (I'm using seraph - seraphim, cherub - cherubim, nephil - nephilim). 
-* she has all such end with the great flood.  Later passages in the Old Testament suggest that nephilim continue to exist after the flood.  I am positing that fallen angels continued to seduce women during the Old Testament times. 
+* she calls the fallen angels the nephilim.  I'm using more orthodox theology
+  and calling the progeny of the union of an angel and a human a nephil (I'm
+  using seraph - seraphim, cherub - cherubim, nephil - nephilim). 
+* she has all such end with the great flood.  Later passages in the Old
+  Testament suggest that nephilim continue to exist after the flood.  I am
+  positing that fallen angels continued to seduce women during the Old Testament
+  times. 
 
 Some ideas I am specifically pulling:
 
-* being seduced by a fallen angel is not just a matter of falling in love with the wrong person, the fallen angel also seduces you into an evil ritual that corrupts your soul. I am going to extend this and call such a person a witch.  See below for deviations from Harry Potter.
-* the fallen angels directly interact with humanity and have visible manifestations of the powers they retain from their angelic nature.  I'm extending this to say that some of these are inherited.
+* being seduced by a fallen angel is not just a matter of falling in love with
+  the wrong person, the fallen angel also seduces you into an evil ritual that
+  corrupts your soul. I am going to extend this and call such a person a witch.
+  See below for deviations from Harry Potter.
+* the fallen angels directly interact with humanity and have visible
+  manifestations of the powers they retain from their angelic nature.  I'm
+  extending this to say that some of these are inherited.
 
 Some points of divergence from Harry Potter:
 
-* Witches are those corrupted by union with fallen angels.  They do gain power (magic) from this union, but are corrupted by it.  Should they repent and receive forgiveness from their sins, they would also lose their access to magic.
-* Modern day welders of magic, heavily influenced by paganism, and by those who have given into temptation, have obscured the difference between those who inherit magic and those who have gained it through sin. They call all female welders of magic witches, this is part denial, part self delusion, and part ignorance. Exactly how much of which differs from person to person. 
-* The Old Testament references to witches refer to those corrupted by union with fallen angels, not to the children of such unions (This is almost certainly bogus and entirely fictional theology, but it is necessary for world building).
-* The Statue of Secrecy was imperfectly implemented.  At one point, knowledge of the a-fore bullet points was commonly taught to most clergy.  With the disruptions to the education of clergy wrought by the enlightenment, and worse, by the modern era, now only a few priests and bishops know this history. 
-* Per the above, I am asserting a historical fiction: witch hunting was a product of ignorance (sometimes poorly educated priests yes) and even more so of Protestantism.  The rejection of those parts of Sacred Tradition not contained in the Bible by Protestants caused them to reject the true understanding of the interactions between the fallen angels and humanity.
-* Magic users *are not human.*  Just like a hippogriff is a blend of the incompatible horse and eagle that is not fully one nor the other, the person who can use magic is a nephilim, not a human.  
-	 * As a distortion of God's creation, nephilim do not, cannot fit cleanly into either creation or Divine Law. [Soteriology][WP1], [Missiology][WP2], and [Ecclesiology][WP3] get interesting (and fictional) curlicues and footnotes trying to deal with the chaotic fallout of the interaction between the angelic and the human in a nephil's nature.  This lets me do things to/with the characters that would not otherwise be at all moral. 
-	 * Just as a hippogriff is impossible by normal genetics, and cannot be explained by Mendelian inheritance patterns, children of either two nephil or one human and one nephil do not follow purely Mendelian inheritance patterns.
+* Witches are those corrupted by union with fallen angels.  They do gain power
+  (magic) from this union, but are corrupted by it.  Should they repent and
+  receive forgiveness from their sins, they would also lose their access to
+  magic.
+* Modern day welders of magic, heavily influenced by paganism, and by those who
+  have given into temptation, have obscured the difference between those who
+  inherit magic and those who have gained it through sin. They call all female
+  welders of magic witches, this is part denial, part self delusion, and part
+  ignorance. Exactly how much of which differs from person to person. 
+* The Old Testament references to witches refer to those corrupted by union with
+  fallen angels, not to the children of such unions (This is almost certainly
+  bogus and entirely fictional theology, but it is necessary for world
+  building).
+* The Statue of Secrecy was imperfectly implemented.  At one point, knowledge of
+  the a-fore bullet points was commonly taught to most clergy.  With the
+  disruptions to the education of clergy wrought by the enlightenment, and
+  worse, by the modern era, now only a few priests and bishops know this
+  history. 
+* Per the above, I am asserting a historical fiction: witch hunting was a
+  product of ignorance (sometimes poorly educated priests yes) and even more so
+  of Protestantism.  The rejection of those parts of Sacred Tradition not
+  contained in the Bible by Protestants caused them to reject the true
+  understanding of the interactions between the fallen angels and humanity.
+* Magic users *are not human.*  Just like a hippogriff is a blend of the
+  incompatible horse and eagle that is not fully one nor the other, the person
+  who can use magic is a nephilim, not a human.  
+   * As a distortion of God's creation, nephilim do not, cannot fit cleanly into
+     either creation or Divine Law. [Soteriology][WP1], [Missiology][WP2], and
+     [Ecclesiology][WP3] get interesting (and fictional) curlicues and footnotes
+     trying to deal with the chaotic fallout of the interaction between the
+     angelic and the human in a nephil's nature.  This lets me do things to/with
+     the characters that would not otherwise be at all moral. 
+   * Just as a hippogriff is impossible by normal genetics, and cannot be
+     explained by Mendelian inheritance patterns, children of either two nephil
+     or one human and one nephil do not follow purely Mendelian inheritance
+     patterns.
 
 ### Magical Inheritance: 
 
-Since I need non-Mendelian inheritance to explain both magical creatures and the nephilim themselves, I am going to set some rules.  These are primarily for the nephilim, the inheritance for magical creatures may follow modified versions of these rules depending on exactly how the creature in question came to exist. These rules are hierarchical, that is you need to apply the rules in order to determine what happens to a given child. 
+Since I need non-Mendelian inheritance to explain both magical creatures and the
+nephilim themselves, I am going to set some rules.  These are primarily for the
+nephilim, the inheritance for magical creatures may follow modified versions of
+these rules depending on exactly how the creature in question came to exist.
+These rules are hierarchical, that is you need to apply the rules in order to
+determine what happens to a given child. 
 
-1. Children born of at least one magical parent have a 80% chance of following these rules, and a 20% chance of following Mendelian genetics.  If they follow Mendelian genetics, any magical abilities will tend to degrade with each generation that follows Mendelian genetics. In other words, they will become more and more normal, more and more in line with the way the world would have worked without disruption or intervention.  
-1. Children not following Mendelian genetics will have a 80% chance of still following Mendelian for traits not influenced by the deviation that distinguishes them from the mundane (in the nephilim this includes height, skin tone, hair colour, eye colour, so on). 
-1. For every generation that a mundane trait *does not* follow Mendelian genetics, the odds that the next generation also will not increases by 10%.  Thus things like Weasley red hair (many generations), or Potter hair (at least 3 generations) start to become non-mundane traits.
-1. For non-mundane traits, a male child will have (a female child has similar numbers, but switch father/mother ).
+1. Children born of at least one magical parent have a 80% chance of following
+   these rules, and a 20% chance of following Mendelian genetics.  If they
+   follow Mendelian genetics, any magical abilities will tend to degrade with
+   each generation that follows Mendelian genetics. In other words, they will
+   become more and more normal, more and more in line with the way the world
+   would have worked without disruption or intervention.  
+1. Children not following Mendelian genetics will have a 80% chance of still
+   following Mendelian for traits not influenced by the deviation that
+   distinguishes them from the mundane (in the nephilim this includes height,
+   skin tone, hair colour, eye colour, so on). 
+1. For every generation that a mundane trait *does not* follow Mendelian
+   genetics, the odds that the next generation also will not increases by 10%.
+   Thus things like Weasley red hair (many generations), or Potter hair (at
+   least 3 generations) start to become non-mundane traits.
+1. For non-mundane traits, a male child will have (a female child has similar
+   numbers, but switch father/mother ).
     * a 50% chance of inheriting solely from his father, 
     * a 16% chance of inheriting the sum total of both parents, 
     * a 14% chance of a partial inheritance from both parents,
@@ -77,28 +147,28 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 			judgement. 
 1. Harry Potter talks about two classes that require special mention, squibs and
 	 muggle born.  They are effectively inverse of each other. 
-	 * A true squib is the child who resulted from the 0.5% chance of becoming
+   * A true squib is the child who resulted from the 0.5% chance of becoming
 		 mundane.  Such a child is fully human, and no "muggle-born" will ever
 		 descend from such a child.
-	 * It is possible for a child receiving a partial inheritance from his or her
+   * It is possible for a child receiving a partial inheritance from his or her
 		 parent(s) to have very low power.  On the scale of 1 to 10, in practice a
 		 child with a power level of 2 or below on all categories (see below) will
 		 be called a squib.  A child with 3 or below on all categories will not be
 		 invited to any magical school, but might be able to effectively use some
 		 magic.  A program like Kwick Spell might prey on such people.  
-	 * Because it is possible (16% chance) for the parents' abilities to
+   * Because it is possible (16% chance) for the parents' abilities to
 		 recombine, these "squibs" who are actually extremely low powered nephilim,
 		 can eventually produce higher powered children.  These children will
 		 *generally* be low powered (a mix of 3s, 4s and 5s in the various
 		 categories).  However, sometimes (1% chance) the something bizarre
 		 increases the child's ability beyond expectations. 
-	 * This partially explains some of the bias against these "first generation"
+   * This partially explains some of the bias against these "first generation"
 		 magical users.  Not only are they new to a xenophobic culture, but marrying
 		 them *generally* creates a risk of low powered children.  With this
 		 background, being of "pure" blood is basically ignoring the 19.5% chance of
 		 being under powered as compared to your parents. Illogical, but considering
 		 other human prejudices, not unreasonable. 
-	 * Per the the above, it is possible for a pure human to gain magic through
+   * Per the the above, it is possible for a pure human to gain magic through
 		 the union with a fallen angel.  In practice, this has not happened in
 		 centuries, but magical society remembers adults suddenly having magic where
 		 none had been present before.  From this comes stories of magic being
@@ -111,33 +181,33 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 * nephil can be rated on a scale of 1 (low) to 10 (high) for access to each
 	class of angelic abilities.
 * For the purposes of this work, nephil can possibly inherit the following:
-	 * From the Seraphim, the ability to perceive the hearts of men (and
+   * From the Seraphim, the ability to perceive the hearts of men (and
 		 nephilim)
-	 * From the Cherubim, the ability to perceive/detect what is done with these
+   * From the Cherubim, the ability to perceive/detect what is done with these
 		 abilities
-	 * From the Thrones, the ability to transmute the form, but not the
+   * From the Thrones, the ability to transmute the form, but not the
 		 substance, of one thing to another
-	 * From the Dominions, the ability to bind the will of other nephilim.  For
+   * From the Dominions, the ability to bind the will of other nephilim.  For
 		 the purposes of this story, and *unlike cannon Harry Potter*, this ability
 		 has marginal *at best* affect on full humans. Things like the imperious
 		 curse or the confundus charm fit in here. 
-	 * From the Virtues the ability to temporarily augment the nature of the
+   * From the Virtues the ability to temporarily augment the nature of the
 		 natural world
-	 * From the Powers, temporary & localised manipulation of the laws of physics
+   * From the Powers, temporary & localised manipulation of the laws of physics
 		 and chemistry. Memory charms are a highly specialised use of this, because
 		 they interfere with the chemicals in your brain to manipulate the
 		 memories.
-	 * From the Principalities, the ability to create area effects on populations
+   * From the Principalities, the ability to create area effects on populations
 		 (unplottable, "muggle repelling", so on). This differs from the Dominions
 		 in that the gifts from the Dominions affect individuals regardless of
 		 location.  The gifts from the Principalities affect whoever, full human or
 		 nephil, is in the right location to be affected, and no one who is not in
 		 relationship to that location.  Your ability to see into a place, remember
 		 a place, stay near a place, so on.
-	 * From the Archangels, offensive magics (recall that the nephilim come from
+   * From the Archangels, offensive magics (recall that the nephilim come from
 		 fallen angels, so some of these offensive magics are corrupted and should
 		 not be used)
-	 * From the angels, defensive magics (these can also be corrupted to the
+   * From the angels, defensive magics (these can also be corrupted to the
 		 point of being dangerous to the user)
 * Originally, centuries in the past, people tended to be highly specialised
 	into one of these.  Overall there is a 30% chance of a child mixing
@@ -225,7 +295,7 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 		 which mathematical system(s) they are using to do this in.  The field is
 		 dominated by people with only the vaguest idea of what the mundane world
 		 has done with either numbers or science in the past 200 years.  
-   * Legilimency - requires both an inheritance from the Seraphim and the
+   * Legilimancy - requires both an inheritance from the Seraphim and the
      Dominions, for this work it comes in 3 phases.  
        * Passively, it is solely from the Seraphim, and is morally neutral. This
 				 will tell you a target's emotional state (anything related to brain
@@ -238,24 +308,22 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 				 however with a fair degree of accuracy.  
        * Communicatively, it adds in abilities from the Dominions, forcing the
 				 recipient to hear your thoughts. This is a bit of a grey area morally.
-				 This shows in that its effects are, unlike most magic with moral
-				 content, irregularly inherited.  The more welcome, and the less forced,
-				 your thoughts are to the "listener", the effects of using this magic
-				 become less inherited by future generations.  Where the use of the
-				 killing curse is not just a mortal sin, it also affects the amount of
-				 free will available to your children, this magic has primarily bizarre
-				 effects on your own mind and will, and on the mind and will of those
-				 you primarily use it on.  Elaborating here would quickly become a
-				 spoiler for the story.  While some fanfiction has suggested that
-				 legilimancy could be used to implant memories or manipulate a target's
-				 emotions, I will not go there *directly*. 
-       * Actively, you force the victim to reveal their memories.  This is
-				 morally repugnant, and comes at a magical cost.  Excessive use of this
-				 form of legilimency will impact future generations.  Per the above,
-				 what constitutes "excessive" has not been quantified.  For some unknown
-         reason, this only works on people that have at least some magic, note
-         that I said that inheritances from the Dominions work at best
-         marginally on full humans.
+       * Actively, you force the victim to reveal their memories, implant
+         memories, or manipulate emotional states.  For some unknown reason,
+         unless the target has at least some magic, you will be unable to do
+         more than manipulate emotional states.  This manipulation goes beyond
+         the simple transmutation of brain chemicals, it actually causes the
+         brain to release the appropriate chemicals as if naturally in that
+         emotional state. All active legilimancy is morally repugnant, and comes
+         at a magical cost.  Excessive use of this form of legilimancy will have
+         bizarre effects.  The effects may be physical, spiritual, mental, or
+         any combination thereof. Per the above, what constitutes "excessive"
+         has not been quantified.  To the extent that the use is not just
+         excessive but also malicious and/or selfish (as opposed to defensive)
+         in nature, the effects will not only be bizarre but hereditary, *and*
+         will be coupled with reduced will-power in subsequent generations
+         as is described in the section of magical inheritance for magics
+         requiring emotional content. 
     * Occlumency - the magical suppression of emotion and with that access to
 			thoughts comes at a similar moral and magical cost to active legilimancy.
 			This work will offer magical defences to legilimancy besides that of
@@ -305,10 +373,10 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
 		 inheritances from the Dominions, reasonable inheritances from the Virtues
 		 and Powers.  Some have partial inheritances of random other types.
    * centaurs - a nearly primordial people (inheriting from both the the
-		 Seraphim and Cherubim) who abused divination magic until something truly
-		 bizarre happened.  They became nearly immune to the magic of the
-		 Dominations as practices by other mortals, but almost entirely ruled by
-		 subconscious influences of the angelic and nephilim from the surrounding
+     Seraphim and Cherubim) who selfishly abused divination magic until
+     something truly bizarre happened.  They became nearly immune to the magic
+     of the Dominations as practices by other mortals, but almost entirely ruled
+     by subconscious influences of the angelic and nephilim from the surrounding
      areas, both those fallen and those who remained faithful.  They are thus
      incredibly sensitive to the state of balance between them in society.
      Whenever society takes a turn for the worse, so do they, whenever the
@@ -334,27 +402,31 @@ Since I need non-Mendelian inheritance to explain both magical creatures and the
      their abilities to force the will to go beyond sexual temptation to enslave
      those they had maddened with lust.   These were a fallen people who took
      their powers as a license to abuse those weaker than them.  In this case
-     their 1% chance rendered their behaviour a racial genetic trait, but also
-     created a cruel, and highly ironic trap. If a veela falls in love, his or
-     her magic implodes in a particularly harsh, and entirely involuntary way.
-     The *veela's* magic will cause the beloved to exert an effect on the veela
-     to the same (except obviously inverted) extent as if the veela were, not
-     just using but *pushing* his/her abilities to affect someone
-     else.[^20210408-2] Because the veela's own magic is doing this, the other
-     person cannot stop affecting the veela. Combined with the weakened will
-     power that comes with abuse of mind magics, the veela is ill equipped to
-     turn off his or her own magic and so the slaver becomes enslaved. This
-     remains true of the "half-veela." Like _[Maskirovat][knffnm]_ I am going to
-     speculate that the pure veela's lifespan is shorter than a normal human's,
-     and fertility has shifted such that female births outnumber male births
-     (most male sperm are simply not viable and so fewer males are conceived).
-     If the half-veela falls in the 16% total of both, he or she will inherit
-     the greater of the two lifespans; if the 14% partial from both, the average
-     of the two lifespans; otherwise lifespan follows either being veela or not
-     being veela. The animagus-like transformation into an avian form is the
-     result of a second 1% chance like event that became dominant in the veela
-     race and is now effectively a permanent trait of all who inherit any
-     portion of the veela nature. 
+     their cumulative chance of the "something bizarre" rendered their
+     behaviour a racial genetic trait, but also created a cruel, and highly
+     ironic trap. The first prong of the trap, the veela is, unlike most
+     nephilim, noticeably not fully human.  All veela have an avian animagus form
+     that they are only partially in control over.  Involuntary transformation
+     to the avian form is common when the veela becomes angered.  The second
+     prong of the trap, if a veela falls in love, his or her magic implodes in a
+     particularly harsh, and entirely involuntary way.  The *veela's* magic will
+     cause the beloved to exert an effect on the veela to the same (except
+     obviously inverted) extent as if the veela were, not just using but
+     *pushing* his/her abilities to affect someone else.[^20210408-2] Because
+     the veela's own magic is doing this, the other person cannot stop affecting
+     the veela. Combined with the weakened will power that comes with abuse of
+     mind magics, the veela is ill equipped to turn off his or her own magic and
+     so the slaver becomes enslaved. This remains true of the "half-veela." Like
+     _[Maskirovat][knffnm]_ I am going to speculate that the pure veela's
+     lifespan is shorter than a normal human's, and fertility has shifted such
+     that female births outnumber male births (most male sperm are simply not
+     viable and so fewer males are conceived). If the half-veela falls in the
+     16% total of both, he or she will inherit the greater of the two lifespans;
+     if the 14% partial from both, the average of the two lifespans; otherwise
+     lifespan follows either being veela or not being veela. The animagus-like
+     transformation into an avian form is the result of a second 1% chance like
+     event that became dominant in the veela race and is now effectively a
+     permanent trait of all who inherit any portion of the veela nature. 
    * giants - a people who are consumed by wrath and sloth.  They neither build
 		 nor have any true culture as a result.  They have lost the use of nearly
 		 all magics through successive generations of partial inheritance, despite
