@@ -1,4 +1,4 @@
-{ 
+digraph "Potter Family" { 
 	subgraph Generation0 {
 		rank = same;
 		Q1P [label="? ? Potter\nb? - d?", shape=box];
