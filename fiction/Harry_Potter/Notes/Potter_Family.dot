@@ -75,7 +75,7 @@
 		rank = same;
 		HJP [label="Harry James Potter\nb1980-07-31 - ", shape=box];
 		HJPaGMW [shape=point,width=0.01];
-		GMW [label="Ginevra Molly Weasley\nb1981 - ", shape=box];
+		GMW [label="Ginevra Molly Weasley\nb1981-08-11 - ", shape=box];
 		HJP -> HJPaGMW [dir=none];
 		HJPaGMW -> GMW [dir=none];
 		HJP -> GMW [dir=none, penwidth=0.0, style="invis"];
