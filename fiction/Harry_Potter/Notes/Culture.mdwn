@@ -98,8 +98,7 @@ category, though there are others.  Most seem to call this treaty "The Treaty of
 Kent" though there seams to be no true basis for this name.  While most authors
 have settled on that as a name, there is no similar consensus on a date for this
 inferred treaty.  The one that makes the most sense to me is that from _Not
-Normal_, that it came out of the unrest from the War of the
-Roses.[^20210406-50]
+Normal_, that it came out of the unrest from the War of the Roses.[^20210406-50]
 
 If you go with this theory, while the two governments might have been split at
 this time time, it was not in fact illegal for wizards to live among or do
@@ -119,7 +118,7 @@ would not have gone for it unless it solved a local need.  While there *was* an
 up swing in witch hunts in the mid 1600s, it was never a particularly wide
 spread or particularly effective practice in Britain.[^20210406-51] 
 
-If, on the other hand, suppose there were *already* two societies, even if some
+On the other hand, suppose there were *already* two societies, even if some
 members crossed over more than the ISWS would permit.  Further suppose, per the
 Treaty of Kent (or whatever name) theory, there was *already* in place
 mechanisms for dealing with land ownership, taxes, law enforcement, and
@@ -242,7 +241,7 @@ threat to (and thus not fully inferior to) those who do.
 Mrs. Rowling insists that wizards wear robes.[^20200723-4] The problem is that
 she claims that this is because Wizarding fashion is intentionally frozen in the
 16th century.  This is a problem because while academics, clerics, and scholars
-wore robes in the 16th century, male fashion varied considerably for those in
+wore robes in the 17th century, male fashion varied considerably for those in
 other occupations.  This is very much part of era of doublets and
 hose.[^20200723-5] Sometimes guys wore "over-gowns" other decades they did not.
 Sometimes the doublets were more or less "skirted."  Some decades codpieces were
@@ -250,11 +249,14 @@ in evidence.  For the Hogwarts uniform to be robe based is one thing, but
 wizards seem to come from every strata of society.  It is highly unlikely that
 they all view themselves as court scholars; surely some of them would have
 preferred a more lordly self-image, others a more martial self-image.  The styles
-of the century she cites allow for both.  The working classes and farming
-families would have wanted something more practical as well, even if they did
-use magic in place of manual labour as much as possible and even when somewhat
-unreasonable.  Who seriously wears robes with little or nothing under them to do
-such classic Wizarding things like flying a broom or duelling? 
+of the century she cites allow for both.  She says that "Day to day, however,
+even those who detest Muggles wear a version of Muggle clothing, which is
+undeniably practical compared with robes."[^20210420-11] This makes sense, the
+working classes and farming families would have wanted something more practical,
+even if they did use magic in place of manual labour as much as possible and
+even when somewhat unreasonable.  Still, who seriously wears robes with little
+or nothing under them to do such classic Wizarding things like flying a broom
+(Quidditch robes‽) or duelling?
 
 The real question then is how the girls dress.  Magic allows for greater gender
 equality, and the society described in the books _mostly_ supports that, though
@@ -274,6 +276,10 @@ girls playing Quidditch is not "proper."
     [Wikipedia](https://en.wikipedia.org).
     "[(1550–1600 in Western European fashion](https://en.wikipedia.org/wiki/1550%E2%80%931600_in_Western_European_fashion)"
     Last Edited 2020-06-25.  Last Viewed 2020-07-23.
+
+[^20210420-11]: Mrs. J. K. Rowling. 
+    "[Clothing](https://www.wizardingworld.com/writing-by-jk-rowling/clothing)"
+    Originally published on Pottermore 2015-08-10. Last Viewed: 2021-04-20.
 
 ### Education and Research
 
