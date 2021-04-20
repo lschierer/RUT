@@ -38,9 +38,9 @@ those who have come before.  The magical world works quite differently,
 which perhaps explains why it so often stagnates.  In the magical world,
 families hoard knowledge and share it out with schools like Hogwarts only
 when there is a clear benefit to do so, usually a quid pro quo between
-some of the great families. The Potters may be just barely old enough to
-be respectable, but the Peverells are *ancient*.  The Potters have eight
-centuries of accumulated knowledge; the Peverell family was old and famous
+some of the great families.[^20210420-1] The Potters may be just barely old
+enough to be respectable, but the Peverells are *ancient*.  The Potters have
+eight centuries of accumulated knowledge; the Peverell family was old and famous
 when it *ended* as the Potters *began*.  No one outside the family knows how
 many centuries of knowledge the Peverell Library adds to the Potter Library.
 It is this combined Library that Lily had at her finger tips, using magical
@@ -103,3 +103,4 @@ shard could not possess her son.  A battle of wills and of magic began.
 
 [^20210218-2]: See my notes on the [[Peverells|fiction/Harry_Potter/Notes/Peverell]]
 
+[^20210420-1]: See my notes on [[Culture|fiction/Harry_Potter/Notes/Culture]]
