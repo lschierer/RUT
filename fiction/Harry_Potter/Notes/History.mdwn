@@ -133,7 +133,7 @@
 
 * 1289 International Warlock Convention [^20200622-2]
 
-* 1296 - Second periond under the Guardians of Scotland.[^20210406-40]
+* 1296 - Second period under the Guardians of Scotland.[^20210406-40]
 
 * 1306 - Robert I (the Bruce) of Scotland.[^20210406-41]
 
@@ -174,7 +174,7 @@
 * 1649 - Start of the English "Interregnum" and the Commonwealth of
   England.[^20210406-28]
 
-* 1660 - End of the English "Intregnum," Charles II of England.[^20210406-29]
+* 1660 - End of the English "Interregnum," Charles II of England.[^20210406-29]
 
 * 1688 - "The kingdom of England, as well as its successor states the Kingdom of
   Great Britain and the United Kingdom, have functioned in effect as a
@@ -190,7 +190,7 @@
 
 * 1693 - Mrs. Rowling would have The Magical Congress of the United States of America, known to American witches and wizards by the abbreviation [[MACUSA]], established here.[^20210228-7]  
 
-* 1707 - The Acts of Union 1707 establish Great Britian.[^20210406-9]
+* 1707 - The Acts of Union 1707 establish Great Britain.[^20210406-9]
 
 * 1707 - The Ministry of Magic established.[^20200623-8] It seems clear that the
   Wizarding world was already in hiding.[^20210406-45]
@@ -323,7 +323,7 @@
 
 * 1968 - Eugenia Jenkins elected Minister for Magic.[^20210330-38]
 
-* 1968/9 - pure-blood riots during hte Squib Rights marches in the late
+* 1968/9 - pure-blood riots during the Squib Rights marches in the late
   sixties.[^20210330-39]
 
 * 1968 - Firearms Act 1968: long barrelled shotguns controlled for the first time.[^20210301-6]  
@@ -335,7 +335,7 @@
 
 * 1977 - Dorea Potter nee Black dies[^20210122-4]
 
-* 1977-1978 school year - James, Lily, Severus Snape, et al graduate. 
+* 1977-1978 school year - James, Lily, Severus Snape, et al.  graduate. 
 
 * James and Lilly get married between June of 1978 and fall of 1979, a roughly
   18 month window of time for them to get married and for any job he has.
@@ -359,6 +359,10 @@
 * "Tiny old man" with a "squeaky voice that made passersby stare" - probably
   Flitwick.
 * Dumbledore arrives at "nearly midnight." Where has Harry been all day? 
+* Hagrid says he flew over Bristol. There is very very little of the West
+  Country in which Godric's Hollow could be located for Bristol to be between it
+  and Surrey.  Instead, Bristol seems to indicate a detour to the north, or a
+  point of origin in Wales.  
 
 * 1985 - Walburga Black dies[^20210122-7]
 
@@ -651,12 +655,12 @@
 
 [^20210122-25]: Mrs. J. K. Rowling. 
     "[The Potter Family](https://www.wizardingworld.com/writing-by-jk-rowling/the-potter-family)"
-    [Wizarding World](https://www.wizardingworld.com/) Originally Pubished on
+    [Wizarding World](https://www.wizardingworld.com/) Originally Published on
     Pottermore: 2015-09-21. Last Viewed 2021-03-30.
 
 [^20210330-44]: Mrs. J. K. Rowling. 
     "[The Potter Family](https://www.wizardingworld.com/writing-by-jk-rowling/the-potter-family)"
-    [Wizarding World](https://www.wizardingworld.com/) Originally Pubished on
+    [Wizarding World](https://www.wizardingworld.com/) Originally Published on
     Pottermore: 2015-09-21. Last Viewed 2021-03-30.
 
 [^20210301-3]: Mrs. J. K. Rowling. "[Arthur Weasley Fact File](https://web.archive.org/web/20170414075352/https://www.pottermore.com/explore-the-story/arthur-weasley)" <https://www.pottermore.com> Snapshot from 2017-04-14. Last Viewed 2021-03-01 via Internet Archive.
@@ -664,7 +668,7 @@
 [^20210111-1]: <https://www.pottermore.com/collection/all-about-slytherin> better citation needed as this is now only actually available via the wayback machine.
 
 [^20200714-1]: [Harry Potter Wiki](https://harrypotter.fandom.com). [Screenshot
-    of the old potermore fact file for
+    of the old Potermore fact file for
     dumbledore](https://harrypotter.fandom.com/wiki/Main_Page?file=Albus+Dumbledore+Fact+File+-+PM+via+Internet+Archive.png)
     Last viewed 2020-07-14
 
