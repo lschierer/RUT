@@ -2,6 +2,113 @@
 
 [[!toc  startlevel=3]]
 
+### Founding
+
+Godric is from Old English, also dying out after the Norman
+Conquest.[^20210422-5] I am told, and the baby names etymology site seems to
+concur, that "Old English" essentially means "Anglo-Saxon."[^20210422-6] He is
+supposedly from a village later renamed after him, in the West
+Country.[^20210422-8] This more or less works, the vikings might well have
+pushed the Anglo-Saxon west enough by the time Godric was born.[^20210422-9]
+
+For the other three we have only geographic clues that could mean anything,
+though other fans with presumably more knowledge of the United Kingdom have made
+inferences that supposedly make sense.
+
+Helga is an Old Norse name, used in England "before the Norman
+Conquest."[^20210422-4] The consensus is that she is from Wales.[^20210422-10]
+The name and location pair is a conundrum, she should be from one of the Viking
+invasions, but I do not know of those settling in Wales. Perhaps this is why she
+ended up migrating north, her family was perhaps unwelcome in their home
+town/village. 
+
+Rowena is an interesting name in that it apparently has an unclear etymology. I
+find very different explanations on different name origin sites, and Wikipedia
+pretty much just says unknown.[^20210422-3] The consensus is that she is from
+what is now Scotland,[^20210422-11] though of course that did not exist
+yet.[^20210422-12]
+
+Salazar is a *last name* from Castile.[^20210422-7] Vikings certainly raided
+the Iberian Peninsula through this century,[^20210422-13] my guess is that
+someone decided to name a child after one of the places they pillaged. As his
+wand is snakewood,[^20210422-14] which is not native to Europe, I think his
+Viking origin is fairly solid. I suspect he at some point joined a voyage to the
+new world, but given where snakewood exists, he must have heard rumours of the
+various civilisations further south and gone to study with them for a time.  From
+my own knowledge of the Aztecs and Toltecs suggests that this would not have
+been a positive influence on his life.  If he was attracted to the dark arts, it
+may well date from this period. 
+
+That the four of them meet at all, and more, become friends, suggests that while
+this period of history is a series of rather small kingdoms at war in the United
+Kingdom, the magical civilisation must have been more broadly connected despite
+the non-magical politics.  Otherwise the idea that Godric would make his way
+from the West Country in the southern most parts of England up across at least
+one other kingdom into a third in the tenth century is rather absurd. Why would
+you? There were no organised trade networks that widely spread, no real centres
+of scholarship in England or Scotland at all yet, and lots of very suspicious
+people who would dislike and probably attack you for being foreign.  
+
+My guess is that Hogwarts is in Scotland because Helga was unwelcome at home,
+Salazar was functionally nomadic, and of the two remaining founders, Rowena's
+home in Scotland was probably more easily isolated and hidden from the
+non-magical population than Godric's in the south.  
+
+[^20210422-14]: Mrs. J. K. Rowling. 
+    "[Ilvermorny School of Witchcraft and Wizardry](https://www.wizardingworld.com/writing-by-jk-rowling/ilvermorny)"
+    Originally published on Pottermore: 2016-06-28. Last Viewed: 2021-04-22.
+
+[^20210422-13]: [The Editors of Encyclopaedia Britannica](https://www.britannica.com/)
+    "[Viking](https://www.britannica.com/topic/Viking-people)"
+    Last Updated 2019-12-19. Last Viewed: 2021-04-22.
+
+[^20210422-12]: See [[History]]
+
+[^20210422-11]: various, including
+    * [Harry Potter Wiki](https://harrypotter.fandom.com/)
+      "[Rowena Ravenclaw](https://harrypotter.fandom.com/wiki/Rowena_Ravenclaw)"
+      Last Edited: 2021-03-23. Last Viewed: 2021-04-22.
+    * [The Harry Potter Lexicon](https://www.hp-lexicon.org/).
+      "[Rowena Ravenclaw](https://www.hp-lexicon.org/character/rowena-ravenclaw/)"
+      Last Viewed: 2021-04-22.
+[^20210422-10]: various, including
+    * [The Harry Potter Lexicon](https://www.hp-lexicon.org/). 
+      "[Helga Hufflepuff](https://www.hp-lexicon.org/character/helga-hufflepuff/)"
+      Last Viewed: 2021-04-22.
+    * [Harry Potter Wiki](https://harrypotter.fandom.com/)
+      "[Helga Hufflepuff](https://harrypotter.fandom.com/wiki/Helga_Hufflepuff)"
+      Last Edited: 2021-04-03. Last Viewed: 2021-04-22.
+    * [The Harry Potter Compendium](https://harry-potter-compendium.fandom.com/)
+      "[Helga Hufflepuff](https://harry-potter-compendium.fandom.com/wiki/Helga_Hufflepuff)"
+      Last Edited: 2014-06-15. Last Viewed: 2021-04-22.
+
+[^20210422-9]: [Wikipedia](https://en.wikipedia.org/)
+    "[History of Anglo-Saxon England](https://en.wikipedia.org/wiki/History_of_Anglo-Saxon_England)"
+    Last Edited: 2021-04-21. Last Viewed: 2021-04-22.
+
+[^20210422-8]: Mrs. J. K. Rowling. _Harry Potter and the Deathly Hallows_
+    p. 131. Pottermore Publishing. American Kindle Edition. 
+
+[^20210422-5]: [Behind the Name](https://www.behindthename.com/)
+    "[Godric](https://www.behindthename.com/name/godric)"
+    Updated: 2020-02-04. Last Viewed: 2021-04-22.
+
+[^20210422-7]: [Wikipedia](https://en.wikipedia.org/)
+    "[Salazar \(surname\)](https://en.wikipedia.org/wiki/Salazar_\(surname\))"
+    Last Updated: 2021-03-30. Last Viewed: 2021-04-22.
+
+[^20210422-6]: [Wikipedia](https://en.wikipedia.org/)
+    "[Old English](https://en.wikipedia.org/wiki/Old_English)
+    Last Updated: 2021-04-19. Last Viewed: 2021-04-22.
+
+[^20210422-4]: [Wikipedia](https://en.wikipedia.org/)
+    "[Helga](https://en.wikipedia.org/wiki/Helga)"
+    Last Edited: 2021-04-08. Last Viewed: 2021-04-22.
+
+[^20210422-3]: [Wikipedia](https://en.wikipedia.org/)
+    "[Rowena](https://en.wikipedia.org/wiki/Rowena)"
+    Last Edited: 2020-06-06. Last Viewed: 2021-04-22.
+
 ### General Info
 
 #### [[Class Schedule|Class_Schedule_Rant]]
