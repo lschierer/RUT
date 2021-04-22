@@ -42,11 +42,21 @@
   emotional in nature (along with neglect of course) and not physical.
 * Dumbledore's most quoted words on the subject come from the meeting in his (Dumbledore's) office just after Sirius dies.
 
-  > Five years ago you arrived at Hogwarts, Harry, safe and whole, as I had planned and intended. Well - not quite whole. You had suffered. I knew you would when I left you on your aunt and uncle's doorstep. I knew I was condemning you to ten dark and difficult years.[^20210128-1]
+  > Five years ago you arrived at Hogwarts, Harry, safe and whole, as I had
+  > planned and intended. Well - not quite whole. You had suffered. I knew you
+  > would when I left you on your aunt and uncle's doorstep. I knew I was
+  > condemning you to ten dark and difficult years.[^20210128-1]
 
-	This statement is ambiguous in a number of different senses.  Just what did Dumbledore know, considering the Dursleys had not acted yet, what does Dumbledore mean by "not quite whole," "suffered," and "dark and difficult"? each of these can be taken a number of different ways.  His next statement on the subject, in book six, sheds somewhat more meaningful light:
+  This statement is ambiguous in a number of different senses.  Just what did
+  Dumbledore know, considering the Dursleys had not acted yet, what does
+  Dumbledore mean by "not quite whole," "suffered," and "dark and difficult"?
+  each of these can be taken a number of different ways.  His next statement on
+  the subject, in book six, sheds somewhat more meaningful light:
 
-	> You have never treated Harry as a son. He has known nothing but neglect and often cruelty at your hands. The best that can be said is that he has at least escaped the appalling damage you have inflicted upon the unfortunate boy sitting between you.[^20210128-2]
+  > You have never treated Harry as a son. He has known nothing but neglect and
+  > often cruelty at your hands. The best that can be said is that he has at
+  > least escaped the appalling damage you have inflicted upon the unfortunate
+  > boy sitting between you.[^20210128-2]
 
 
 There are also some descriptions of Veron's behavior, particularly in the third chapter of
@@ -64,11 +74,35 @@ evidence of that, just hearsay.
 There is another perspective to consider, this comes from fanfiction, but there
 is a ring of truth to it:
 
-> “Your mother’s sacrifice did far more than protect you from Voldemort’s curse that night,” Dumbledore explained. “It protected you from your own relatives in their home—your aunt and cousin, who share your mother’s blood, and your uncle, who is also bound to the charm by his marriage to your aunt. With Lily Potter’s protection upon you, they could not harm you.” He held up a hand. “Yes, I know they treated you badly—worse than even I suspected. But nothing they did could truly have damaged you. They tried to hit you, and they missed, you dodged, they lost their nerve, or they simply didn’t hit that hard, like your cousin. They tried to starve you, and they “gave up on it,” as you said, before you were at serious risk. You see, Harry, they could not have killed you, even if they had tried. Nor could they have done you any lasting injury, either physical or psychological.”
+> “Your mother’s sacrifice did far more than protect you from Voldemort’s curse
+> that night,” Dumbledore explained. “It protected you from your own relatives
+> in their home—your aunt and cousin, who share your mother’s blood, and your
+> uncle, who is also bound to the charm by his marriage to your aunt. With Lily
+> Potter’s protection upon you, they could not harm you.” He held up a hand.
+> “Yes, I know they treated you badly—worse than even I suspected. But nothing
+> they did could truly have damaged you. They tried to hit you, and they missed,
+> you dodged, they lost their nerve, or they simply didn’t hit that hard, like
+> your cousin. They tried to starve you, and they “gave up on it,” as you said,
+> before you were at serious risk. You see, Harry, they could not have killed
+> you, even if they had tried. Nor could they have done you any lasting injury,
+> either physical or psychological.”
 > 
-> Harry sat frozen, his mind racing, trying to reevaluate everything he knew about his life according to these revelations. Psychological? What, now?
+> Harry sat frozen, his mind racing, trying to reevaluate everything he knew
+> about his life according to these revelations. Psychological? What, now?
 > 
-> Dumbledore noted the look of confusion on his face and continued: “They neglected you, insulted you, threatened you, punished you for accidental magic, and treated you like their personal house elf. And yet, you shook it all off with ease. You picked up at Hogwarts right where you left off, well-adjusted, making friends, and enjoying yourself. What you went through, Harry, is something no child should have to endure, but you have not only endured, but thrived in spite of it, because your mother’s sacrifice placed on you the protection of her love—a protection both physical and emotional. Her love has always been with you. It flows in your very veins. No matter how much those in your physical presence tried to make you feel unloved—relatives or not—no matter how much the outside world turned against you, she was always with you, supporting you, even if you were not consciously aware of it. [^20200610-1]
+> Dumbledore noted the look of confusion on his face and continued: “They
+> neglected you, insulted you, threatened you, punished you for accidental
+> magic, and treated you like their personal house elf. And yet, you shook it
+> all off with ease. You picked up at Hogwarts right where you left off,
+> well-adjusted, making friends, and enjoying yourself. What you went through,
+> Harry, is something no child should have to endure, but you have not only
+> endured, but thrived in spite of it, because your mother’s sacrifice placed on
+> you the protection of her love—a protection both physical and emotional. Her
+> love has always been with you. It flows in your very veins. No matter how much
+> those in your physical presence tried to make you feel unloved—relatives or
+> not—no matter how much the outside world turned against you, she was always
+> with you, supporting you, even if you were not consciously aware of it.
+> [^20200610-1]
 
 [^20200610-1]: White_Squirrel.  _His Mother's Love_.  <https://archiveofourown.org/works/14006394/chapters/32253831> Last viewed 2020-06-10. 
 
@@ -98,11 +132,11 @@ is a ring of truth to it:
 
 [^20200513-6]:  Mrs. J. K. Rowling. _Harry Potter and the Half-Blood Prince_ American Kindle edition approx Location 611 of 8473.
 
-[[!tag "HP Notes"]]
-
 [^20210128-1]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_ American Kindle edition Locations 12222-12223 of 13038). Pottermore Limited. 
 
 [^20210128-2]: Mrs. J. K. Rowling. 
     _Harry Potter and the Half-Blood Prince_ (p. 46, Loc 743 of 8473). 
     Pottermore Publishing. American Kindle Edition. 
+
+[[!tag "HP Notes"]]
 
