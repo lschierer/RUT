@@ -1,3 +1,4 @@
+[[!meta title="Severus Snape"]]
 ## Severus Snape
 
 One of Mrs. Rowling great themes across the [[Harry]] Potter series is the
@@ -195,4 +196,4 @@ much greater than he was.
 [^20210106-4]: I am not the only one to pick up on this. there are a number of
     fanfictions on what happens after Snape [[dies|SnapeDies]].
 
-[[!meta title="Severus Snape"]]
+[[!tag "HP Notes"]]

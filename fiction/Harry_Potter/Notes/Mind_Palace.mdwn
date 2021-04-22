@@ -16,4 +16,4 @@ mnemonic instead of the real memories.  I suspect it would come down to a mental
 strength contest.  Can you hold onto your visualisation in place of actually
 remembering things as the attacker hunts for memories?
 
-
+[[!tag "HP Notes"]]
