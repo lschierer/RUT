@@ -193,12 +193,12 @@ determine what happens to a given child.
      nephilim)
    * From the Cherubim, the ability to perceive/detect what is done with these
      abilities
-   * From the Thrones, the ability to transmute the form, but not the
-     substance, of one thing to another
-   * From the Dominions, the ability to bind the will of other nephilim.  For
+   * From the Thrones, the ability to bind the will of other nephilim.  For
      the purposes of this story, and *unlike cannon Harry Potter*, this ability
      has marginal *at best* affect on full humans. Things like the imperious
      curse or the confundus charm fit in here. 
+   * From the Dominions, the ability to transmute the form, but not the
+     substance, of one thing to another
    * From the Virtues the ability to temporarily augment the nature of the
      natural world
    * From the Powers, temporary & localised manipulation of the laws of physics
@@ -206,8 +206,8 @@ determine what happens to a given child.
      they interfere with the chemicals in your brain to manipulate the
      memories.
    * From the Principalities, the ability to create area effects on populations
-     (unplottable, "muggle repelling", so on). This differs from the Dominions
-     in that the gifts from the Dominions affect individuals regardless of
+     (unplottable, "muggle repelling", so on). This differs from the Thrones
+     in that the gifts from the Thrones affect individuals regardless of
      location.  The gifts from the Principalities affect whoever, full human or
      nephil, is in the right location to be affected, and no one who is not in
      relationship to that location.  Your ability to see into a place, remember
@@ -246,8 +246,8 @@ determine what happens to a given child.
       chemicals with the Seraphic ability to perceive (and thus target the
       transmutation really precisely).  
     - Confundus type charms only work well on nephil, because they extend
-      memory charms by depending on abilities inherited from Dominions. 
-   * transfiguration is primarily from Thrones
+      memory charms by depending on abilities inherited from Thrones. 
+   * transfiguration is primarily from Dominions
    * conjuring requires inheritance from the Powers, as you are in essence
      manipulating quantum probabilities. 
    * Vanishing, though considered transfiguration, comes from the Powers, it is
@@ -284,7 +284,7 @@ determine what happens to a given child.
          communicates with fallen angels.  If they ever tell anything truthful,
          it is only because they judge it useful to lead us further into sin.
          Users of this magic make future generations more susceptible to magics
-         inherited from the Seraphim and Dominions (for four generations per
+         inherited from the Seraphim and Thrones (for four generations per
          above).  Thus most prophesies are misleading, false, or both. 
        * Users particularly skilled in the abilities from the Seraphim may be
          able to use these abilities to make incredibly accurate predictions
@@ -304,7 +304,7 @@ determine what happens to a given child.
      dominated by people with only the vaguest idea of what the mundane world
      has done with either numbers or science in the past 200 years.  
    * Legilimancy - requires both an inheritance from the Seraphim and the
-     Dominions, for this work it comes in 3 phases.  
+     Thrones, for this work it comes in 3 phases.  
        * Passively, it is solely from the Seraphim, and is morally neutral. This
          will tell you a target's emotional state (anything related to brain
          chemistry), whether or not the person is telling the truth (again based
@@ -314,7 +314,7 @@ determine what happens to a given child.
          memories. A really skilled user may be able to infer thoughts from a
          combination of this information and the subject/target's actions
          however with a fair degree of accuracy.  
-       * Communicatively, it adds in abilities from the Dominions, forcing the
+       * Communicatively, it adds in abilities from the Thrones, forcing the
          recipient to hear your thoughts. This is a bit of a grey area morally.
        * Actively, you force the victim to reveal their memories, implant
          memories, or manipulate emotional states.  For some unknown reason,
@@ -353,7 +353,7 @@ determine what happens to a given child.
      This list is essentially ordered from most nearly equal to the nephilim to
      least nearly equal. 
    * mermen - These were once a magically powerful people who used inheritances
-     from the Thrones to transmute themselves to survive the great Flood. They
+     from the Dominions to transmute themselves to survive the great Flood. They
      failed to consider that they might not be able to undo their own spells,
      and the effects were not only permanent, but inherited. They have lost the
      use of most magics through successive generations of partial inheritance
@@ -378,7 +378,7 @@ determine what happens to a given child.
      with lesser inheritances from the Principalities and angels.
    * hags - a people who are consumed by envy and lust.  Their sins robbed their
      ancestors of all they can now value. They have particularly strong
-     inheritances from the Dominions, reasonable inheritances from the Virtues
+     inheritances from the Thrones, reasonable inheritances from the Virtues
      and Powers.  Some have partial inheritances of random other types.
    * centaurs - a nearly primordial people (inheriting from both the the
      Seraphim and Cherubim) who selfishly abused divination magic until
@@ -396,14 +396,14 @@ determine what happens to a given child.
      came to, in part, match their mentality. 
    * veela - a people who are consumed by lust.  For the purposes of this story,
      veela are "dark" creatures[^20210126-4] that have some of the strongest
-     inheritances from the Dominions of all humanoid magic users.  A
+     inheritances from the Thrones of all humanoid magic users.  A
      "half-veela" is a veela/human or veela/nephil cross where either the veela
      nature was, against the odds, only partially inherited; or the 16% chance
      that the veela nature is inherited in addition to a full nephil
      inheritance.   The pure veela is not however a true example of a primordial
      people.  In reality, the veela race comes from a cross from a really really
      strong primordial nephil of the Dominion type, with a primordial nephil of
-     the Thrones type whose partial inheritance of those abilities means that
+     the Dominions type whose partial inheritance of those abilities means that
      the veela can only transmute really small molecules.  As a race, the veela
      combined these abilities in acts of true depravity, giving way to unbridled
      lust, and using their abilities to transmute to create pheromones, and
