@@ -134,8 +134,8 @@ experienced any, but quite possibly heard about it.[^20200720-10]
 [^20200720-9]: Mrs. J. K. Rowling. _Harry Potter and the Goblet of Fire_ (Kindle Locations
     9206-9208). Pottermore Limited. American Kindle Edition. 
 
-[^20200720-10]: Mr. Jon Walter. "[Why I'm glad corporal punishment is now only
-    found in books](https://www.theguardian.com/childrens-books-site/2016/jul/01/corporal-punishment-jon-walter)". 
+[^20200720-10]: Mr. Jon Walter. 
+    "[Why I'm glad corporal punishment is now only found in books](https://www.theguardian.com/childrens-books-site/2016/jul/01/corporal-punishment-jon-walter)". 
     [The Guardian](https://www.theguardian.com/) 2016-07-01.  Last viewed
     2020-07-20.  The article gives dates for different kinds of Schools. Looking at
     schools Harry likely attended, 1986 for British state schools, and 2000 for
@@ -143,16 +143,17 @@ experienced any, but quite possibly heard about it.[^20200720-10]
 
 ### Students
 
-[Harry's
+Cannon focuses on [[Harry]]'s classmates almost exclusively.  [Harry's
 Yearmates](https://mugglenet.com/2016/03/the-revised-forty/)[^20200419-1] is
-probably the best source for information, though _Secrets of the
+probably the best source for almost cannon information, though _Secrets of the
 Classlist_[^20200630-1] also contains a ton.  The two disagree on a few things.
 Some of this has been corrected by Mrs. Rowling,[^20200630-3] most of it has
 not. In general, the latter is better researched, the former easier to find
 information in. Information on the class lists for pretty much any other year is
 entirely absent. One would think that in an age where people obsessively wiki
 things (myself not really excluded), someone would have compiled the available
-data, but if so I have not found it.
+data, but if so I have not found it.  Thus, I have started [[this
+list|ClassLists]].
 
 One of the problems with the above two sources is that I've ended up with 6
 first generation wizards, 11 halfboods and 18 purebloods in Harry's class.  This
@@ -237,58 +238,6 @@ responsible for keeping the house quiet after curfew.  That might work.
 [^20200819-4]: AndrewWolfe. _[The Ghost of Privet Drive](https://archiveofourown.org/works/21500365)_ 
     [Archive of Our Own](https://archiveofourown.org) Last Updated 2020-08-14. Last Viewed 2020-08-19.
 
-#### Students starting in 1987
-
-[[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1987.dsv"]]
-
-#### Students starting in 1988
-
-[[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1988.dsv"]]
-
-#### Students starting in 1989
-
-[[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1989.dsv"]]
-
-#### Students starting in 1990
-
-[[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1990.dsv"]]
-
-#### Students starting in 1991
-
-[[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1991.dsv"]]
-
-Mrs. Rowling's original notes put Kevin Entwhistle in Ravenclaw[^20200701-3],
-but there are too many Ravenclaws and too many boys for her seeming desire for
-symmetry. Given my [[argument about how students would be
-sorted|Class_and_Blood]], I think he mutated to a Hufflepuff girl.  Based on the
-same logic, Rivers is almost certainly a pureblood, but might be a halfbood. 
-
-The [[same argument|Class_and_Blood]] suggests the ambiguity of the Weasley
-social class. 
-
-Lots of fanfiction uses an extra female character named Fay Dunbar as one of the
-girls in Harry's year.  This apparently comes from the _Harry Potter and the
-Half-Blood Prince_ video game.[^20200706-2]  I see no indication in the wiki
-article that Mrs. Rowling had influence in naming the extra characters in the
-game versions. Unless I see otherwise, I'm going to assume that Fay and Sophie
-are the same person, and will probably go with Sophie as the name.
-
-#### Students starting in 1992
-
-[[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1992.dsv"]]
-
-#### Students starting in 1993
-
-[[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1993.dsv"]]
-
-#### Students starting in 1994
-
-[[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1994.dsv"]]
-
-#### Students starting in 1995
-
-[[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1995.dsv"]]
-
 ### Teachers
 
 * [[Albus Dumbledore|Dumbledore]]
@@ -333,8 +282,6 @@ it.  Which is probably precisely the point.
 [^20200811-2]: Mrs. J. K. Rowling.  I don't recall which book this is in.
     Better citation needed. 
 
-[^20200701-3]: Mrs. J. K. Rowling.  <https://harrypotter.fandom.com/wiki/Harry_Potter_and_Me?file=Pagenotes.jpg>
-
 [^20200419-1]: Mugglenet.  _The Revised Forty_
     [MuggleNet](https://mugglenet.com) last viewed 2020-04-19.
 
@@ -346,8 +293,5 @@ it.  Which is probably precisely the point.
     "[The Original Forty](https://www.wizardingworld.com/writing-by-jk-rowling/the-original-forty)"
     <https://www.wizardingworld.com/> Originally published 2015-08-10. 
     Last Viewed 2020-06-30.
-
-[^20200706-2]: "[Fay Dunbar](https://harrypotter.fandom.com/wiki/Fay_Dunbar#Behind_the_scenes)"
-    Last Viewed 2020-07-06. 
 
 [[!tag "HP Notes"]]
