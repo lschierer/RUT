@@ -93,11 +93,14 @@ willing to "use any means to achieve their ends."[^20210420-14]
 
 ### Government
 
-We know that there is a Wizengamot acting as a High Court[^20210329-1], an
-International Confederation of Wizards[^20210329-2], and a Ministry of
-Magic.[^20210329-3] The relationship between these and the powers of each is
-largely speculative, especially if you use only the seven original books as a
-reference.  
+We know that there is a Council of Magical Law,[^20210510-1] Wizengamot acting
+as a High Court[^20210329-1], an International Confederation of
+Wizards[^20210329-2], and a Ministry of Magic.[^20210329-3] The relationship
+between these and the powers of each is largely speculative, especially if you
+use only the seven original books as a reference.  
+
+[^20210510-1]: Mrs. J. K. Rowling. _Harry Potter and the Goblet of Fire_
+    Kindle Location 8849. Pottermore Limited. American Kindle Edition. 
 
 [^20210329-1]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_
     Kindle Location 1475. Pottermore Limited. American Kindle Edition. 
@@ -208,7 +211,7 @@ threat to (and thus not fully inferior to) those who do.
   court."[^20210329-7]
 * We do not know if "the full court" is the same as "the full Wizengamot," it is
   possible that some subset is on a "Judicial Committee" or
-  some-such.[^20210329-8]
+  some-such.[^20210329-8]  
 * We know that, at least when sitting as a court, Mr. Weasley is not allowed
   in.[^20210329-9]
 * We know that, at least when sitting as a court, Mr. Malfoy is not allowed
