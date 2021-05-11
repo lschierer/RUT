@@ -195,19 +195,19 @@ act of its own accord.[^20200806-5]  Naturally eleven year old Riddle knows
 nothing of wand lore and so is not deciding this, yet still, the wand must sense
 something of the wizard it is bonding with…
 
-[ww]: <https://www.wizardingworld.com> 
+[ww]: https://www.wizardingworld.com
    "WizardingWorld"
 
-[20210126-1]: <https://www.wizardingworld.com/writing-by-jk-rowling/wand-woods> 
+[20210126-1]: https://www.wizardingworld.com/writing-by-jk-rowling/wand-woods 
    "WizardingWorld article on Wand Woods"
 
-[20210126-2]: <https://www.wizardingworld.com/writing-by-jk-rowling/wand-lengths-and-flexibility> 
+[20210126-2]: https://www.wizardingworld.com/writing-by-jk-rowling/wand-lengths-and-flexibility
    "WizardingWorld article on Wand length"
 
-[20210126-3]: <https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores> 
+[20210126-3]: https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores
    "WizardingWorld article on Wand Cores"
 
-[20210511-9]: <https://harrypotter.fandom.com/wiki/Wand_wood> 
+[20210511-9]: https://harrypotter.fandom.com/wiki/Wand_wood
    "Harry Potter wiki article on Wand Wood"
 
 [^20210511-8]: Mrs. J. K. Rowling. _Harry Potter and the Goblet of Fire_
