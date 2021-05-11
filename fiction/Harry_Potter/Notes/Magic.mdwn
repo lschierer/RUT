@@ -10,9 +10,9 @@ lack of a better word?
 We seem to have:
 
 * Spells - curses, hexes, jinks, charms, transfiguration
-	 * > The wand is a European invention, and while African witches and wizards
-		 > have adopted it as a useful tool in the last century, many spells are
-		 > cast simply by pointing the finger or through hand gestures.[^20210304-5]
+   * > The wand is a European invention, and while African witches and wizards
+     > have adopted it as a useful tool in the last century, many spells are
+     > cast simply by pointing the finger or through hand gestures.[^20210304-5]
    * Mrs. Rowling published a Book of Spells only available on
      Playstation.[^20210406-44]  There seems to be a [transcript
      available][BoST]
@@ -71,26 +71,26 @@ Against this we have the fact that Percy wears horn-rimmed glasses[^20210302-2].
 The question then becomes did the Weasleys not fix his eyesight because
 
 * it is too costly to do so 
-	* I know of at least one where it is "extremely painful and very expensive, not to
-		mention very hard, to make"[^20210302-3] where "very expensive" means "a
-		couple of thousand Galleons."[^20210302-4]
+  * I know of at least one where it is "extremely painful and very expensive, not to
+    mention very hard, to make"[^20210302-3] where "very expensive" means "a
+    couple of thousand Galleons."[^20210302-4]
 * it is morally distasteful to do so (requires dark magic?)
 * it is not possible to do so (contradicts the above quote from the website)
   * from one fanfiction: 
-	  > your homeostasis is having poor eyesight. Most healing magic works to get
-			things back to normal. If you cut your eye and then healed it, your
-			eyesight would remain the same. You'd have to purposefully leave a scar
-			to leave an impact, which would only happen with a cursed or highly
-			magical injury. Imagine! Cursing your own eyes to heal them, muggles are
-		  deranged\![^20210302-5]
+    > your homeostasis is having poor eyesight. Most healing magic works to get
+      things back to normal. If you cut your eye and then healed it, your
+      eyesight would remain the same. You'd have to purposefully leave a scar
+      to leave an impact, which would only happen with a cursed or highly
+      magical injury. Imagine! Cursing your own eyes to heal them, muggles are
+      deranged\![^20210302-5]
 * it does not occur to British pureblood society to do so 
   * You could take the above quote, and assume that the shop owner is actually
-		only partially right.  Perhaps *most* healing magic returns you to "normal"
-		and thus some forms of poor eye sight could not be affected by that magic.
-		That would not preclude *uncommon* magic that changes your genetic
-		predisposition to better eyesight, nor would it preclude magic fixing the
-		need for glasses caused by eye strain, head or eye trauma, or other things
-		that a muggleborn might show up in his shop with. 
+    only partially right.  Perhaps *most* healing magic returns you to "normal"
+    and thus some forms of poor eye sight could not be affected by that magic.
+    That would not preclude *uncommon* magic that changes your genetic
+    predisposition to better eyesight, nor would it preclude magic fixing the
+    need for glasses caused by eye strain, head or eye trauma, or other things
+    that a muggleborn might show up in his shop with. 
 
 ### Dark magic
 
@@ -183,7 +183,7 @@ cost.
   out that you must not be too literal.[^20200723-2]
 * Olivander has researched wand cores and will use only three of
   them.[^20200723-3]  Others are possible, but [the article on cores][20210126-3]
-	was, like the other two, written as if by him and so focuses on those three.
+  was, like the other two, written as if by him and so focuses on those three.
 
 Given the above articles I talk some about [[Harry]]'s wand on the page
 dedicated to him.  Riddle's wand, I think it is fairly inevitable that he would
@@ -196,30 +196,30 @@ nothing of wand lore and so is not deciding this, yet still, the wand must sense
 something of the wizard it is bonding with…
 
 [ww]: https://www.wizardingworld.com
-   "WizardingWorld"
+    "WizardingWorld"
 
 [20210126-1]: https://www.wizardingworld.com/writing-by-jk-rowling/wand-woods 
-   "WizardingWorld article on Wand Woods"
+    "WizardingWorld article on Wand Woods"
 
 [20210126-2]: https://www.wizardingworld.com/writing-by-jk-rowling/wand-lengths-and-flexibility
-   "WizardingWorld article on Wand length"
+    "WizardingWorld article on Wand length"
 
 [20210126-3]: https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores
-   "WizardingWorld article on Wand Cores"
+    "WizardingWorld article on Wand Cores"
 
 [20210511-9]: https://harrypotter.fandom.com/wiki/Wand_wood
-   "Harry Potter wiki article on Wand Wood"
+    "Harry Potter wiki article on Wand Wood"
 
 [^20210511-8]: Mrs. J. K. Rowling. _Harry Potter and the Goblet of Fire_
-   Kindle Locations 4642-4643. Pottermore Limited. American Kindle Edition. 
+    Kindle Locations 4642-4643. Pottermore Limited. American Kindle Edition. 
 
 [^20210511-7]: Mrs. J. K. Rowling. 
-   "[Wands](https://web.archive.org/web/20060316221102/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=18)"
-   Snapshot from 2006-03-16. Snapshot Viewed 2021-05-11.
+    "[Wands](https://web.archive.org/web/20060316221102/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=18)"
+    Snapshot from 2006-03-16. Snapshot Viewed 2021-05-11.
 
 [^20210511-6]: Mrs. J. K. Rowling. 
-   "[Wands](https://web.archive.org/web/20060316221102/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=18)"
-   Snapshot from 2006-03-16. Snapshot Viewed 2021-05-11.
+    "[Wands](https://web.archive.org/web/20060316221102/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=18)"
+    Snapshot from 2006-03-16. Snapshot Viewed 2021-05-11.
 
 [^20210511-5]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_
     p. 82. Pottermore Limited. American Kindle Edition. 
@@ -347,7 +347,7 @@ more for muggle born witches and wizards rather than any real restriction. See
 [^20200731-6]: Radaslab.  
     _[Not Normal](https://www.fanfiction.net/s/7144149)_
     [Fanfiction.net](https://www.fanfiction.net/) 
-		[Chapter 59](https://www.fanfiction.net/s/7144149/59/Not-Normal)  Published 2011-07-04,
+    [Chapter 59](https://www.fanfiction.net/s/7144149/59/Not-Normal)  Published 2011-07-04,
     Updated 2013-08-10, Last Viewed 2020-07-31.
 
 [^20200731-7]: Citation needed. 
@@ -358,11 +358,11 @@ more for muggle born witches and wizards rather than any real restriction. See
 
 [^20210304-5]: Mrs. J. K. Rowling.
     "[Uagadou](https://www.wizardingworld.com/writing-by-jk-rowling/uagadou)"
-		Originally published on Pottermore on 2016-01-30. Last Viewed 2021-03-04.
+    Originally published on Pottermore on 2016-01-30. Last Viewed 2021-03-04.
 
 [^20210304-6]: Mrs. J. K. Rowling.
     "[Uagadou](https://www.wizardingworld.com/writing-by-jk-rowling/uagadou)"
-		Originally published on Pottermore on 2016-01-30. Last Viewed 2021-03-04.
+    Originally published on Pottermore on 2016-01-30. Last Viewed 2021-03-04.
 
 [^20210302-2]: Mrs. J. K. Rowling. _Harry Potter and the Chamber of Secrets_
     Pottermore Limited. American Kindle Edition. Approx Location 4405 of 4470.
@@ -372,11 +372,11 @@ more for muggle born witches and wizards rather than any real restriction. See
 
 [^20210302-4]: kb0. _[Fate's Mistake](https://www.fanfiction.net/s/4084005)_
     [Chapter 1](https://www.fanfiction.net/s/4084005/1/Fate-s-Mistake)
-		Published 2008-02-19. Updated 2008-03-02. Last viewed 2021-03-02.
+    Published 2008-02-19. Updated 2008-03-02. Last viewed 2021-03-02.
 
 [^20210302-5]: Sunlesswarmth. _[BrokenProphecy](https://www.fanfiction.net/s/13712386)_
     [Chapter 3](https://www.fanfiction.net/s/13712386/3/Broken-Prophecy)
-		Published 2020-10-04. Updated 2020-12-01. Last Viewed 2021-03-02.
+    Published 2020-10-04. Updated 2020-12-01. Last Viewed 2021-03-02.
 
 [[!tag "HP Notes"]]
 
