@@ -10,6 +10,11 @@ James Potter is one of the more controversial figures in the Harry Potter series
 
 > Harry recognised his father; his untidy black hair stuck up at the back like Harry’s, and he too wore glasses.[^20210128-22]
 
+James' family is well off, his father is described as having quadrupled the
+family gold,[^20210511-1] and the way it is written implies that this is
+*before* he sold the company.  Given the description of wizarding medicine, why
+does he need glasses? 
+
 ---
 
 > James Potter
@@ -20,7 +25,35 @@ James Potter is one of the more controversial figures in the Harry Potter series
 
 ---
 
+> “Who wants to be in Slytherin? I think I’d leave, wouldn’t you?” James asked the boy lounging on the seats opposite him, and with a jolt, Harry realized that it was Sirius. Sirius did not smile. 
+> 
+> “My whole family have been in Slytherin,” he said. 
+> 
+> “Blimey,” said James, “and I thought you seemed all right!” 
+> 
+> Sirius grinned. “Maybe I’ll break the tradition. Where are you heading, if you’ve got the choice?” 
+> 
+> James lifted an invisible sword. “‘Gryffindor, where dwell the brave at heart!’ Like my dad.”[^20210128-24]
+
+James, like [[Ron]], grew up thinking ill of Slytherin.  I sometimes wonder if that
+is really the root of most of the controversy between Lily and James.  We cannot
+know from cannon, but imagine a Lily who is very loyal, perhaps slightly
+irrationally so, to her friends, and one who holds grudges.  The combination is
+not unbelievable.  James has just insulted her best friend, and will go on to
+pick on him unmercifully.  Perhaps Lily cannot really see James with an unbiased
+eye until after she herself has fallen out with [[Snape]]?  
+
+---
+
 > Snape had directed his wand straight at James; there was a flash of light and a gash appeared on the side of James’s face, spattering his robes with blood. James whirled about; a second flash of light later, Snape was hanging upside down in the air,[^20210128-14]
+
+[[Snape]] attacks to draw blood; a cutting curse to the neck could kill, to the
+eyes could blind.  We do not *know* that this is a dark curse that cannot be
+easily healed, but we know that such exist. Even a standard cutting spell could
+have killed before anyone could do anything if it hit the carotid artery or
+jugular vein.  James retaliates with humiliation; cruel yes, on the same scale
+as risk of death? Perhaps [[Snape]] would say no, but most courts would say that
+[[Snape]]'s crime is worse.
 
 ---
 
@@ -35,6 +68,11 @@ James Potter is one of the more controversial figures in the Harry Potter series
 ---
 
 > your saintly father and his friends played a highly amusing joke on me that would have resulted in my death if your father hadn’t got cold feet at the last moment. There was nothing brave about what he did. He was saving his own skin as much as mine.[^20210128-8]
+
+We have nothing but [[Snape]]'s (untrustworthy) word to stay that James knew of
+Sirius' plans for [[Snape]] in advance.  According to Lupin, it was Sirius alone who
+told Snape about the tree,[^20210511-2] it is typical of [[Snape]] that he blames
+James for Sirius' actions. 
 
 ---
 
@@ -66,6 +104,26 @@ James Potter is one of the more controversial figures in the Harry Potter series
 
 > “Black and Potter. Ringleaders of their little gang. Both very bright, of course exceptionally bright, in fact but I don’t think we’ve ever had such a pair of troublemakers”[^20210128-19]
 
+It is interesting that so many people assume that James was a total idiot.  I do
+not think that a realistic take on his character.  We know he was good at
+transfiguration, but I think most people dismiss that because his only known
+accomplishment is the animagus transformation, and Pettigrew also accomplished
+that.  My take is that it is actually a testament to James' skills that he was
+able to coach the unskilled Pettigrew through the process.  I also wonder what
+other classes he took, and which ones he did how well at.  Did he take Ancient
+Runes or Arithmancy?  Who was top of the year at Defence?  James' father was
+famous for potion making, perhaps James did not inherit all of his father's
+skills, but it seems unlikely that he did *poorly* at the subject - his father
+would have tutored him over the summers should he have needed it. 
+
+---
+
+> Your father and Sirius here were the cleverest students in the school, and lucky they were, because the Animagus transformation can go horribly wrong one reason the Ministry keeps a close watch on those attempting to do it.[^20210128-3] 
+
+Normally authors state that *Lily* was the cleverest in the school.  At some
+point I need to do a similar quote search for her, but this flies in the face of
+that. 
+
 ---
 
 > “I’m bored,” said Sirius. “Wish it was full moon.” 
@@ -76,17 +134,34 @@ James Potter is one of the more controversial figures in the Harry Potter series
 >
 > “This’ll liven you up, Padfoot,” said James quietly. “Look who it is ...”[^20210128-12] 
 
----
-
-> Your father and Sirius here were the cleverest students in the school, and lucky they were, because the Animagus transformation can go horribly wrong one reason the Ministry keeps a close watch on those attempting to do it.[^20210128-3] 
+I would have to find the citation, but I know I am not alone in wondering if
+this memory was tampered with.  The fact that Lupin and Sirius would not deny
+anything in the brief fireplace conversation suggests that it is at best based
+on something factual, but then so too are the best lies.  It would be a more
+cunning and effective plan to subtlety twist the memory to put James in a worse
+light, portray Snape as a more innocent victim, but leave the core events
+sufficiently in place so that when Harry describes what he sees, it rings true
+to those who witnessed it.  
 
 ---
 
 > “You’re less like your father than I thought,” he said finally, a definite coolness in his voice. “The risk would’ve been what made it fun for James.”[^20210128-10]
 
+Sirius implies that James was a daredevil.  Is that a true depiction, or a
+distortion due to his time in Azkaban?  Some of both is the most likely.  Even
+if true, I strongly suspect that the man who went into hiding to save his son
+would not have wanted his son to be as much a daredevil as he himself might have
+been in his youth.  
+
 ---
 
 > Harry wondered why James didn’t tell Wormtail to get a grip on himself, but James seemed to be enjoying the attention. Harry noticed his father had a habit of rumpling up his hair as though to make sure it did not get too tidy, and also that he kept looking over at the girls by the water’s edge.[^20210128-11]
+
+Harry has not noticed at this point that his mother is one of those girls.  Is
+James enjoying the attention because he wants *anyone's* attention, or is he
+enjoying it as a (probably mistaken) indication that what he is doing might
+attract *Lily's*?  Perception is everything, and *[[Snape]]'s* memory does not
+really tell us what is going on in *James'* head. 
 
 ---
 
@@ -100,41 +175,51 @@ James Potter is one of the more controversial figures in the Harry Potter series
 
 > “You think you’re funny,” she said coldly. “But you’re just an arrogant, bullying toerag, Potter. Leave him alone.”[^20210128-13]
 
+See my comments above on possible subtle manipulations of the memory. Still, it
+is pretty much established that Lily and James did not get along until either
+the end of sixth year or, more likely, the beginning of seventh. 
+
 ---
 
 > Lily, whose furious expression had twitched for an instant as though she was going to smile, said, “Let him down!”[^20210128-15]
 
+She did not like James' behaviour, but she was not fully immune to the humour in
+the situation either.  At least some of her behaviour is a false front, probably
+because she feels she should behave that way, or because she feels she *needs*
+to behave that way to get the results she wants. 
+
 ---
 
 > “Look, Harry,” said Sirius placatingly, “James and Snape hated each other from the moment they set eyes on each other, it was just one of those things, you can understand that, can’t you? I think James was everything Snape wanted to be he was popular, he was good at Quidditch, good at pretty much everything. And Snape was just this little oddball who was up to his eyes in the Dark Arts and James — whatever else he may have appeared to you, Harry always hated the Dark Arts.” 
-
+> 
 > “Yeah,” said Harry, “but he just attacked Snape for no good reason, just because — well, just because you said you were bored,” he finished with a slightly apologetic note in his voice. 
-
+> 
 > “I’m not proud of it,” said Sirius quickly. 
-
+> 
 > Lupin looked sideways at Sirius and then said, “Look, Harry, what you’ve got to understand is that your father and Sirius were the best in the school at whatever they did — everyone thought they were the height of cool — if they sometimes got a bit carried away —” 
-
+> 
 > “If we were sometimes arrogant little berks, you mean,” said Sirius.[^20210128-16]
+
+The book does not tell us exactly how detailed a description Harry gave the two
+of what he say.  I really wish it gave us more, it would answer the question on
+how accurate the memory was.  The thing is that even Sirius here can admit that
+at least some of what they did was wrong.  We cannot be sure how much, but
+admitting that you were an "arrogant little berk" means that Sirius has matured
+at least some from what he was.  If Sirius can admit that despite his obvious
+desire to live in the past, then the change, the maturation, in James must have
+been still more profound. 
 
 ---
 
 > Lupin burst out laughing. “Sometimes you remind me a lot of James. He called it my ‘furry little problem’ in company. Many people were under the impression that I owned a badly behaved rabbit.”[^20210128-18]
 
----
-
-> “Who wants to be in Slytherin? I think I’d leave, wouldn’t you?” James asked the boy lounging on the seats opposite him, and with a jolt, Harry realized that it was Sirius. Sirius did not smile. 
-
-> “My whole family have been in Slytherin,” he said. 
-
-> “Blimey,” said James, “and I thought you seemed all right!” 
-
-> Sirius grinned. “Maybe I’ll break the tradition. Where are you heading, if you’ve got the choice?” 
-
-> James lifted an invisible sword. “‘Gryffindor, where dwell the brave at heart!’ Like my dad.”[^20210128-24]
-
 ### From Pottermore:
 
 > WAND: Eleven inches, mahogany[^20210128-25]
+
+eleven inches is about average for a wand, it does not tell us much about James.
+The wood, mahogany, is not one listed on Pottermore's page about wand
+woods.[^20210511-3]
 
 ---
 
@@ -154,16 +239,17 @@ James Potter is one of the more controversial figures in the Harry Potter series
 
 ### When did he get the Cloak
 
-In book three, Lupin refers to seeing James use the cloak many times.[^20210318-4] At first I was inclined to disregard this, the fact that Lupin knows
-that you still show up on the Marauder's Map implies that it was at school, but
-does not prove that.  For all we know the two got curious when James inherited
-the cloak *after graduation* and tested the cloak against the charms they had
-used.  After all, while they had lost the map, as the creators, they could have
-recreated enough of its detection mechanisms to prove the test case, or
-alternately there may have been multiple copies of the map originally, only one
-of which was seized.[^20210318-5] However, further down, he definitively places
-the cloak in James' possession by at least their fifth year, as it was used to
-get out of the castle each full moon.[^20210318-6]
+In book three, Lupin refers to seeing James use the cloak many
+times.[^20210318-4] At first I was inclined to disregard this, the fact that
+Lupin knows that you still show up on the Marauder's Map implies that it was at
+school, but does not prove that.  For all we know the two got curious when James
+inherited the cloak *after graduation* and tested the cloak against the charms
+they had used.  After all, while they had lost the map, as the creators, they
+could have recreated enough of its detection mechanisms to prove the test case,
+or alternately there may have been multiple copies of the map originally, only
+one of which was seized.[^20210318-5] However, further down, he definitively
+places the cloak in James' possession by at least their fifth year, as it was
+used to get out of the castle each full moon.[^20210318-6]
 
 Given that he would not officially inherit the Cloak until his father dies, why
 was such a valuable heirloom sent with an irresponsible child to school?  This
@@ -177,6 +263,17 @@ yes, somewhat spoiled heir, knowing the boy (James) was feuding with such evil
 already.  Despite his many illicit forays out after curfew, this supposedly
 irresponsible boy kept the Cloak out of larcenous[^20210318-7] enemy hands,
 despite the fact that he supposedly has no cunning or intelligence. 
+
+[^20210511-3]: Mrs. J. K. Rowling.
+   "[Wand Woods](https://www.wizardingworld.com/writing-by-jk-rowling/wand-woods)"
+   Originally published on Pottermore on 2015-08-10. Last Viewed 2021-05-11.
+
+[^20210511-2]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_
+   p. 357. Pottermore Limited. American Kindle Edition. 
+
+[^20210511-1]: Mrs. J. K. Rowling. 
+   "[The Potter Family](https://www.wizardingworld.com/writing-by-jk-rowling/the-potter-family)"
+   Originally published on Pottermore on 2015-09-21. Last Viewed 2021-05-11.
 
 [^20210318-7]: The Sorting Hat says that Slytherins will use any means, and we
     have proven they will use magic that will potentially maim and kill, so
