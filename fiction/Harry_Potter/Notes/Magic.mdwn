@@ -168,6 +168,17 @@ cost.
 
 * There is a fascinating article on [wand wood][20210126-1] and the
   personality traits and skills that go along with each.[^20200723-1]
+* Olivander's notes in the above article are incomplete: 
+  * she seems to have given Umbridge a birch wand,[^20210511-4] though archive.org was not
+    able to capture that version of the page. It is also on her original list of
+    Celtic woods when she talks about wands.[^20210511-7]
+  * James Potter had a mahogany wand.[^20210511-5]
+  * ivy is on the list of Celtic woods that Mrs. Rowling posted when she first
+    talked about wand woods.[^20210511-6] 
+  * Fleur had a rosewood wand.[^20210511-8] 
+  * various other woods appear to be introduced by the Fantastic Beasts prequel
+    stuff.  [WizardingWorld][ww] seems to mention some of them, and has been
+    mined for information in [this article][20210511-9].
 * The one on [size and flexibility][20210126-2] is more abbreviated, but points 
   out that you must not be too literal.[^20200723-2]
 * Olivander has researched wand cores and will use only three of
@@ -184,9 +195,30 @@ act of its own accord.[^20200806-5]  Naturally eleven year old Riddle knows
 nothing of wand lore and so is not deciding this, yet still, the wand must sense
 something of the wizard it is bonding with…
 
+[ww]: <https://www.wizardingworld.com>
 [20210126-1]: <https://www.wizardingworld.com/writing-by-jk-rowling/wand-woods>
 [20210126-2]: <https://www.wizardingworld.com/writing-by-jk-rowling/wand-lengths-and-flexibility>
 [20210126-3]: <https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores>
+[20210511-9]: <https://harrypotter.fandom.com/wiki/Wand_wood>
+
+[^20210511-8]: Mrs. J. K. Rowling. _Harry Potter and the Goblet of Fire_
+   Kindle Locations 4642-4643. Pottermore Limited. American Kindle Edition. 
+
+[^20210511-7]: Mrs. J. K. Rowling. 
+   "[Wands](https://web.archive.org/web/20060316221102/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=18)"
+   Snapshot from 2006-03-16. Snapshot Viewed 2021-05-11.
+
+[^20210511-6]: Mrs. J. K. Rowling. 
+   "[Wands](https://web.archive.org/web/20060316221102/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=18)"
+   Snapshot from 2006-03-16. Snapshot Viewed 2021-05-11.
+
+[^20210511-5]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_
+    p. 82. Pottermore Limited. American Kindle Edition. 
+
+[^20210511-4]: Mr. Steve VanderArk and Ms. Rosie Payne. 
+    "[Dolores Umbridge](https://www.hp-lexicon.org/character/umbridge-family/dolores-umbridge/)"
+    [The Harry Potter Lexicon](https://www.hp-lexicon.org/)
+    Last Viewed 2021-05-11. 
 
 [^20200723-1]: Mrs. J. K. Rowling. 
     "[Wand Woods](https://www.wizardingworld.com/writing-by-jk-rowling/wand-woods)"
