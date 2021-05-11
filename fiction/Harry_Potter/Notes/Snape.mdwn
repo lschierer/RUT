@@ -41,7 +41,7 @@ As I said, we know little of Snape at school, but his memories from _the
 Deathly Hallows_ have a few things that are possibly suggestive.  In one scene
 Lily reacts strongly when Snape uses the phrase "I won't let you" in reference
 to her understanding of, or possibly her relationship (or lack there of)
-with James Potter.[^20210106-1] A scene later we have the incident where he
+with [[James_Potter]].[^20210106-1] A scene later we have the incident where he
 calls her a mudblood and she ends their friendship.  Next we see her refusal to
 forgive him, apparently because she does not believe his protestations. Unlike
 [[Dumbledore]], Lily wants repentance to be accompanied by evidence of reform.
@@ -66,15 +66,16 @@ says "he thinks it means Lily Evans!" - a curious statement considering that
 Lily has in fact been Lily Potter for some time.[^20210106-4] It is in fact
 *because* she is Lily Potter that Riddle would be after her and her son. Snape
 is showing evidence of denial about the strength of the attachment between
-Lily and James, and a failure to understand what love really means. This is
-confirmed when he admits that he thought it would work to trade Lily's life
-by sacrificing Harry's.  Riddle might well have been willing to go along with
-that, but it is not just a quirk of cannon that Lily was not.  We know that
-Tobias Snape was abusive, and that Eileen Snape failed to protect Severus,
-but I know of no evidence that Eileen did not love her son.  Some abused women
-fail to protect their children because they are unable to, not because they are
-unwilling to do so; we do not know which category Eileen Snape falls into. This
-flaw in understanding is not solely attributable to his upbringing.
+Lily and [[James|James_Potter]], and a failure to understand what love really
+means. This is confirmed when he admits that he thought it would work to trade
+Lily's life by sacrificing Harry's.  Riddle might well have been willing to go
+along with that, but it is not just a quirk of cannon that Lily was not.  We
+know that Tobias Snape was abusive, and that Eileen Snape failed to protect
+Severus, but I know of no evidence that Eileen did not love her son.  Some
+abused women fail to protect their children because they are unable to, not
+because they are unwilling to do so; we do not know which category Eileen Snape
+falls into. This flaw in understanding is not solely attributable to his
+upbringing.
 
 Regardless, Snape is now, supposedly, a spy for [[Dumbledore]].  How much
 does he know?  Does he know that Pettigrew is a Death Eater?  Does he know
@@ -125,13 +126,29 @@ final confrontation when Riddle returns?  We do not know.  We do have clues,
 views of [[Harry]].  This *suggests* that [[Dumbledore]] is permissive,
 not legislative about Snape.  I think that [[Dumbledore]] wants them all,
 Snape included, to turn away from these acts spontaneously inspired purely by
-example, without influence of punishment.
+example, without any influence of punishment.
 
-Snape, as Head of House, is acting in loco parentis, I think even more than
+Snape, as Head of House, is acting in loco parentis, I think, even more than
 the Headmaster does.  It is his responsibility to help form his students; his
 failure to punish them is neglect.  His covering for them is teaching them to
 disregard moral standards.  His behaviour implicitly and sometimes explicitly
 rewards bad behaviour.  This is a problem.
+
+Snape's behaviour during [[Harry]]'s third year, and particularly during the
+confrontation in the Shrieking Shack, is enlightening.  He enters the scene
+"full of suppressed triumph"[^20210510-3], proceeds to look
+fanatical[^20210510-4], and continues on in both book description and in
+objective assessment of his behaviour, to be "deranged."[^20210510-5]  He is, in
+this encounter, motivated by three things.  One, Snape both fears and hates
+werewolves, no doubt stemming from his teenaged encounter with Lupin.  Two, Snape
+has a rational hatred of Sirius Black taken to an irrational degree. With that
+Snape has an inability to separate Sirius from [[James_Potter]], and
+[[James_Potter]] from [[Harry]] Potter.  In Snape's mind anything done by one is
+effectively done by all three.  Third, Snape has an incredible desire for fame
+and recognition. I think this sequence, as Snape yells at [[Harry]], looking for
+him to thank him "on bended knee"[^20210510-6], and then later, with Fudge
+talking about the Order of Merlin, gives us a huge insight into Snape's
+character. 
 
 As Riddle returns, what does Snape know about his activities?  What could
 he have told [[Dumbledore]] but chooses to hold back?  What does he tell
@@ -148,27 +165,46 @@ Snape becomes Headmaster during what would have been [[Harry]]'s seventh year.
 We get only a few glimpses of his tenure.  We know that he catches [[Ginny]]
 attempting to steal the sword for [[Harry]], he must have had access to her
 unprotected mind, but he assigns her detention with *Hagrid.* [[Harry]] is
-right, Ron is wrong; that was not intended as a serious detention.  How much
+right, [[Ron]] is wrong; that was not intended as a serious detention.  How much
 worse would [[Hogwarts]] have been had a different Death Eater been Headmaster?
 How much could Snape have done to curb problems that he did not do?  We cannot
 know.  We know he helped some at least.
 
-Snape is trying to reach [[Harry]] when Riddle decides Harry must die.  He
+Snape is trying to reach [[Harry]] when Riddle decides [[Harry]] must die.  He
 (Snape) uses his the last of his strength to give [[Harry]] memories necessary
 for [[Harry]] to finally have a true understanding of the situation.  At least
 some of this is because Snape is committed to following [[Dumbledore]]'s plans.
 The extra memories of Snape's life are, in my opinion, necessary if [[Harry]]
 is to believe the final, critical memories of Snape's interactions with
 [[Dumbledore]].  The extra memories are not, I think, *entirely* altruistic
-however.  I think Snape wanted to be thought well of in these final moments.
-He showed a view of himself that could inspire sympathy. I think that was
-intentional, I think his motivation was thus complex.
+however.  Remember what we saw from book 3; Snape is driven beyond reason by the
+twin desires of hatred for [[Harry]]'s father, and desire for recognition.  This
+is Snape's moment for both.  [[Harry]] *must* believe him, for if [[Harry]] does
+not, then Snape will die a death eater.  If [[Harry]] believes, then Snape dies
+a hero.  This is critical not only in a moral sense, but for Snape's self image.
+*[[Harry]] must think well of Snape or no one will;* and nothing could be more
+important to Snape, *except,* perhaps, that [[James_Potter]]'s son might suffer
+more.  These memories can achieve both. If Lily's son must die, then Snape was
+going to get everything he could out of it. I think his motivation was thus
+complex.
 
-Snape is a complex character.  He was not irredeemable, and even though he is
-fictional, there are enough questions about his life that I cannot judge him.
-I can say that were I [[Harry]] I would never have named a child after him.
-I hope I would forgive him, but I cannot honour him.  He could have been so
-much greater than he was.
+For Snape *is* a complex character.  He was not irredeemable, and even though he
+is fictional, there are enough questions about his life that I cannot judge him.
+I can say that were I [[Harry]], I would never have named a child after him.  I
+hope I would forgive him, but I cannot honour him.  He could have been so much
+greater than he was.
+
+[^20210510-3]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_
+    p. 358. Pottermore Limited. American Kindle Edition. 
+
+[^20210510-4]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_
+    p. 359. Pottermore Limited. American Kindle Edition. 
+
+[^20210510-5]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_
+    p. 360. Pottermore Limited. American Kindle Edition. 
+
+[^20210510-6]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_
+    p. 361. Pottermore Limited. American Kindle Edition. 
 
 [^20210412-6]: Mrs. J. K. Rowling.
     "[Barnes and Noble & Yahoo! chat](http://www.accio-quote.org/articles/2000/1000-livechat-barnesnoble.html)"
