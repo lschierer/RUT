@@ -25,7 +25,7 @@ We seem to have:
    above.  It is also interesting that it is normal spoken English where nothing
    else we see of magic is.
 
-[BoST]: <https://magicscrapbook.tumblr.com/post/162085200042/book-of-spells-transcript>
+[BoST]: https://magicscrapbook.tumblr.com/post/162085200042/book-of-spells-transcript
 
 [^20210406-44]: [magicscrapbook](https://magicscrapbook.tumblr.com/)
     "[‘Book of Spells’ transcript](https://magicscrapbook.tumblr.com/post/162085200042/book-of-spells-transcript)"
