@@ -172,10 +172,11 @@ cost.
 
 * There is a fascinating article on [wand wood][20210126-1] and the
   personality traits and skills that go along with each.[^20200723-1]
-* Olivander's notes in the above article are incomplete: 
-  * she seems to have given Umbridge a birch wand,[^20210511-4] though archive.org was not
-    able to capture that version of the page. It is also on her original list of
-    Celtic woods when she talks about wands.[^20210511-7]
+* Mr. Ollivander's notes in the above article are incomplete: 
+  * Mrs. Rowling seems to have given Umbridge a birch wand,[^20210511-4] though
+    archive.org was not able to capture that version of the page. Birch is also
+    on her original list of Celtic woods when she talks about
+    wands.[^20210511-7]
   * James Potter had a mahogany wand.[^20210511-5]
   * ivy is on the list of Celtic woods that Mrs. Rowling posted when she first
     talked about wand woods.[^20210511-6] 
@@ -185,9 +186,28 @@ cost.
     mined for information in [this article][20210511-9].
 * The one on [size and flexibility][20210126-2] is more abbreviated, but points 
   out that you must not be too literal.[^20200723-2]
-* Olivander has researched wand cores and will use only three of
-  them.[^20200723-3]  Others are possible, but [the article on cores][20210126-3]
+* Mr. Ollivander has researched wand cores and will use only three of
+  them.[^20200723-3]  
+* Others are possible, but [the article on cores][20210126-3]
   was, like the other two, written as if by him and so focuses on those three.
+  * Most of Mrs. Rowling's own writing almost acts as if the current Mr.
+    Ollivander is the only Mr. Ollivander despite the fact that the sign
+    outside the shop door states that the family has been making wands since 382
+    B.C.[^20210512-1]  I am willing to accept that wizards live longer than
+    non-magical persons, but not by that much.  For there to only be one Mr.
+    Ollivander would require that he be approximately 2373 years old! If such
+    were true, then Nicholas Flamel's mere 665 years[^20210512-2] would not
+    really be noteworthy at all, and the philosopher's stone entirely
+    unnecessary.  
+  * Indeed, [the article on cores][20210126-3] directly states that the current
+    Mr. Garrick Ollivander inherited the business from his father.[^20210512-4]
+  * Given there have been an entire succession of Ollivanders making and selling
+    wands, which "Garrick Ollivander"[^20210512-3] actually did the research and
+    published the notes we are relying on? 
+  * Earlier Ollivanders were less fastidious about their wand cores.[^20210512-5]
+    Does the shop still hold wands made by these earlier Ollivanders?  If so, is
+    the current Mr. Ollivander willing to sell these wands, or only ones that
+    meet his (higher) bar for quality? 
 
 Given the above articles I talk some about [[Harry]]'s wand on the page
 dedicated to him.  Riddle's wand, I think it is fairly inevitable that he would
@@ -213,6 +233,15 @@ something of the wizard it is bonding with…
 
 [20210511-9]: https://harrypotter.fandom.com/wiki/Wand_wood
     "Harry Potter wiki article on Wand Wood"
+
+[^20210512-1]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_
+    p. 82. Pottermore Limited. American Kindle Edition. 
+
+[^20210512-2]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_
+    p. 220. Pottermore Limited. American Kindle Edition. 
+
+[^20210512-3]: Garrick Ollivander is the purported author of all 3 Pottermore
+    articles I have referenced here. 
 
 [^20210511-8]: Mrs. J. K. Rowling. _Harry Potter and the Goblet of Fire_
     Kindle Locations 4642-4643. Pottermore Limited. American Kindle Edition. 
@@ -240,6 +269,14 @@ something of the wizard it is bonding with…
 [^20200723-2]: Mrs. J. K. Rowling. 
     "[Wand Lengths & Flexibility](https://www.wizardingworld.com/writing-by-jk-rowling/wand-lengths-and-flexibility)"
     Originally published 2015-08-10.  Last Viewed 2020-07-23.
+
+[^20210512-5]: Mrs. J. K. Rowling. 
+    "[Wand Cores](https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores)"
+    Originally published 2015-08-10.  Last Viewed 2021-05-12.
+
+[^20210512-4]: Mrs. J. K. Rowling. 
+    "[Wand Cores](https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores)"
+    Originally published 2015-08-10.  Last Viewed 2021-05-12.
 
 [^20200723-3]: Mrs. J. K. Rowling. 
     "[Wand Cores](https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores)"
