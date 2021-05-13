@@ -460,7 +460,7 @@ determine what happens to a given child.
      like insects.  Unlike gnomes, they have some ability to form long term
      memories, but only very limited ability to learn from these experiences;
      their actions are guided by incredibly strong instinct rather than by
-     reasoning. They are very like domesticated cats and dogs in this respect,
+     reasoning. They are very like domesticated cats and dogs in this respect;
      a dog might remember its owner, but its behavioris will always be more
      governed by instinct than not.
    * house elves - created by the extreme use of magics on an unknown mammal
