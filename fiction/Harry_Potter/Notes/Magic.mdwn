@@ -168,6 +168,55 @@ even tilts it the other way, a desperate Ministry losing the war might well
 decide to authorise it, and leave it up to each individual Auror to judge the
 cost.  
 
+#### Vampires
+
+How much blood do you have to lose before you become a vampire? 
+
+In _Dracula_, any bite causes a lose of willpower, but only actually dying will
+cause you to become one.[^202101513-6]  Is that true here?  If so, is anything
+left of the original person when you change? 
+
+It seems to be implied that vampires may not be beings of pure
+evil.[^20210513-7] Is this a true or false impression? 
+
+
+
+[^20210513-7]: Mrs. J. K. Rowling. _Harry Potter and the Half-Blood Prince_
+    Better citation needed. 
+
+[^20210513-6]: citation needed. 
+
+#### Werewolves
+
+Can a non-magical person get infected? If so, can they then use magic? 
+I have seen speculation that a non-magical person infected would die on the
+first change,[^20210513-4] and speculation that *most* werewolves are
+non-magical.[^20210513-5]
+
+Overall, Werewolf-ism is a virus, it *might* cross the placental wall, but it
+would not be inherited from father to child.  It does seem clear that this virus
+shortens the person's lifespan noticeably. 
+
+Is the werewolf more or less susceptible to [[Legilimency]]?  Does the virus
+create a "wolf" personality in his/her mind?  Would fracturing your mind that
+way make it harder to attack, or harder to defend? 
+
+Does the werewolf experience physical changes that persist the rest of the time?
+Enhanced sense of smell, or strength? 
+
+Exactly how "full" does the moon need to be for a werewolf to turn? Is it
+precisely one night a month, or several? 
+
+Can the werewolf change at will, or only involuntarily? 
+
+The moon is up during the day sometimes.  How would a solar eclipse affect a
+werewolf? 
+
+
+[20210513-4]: citation needed
+
+[20210513-5]: citation needed
+
 ### Wands
 
 * There is a fascinating article on [wand wood][20210126-1] and the
