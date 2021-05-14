@@ -222,8 +222,7 @@ werewolf?
 * There is a fascinating article on [wand wood][20210126-1] and the
   personality traits and skills that go along with each.[^20200723-1]
 * Mr. Ollivander's notes in the above article are incomplete: 
-  * Mrs. Rowling seems to have given Umbridge a birch wand,[^20210511-4] though
-    archive.org was not able to capture that version of the page. Birch is also
+  * Umbridge has a birch wand,[^20210511-4] and is also
     on her original list of Celtic woods when she talks about
     wands.[^20210511-7]
   * James Potter had a mahogany wand.[^20210511-5]
@@ -306,10 +305,9 @@ something of the wizard it is bonding with…
 [^20210511-5]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_
     p. 82. Pottermore Limited. American Kindle Edition. 
 
-[^20210511-4]: Mr. Steve VanderArk and Ms. Rosie Payne. 
-    "[Dolores Umbridge](https://www.hp-lexicon.org/character/umbridge-family/dolores-umbridge/)"
-    [The Harry Potter Lexicon](https://www.hp-lexicon.org/)
-    Last Viewed 2021-05-11. 
+[^20210511-4]: Mrs. J. K. Rowling. _Short Stories from Hogwarts of Power,
+    Politics, and Pesky Poltergeists_ Pottermore Publishing American Kindle
+    Edition, © 2016. Page 7. 
 
 [^20200723-1]: Mrs. J. K. Rowling. 
     "[Wand Woods](https://www.wizardingworld.com/writing-by-jk-rowling/wand-woods)"
