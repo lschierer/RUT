@@ -274,6 +274,10 @@
 
 * 1913 - Henry Potter serves in the Wizengamot, publicly condemns Minister for Magic, Archer Evermonde.  Potter family excluded from the ‘Sacred Twenty-Eight’.[^20210122-25]
 
+* 1914 - July 28 - World War I.[^20210514-5]
+
+* 1918 - November 11 - Armistice signed ending World War I.[^20210514-6]
+
 * 1920 - Dorea Black born[^20210122-3]
 
 * 1920 - The Firearms Act 1920: "It required anyone wanting to purchase or possess a firearm or ammunition to obtain a firearm certificate. The certificate, which lasted for three years, specified not only the firearm but also the amount of ammunition the holder could buy or possess."[^20210228-2]  This law does not affect smooth bore guns.[^20210228-3]
@@ -288,15 +292,28 @@
 
 * 1926 - December 31, Tom Marvolo Riddle born[^20210223-1]
 
+* 1930 - Sometime in this decade the "Sacred Twenty-Eight" list is
+  published.[^20210514-2]
+
 * 1937 - The Firearms Act 1937: extends the 1920 bill to smooth bore shotguns with short barrels, and a few other changes.[^20210228-4]
 
 * 1938 - Cygnus Black II born.[^20210122-13]
 
+* 1938 - September 1 - Tom Marvolo Riddle starts at Hogwarts (computed from his
+  birthday). 
+
 * 1939 - Lenard Spencer-Moon elected Minister for Magic.[^20210330-34]
+
+* 1939 - September 1 - World War II starts.[^20210514-3]
 
 * 1943 - Cygnus Black I dies.[^20210122-21]
 
 * 1943 - Hagrid expelled.[^20210301-2]
+
+* 1945 - May 8 - German surrender (VE Day).[^20210514-4]
+
+* 1945 - July - Tom Marvolo Riddle graduates from Hogwarts (computed from when he
+  started).
 
 * 1948 - Wihelmina Tuft elected Minister for Magic.[^20210330-35]
 
@@ -327,6 +344,10 @@
   sixties.[^20210330-39]
 
 * 1968 - Firearms Act 1968: long barrelled shotguns controlled for the first time.[^20210301-6]  
+
+* 1970 - Riddle is sufficiently active that Dumbledore will state, upon his
+  first downfall: “We’ve had precious little to celebrate for
+  eleven years.”[^20210514-1] 
 
 * 1971 - September 1st thus James, Lilly and Sirius start Hogwarts in 1971. 
 * Lucius Malfoy is a prefect.[^20210223-2]
@@ -364,6 +385,8 @@
   and Surrey.  Instead, Bristol seems to indicate a detour to the north, or a
   point of origin in Wales.  
 
+* 1981 - November - Slughorn resigns.[^20210514-7]
+
 * 1985 - Walburga Black dies[^20210122-7]
 
 * 1988 - The Firearms (Amendment) Act 1988: no more pump action or other shotguns that have magazines.[^20210228-5]
@@ -380,10 +403,37 @@
 
 * 1997 - 1997 Firearms (Amendment) Acts: nearly all guns banned.[^20210228-6]
 
+[^20210514-7]: Mrs. J. K. Rowling. _Short Stories from Hogwarts of Power,
+    Politics and Pesky Poltergeists_  Pottermore Publishing. American Kindle
+    Edition. © 2016. Page 34.
+
+[^20210514-6]: [Wikipedia](https://en.wikipedia.org/)
+    "[World War I](https://en.wikipedia.org/wiki/World_War_I)"
+    Last Edited: 2021-05-12. Last Viewed: 2021-05-14.
+
+[^20210514-5]: [Wikipedia](https://en.wikipedia.org/)
+    "[World War I](https://en.wikipedia.org/wiki/World_War_I)"
+    Last Edited: 2021-05-12. Last Viewed: 2021-05-14.
+
+[^20210514-4]: [Wikipedia](https://en.wikipedia.org/)
+    "[World War II](https://en.wikipedia.org/wiki/World_War_II)"
+    Last Edited: 2021-05-11. Last Viewed: 2021-05-14.
+
+[^20210514-3]: [Wikipedia](https://en.wikipedia.org/)
+    "[World War II](https://en.wikipedia.org/wiki/World_War_II)"
+    Last Edited: 2021-05-11. Last Viewed: 2021-05-14.
+
+[^20210514-2]: Mrs. J. K. Rowling. _Short Stories from Hogwarts of Power,
+    Politics and Pesky Poltergeists_  Pottermore Publishing. American Kindle
+    Edition. © 2016. Page 31.
+
+[^20210514-1]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_ 
+    p. 10. Pottermore Limited. American Kindle Edition. © 1998 
+
 [^20210406-46]: Mrs. J. K. Rowling.
-   "[Hogwarts Ghosts](https://www.wizardingworld.com/writing-by-jk-rowling/hogwarts-ghosts)"
-   [Wizarding World](https://www.wizardingworld.com/) Originally Published on
-   Pottermore 2015-08-10. Last Viewed: 2021-04-06.
+    "[Hogwarts Ghosts](https://www.wizardingworld.com/writing-by-jk-rowling/hogwarts-ghosts)"
+    [Wizarding World](https://www.wizardingworld.com/) Originally Published on
+    Pottermore 2015-08-10. Last Viewed: 2021-04-06.
 
 [^20210330-8]: Mrs. J. K. Rowling.
     "[Ministers for Magic](https://www.wizardingworld.com/writing-by-jk-rowling/ministers-for-magic)"
