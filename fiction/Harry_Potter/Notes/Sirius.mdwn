@@ -1,0 +1,75 @@
+[[!meta title="Sirius Black"]]
+[[!toc  startlevel=3]]
+
+### facts
+
+* Sirius did not, as he is often accused, give Harry to Hagrid; he (Sirius)
+  arrived second.[^20210517-1]
+
+* Arcturus, Pollux, and Walburga Black were all alive when Sirius was sent to
+  Azkaban without a trial.[^20210517-2]
+
+[^20210517-1]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_ 
+    p. 212. © 2000 Pottermore Limited. American Kindle Edition.
+
+[^2010517-2]: See my notes on the [[History]] page.
+
+### Speculation
+
+#### Lack of a trial
+
+Why was Sirius denied a trial?  More, how was it *possible* to deny him a trial?
+It is reasonable to accept that [[Remus]] both believed him guilty and would
+have been unable to demand a trial.  Why, however, did none of [[Dumbledore]],
+Andromeda Black, or his own blood family demand a trial?
+
+Lets start with the easy ones:  Arcturus, Pollux, and Walburga Black.  We know
+that Walburga hated her son, enough to want him disowned.  We further know,
+because Sirius inherited number 12 Grimmauld Place, that neither Orion (died
+1979) nor Arcturus Black (died 1991) did so.[^20210517-3]  However, we can
+infer the following from the fact that they *also* did not disown Bellatrix and
+Regulus Black:
+* they at very least were not opposed to Riddle's pure-blood terrorism
+* they probably (given what we know of Walburga at least) supported Riddle
+* they cared more about the survival of the name Black than Sirius' beliefs
+
+My guess is that they held themselves apart from actually joining the Death
+Eaters, and thus did not *know* that Sirius had not joined.  They saw his
+incarceration thus as being one of two alternatives:
+* he is guilty and thus they could at last be somewhat proud of him
+* he is innocent and thus continues to be a disgrace.
+
+Given that, I believe they would find the lack of a trial almost palatable, they
+would somewhat fear to find out which alternative is true.  If he is in fact
+guilty, then when Riddle returns (which they *probably* expected, the Malfoy
+family certainly seems to have expected it) then he would be freed from Azkaban.
+If he was innocent, then it is a shame the family name would die out, but better
+that no one know their shame (that Sirius is a blood traitor).  
+
+Thus they were essentially betting on the odds that Sirius was both in fact
+guilty (and thus the trial would not help him) and that Riddle would return
+before Sirius died, thus giving him (Sirius) an opportunity to
+procreate.[^20210517-4]
+
+Why did Andromeda not demand a trial?  My guess is that she falls sufficiently
+into the "trust Dumbledore" category that she believes his testimony about the
+betrayal even if the only evidence of her Order membership is the use of her
+house as a safe house.[^20210517-5]
+
+What about [[Dumbledore]]?  It really comes down to what did he know when.  Was
+anything said in the Potter wills?  We do not know. Did he have any indication,
+from Snape for example, that Pettigrew was in fact the traitor?  Again, we do
+not know.  This *might* be simply Dumbledore not caring to use political capital
+to ensure a trial that should not change anything (Sirius if guilty would have
+still gone to Azkaban). 
+
+[^2010517-3]: See my notes on the [[History]] page.
+
+[^20210517-4]: Some writers have speculated that long term exposure to dementors
+    would affect virility, fertility, or both.   I am unaware of any cannon
+    reason to believe this.
+
+[^20210517-5]: Mrs. J. K. Rowling. _Harry Potter and the Deathly Hallows_
+    better citation needed. 
+
+[[!tag "HP Notes"]]
