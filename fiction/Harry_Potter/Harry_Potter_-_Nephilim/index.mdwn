@@ -242,7 +242,7 @@ determine what happens to a given child.
     - things like "cheering charms" are _actually_ a form of transmutation
       manipulating the form of brain chemicals, and thus, temporarily, their
       effect. 
-    - memory charms like oblivation are a mix of transmutation on brain
+    - memory charms like obliviation are a mix of transmutation on brain
       chemicals with the Seraphic ability to perceive (and thus target the
       transmutation really precisely). Because they are chemical in nature, they
       can work on full humans.  However, they can be more precisely targeted and
@@ -301,7 +301,7 @@ determine what happens to a given child.
        * There is some crossover between the two, generally to the detriment of
          both the user and any understanding of the truth.
    * Arithmancy has a wikipedia definition as being a speciality of divination.
-     For my purposes this is _almost_ true.  For my purposes Arithmany attempts
+     For my purposes this is _almost_ true.  For my purposes Arithmancy attempts
      to predict the effect of a use of magic.  It attempts to make magic
      scientific.  However, it is complicated by the fact that its practitioners
      themselves do not actually understand the scientific method, nor agree on
@@ -371,6 +371,11 @@ determine what happens to a given child.
      extreme physical changes, and near entire loss of magic means that they
      have little ability to form more than the most rudimentary societies in
      their fully aquatic environments. 
+   * dwarfs - I really dislike what Mrs. Rowling did with the dwarfs in _the
+     Chamber of Secrets_.[^20210518-1]  Since she says that goblins of all
+     things are expert craftsmen,[^20210518-2] my take is that nephil became
+     dwarfs became goblins.  I will figure out something else for Lockhart's
+     cupids if I ever get that far in writing. 
    * goblins - people who are highly susceptible to greed, envy, and wrath.
      Their form has been distorted by the sins of their forefathers centuries
      ago.  They are still capable of good deeds, and some have been so highly
@@ -388,7 +393,7 @@ determine what happens to a given child.
    * centaurs - a nearly primordial people (inheriting from both the the
      Seraphim and Cherubim) who selfishly abused divination magic until
      something truly bizarre happened.  They became nearly immune to the magic
-     of the Dominations as practiced by other mortals, but almost entirely ruled
+     of the Dominions as practices by other mortals, but almost entirely ruled
      by subconscious influences of the angelic and nephilim from the surrounding
      areas, both those fallen and those who remained faithful.  They are also
      incredibly sensitive to the state of balance between them and human society.
@@ -461,7 +466,7 @@ determine what happens to a given child.
      memories, but only very limited ability to learn from these experiences;
      their actions are guided by incredibly strong instinct rather than by
      reasoning. They are very like domesticated cats and dogs in this respect;
-     a dog might remember its owner, but its behavioris will always be more
+     a dog might remember its owner, but its behaviours will always be more
      governed by instinct than not.
    * house elves - created by the extreme use of magics on an unknown mammal
      (not a human), they are the most nearly human of all created beings.  They
@@ -485,6 +490,12 @@ determine what happens to a given child.
 ]]
 [[!trailoptions sort="meta(title)" circular="yes"]]
 [[!trailitem Prologue]]
+
+[^20210518-1]: Mrs. J. K. Rowling. _Harry Potter and the Chamber of Secrets_
+    Better citation needed.
+
+[^20210518-2]: Mrs. J. K. Rowling. _Hogwarts: An Incomplete and Unreliable
+    Guide_ p. 69. Pottermore Publishing. American Kindle Edition. 
 
 [knffnm]: <kokopelli.nsns.fanficauthors.net/Maskirovat/Maskirovat/>
 
