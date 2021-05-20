@@ -1,6 +1,6 @@
 ## Hogwarts
 
-[[!toc  startlevel=3]]
+[[!toc levels=2 startlevel=3]]
 
 ### Founding
 
