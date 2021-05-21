@@ -1,6 +1,6 @@
 ## Magic
 
-[[!toc  startlevel=3]]
+[[!toc level=2 startlevel=3]]
 
 ### World-building
 
@@ -346,7 +346,7 @@ something of the wizard it is bonding with…
 
 ### The Wards around Privet Drive and The Trace
 
-#### The Wards
+#### Wards in General
 
 First of all, I am not going to spend much time worrying about whether or not
 "wards" are part of the cannon universe or not.  The books may never use the
@@ -356,6 +356,8 @@ going to join most of fanfiction and call these magics wards.  The books use all
 sorts of names, and in some places descriptions of effects without naming the
 magic behind it at all (you cannot apparate in Hogwarts).  I need a word, and
 "ward" works well.
+
+#### Wards at Number Four
 
 In the cannon Harry Potter universe, the wards were set to fail when Harry turns
 17, becoming an adult.  This has lead some fanfiction authors to speculate that
@@ -379,6 +381,19 @@ the operation of the wards (and the Trace must be some form of detection ward I
 think) in some way.  If that is true, then it does not matter if emancipation
 exists in the magical world or not, because it would be a legal event and not a
 magical one, and so would not affect either the Trace or the wards.
+
+We are told that they stand "so long as he can call Privet Drive
+'home'"[^20210521-1]  In _the Philosopher's Stone_ we read "The castle felt
+more like home than Privet Drive ever had."[^20210521-2]  What does this mean
+for the strength, or even the existence, of these wards?  Sure, Hogwarts is a
+boarding school, but Harry has at this point only lived there for about two
+months.  If it already feels more like home than the only other place he ever
+remembers living, that is a remarkable lack of attachment. 
+
+[^20210521-2]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_
+    p. 170. © 1999 Pottermore Limited. American Kindle Edition. 
+
+[^20210521-1]: Mrs. J. K. Rowling. paraphrased, but a citations is still needed.
 
 #### The Trace
 
