@@ -5,7 +5,7 @@
 ### topics mentioned in class
 
 * Emeric the Evil[^20210519-1]
-* Uric the Oddball[^20210519-2]
+* Uric the Oddball[^20210519-2], who is a wizard, not a goblin.[^20210521-5]
 * The Medieval Assembly of European Wizards[^20210519-3]
 * International Warlock Convention of 1289[^20210519-4] 
 * Founding of Hogwarts and the Chamber of Secrets[^20210519-5]
@@ -29,6 +29,9 @@ covering history.  He is not only soporific in tone, he is probably covering his
 topics in minute detail, rather than canvasing the breadth of history across the
 five years of having a captive audience. 
 
+[^20210521-5]: Mrs. J. K. Rowling.
+    "[Wizard of the Month Archive](https://therowlinglibrary.com/jkrowling.com/textonly/en/wotm.html)"
+    Last Viewed 2021-05-21. 
 
 [^20210519-1]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_
     p. 133. Pottermore Limited © 1999. American Kindle Edition. 

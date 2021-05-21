@@ -161,6 +161,9 @@
 
 * 1567 - James VI of Scotland.[^20210406-43]
 
+* 1649 - Mnemone Radford, developer of Memory Modification Charms,
+  dies.[^20210521-4]
+
 * 1603 - James VI of Scotland becomes James I of England and
   Ireland.[^20210406-7]
 
@@ -340,6 +343,8 @@
 
 * 1968 - Eugenia Jenkins elected Minister for Magic.[^20210330-38]
 
+* 1968 - Gwenog Jones born.[^20210521-6]
+
 * 1968/9 - pure-blood riots during the Squib Rights marches in the late
   sixties.[^20210330-39]
 
@@ -402,6 +407,14 @@
 * 1996 - Rufus Scrimgeour elected Minister for Magic.[^20210330-43]
 
 * 1997 - 1997 Firearms (Amendment) Acts: nearly all guns banned.[^20210228-6]
+
+[^20210521-6]: Mrs. J. K. Rowling. 
+    "[Wizard of the Month Archive](https://therowlinglibrary.com/jkrowling.com/textonly/en/wotm.html)"
+    Last Viewed 2021-05-21. 
+
+[^20210521-4]: Mrs. J. K. Rowling. 
+    "[Wizard of the Month Archive](https://therowlinglibrary.com/jkrowling.com/textonly/en/wotm.html)"
+    Last Viewed 2021-05-21. 
 
 [^20210514-7]: Mrs. J. K. Rowling. _Short Stories from Hogwarts of Power,
     Politics and Pesky Poltergeists_  Pottermore Publishing. American Kindle
