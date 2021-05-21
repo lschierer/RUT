@@ -1,0 +1,13 @@
+[[!meta title="Adults in the HP Series"]]
+[[!tag "HP Notes"]] 
+[[!toc level=2 startlevel=3]]
+
+### On Adults in General
+
+### Specific Adults
+
+[[!map pages="fiction/Harry_Potter/Notes/* and 
+              tagged(HP_Notes) and 
+              tagged(HP Adult) and
+              ! fiction/Harry_Potter/Notes/*/*
+              "]]

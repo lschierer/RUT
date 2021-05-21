@@ -1,5 +1,6 @@
 [[!meta title="Professor Binns"]]
 [[!tag "HP Notes"]] 
+[[!tag "HP Adult"]]
 [[!toc  startlevel=3]]
 
 ### topics mentioned in class

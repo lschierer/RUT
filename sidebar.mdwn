@@ -3,6 +3,5 @@
 [[Archives]]
 
 [[Tags]]:
-
-[[!pagestats style="list" pages="./tags/*" ]]
+[[!pagestats style="list" pages="./tags/* and !'tags/HP_Adult'" ]]
 
