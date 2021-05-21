@@ -1,7 +1,0 @@
-[[!meta  title="test"]]
-[[!meta  date="2005-06-06 23:53:04"]]
-This is a test of the mtsend script
-
-this is only a test
-
-[[!tag  uncategorized]]
