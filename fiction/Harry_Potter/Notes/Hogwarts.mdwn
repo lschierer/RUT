@@ -219,8 +219,9 @@ Like I do below when I look at teachers, I am tempted to use _[Stalky &
 Co.](https://www.gutenberg.org/ebooks/3006)_ by Rudyard Kipling as a secondary
 source to course correct.  That book had what sounds very like a common room per
 year for the younger students, with the older students of each house broken out
-into "studies" - groups of 3-5 students sharing a common living/sleeping space.
-The space sounds like more than a Hogwarts dorm room but less than a suite.  
+into "studies" - groups of 3-5 students sharing a common living space.
+Several references make it sound like they sleep in the studies, but others make
+it sound like they have dorms separate from them. 
 
 Gryffindor does not seem to have any corollary to _Stalky_'s studies.  However,
 it seems reasonable that it might have multiple common rooms, the rest of which
@@ -271,16 +272,16 @@ posting flyers listing her stolen stuff, and Flitwick does nothing.[^20200811-2]
 I have a page dedicated to [[McGonagall]], and it would be hard to write too
 much here that would not also go there, so these two examples will have to
 suffice for now.  It seems that the school expects the prefects to run the
-school.  From reading other books, I think this might be typical of British
-boarding schools, but I think that most schools have a fall back mechanism when
-that fails.  _[Stalky & Co.](https://www.gutenberg.org/ebooks/3006)_ by Rudyard
-Kipling comes to mind.  I suspect that is probably the fairest account of
-boarding school life you will find in British literature.  It is certainly
+school.  I am unsure how typical of British boarding schools this is, Stalky of
+_[Stalky & Co.](https://www.gutenberg.org/ebooks/3006)_ by Rudyard Kipling goes
+on an extended rant about the evils of married teachers, and how it puts too
+much responsibility on the prefects.[^20210521-6] _Stalky & Co._ is certainly
 idealised, no doubt in a lot of ways, but if you read carefully you can tell
 there is a lot of bullying, it is a rough life, but it is kept sufficiently in
-check that most of them come out of it … typically British.  I suspect some of
-the problems in British society are because it was not kept _sufficiently_ in
-check after all. But I am going off on a tangent.  
+check that most of them come out of it … typically British.  If *Stalky* thinks
+that it would be *worse* if the teachers he describes do *less*, well, then we
+have to assume that the few phrases we have hinting at the problems within
+Hogwarts are actually understating things. 
 
 Look at the roles that play out in _Stalky_ versus _Harry Potter_.  In _Stalky_
 we see prefects giving out discipline, including corporal punishment, but each house
@@ -297,6 +298,8 @@ finally, by Dumbledore with [[Snape]] attending as advisor, no matter who is
 involved.  Never mind [[McGonagall]] is Deputy Head, and therefore more
 logically the advisor at that point, we need a more Charles Dickens feel about
 it.  Which is probably precisely the point. 
+
+[^20210521-6]: Mr. Rudyard Kipling. _Stalky & Co._ better citation needed. 
 
 [^20200811-1]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_.
     Pottermore. American Kindle Edition.  Better citation needed. 
