@@ -46,8 +46,6 @@ physically, but metaphorically, as the one who could be his equal.[^20210521-8]
 
 ### Specific Adults
 
-[[!map pages="fiction/Harry_Potter/Notes/* and 
-              tagged(HP_Notes) and 
-              tagged(HP_Adult) and
-              ! fiction/Harry_Potter/Notes/*/*
+[[!map pages="tagged(HP_Notes) and 
+              tagged(HP_Adult) 
               "]]
