@@ -1,5 +1,5 @@
 [[!meta title="List of Hogwarts Students by Year"]]
-[[!toc  startlevel=3]]
+[[!toc levels=2 startlevel=3]]
 
 
 ### Students starting in 1987

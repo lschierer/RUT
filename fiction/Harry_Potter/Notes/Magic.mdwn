@@ -1,6 +1,6 @@
 ## Magic
 
-[[!toc level=2 startlevel=3]]
+[[!toc levels=2 startlevel=3]]
 
 ### World-building
 

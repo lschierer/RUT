@@ -1,5 +1,5 @@
-[[!toc  startlevel=3]]
 [[!meta title="Wizarding World Culture"]]
+[[!toc levels=2 startlevel=3]]
 ## Wizarding World Culture
 
 Of all the many world building elements in the Harry Potter series, this is 

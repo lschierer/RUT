@@ -1,5 +1,5 @@
-[[!toc  startlevel=3]]
 [[!meta title="Dursleys"]]
+[[!toc levels=2 startlevel=3]]
 ## Dursleys
 
 ### As a family

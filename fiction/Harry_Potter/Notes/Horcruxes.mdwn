@@ -8,7 +8,7 @@ was that 1) allowed Riddle to survive hitting [[Harry]] with the killing curse a
 2) affects [[Harry]]'s scar regardless of if that magic is actually a horcrux or
 not.
 
-[[!toc  startlevel=3]]
+[[!toc levels=2 startlevel=3]]
 
 ### Origin
 

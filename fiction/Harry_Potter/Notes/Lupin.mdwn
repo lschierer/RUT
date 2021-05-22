@@ -1,7 +1,7 @@
 [[!meta title="Remus Lupin"]]
 [[!tag "HP Adult"]]
 [[!tag "HP Notes"]] 
-[[!toc  startlevel=3]]
+[[!toc levels=2 startlevel=3]]
 
 ### Facts
 

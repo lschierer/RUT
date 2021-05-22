@@ -1,6 +1,6 @@
 [[!meta title="Adults in the HP Series"]]
 [[!tag "HP Notes"]] 
-[[!toc level=2 startlevel=3]]
+[[!toc levels=2 startlevel=3]]
 
 ### On Adults in General
 

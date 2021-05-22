@@ -1,6 +1,6 @@
 [[!meta title="Sirius Black"]]
 [[!tag "HP Adult"]]
-[[!toc  startlevel=3]]
+[[!toc levels=2 startlevel=3]]
 
 ### facts
 
