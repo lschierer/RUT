@@ -6,10 +6,11 @@ This is another topic on which the books themselves are either incredibly
 incomplete, or utterly impossible.  The interview quoted at the [Harry Potter
 fandom wiki](https://harrypotter.fandom.com/) on occulumency[^20191119-1] makes
 the situation worse, not better.  In the interview, she is asserting that
-Professor Snape's description of occulumency is accurate - that it is the
-practice of compartmentalizing and/or suppressing emotion and memories. This is
-further confirmed in her [article on
-Draco](https://www.wizardingworld.com/writing-by-jk-rowling/draco-malfoy) on what used to be Pottermore.[^20200630-7]
+[[Professor Snape|adults/Snape]]'s description of occulumency is accurate - that
+it is the practice of compartmentalizing and/or suppressing emotion and
+memories. This is further confirmed in her [article on
+Draco](https://www.wizardingworld.com/writing-by-jk-rowling/draco-malfoy) on
+what used to be Pottermore.[^20200630-7]
 
 [^20200630-7]: Mrs. J. K. Rowling. 
     "[Draco Malfoy](https://www.wizardingworld.com/writing-by-jk-rowling/draco-malfoy)"
@@ -27,7 +28,7 @@ like in practice:
   water in the ocean if you've been there, a large table cloth that's a single
   color, or whatever you know and can easily pull up.[^20191119-3]
 
-Harry later figures out what this would be like to hold all the time:
+[[Harry]] later figures out what this would be like to hold all the time:
 
 > Harry had been diligently practicing his clearing of the mind every spare
   moment he had. He was proud of himself for a small break through he had had
@@ -38,22 +39,24 @@ Harry later figures out what this would be like to hold all the time:
   around him, unlike being blind and almost deaf the first time he had done it
   with Daphne.[^20191119-4]
 
-In that story, Harry choses the "view" of a room without light - total darkness.
+In that story, [[Harry]] choses the "view" of a room without light - total darkness.
 This works, but basically means both reduced sight and, because he's partially
 focusing on something else, reduced awareness overall.  Are you really going to
-duel like that, as Professor Snape suggests when fighting Harry in Chapter 28 of
-_the Half-Blood Prince_[^20191119-5]? People really can't effectively multitask
-that way.  You can concentrate on your cleared mind, or on what is happening
-around you (to be able to react to stray curses for example) but not on both.  
+duel like that, as [[Professor Snape|adults/Snape]] suggests when fighting [[Harry]]
+in Chapter 28 of _the Half-Blood Prince_[^20191119-5]? People really can't
+effectively multitask that way.  You can concentrate on your cleared mind, or on
+what is happening around you (to be able to react to stray curses for example)
+but not on both.  
 
-Secondly, it is not even really consistent.  Professor Snape is described
-as a master at occulumency.  However, he is _constantly_ showing his anger,
-hatred, and scorn.  It is not only the positive emotions that can be used
-against you, anger can be used aginst you as well.  The man who cannot look past James Potter to
-see Harry Potter cannot depend on compartmentalization to keep his mind in
-control.  The man who totally loses it when, in that same chapter, Professor
-Snape totally loses control just because Harry attempts to use his own
-spell[^20191119-6] is a master at emotional control?  It does not make sense.  
+Secondly, it is not even really consistent.  [[Professor Snape|adults/Snape]] is
+described as a master at occulumency.  However, he is *constantly* showing his
+anger, hatred, and scorn.  It is not only the positive emotions that can be used
+against you, anger can be used aginst you as well.  The man who cannot look past
+[[James Potter|adults/James_Potter]] to see [[Harry]] Potter cannot depend on
+compartmentalization to keep his mind in control.  The man who totally loses it
+when, in that same chapter, [[Professor Snape|adults/Snape]] totally loses
+control just because [[Harry]] attempts to use his own spell[^20191119-6] is a
+master at emotional control?  It does not make sense.  
 
 Thirdly, shutting down emotions, suppressing them, is not particularly healthy.
 While it is a common short term strategy, and can even be a viable one in the
@@ -61,13 +64,14 @@ fact of a trama situation, long term it will cause problems with your ability to
 form and maintain interpersonal relationships[^20200630-4], long term health
 problems (probably due to stress)[^20200630-5], and others that you can find on
 google. Basically, it is really really bad advice for long term use.  On one
-hand, it certainly describes Snape. On the other, is this really the
-recommendation that Dumbledore has for Harry, whose supposed power is love?
-Either it had no chance of working (which seems to be Mrs. Rowling's theory, in
-the Draco article, but come on, really?) in which case Dumbledore really is
-throwing Harry to the wolves, or Dumbledore does not really care about the
-damage this might do to Harry, in which case he must not really much believe his
-own theory about Harry's love being supper important.
+hand, it certainly describes [[Snape|adults/Snape]]. On the other, is this
+really the recommendation that [[Dumbledore|adults/Dumbledore]] has for
+[[Harry]], whose supposed power is love?  Either it had no chance of working
+(which seems to be Mrs. Rowling's theory, in the Draco article, but come on,
+really?) in which case [[Dumbledore|adults/Dumbledore]] really is throwing [[Harry]]
+to the wolves, or [[Dumbledore|adults/Dumbledore]] does not really care about the
+damage this might do to [[Harry]], in which case he must not really much believe his
+own theory about [[Harry]]'s love being supper important.
 
 [^20200630-4]: Sanjay Srivastava, Maya Tamir, Kelly M. McGonigal, Oliver P.
     John, and James J. Gross. "[The Social Costs of Emotional Suppression: A

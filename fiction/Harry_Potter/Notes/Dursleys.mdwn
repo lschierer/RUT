@@ -34,10 +34,10 @@ her direction.
 
 ### How abusive were they?
 
-* Harry's cupboard is full of spiders
-* Harry's cupboard is "dark."  [^20190610-4]
-* "Dudley's favourite punching bag was Harry" [^20190610-2]
-* Vernon is not just violent towards Harry: 
+* [[Harry]]'s cupboard is full of spiders
+* [[Harry]]'s cupboard is "dark."  [^20190610-4]
+* "Dudley's favourite punching bag was Harry"[^20190610-2]
+* Vernon is not just violent towards [[Harry]]: 
 
   > Dudley was sniffling in the back seat; his father had
   > hit him round the head for holding them up while he tried to pack
@@ -61,7 +61,7 @@ her direction.
   > day. They let Harry out to use the bathroom morning and evening. Otherwise,
   > he was locked in his room around the clock. [^20200513-3]
 * Vernon strangles Harry in _the Order of the Phoenix_[^20200513-4]
-* Harry has some disturbing habits: 
+* [[Harry]] has some disturbing habits: 
 
   > “You'd need more than a good sense of fun to liaise with my uncle,” said
   >  Harry darkly. “Good sense of when to duck, more like.” [^20200513-5]
@@ -72,9 +72,11 @@ her direction.
   > steps from the bottom, as long experience had taught him to remain out of
   > arm’s reach of his uncle whenever possible.[^20200513-6]
 * On the other hand "I accept there’s something strange about you, probably nothing
-  a good beating wouldn’t have cured"[^20190610-7] suggests that Harry's abuse has been
+  a good beating wouldn’t have cured"[^20190610-7] suggests that [[Harry]]'s abuse has been
   emotional in nature (along with neglect of course) and not physical.
-* Dumbledore's most quoted words on the subject come from the meeting in his (Dumbledore's) office just after Sirius dies.
+* [[Dumbledore|adults/Dumbledore]]'s most quoted words on the subject come from
+  the meeting in his ([[Dumbledore|adults/Dumbledore]]'s) office just after
+  [[Sirius|adults/Sirius]] dies.
 
   > Five years ago you arrived at Hogwarts, Harry, safe and whole, as I had
   > planned and intended. Well - not quite whole. You had suffered. I knew you
@@ -82,10 +84,11 @@ her direction.
   > condemning you to ten dark and difficult years.[^20210128-1]
 
   This statement is ambiguous in a number of different senses.  Just what did
-  Dumbledore know, considering the Dursleys had not acted yet, what does
-  Dumbledore mean by "not quite whole," "suffered," and "dark and difficult"?
-  each of these can be taken a number of different ways.  His next statement on
-  the subject, in book six, sheds somewhat more meaningful light:
+  [[Dumbledore|adults/Dumbledore]] know, considering the Dursleys had not acted
+  yet, what does [[Dumbledore|adults/Dumbledore]] mean by "not quite whole,"
+  "suffered," and "dark and difficult"?  Each of these can be taken a number of
+  different ways.  His next statement on the subject, in book six, sheds
+  somewhat more meaningful light:
 
   > You have never treated Harry as a son. He has known nothing but neglect and
   > often cruelty at your hands. The best that can be said is that he has at
@@ -96,7 +99,7 @@ her direction.
 There are also some descriptions of Vernon's behaviour, particularly in the third chapter of
 _the Philosopher's Stone_, that may or may not be Vernon talking more aggressively
 than he acts, and may or may not be figurative language rather than a literal
-description of how he treats Harry.  Overall there is certainly verbal abuse and
+description of how he treats [[Harry]].  Overall there is certainly verbal abuse and
 neglect.  By today's standards we'd consider the above list sufficient to tack
 on physical abuse as well though.  Harry should not have needed to learn to
 _habitually_ stay out of reach for example.  From my reading of other people's

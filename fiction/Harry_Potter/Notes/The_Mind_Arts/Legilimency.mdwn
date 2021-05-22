@@ -10,15 +10,15 @@ Mrs. Rowling's comments on that movie indicate that Legilimency is not
 just a skill you can learn, but one that you can essentially be born with.
 
 Before reading that, my thoughts were certainly trending in the direction
-of the dark arts. The fact that Dumbledore makes fairly free use of
-Legilimency[^20200630-9] is really more proof of the morally ambiguous
-nature of Dumbledore; I am the last person to whitelist a practice
-just because he does it.  Certainly the idea of intruding on a person's
-thoughts, memories and emotions is invasive.  That by itself isn't enough
-to render it evil though.  It is more the way Snape uses it I suppose, the
-way he batters Harry with it, leaving Harry with migraines and nightmares
-that starts me down that path. I am not sure where, but I have also read
-at least one author speculate that a skilled Legilimens might not just be
+of the dark arts. The fact that [[Dumbledore|adults/Dumbledore]] makes fairly
+free use of Legilimency[^20200630-9] is really more proof of the morally
+ambiguous nature of [[Dumbledore|adults/Dumbledore]]; I am the last person to
+whitelist a practice just because he does it.  Certainly the idea of intruding
+on a person's thoughts, memories and emotions is invasive.  That by itself isn't
+enough to render it evil though.  It is more the way Snape uses it I suppose,
+the way he batters [[Harry]] with it, leaving Harry with migraines and
+nightmares that starts me down that path. I am not sure where, but I have also
+read at least one author speculate that a skilled Legilimens might not just be
 able to read and interpret, but might be able to implant and influence
 thoughts, emotions, maybe even manipulate memories. That, to me, would
 unquestionably be a violation of the person's free will, and thus evil.
@@ -55,10 +55,10 @@ damage to yourself.
 
 Lastly, as I discuss when considering [[Mental Shields]] as an
 alternative to [[Occlumency]], using Legilimency must in some way undermine any
-defenses you may have against being yourself attacked with it.  Whatever Snape
-does to protect his own thoughts, when he is attacking Harry's mind, he feels
-the need to take the extra step of removing certain thoughts to make them that
-much more inaccessible.[^20191119-9]
+defenses you may have against being yourself attacked with it.  Whatever
+[[Snape|adults/Snape]] does to protect his own thoughts, when he is attacking
+[[Harry]]'s mind, he feels the need to take the extra step of removing certain
+thoughts to make them that much more inaccessible.[^20191119-9]
 
 
 [^20191119-9]: Mrs. J. K. Rowling.  _Harry Potter and the Order of

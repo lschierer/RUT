@@ -4,7 +4,7 @@
 
 Of all the many world building elements in the Harry Potter series, this is 
 perhaps the most debated.  Mrs. Rowling has given us a very incomplete and at 
-times contradictory look into the world that Harry re-encounters as he turns 
+times contradictory look into the world that [[Harry]] re-encounters as he turns 
 eleven.  Just how separate is the "Wizarding World" from that which those
 without magic inhabit? How many of the differences are due to the school
 environment that dominates the books?  How many real differences does a school
@@ -14,33 +14,34 @@ elements to make their stories work.
 
 ### Household Magic
 
-While the books suggest that Molly has her children do their chores largely
-without magic, I simply cannot see wealthy teen-aged girls going to social events
-without magical assistance, be it charms for their hair, magical replacements
-for make-up (either charms, potions, or both), charms for clothing (both for fit
-and to make the appearance more … magical), so on.  Some of this may be built
-into the fabric when it is purchased, but I am reminded of the descriptions of
-elven women in _The Elvenbane_[^20210329-20].  In that series, the women use
-their appearance and clothing to display their magical prowess, with the goal of
-making themselves more attractive as brides.  Sure no one talks much of that in
-Harry Potter, but I think it is only because it *is* largely a child's series,
-with little attention paid to marriage or the finding of a spouse. The hints of
-this are there.  Lily Evens' magical prowess is referenced over and over again,
-even by Hagrid[^20210329-21] Neville comes from a good family, but is belittled
-for a supposed lack of power.[^20210329-22] [[Ginny]]'s power is also remarked
-upon.[^20210329-23]
+While the books suggest that [[Molly|adults/Molly]] has her children do their
+chores largely without magic, I simply cannot see wealthy teen-aged girls going
+to social events without magical assistance, be it charms for their hair,
+magical replacements for make-up (either charms, potions, or both), charms for
+clothing (both for fit and to make the appearance more … magical), so on.  Some
+of this may be built into the fabric when it is purchased, but I am reminded of
+the descriptions of elven women in _The Elvenbane_[^20210329-20].  In that
+series, the women use their appearance and clothing to display their magical
+prowess, with the goal of making themselves more attractive as brides.  Sure no
+one talks much of that in Harry Potter, but I think it is only because it *is*
+largely a child's series, with little attention paid to marriage or the finding
+of a spouse. The hints of this are there.  Lily Evens' magical prowess is
+referenced over and over again, even by Hagrid[^20210329-21] Neville comes from
+a good family, but is belittled for a supposed lack of power.[^20210329-22]
+[[Ginny]]'s power is also remarked upon.[^20210329-23]
 
-That aside, if Molly is going to teach [[Ginny]] to cook, is she really going to
-teach her to do so entirely without magic?  Sure, [[Ginny]] can peel potatoes, or
-chop vegetables, but we see Molly making some sort of cream sauce with her wand,
-as well as lighting the stove.[^20210329-24] Even if you suppose both silent
-casting like we see in book six, and a form of casting that does not depend on
-precise wand movements, to both turn on a gas stove and light it with a single
-poke? It seems more that Molly has a stove designed for wand-based operation.
-If that is true, [[Ginny]] would have to use her wand, or at least *a* wand, to
-learn to cook on it.  While some families might have house elves, I think that
-the world described is sufficiently traditional that most mothers would be
-teaching daughters to cook, and thus an exception must exist. 
+That aside, if [[Molly|adults/Molly]] is going to teach [[Ginny]] to cook, is
+she really going to teach her to do so entirely without magic?  Sure, [[Ginny]]
+can peel potatoes, or chop vegetables, but we see [[Molly|adults/Molly]] making
+some sort of cream sauce with her wand, as well as lighting the
+stove.[^20210329-24] Even if you suppose both silent casting like we see in book
+six, and a form of casting that does not depend on precise wand movements, to
+both turn on a gas stove and light it with a single poke? It seems more that
+[[Molly|adults/Molly]] has a stove designed for wand-based operation.  If that
+is true, [[Ginny]] would have to use her wand, or at least *a* wand, to learn to
+cook on it.  While some families might have house elves, I think that the world
+described is sufficiently traditional that most mothers would be teaching
+daughters to cook, and thus an exception must exist. 
 
 [^20210329-24]: Mrs. J. K. Rowling. _Harry Potter and the Goblet of Fire_
     Kindle Locations 964-966. Pottermore Limited. American Kindle Edition. 
@@ -64,15 +65,15 @@ wizards|Immigration]].
 
 ### Blood Status
 
-I wrote an entire page on [[class and blood|Class_and_Blood]]. i
+I wrote an entire page on [[class and blood|Class_and_Blood]]. 
 
 Beyond those notes, I think it really interesting when Mrs. Rowling states that
-a Malfoy ancestor argued against the ISWS, was active in "high-born Muggle
-circles, and that much of the family wealth comes from the non-magical
+a [[Malfoy|Families]] ancestor argued against the ISWS, was active in "high-born
+Muggle circles, and that much of the family wealth comes from the non-magical
 world.[^20210420-12]  This provides an additional potential motivation for the
 dislike of the first generation "immigrants" and concordant emphasis on blood
-status, the Malfoys, and families like them, may well want the ISWS to
-fail.[^20210420-13] They want the ISWS to fail not because they like
+status, the [[Malfoys|Families]], and families like them, may well want the ISWS
+to fail.[^20210420-13] They want the ISWS to fail not because they like
 non-magicals, but because they dislike the restrictions on making money off of
 the non-magicals. They may have successfully transitioned and found new sources
 of wealth, but interacting with the muggle economy will always be, in a sense,
@@ -132,10 +133,10 @@ If you go with this theory, while the two governments might have been split at
 this time time, it was not in fact illegal for wizards to live among or do
 business with non-wizards by virtue of this treaty, and would not be until the
 ISWS came in the late 1600s.  However, with the advent of the ISWS, many things
-that some wizards, like the Malfoys, had been doing for years, suddenly became
-illegal.  This prompted the British wizards to revisit their system of
-government and revamp it into the more centralised, more organised, and
-(theoretically) more effective Ministry of Magic.  
+that some wizards, like the [[Malfoys|Families]], had been doing for years,
+suddenly became illegal.  This prompted the British wizards to revisit their
+system of government and revamp it into the more centralised, more organised,
+and (theoretically) more effective Ministry of Magic.  
 
 This theory fits the available cannon sources.  If the two societies had not
 *already* been largely split, then implementing the ISWS would not have been
@@ -234,8 +235,8 @@ movies and the website articles as canonical only when convenient.
 * We do not know if "the full court" is the same as "the full Wizengamot," it is
   possible that some subset is on a "Judicial Committee" or
   some-such.[^20210329-8]  
-* We know that, at least when sitting as a court, Mr. Weasley is not allowed
-  in.[^20210329-9]
+* We know that, at least when sitting as a court, [[Mr. Weasley|adults/Arthur]]
+  is not allowed in.[^20210329-9]
 * We know that, at least when sitting as a court, Mr. Malfoy is not allowed
   in.[^20210329-10]
 * It is strongly implied that the Malfoy family does in fact have a title from
@@ -384,12 +385,12 @@ the magical world.  Thus I believe that while this view may not be universal,
 and that Ravenclaws in particular may dislike the view, that it is a common one.  
 
 This view would have the happy accident of explaining why in the cannon books it
-would not occur to the Weasleys to step in and ensure that Harry and Hermione
-know and understand more about the world and culture they are stepping into,
-leaving so many holes in our view and understanding of that culture.  A culture
-of knowledge hoarding and secrecy would mean that even well meaning people like
-the Weasleys would have an unconscious taboo surrounding actually teaching those
-outside the family anything not taught at school.  
+would not occur to the [[Weasley]]s to step in and ensure that [[Harry]] and
+[[Hermione]] know and understand more about the world and culture they are
+stepping into, leaving so many holes in our view and understanding of that
+culture.  A culture of knowledge hoarding and secrecy would mean that even well
+meaning people like the [[Weasley]]s would have an unconscious taboo surrounding
+actually teaching those outside the family anything not taught at school.  
 
 [tdgsm-1]: <https://www.fanfiction.net/s/13049901> 
 
@@ -437,7 +438,7 @@ and the extensive use of parchment even stupid little notes and homework
 assignments will help keep poor families away from magical knowledge.  If you
 cannot afford parchment, your children cannot do as well at Hogwarts, and thus
 cannot do as well in later life. This came to me when I was reading a fanfiction
-that talked about not just Harry using a fountain pen, but that many pureblood
+that talked about not just [[Harry]] using a fountain pen, but that many pureblood
 wives "secretly" did the same for their (extensive) correspondence.[^20200816-3]
 For whatever reason, it occurred to me to look up the steel nibbed dip pens that
 predated fountain pens, wondering when in non-magical (actual) history pens
@@ -493,15 +494,15 @@ composite object and as such tricky to get predictable results out of when you
 enchant it. The more you know, et cetera.[^20200819-1]
 
 The reference is to some of the fragmentary descriptions we have from
-McGonagall's lectures on transfiguration.  You have to be able to visualise the
-object that you are working your magic on.  In this light it is actually easier
-to see why it might be troublesome to enchant paper.  It would be all too easy
-to have a charm take hold on only a subset of the fibres involved, and thus
-behave erratically across the document.  This makes a strong argument for using
-parchment (or vellum) for documents that are *actually magical in nature* (like
-contracts, tests charmed against cheating, official government or banking forms,
-etc), but not for standard every day things (like homework, class notes, and
-letters (unless you are including privacy charms)).  
+[[McGonagall|adults/McGonagall]]'s lectures on transfiguration.  You have to be
+able to visualise the object that you are working your magic on.  In this light
+it is actually easier to see why it might be troublesome to enchant paper.  It
+would be all too easy to have a charm take hold on only a subset of the fibres
+involved, and thus behave erratically across the document.  This makes a strong
+argument for using parchment (or vellum) for documents that are *actually
+magical in nature* (like contracts, tests charmed against cheating, official
+government or banking forms, etc), but not for standard every day things (like
+homework, class notes, and letters (unless you are including privacy charms)).  
 
 You would then want writing utensils that work equally well on both, but while
 I can't speak to how a fountain pen or ball point pen might work on parchment, a
