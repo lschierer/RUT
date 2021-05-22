@@ -260,10 +260,10 @@ responsible for keeping the house quiet after curfew.  That might work.
 
 ### Teachers
 
-* [[Albus Dumbledore|Dumbledore]]
-* [[Cuthbert Binns|Binns]]
-* [[Minerva McGonagall|McGonagall]]
-* [[Severus Snape|Snape]]
+* [[Albus Dumbledore|adults/Dumbledore]]
+* [[Cuthbert Binns|adults/Binns]]
+* [[Minerva McGonagall|adults/McGonagall]]
+* [[Severus Snape|adults/Snape]]
 
 In more general terms, what is the role of the head of each house?
 [[McGonagall]] shows up to intervene in Gryffindor's internal discipline only in
@@ -294,7 +294,7 @@ has the prefects totally intimidated).  The Head is called in for exceptional
 problems, and if I recall, the punishment is made especially severe to
 discourage "bothering the Head."  Does any of this sound like Hogwarts?  At
 Hogwarts every problem most likely not at all, otherwise by the prefects, and
-finally, by Dumbledore with [[Snape]] attending as advisor, no matter who is
+finally, by [[Dumbledore]] with [[Snape]] attending as advisor, no matter who is
 involved.  Never mind [[McGonagall]] is Deputy Head, and therefore more
 logically the advisor at that point, we need a more Charles Dickens feel about
 it.  Which is probably precisely the point. 
