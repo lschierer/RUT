@@ -26,4 +26,5 @@ an install.  I am <em>very</em> pleased.  By Saturday evening, yes,
 with the help of my dsl connection, but with very little interaction
 on my part, I am back up and running.</p>
 
-[[!tag  uncategorized]]
+[[!tag personal]]
+[[!tag technical]]
