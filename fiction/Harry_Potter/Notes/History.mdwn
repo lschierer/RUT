@@ -263,19 +263,22 @@
 
 * 1901 Queen Victoria died.
 
-* 1901 - Arcturus Black ([[Sirius]] Orion's Paternal Grandfather) born.[^20210122-10]
+* 1901 - Arcturus Black ([[Sirius Orion's|adults/Sirius]] Paternal Grandfather) born.[^20210122-10]
 
 * 1903 - Venusia Crickerly elected Minister for Magic.[^20210330-30]
 
-* 1903 - The Pistols Act 1903: regulates the sale of firearms with a barrel of less than 9 inches.  In practice, this bill does nothing.[^20210228-1]
+* 1903 - The Pistols Act 1903: regulates the sale of firearms with a barrel of
+  less than 9 inches.  In practice, this bill does nothing.[^20210228-1]
 
 * 1906 - Regulus Black (Arcturus' brother) born.[^20210122-11]
 
 * 1912 - Archer Evermonde elected Minister for Magic.[^20210330-31]
 
-* 1912 - Pollux Black ([[Sirius]] Orion's Maternal Grandfather) born.[^20210122-12]
+* 1912 - Pollux Black ([[Sirius Orion's|adults/Sirius]] Maternal Grandfather) born.[^20210122-12]
 
-* 1913 - Henry Potter serves in the Wizengamot, publicly condemns Minister for Magic, Archer Evermonde.  Potter family excluded from the ‘Sacred Twenty-Eight’.[^20210122-25]
+* 1913 - Henry Potter serves in the Wizengamot, publicly condemns Minister for
+  Magic, Archer Evermonde.  Potter family excluded from the ‘Sacred
+  Twenty-Eight’.[^20210122-25]
 
 * 1914 - July 28 - World War I.[^20210514-5]
 
@@ -283,7 +286,11 @@
 
 * 1920 - Dorea Black born[^20210122-3]
 
-* 1920 - The Firearms Act 1920: "It required anyone wanting to purchase or possess a firearm or ammunition to obtain a firearm certificate. The certificate, which lasted for three years, specified not only the firearm but also the amount of ammunition the holder could buy or possess."[^20210228-2]  This law does not affect smooth bore guns.[^20210228-3]
+* 1920 - The Firearms Act 1920: "It required anyone wanting to purchase or
+  possess a firearm or ammunition to obtain a firearm certificate. The
+  certificate, which lasted for three years, specified not only the firearm but
+  also the amount of ammunition the holder could buy or possess."[^20210228-2]
+  This law does not affect smooth bore guns.[^20210228-3]
 
 * 1921 - Henry Potter leaves Wizengamot.[^20210330-44]
 
@@ -354,18 +361,19 @@
   first downfall: “We’ve had precious little to celebrate for
   eleven years.”[^20210514-1] 
 
-* 1971 - September 1st thus James, Lilly and [[Sirius]] start Hogwarts in 1971. 
+* 1971 - September 1st thus [[James|adults/James_Potter]], Lilly and [[Sirius|adults/Sirius]] start Hogwarts in 1971. 
 * Lucius Malfoy is a prefect.[^20210223-2]
 
 * 1975 - Harold Minchum elected Minister for Magic.[^20210330-40]
 
 * 1977 - Dorea Potter nee Black dies[^20210122-4]
 
-* 1977-1978 school year - James, Lily, Severus Snape, et al.  graduate. 
+* 1977-1978 school year - [[James|adults/James_Potter]], Lily, [[Severus Snape|adults/Snape]], et al.  graduate. 
 
-* James and Lilly get married between June of 1978 and fall of 1979, a roughly
-  18 month window of time for them to get married and for any job he has.
-  Sources seem to indicate he may have lived off his inheritance. 
+* [[James|adults/James_Potter]] and Lilly get married between June of 1978 and
+  fall of 1979, a roughly 18 month window of time for them to get married and
+  for any job he has.  Sources seem to indicate he may have lived off his
+  inheritance. 
 
 * 1979 - Orion Black dies[^20210122-6]
 
@@ -374,11 +382,8 @@
 * Harry is born in July 1980. 
 * "little to celebrate" for 11 years prior. [^20190610-1]
 
-* Snape becomes the Potions Professor in either fall of 1981 or 1982, but I
-  think 1981.[^20200806-4]
-
 * 1981-10-31 Wednesday[^20210222-1] night Potters are attacked. 
-* Hagrid, not [[Sirius]], arrives first and gets Harry out of the
+* Hagrid, not [[Sirius|adults/Sirius]], arrives first and gets Harry out of the
   house.[^20200629-4]
 
 * 1981-11-01 Thursday Morning people are already talking about what happened to the Potters.
@@ -392,15 +397,17 @@
 
 * 1981 - November - Slughorn resigns.[^20210514-7]
 
+* 1982 - [[Snape|adults/Snape]] becomes the Potions Professor in either fall of 1982.[^20200806-4]
+
 * 1985 - Walburga Black dies[^20210122-7]
 
 * 1988 - The Firearms (Amendment) Act 1988: no more pump action or other shotguns that have magazines.[^20210228-5]
 
 * 1990 - Cornelius Fudge elected Minister for Magic.[^20210330-42]
 
-* 1990 - Pollux Black ([[Sirius]] Orion's Maternal Grandfather) dies.[^20210122-8]
+* 1990 - Pollux Black ([[Sirius Orion's|adults/Sirius]] Maternal Grandfather) dies.[^20210122-8]
 
-* 1991 - Arcturus Black ([[Sirius]] Orion's Paternal Grandfather) dies.[^20210122-9]
+* 1991 - Arcturus Black ([[Sirius Orion's|adults/Sirius]] Paternal Grandfather) dies.[^20210122-9]
 
 * 1992 - Cygnus Black II dies.[^20210122-14]
 
@@ -634,7 +641,9 @@
     Pottermore 2015-08-10. Last Visited 2021-04-06.
 
 [^20210222-1]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_
-    [[Sirius]] mentions that he intended to check on Pettigrew on "Wednesday" in Chapter 10. Never mind it should have been a Saturday that day. 
+    [[Sirius|adults/Sirius]] mentions that he intended to check on Pettigrew on
+    "Wednesday" in Chapter 10. Never mind it should have been a Saturday that
+    day. 
 
 [^20190611-1]: © of Warner Bros. Entertainment Inc.
     "[James Potter](https://web.archive.org/web/20190108143612/https://www.pottermore.com/explore-the-story/james-potter)"
