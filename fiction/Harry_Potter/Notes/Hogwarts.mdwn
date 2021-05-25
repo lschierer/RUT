@@ -111,6 +111,74 @@ non-magical population than Godric's in the south.
 
 ### General Info
 
+#### Bathrooms
+
+Mrs. Rowling explains that the Chamber of Secrets was not always hidden under a
+sink in a girl's restroom.[^20210525-1] Her dating of its conversion in the
+eighteenth century is probably the common mistake of forgetting that century
+numbers are a digit in advance of the printed date, so the eighteenth century
+would be the 1700s, a bit too early from what I read.[^20210525-2] That aside,
+her explanation[^20210525-3] for what they did instead is, in my opinion, a historical
+exaggeration because potty humour appeals to many young readers.  While chamber
+pots and outdoor privies[^20210525-4] may have been the norm for Britain when Hogwarts was
+built, a magical society connected enough to have a concept of "International"
+in 1298[^20210525-5] should be sufficiently in touch with Byzantium to still
+have a Roman understanding of public latrines based around running
+water.[^20210525-6] 
+
+In _[For Want of an Outfit][FWO1]_ CmptrWz provides a an amusing viable
+alternative that is clearly attempting to work within the limits that Mrs.
+Rowling's explanation for the Chamber creates.  CmptrWz proposes that Hogwarts
+*did* primarily use chamber pots, and thus had no male or female restrooms until
+their introduction in 1815.[^20210525-7] CmptrWz then has the amusing idea that
+while the prefects designated two of the converted rooms male restrooms and two
+female, the faculty failed to actually create any official rules around this.
+The thing is that I can almost see some ancient (in terms of personal age)
+headmaster somewhat bemusedly authorising his prefects to install these modern
+contrivances while being personally nearly as isolated from the school as
+[[Dumbledore|adults/Dumbledore]] is.  Such a headmaster might well have failed
+to fully think through the implications of replacing chamber pots with restrooms
+and thus fail to amend the school rules to prohibit males in the female
+restroom and vice versa.  This is almost as whimsical as Mrs. Rowling's potty
+humour, I suppose, but I find a mentally deficient headmaster failing to create
+rules around student safety to be totally in line with Hogwarts, whereas a general
+lack of hygiene is just … distasteful. 
+
+[FWO1]: https://archiveofourown.org/works/28507302
+
+[^20210525-7]: CmptrWz.
+    _[For Want of an Outfit](https://archiveofourown.org/works/28507302)_
+    [Chapter 24](https://archiveofourown.org/works/28507302/chapters/77941415)
+    Published: 2021-01-02 Updated: 2021-05-24 Last Viewed: 2021-05-25.
+
+[^20210525-6]: [Wikipedia](https://en.wikipedia.org)
+    "[Flush toilet](https://en.wikipedia.org/wiki/Flush_toilet#Pre-modern_flush_toilet_systems)"
+    Last Edited: 2021-04-23. Last Viewed: 2021-05-25.
+
+[^20210525-5]: Mrs. J. K. Rowling. _Harry Potter and the Chamber of Secrets_
+    Chapter 9. better citation needed.
+
+[^20210525-4]: citation needed.
+
+[^20210525-2]: 
+    * Mr. William E. Schmidt. 
+      "[English Bathrooms: Out of the Closet](https://www.nytimes.com/1992/01/23/garden/english-bathrooms-out-of-the-closet.html)"
+      [The New York Times](https://www.nytimes.com) 1992-01-23. 
+      This article is fairly typical of what I found searching for when indoor
+      bathrooms became common
+    * The Victorian Emporium.
+      "[History of Bathrooms](https://www.thevictorianemporium.com/publications/history/article/history_of_bathrooms)"
+      [The Victorian Emporium](https://www.thevictorianemporium.com) 2011-08-04
+      Note the distinction between *baths* and *toilets*
+
+[^20210525-1]: Mrs. J. K. Rowling. 
+    _Hogwarts: An Incomplete and Unreliable Guide_
+    p. 74. Pottermore Publishing. American Kindle Edition. 
+
+[^20210525-3]: Mrs. J. K. Rowling. 
+    _Hogwarts: An Incomplete and Unreliable Guide_
+    p. 74. Pottermore Publishing. American Kindle Edition. 
+
 #### [[Class Schedule|Class_Schedule_Rant]]
 
 #### Punishments
