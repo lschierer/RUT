@@ -329,6 +329,7 @@ responsible for keeping the house quiet after curfew.  That might work.
 
 * [[Albus Dumbledore|adults/Dumbledore]]
 * [[Cuthbert Binns|adults/Binns]]
+* [[Filius Flitwick|adults/Flitwick]]
 * [[Minerva McGonagall|adults/McGonagall]]
 * [[Severus Snape|adults/Snape]]
 
