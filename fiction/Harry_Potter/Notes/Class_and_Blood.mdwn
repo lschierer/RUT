@@ -124,7 +124,7 @@ like Susan [[Bones|Families]] or Hannah Abbott on one hand and Zacharias Smith
 on the other.  We have Ravenclaws who are members of the DA, and others who
 steal from Luna.  
 
-[wwwbrpb]: <https://www.wizardingworld.com/writing-by-jk-rowling/pure-blood>
+[wwwbrpb]: https://www.wizardingworld.com/writing-by-jk-rowling/pure-blood
 
 [^20200701-2]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_
     Kindle Locations 3027-3028. Pottermore Limited. American Kindle Edition. 
