@@ -1,1 +1,34 @@
+These pages serve three purposes:
+
+1. I enjoyed the Harry Potter series.  I really did.  It is *precisely* because
+   [Mrs. Rowling][jkr1]'s Harry is so easy easy to connect with, and the series
+   is in fact incredibly readable that the plot holes and the flaws in many of
+   the characters get on my nerves so much.  This space gives me a forum to rant
+   about the things I would have done differently. 
+2. There are things I wish she had written more about, things she had explained
+   better.  She did some of that on the [Wizarding World][wws1] site, but not
+   enough, and some of it is not fully consistent with the books.  This is a
+   space to dive into some of those ideas.  I can speculate about them, and fill
+   in some of the plot holes.  The [HP Lexicon][hpl1] and the [Harry Potter
+   fandom wiki][hpwiki1] are both excellent resources.  The problem with the
+   former does not always explain *where* it gets its information as well as I
+   would like.  The problem with the latter is that it includes the movies and
+   video games as primary sources far more often that I will tolerate. These
+   pages are essentially *my* version of *her* universe, since she left it
+   incomplete.
+3. I am, at an incredibly slow pace, dabbling with some fanfiction stories.  I
+   am reasonably convinced that these should be legal; that I am not breaking
+   any laws in doing so.  I have already discovered that I am by nature far more
+   of a world builder than a narrator.  This provides a single unified place for
+   the stuff that will be common to everything I write in this line; I am
+   already overly verbose in the way of story notes.
+
+[wws1]: https://www.wizardingworld.com/writing-by-jk-rowling
+
+[hpwiki1]: https://harrypotter.fandom.com/wiki/Main_Page
+
+[hpl1]: https://www.hp-lexicon.org/
+
+[jkr1]: https://www.jkrowling.com/
+
 [[!map pages="fiction/Harry_Potter/Notes/* and tagged(HP_Notes) and ! fiction/Harry_Potter/Notes/*/*"]]
