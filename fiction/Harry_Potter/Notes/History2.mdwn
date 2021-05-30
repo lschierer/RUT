@@ -11,7 +11,7 @@
   }
 
   subgraph world { 
-    node [shape=plaintext];
+    node [shape=plaintext,fixedsize=true,width=4];
     Romans [label=<<table>
     <tr>
       <td port='f0'>410</td>
@@ -19,7 +19,7 @@
       <td>While Hadrian's wall isn't technically the furthest north they ever went, it seems to be the furthest consistently controlled, and probably represents the northern bounds of Christianity. Note, that bit about Christianity is pure speculation on my part.  Interestingly, the oldest known "split-nib metal dip pen" dates from around then.[^20200816-1]</td>
      </tr>
     </table>>];
-    {rank=same 410 Romans:f0 }
+    {rank=same Romans:f0 410}
 
     KingArthur [label=<<table>
     <tr>
@@ -28,7 +28,7 @@
       <td>While the historical reality of King Arthur is uncertain, he would necessarily exist in this timeline.  Merlin could not have been sorted into Slytherin, despite the Pottermore claims.[^20210111-1]</td>
     </tr>
     </table>>];
-    {rank=same 500 KingArthur:f0}
+    {rank=same KingArthur:f0 500}
 
     Augustine [label=<<table>
     <tr>
@@ -37,10 +37,11 @@
       <td>He focused on Kent, so it probably didn't impact northern Scotland till much later.</td>
     </tr>
     </table>>];
-    {rank=same 597 Augustine:f0}
+    {rank=same Augustine:f0 597}
   }
 
   subgraph ordering {
+    node [style=invis];
     rankdir=LR;
     world -> base [style=invis];
   }
