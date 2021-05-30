@@ -21,7 +21,7 @@
   }
 
   subgraph England { 
-    node [shape=plaintext,fixedsize=true,width=6,fontsize=9,color=#f03b20];
+    node [shape=plaintext,fixedsize=true,width=6,fontsize=9,color="#f03b20"];
     KingArthur [label=<<table>
     <tr>
       <td port='f0'>500</td>
