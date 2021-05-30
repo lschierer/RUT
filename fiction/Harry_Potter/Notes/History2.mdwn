@@ -59,7 +59,7 @@
     node [style=invis];
     edge [weight=50,style=invis];
     rankdir=LR;
-    world -> base;
+    world -> base [len=20];;
     {rank=same Romans:f0 410}
     {rank=same KingArthur:f0 500}
     {rank=same Augustine:f0 597}
