@@ -19,10 +19,9 @@
     </tr>
     <tr>
       <td colspan="2">
-      While Hadrian's wall isn't technically the furthest north they ever went, it seems to be the furthest<br/>
-      consistently controlled, and probably represents the northern bounds of Christianity. Note, that bit about<br/>
-      Christianity is pure speculation on my part.  Interestingly, the oldest known "split-nib metal dip pen"<br/>
-      dates from around then.[^20200816-1]</td>
+      While Hadrian's wall isn't technically the furthest north they ever went, it seems to be the furthest consistently<br/>
+      controlled, and probably represents the northern bounds of Christianity. Note, that bit about Christianity is pure<br/>
+      speculation on my part.  Interestingly, the oldest known "split-nib metal dip pen" dates from around then.[^20200816-1]</td>
     </tr>
     </table>>];
     {rank=same Romans:f0 410}
@@ -30,14 +29,12 @@
     KingArthur [label=<<table>
     <tr>
       <td port='f0'>500</td>
-      <td>To the extent that King Arthur and Merlin are historical,<br/>
-      they are somewhere in the 500s.[^20200713-3]</td>
+      <td>To the extent that King Arthur and Merlin are historical, they are somewhere in the 500s.[^20200713-3]</td>
     </tr>
     <tr>
       <td colspan="2">
-      While the historical reality of King Arthur is uncertain, he<br/>
-      would necessarily exist in this timeline.  Merlin could not have<br/>
-      been sorted into Slytherin, despite the Pottermore claims.[^20210111-1]</td>
+      While the historical reality of King Arthur is uncertain, he would necessarily exist in this timeline.  Merlin could<br/>
+      not have been sorted into Slytherin, despite the Pottermore claims.[^20210111-1]</td>
     </tr>
     </table>>];
     {rank=same KingArthur:f0 500}
@@ -49,8 +46,7 @@
     </tr>
     <tr>
       <td colspan="2">
-      He focused on Kent, so it probably didn't impact northern Scotland<br/>
-      till much later.</td>
+      He focused on Kent, so it probably didn't impact northern Scotland till much later.</td>
     </tr>
     </table>>];
     {rank=same Augustine:f0 597}
