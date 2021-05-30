@@ -19,12 +19,12 @@
     </tr>
     <tr>
       <td colspan="2">
-      While Hadrian's wall isn't technically the furthest\n 
-      north they ever went, it seems to be the furthest\n
-      consistently controlled, and probably represents the\n
-      northern bounds of Christianity. Note, that bit about\n
-      Christianity is pure speculation on my part.\n
-      Interestingly, the oldest known "split-nib metal dip\n
+      While Hadrian's wall isn't technically the furthest<br/>
+      north they ever went, it seems to be the furthest<br/>
+      consistently controlled, and probably represents the<br/>
+      northern bounds of Christianity. Note, that bit about<br/>
+      Christianity is pure speculation on my part.<br/>
+      Interestingly, the oldest known "split-nib metal dip<br/>
       pen" dates from around then.[^20200816-1]</td>
     </tr>
     </table>>];
