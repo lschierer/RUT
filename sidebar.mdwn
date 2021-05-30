@@ -2,6 +2,14 @@
 
 [[Archives]]
 
+[[!calendar  type="month" pages="page(*)and 
+  !archives and !archives/* and 
+  !posts and 
+  !tags and !tags/* and 
+  !templates and !templates/* and
+  !wikiicons
+  "]]
+
 [[Tags]]:
 [[!pagestats style="list" pages="./tags/* and ! ./tags/HP_Adult" ]]
 
