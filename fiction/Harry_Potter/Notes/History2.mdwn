@@ -11,7 +11,7 @@
   }
 
   subgraph world { 
-    node [shape=plaintext,fixedsize=true,width=5,fontsize=10];
+    node [shape=plaintext,fixedsize=true,width=6,fontsize=9];
     Romans [label=<<table>
     <tr>
       <td port='f0'>410</td>
@@ -19,13 +19,11 @@
     </tr>
     <tr>
       <td colspan="2">
-      While Hadrian's wall isn't technically the furthest<br/>
-      north they ever went, it seems to be the furthest<br/>
-      consistently controlled, and probably represents the<br/>
-      northern bounds of Christianity. Note, that bit about<br/>
-      Christianity is pure speculation on my part.<br/>
-      Interestingly, the oldest known "split-nib metal dip<br/>
-      pen" dates from around then.[^20200816-1]</td>
+      While Hadrian's wall isn't technically the furthest north they<br/>
+      ever went, it seems to be the furthest consistently controlled,<br/>
+      and probably represents the northern bounds of Christianity. Note,<br/>
+      that bit about Christianity is pure speculation on my part.<br/>
+      Interestingly, the oldest known "split-nib metal dip pen" dates from around then.[^20200816-1]</td>
     </tr>
     </table>>];
     {rank=same Romans:f0 410}
