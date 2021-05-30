@@ -17,7 +17,6 @@
       speculation on my part.  Interestingly, the oldest known "split-nib metal dip pen" dates from around then.[^20200816-1]</td>
     </tr>
     </table>>];
-    {rank=same Romans:f0 410}
   }
 
   subgraph England { 
@@ -33,7 +32,6 @@
       not have been sorted into Slytherin, despite the Pottermore claims.[^20210111-1]</td>
     </tr>
     </table>>];
-    {rank=same KingArthur:f0 500}
 
     Augustine [label=<<table>
     <tr>
@@ -45,7 +43,6 @@
       He focused on Kent, so it probably didn't impact northern Scotland till much later.</td>
     </tr>
     </table>>];
-    {rank=same Augustine:f0 597}
   }
 
   subgraph base { 
@@ -60,6 +57,9 @@
     node [style=invis];
     rankdir=LR;
     world -> base [style=invis];
+    {rank=same Romans:f0 410}
+    {rank=same KingArthur:f0 500}
+    {rank=same Augustine:f0 597}
   }
 """]]
  
