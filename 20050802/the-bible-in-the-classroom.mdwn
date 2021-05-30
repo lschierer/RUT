@@ -36,9 +36,9 @@ opposition that will prevent these children from believing Catholicism.
     <http://www.nytimes.com/2005/08/01/education/01bible.html?ei=5088&en=889c612a8072328a&ex=1280548800&partner=rssnyt&emc=rss&pagewanted=print>
 
 [^2]: Several notes:
-    * Schierer, Luke.  "20050602-1052" Random Unfinished Thoughts, June 02, 2005. [[20050602-1052/20050602-1052]]
-    * Schierer, Luke. "20050502-1503" Random Unfinished Thoughts, May 02, 2005. [[20050502-1503/20050502-1503]]
-    * Schierer, Luke.  "Be Fruitful and multiply" Random Unfinished Thoughts, July 13, 2005. [[20050713-1457/be-fruitful-and-multiply]]
+    * Schierer, Luke.  "[[20050602-1052|20050602/20050602-1052]]" Random Unfinished Thoughts, June 02, 2005. 
+    * Schierer, Luke. "[[20050502-1503|20050502/20050502-1503]]" Random Unfinished Thoughts, May 02, 2005. 
+    * Schierer, Luke.  "[[Be Fruitful and multiply|20050713/be-fruitful-and-multiply]]" Random Unfinished Thoughts, July 13, 2005. 
 
 [^3]: Blumenthal, Ralph and Barbara Novovitch.  "Bible Course Becomes
     a Test for Public Schools in Texas" The New York Times (online) 2005-08-01.
