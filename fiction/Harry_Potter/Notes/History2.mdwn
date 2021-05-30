@@ -11,15 +11,15 @@
 
   subgraph world { 
     node [shape=record];
-    Romans [label="<f0> 410|Romans pulled out of Britain[^20200623-1].|While Hadrian's wall isn't technically the furthest north they ever went, it seems to be the furthest consistently controlled, and probably represents the northern bounds of Christianity. Note, that bit about Christianity is pure speculation on my part.  Interestingly, the oldest known "split-nib metal dip pen" dates from around then.[^20200816-1]"]
-  {rank=same 410 Romans:f0 }
+    Romans [label="<f0> 410|Romans pulled out of Britain.|While Hadrian's wall isn't technically the furthest north they ever went, it seems to be the furthest consistently controlled, and probably represents the northern bounds of Christianity. Note, that bit about Christianity is pure speculation on my part.  Interestingly, the oldest known "split nib metal dip pen" dates from around then."];
 
-    KingArthur [Label="<f0> 500|To the extent that King Arthur and Merlin are historical, they are somewhere in the 500s.[^20200713-3]|While the historical reality of King Arthur is uncertain, he would necessarily exist in this timeline.  Merlin could not havebeen sorted into Slytherin, despite the Pottermore claims.[^20210111-1]"]
-  {rank=same 500 KingArthur:f0}
+    KingArthur [Label="<f0> 500|To the extent that King Arthur and Merlin are historical, they are somewhere in the 500s.|While the historical reality of King Arthur is uncertain, he would necessarily exist in this timeline.  Merlin could not havebeen sorted into Slytherin, despite the Pottermore claims."];
 
-    Augustine [label="<f0> 597|Augustine of Canterbury arrived.[^20200623-2]|He focused on Kent, so it probably didn't impact northern Scotland till much later."]
-    {rank=same 597 Augustine:f0}
+    Augustine [label="<f0> 597|Augustine of Canterbury arrived.|He focused on Kent, so it probably didn't impact northern Scotland till much later."];
   }
+  {rank=same 410 Romans:f0 }
+  {rank=same 500 KingArthur:f0}
+  {rank=same 597 Augustine:f0}
 """]]
  
 
@@ -745,7 +745,7 @@
 
 [^20210301-3]: Mrs. J. K. Rowling. "[Arthur Weasley Fact File](https://web.archive.org/web/20170414075352/https://www.pottermore.com/explore-the-story/arthur-weasley)" <https://www.pottermore.com> Snapshot from 2017-04-14. Last Viewed 2021-03-01 via Internet Archive.
 
-[^20210111-1]: <https://www.pottermore.com/collection/all-about-slytherin> better citation needed as this is now only actually available via the wayback machine.
+[^202101111]: <https://www.pottermore.com/collection/all-about-slytherin> better citation needed as this is now only actually available via the wayback machine.
 
 [^20200714-1]: [Harry Potter Wiki](https://harrypotter.fandom.com). [Screenshot
     of the old Potermore fact file for
@@ -787,7 +787,7 @@
 [^20200818-2]: AndrewWolfe. _[The Ghost of Privet Drive](https://archiveofourown.org/works/21500365)_
     [Archive of Our Own](https://archiveofourown.org/) Last Updated 2020-08-14. Last viewed 2020-08-18. 
 
-[^20200713-3]: [Wikipedia](https://en.wikipedia.org/). 
+[^202007133]: [Wikipedia](https://en.wikipedia.org/). 
     "[King Arthur](https://en.wikipedia.org/wiki/King_Arthur)" Last Viewed 2020-07-13.
 
 [^20210406-1]: [Wikipedia](https://en.wikipedia.org/).
@@ -1027,11 +1027,11 @@
     Pottermore Limited. American Kindle Edition.
 		Approx Kindle Location 9223 of 11332.
 
-[^20200623-1]: [Wikipedia](https://en.wikipedia.org/).
+[^202006231]: [Wikipedia](https://en.wikipedia.org/).
     "[Hadrian's Wall](https://en.wikipedia.org/wiki/Hadrian%27s_Wall)" 
     Last viewed 2020-06-23.
 
-[^20200623-2]: The Editors of Encyclopaedia Britannica. 
+[^202006232]: The Editors of Encyclopaedia Britannica. 
     "[Saint Augustine of Canterbury](https://www.britannica.com/biography/Saint-Augustine-of-Canterbury)"
     <https://britannica.com> Last Viewed 2020-06-23.
 
@@ -1066,7 +1066,7 @@
     <https://harrypotter.fandom.com/wiki/Wizengamot>
 
 
-[^20200816-1]: [Wikipedia](https://en.wikipedia.org/).
+[^202008161]: [Wikipedia](https://en.wikipedia.org/).
     "[Dip pen](https://en.wikipedia.org/wiki/Dip_pen)" Last Edited 2020-07-24. Last Viewed 2020-08-16
 
 [^20200816-2]: [Wikipedia](https://en.wikipedia.org/).
