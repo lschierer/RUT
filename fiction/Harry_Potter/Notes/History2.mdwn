@@ -3,16 +3,8 @@
 [[!graph src="""
   compound=true;
   truecolor=true;
-  subgraph base { 
-    node [style=invis];
-    400 -> 450 -> 500 -> 550 -> 600 -> 650 -> 700 -> 750 -> 800 -> 850 -> 900 -> 950 -> 1000 -> 1050 -> 1100 -> 1150 -> 1200 -> 1250 -> 1300 -> 1350 -> 1400 -> 1450 -> 1500 -> 1550 -> 1600 -> 1650 -> 1700 -> 1750 -> 1800 -> 1850 -> 1900 -> 1950 -> 2000 [weight=50,len=50,style=invis];
-    400 -> 410 [weight=50,len=10,style=invis];
-    597 -> 600 [weight=50,len=3,style=invis];
-
-  }
-
   subgraph world { 
-    node [shape=plaintext,fixedsize=true,width=6,fontsize=9,color=#f03b20];
+    node [shape=plaintext,fixedsize=true,width=6,fontsize=9,];
     Romans [label=<<table>
     <tr>
       <td port='f0'>410</td>
@@ -29,7 +21,7 @@
   }
 
   subgraph England { 
-    node [shape=plaintext,fixedsize=true,width=6,fontsize=9,color=];
+    node [shape=plaintext,fixedsize=true,width=6,fontsize=9,color=#f03b20];
     KingArthur [label=<<table>
     <tr>
       <td port='f0'>500</td>
@@ -54,6 +46,14 @@
     </tr>
     </table>>];
     {rank=same Augustine:f0 597}
+  }
+
+  subgraph base { 
+    node [style=invis];
+    400 -> 450 -> 500 -> 550 -> 600 -> 650 -> 700 -> 750 -> 800 -> 850 -> 900 -> 950 -> 1000 -> 1050 -> 1100 -> 1150 -> 1200 -> 1250 -> 1300 -> 1350 -> 1400 -> 1450 -> 1500 -> 1550 -> 1600 -> 1650 -> 1700 -> 1750 -> 1800 -> 1850 -> 1900 -> 1950 -> 2000 [weight=50,len=50,style=invis];
+    400 -> 410 [weight=50,len=10,style=invis];
+    597 -> 600 [weight=50,len=3,style=invis];
+
   }
 
   subgraph ordering {
