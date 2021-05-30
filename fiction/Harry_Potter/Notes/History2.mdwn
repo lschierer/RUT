@@ -21,12 +21,24 @@
     </table>>];
     {rank=same 410 Romans:f0 }
 
-    KingArthur [Label="<f0> 500|To the extent that King Arthur and Merlin are historical, they are somewhere in the 500s.|While the historical reality of King Arthur is uncertain, he would necessarily exist in this timeline.  Merlin could not havebeen sorted into Slytherin, despite the Pottermore claims."];
+    KingArthur [Label=<<table>
+    <tr>
+      <td port='f0;>500</td>
+      <td>To the extent that King Arthur and Merlin are historical, they are somewhere in the 500s.</td>
+      <td>While the historical reality of King Arthur is uncertain, he would necessarily exist in this timeline.  Merlin could not havebeen sorted into Slytherin, despite the Pottermore claims.</td>
+    </tr>
+    </table>>];
+    {rank=same 500 KingArthur:f0}
 
-    Augustine [label="<f0> 597|Augustine of Canterbury arrived.|He focused on Kent, so it probably didn't impact northern Scotland till much later."];
+    Augustine [label=<<table>
+    <tr>
+      <td port='f0'>597</td>
+      <td>Augustine of Canterbury arrived.</td>
+      <td>He focused on Kent, so it probably didn't impact northern Scotland till much later.</td>
+    </tr>
+    </table>>];
+    {rank=same 597 Augustine:f0}
   }
-  {rank=same 500 KingArthur:f0}
-  {rank=same 597 Augustine:f0}
 """]]
  
 
