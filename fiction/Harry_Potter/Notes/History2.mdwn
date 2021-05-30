@@ -4,7 +4,7 @@
   compound=true;
   truecolor=true;
   subgraph world { 
-    node [shape=plaintext,fixedsize=true,width=6,fontsize=9,];
+    node [shape=plaintext,fixedsize=true,width=6,fontsize=9];
     Romans [label=<<table>
     <tr>
       <td port='f0'>410</td>
