@@ -2,8 +2,6 @@
 
 [[!img History.svg id="History"]]
 
-* 927 - July 12, Kingdom of England formed by Æthelstan.[^20210406-1]
-
 * 939 - Edmund I of England.[^20210406-10]
 
 * 943 - Malcolm I of Scotland.[^20210406-31]
@@ -753,6 +751,10 @@
 
 [^20200713-3]: [Wikipedia](https://en.wikipedia.org/). 
     "[King Arthur](https://en.wikipedia.org/wiki/King_Arthur)" Last Viewed 2020-07-13.
+
+[^20210531-1]: [Wikipedia](https://en.wikipedia.org/).
+    "[Kingdom of England](https://en.wikipedia.org/wiki/Kingdom_of_England)"
+    Last Edited: 2021-04-05. Last Viewed: 2021-04-06.
 
 [^20210406-1]: [Wikipedia](https://en.wikipedia.org/).
     "[Kingdom of England](https://en.wikipedia.org/wiki/Kingdom_of_England)"
