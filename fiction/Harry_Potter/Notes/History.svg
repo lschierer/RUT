@@ -120,12 +120,12 @@
 				<circle
 					style="fill:#fed976;fill-opacity:1;"
 					r="1"
-					cx="4"
+					cx="2"
 					cy="1"
 				/>
 				<polyline
 					style="fill:#fed976;fill-opacity:1;stroke-width:0.5;stroke:#fed976;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
-					points="4,0 4,42"/>
+					points="2,0 2,42"/>
 				<text
 					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #fed976;"
 					x="5"
