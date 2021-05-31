@@ -63,6 +63,32 @@
 						have been sorted into Slytherin, despite the Pottermore claims.[^20210111-1]
 					</text>
       </g>
+      <g
+         id="800 A.D."
+         transform="translate(2,800)">
+				 <defs>
+				 	<rect id="wrap" x="5" y="1" width="200" height="80"/>
+				</defs>
+        <circle
+           style="fill:#ff0000;fill-opacity:1;"
+           r="1"
+           cx="2"
+           cy="1"
+           />
+        <polyline
+           style="fill:#ff0000;fill-opacity:1;stroke-width:0.5;stroke:#fed976;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
+           points="2,0 2,200"
+           id="polyline50088" />
+        <text
+          id="text50090"
+         	style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #ff0000;"
+          inline-size="200px"
+          x="5"
+          y="1">
+						800 - The Norse raiders imposed paganism in the areas they controlled, starting
+						sometime around 800 through apparently the 10th century.[^20200623-5]
+				</text>
+			</g>
     </g>
     <g
 	   transform="translate(2,0)"
@@ -111,6 +137,33 @@
           x="5"
           y="1">
 						600 - Northumbria, the northern most of the English precursor kingdoms, converted in the 600s.[^20200623-3]
+				</text>
+			</g>
+      <g
+         id="800 A.D."
+         transform="translate(2,800)">
+				 <defs>
+				 	<rect id="wrap" x="5" y="1" width="200" height="80"/>
+				</defs>
+        <circle
+           style="fill:#fed976;fill-opacity:1;"
+           r="1"
+           cx="2"
+           cy="1"
+           />
+        <polyline
+           style="fill:#fed976;fill-opacity:1;stroke-width:0.5;stroke:#fed976;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
+           points="2,0 2,50"
+           id="polyline50088" />
+        <text
+          id="text50090"
+         	style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #fed976;"
+          inline-size="200px"
+          x="5"
+          y="1">
+						800 - "Pictish stones began to show Christian symbolism from the early eighth 
+						century"[^20200623-4] The exact progress of Christianity in Scotland seems to
+						be largely speculative, messy, and slow.
 				</text>
 			</g>
     </g>
