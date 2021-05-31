@@ -109,16 +109,15 @@
 					style="fill:#ff0000;fill-opacity:1;"
 					r="1"
 					cx="3"
-					cy="1"
+					cy="27"
 				/>
 				<polyline
 					style="fill:#ff0000;fill-opacity:1;stroke-width:0.5;stroke:#ff0000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
 					points="3,27 3,39"/>
 				<text
-					transform="translate(0,2)"
 					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #ff0000;"
 					x="5"
-					y="1">
+					y="27">
 					927 - Æthelstan is the first king of England.[^20210531-1]
 				</text>
 			</g>
