@@ -23,8 +23,15 @@
       <text
          id="text49243"
          style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;"
-         x="5 5 5"
-         y="1 5 10">410 - Romans pulled out of Britain.[^20200623-1]  While Hadrian's wall isn't technically the furthest north they ever went, it seems to be the furthest consistently controlled, and probably represents the northern bounds of Christianity. Note, that bit about Christianity is pure speculation on my part.  Interestingly, the oldest known &quot;split-nib metal dip pen&quot; dates from around then.[^20200816-1]</text>
+         x="5 5 5 5 5 5"
+         y="1 4 8 12 16 20">
+				 410 - Romans pulled out of Britain.[^20200623-1]  While Hadrian's wall isn't 
+				 technically the furthest north they ever went, it seems to be the furthest 
+				 consistently controlled, and probably represents the northern bounds of 
+				 Christianity. Note, that bit about Christianity is pure speculation on my part.  
+				 Interestingly, the oldest known &quot;split-nib metal dip pen&quot; dates from 
+				 around then.[^20200816-1]
+			</text>
     </g>
     <g
 	   transform="translate(1,0)"
