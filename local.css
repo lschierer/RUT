@@ -66,6 +66,11 @@ hr { border-top: #ffffff 1px solid; }
 
 img { border: none; }
 
+img#History { 
+	border: none;
+	width: 100%;
+}
+
 input, textarea { color: 3399ff; background: #3C454B; border: #3399ff 1px solid; }
 
 p { line-height: 1.5em; margin: 0 0 1em; padding: 0; }

@@ -1,6 +1,6 @@
 #### History of the Harry Potter World
 
-[[!img History.svg]]
+[[!img id="History" History.svg]]
 
 * "The long reign (900–942/3) of Donald's successor Causantín (Constantine II)
   is often regarded as the key to formation of the Kingdom of Alba/Scotland, and
