@@ -71,7 +71,7 @@
 					cy="1"
 				/>
 				<polyline
-					style="fill:#ff0000;fill-opacity:1;stroke-width:0.5;stroke:#fed976;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
+					style="fill:#ff0000;fill-opacity:1;stroke-width:0.5;stroke:#ff0000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
 					points="2,0 2,200"
 				/>
 				<text
