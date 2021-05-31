@@ -11,7 +11,7 @@
 		id="World">
 		<g
 			id="410 A.D."
-			transform="translate(2,410)">
+			transform="translate(0,410)">
 			<defs>
 				<rect id="wrap" x="5" y="1" width="200" height="80"/>
 			</defs>
@@ -22,7 +22,6 @@
 				cy="2"
 			/>
 			<text
-				id="text49243"
 				x="5"
 				y="1"
 				style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);"
@@ -40,7 +39,7 @@
 			id="British">
 			<g
 				id="500 A.D."
-				transform="translate(2,500)">
+				transform="translate(0,500)">
 				<defs>
 					<rect id="wrap" x="5" y="1" width="200" height="80"/>
 				</defs>
@@ -65,7 +64,7 @@
 			</g>
 			<g
 				id="800 A.D."
-				transform="translate(2,800)">
+				transform="translate(0,800)">
 				<defs>
 					<rect id="wrap" x="5" y="1" width="200" height="80"/>
 				</defs>
@@ -78,9 +77,8 @@
 				<polyline
 					style="fill:#ff0000;fill-opacity:1;stroke-width:0.5;stroke:#fed976;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
 					points="2,0 2,200"
-					id="polyline50088" />
+				/>
 				<text
-					id="text50090"
 					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #ff0000;"
 					inline-size="200px"
 					x="5"
@@ -95,7 +93,7 @@
 			id="Church">
 			<g
 				id="597 A.D."
-				transform="translate(2,597)">
+				transform="translate(0,597)">
 				<defs>
 					<rect id="wrap" x="5" y="1" width="200" height="80"/>
 				</defs>
@@ -106,7 +104,6 @@
 					cy="1"
 				/>
 				<text
-					id="text50085"
 					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #fed976;"
 					inline-size="200px"
 					x="5"
@@ -116,7 +113,7 @@
 				</g>
 				<g
 				id="600 A.D."
-				transform="translate(2,600)">
+				transform="translate(0,600)">
 				<defs>
 					<rect id="wrap" x="5" y="1" width="200" height="80"/>
 				</defs>
@@ -129,9 +126,8 @@
 				<polyline
 					style="fill:#fed976;fill-opacity:1;stroke-width:0.5;stroke:#fed976;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
 					points="2,0 2,99"
-					id="polyline50088" />
+				/>
 				<text
-					id="text50090"
 					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #fed976;"
 					inline-size="200px"
 					x="5"
@@ -141,7 +137,7 @@
 			</g>
 			<g
 				id="800 A.D."
-				transform="translate(2,800)">
+				transform="translate(0,800)">
 				<defs>
 					<rect id="wrap" x="5" y="1" width="200" height="80"/>
 				</defs>
@@ -154,9 +150,8 @@
 				<polyline
 					style="fill:#fed976;fill-opacity:1;stroke-width:0.5;stroke:#fed976;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
 					points="2,0 2,50"
-					id="polyline50088" />
+				/>
 				<text
-					id="text50090"
 					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #fed976;"
 					inline-size="200px"
 					x="5"
