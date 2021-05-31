@@ -10,7 +10,6 @@
 		transform="translate(2,-400)"
 		id="World">
 		<g
-			id="410 A.D."
 			transform="translate(0,410)">
 			<defs>
 				<rect id="wrap" x="5" y="1" width="200" height="80"/>
@@ -38,7 +37,6 @@
 			transform="translate(1,0)"
 			id="British">
 			<g
-				id="500 A.D."
 				transform="translate(0,500)">
 				<defs>
 					<rect id="wrap" x="5" y="1" width="200" height="80"/>
@@ -63,7 +61,6 @@
 				</text>
 			</g>
 			<g
-				id="800 A.D."
 				transform="translate(0,800)">
 				<defs>
 					<rect id="wrap" x="5" y="1" width="200" height="80"/>
@@ -92,7 +89,6 @@
 			transform="translate(2,0)"
 			id="Church">
 			<g
-				id="597 A.D."
 				transform="translate(0,597)">
 				<defs>
 					<rect id="wrap" x="5" y="1" width="200" height="80"/>
@@ -112,7 +108,6 @@
 					</text>
 				</g>
 				<g
-				id="600 A.D."
 				transform="translate(0,600)">
 				<defs>
 					<rect id="wrap" x="5" y="1" width="200" height="80"/>
@@ -136,7 +131,6 @@
 				</text>
 			</g>
 			<g
-				id="800 A.D."
 				transform="translate(0,800)">
 				<defs>
 					<rect id="wrap" x="5" y="1" width="200" height="80"/>
