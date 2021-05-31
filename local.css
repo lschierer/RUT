@@ -127,6 +127,7 @@ input#searchbox {
 
 #History { 
 	border: 1px solid #3399ff;
+	height: auto;
 	width: 100%;
 }
 
