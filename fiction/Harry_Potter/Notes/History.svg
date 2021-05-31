@@ -41,6 +41,9 @@
       <g
          id="500 A.D."
          transform="translate(2,500)">
+				 <defs>
+				 	<rect id="wrap" x="5" y="1" width="200" height="80"/>
+				</defs>
         <circle
            style="fill:#ff0000;fill-opacity:1;"
            r="1"
@@ -51,10 +54,14 @@
            style="fill:#ff0000;fill-opacity:1;stroke-width:0.5;stroke:#ff0000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
            points="2,0 2,99"/>
         <text
-         style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;fill: #ff0000;"
-           inline-size="200px"
-           x="5"
-           y="1">500 - While the historical reality of King Arthur is uncertain, he would necessarily exist in this timeline.  To the extent that King Arthur and Merlin are historical, they are somewhere in the 500s.[^20200713-3]  Merlin could not have been sorted into Slytherin, despite the Pottermore claims.[^20210111-1]</text>
+         style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #ff0000;"
+          x="5"
+          y="1">
+						500 - While the historical reality of King Arthur is uncertain, he would 
+						necessarily exist in this timeline.  To the extent that King Arthur and Merlin 
+						are historical, they are somewhere in the 500s.[^20200713-3]  Merlin could not 
+						have been sorted into Slytherin, despite the Pottermore claims.[^20210111-1]
+					</text>
       </g>
     </g>
     <g
@@ -63,6 +70,9 @@
       <g
          id="597 A.D."
          transform="translate(2,597)">
+				 <defs>
+				 	<rect id="wrap" x="5" y="1" width="200" height="80"/>
+				</defs>
         <circle
            style="fill:#fed976;fill-opacity:1;"
            r="1"
@@ -70,15 +80,20 @@
            cy="1"
            />
         <text
-           id="text50085"
-           style="font-size:3.200px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space: pre-line;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fed976;"
-           inline-size="200px"
-           x="5"
-           y="1">597 - Augustine of Canterbury arrived.[^20200623-2] He focused on Kent, so it probably didn't impact northern Scotland till much later.</text>
+          id="text50085"
+         	style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #fed976;"
+          inline-size="200px"
+          x="5"
+          y="1">
+						597 - Augustine of Canterbury arrived.[^20200623-2] He focused on Kent, so it probably didn't impact northern Scotland till much later.
+					</text>
       </g>
       <g
          id="600 A.D."
          transform="translate(2,600)">
+				 <defs>
+				 	<rect id="wrap" x="5" y="1" width="200" height="80"/>
+				</defs>
         <circle
            style="fill:#fed976;fill-opacity:1;"
            r="1"
@@ -90,12 +105,14 @@
            points="2,0 2,99"
            id="polyline50088" />
         <text
-           id="text50090"
-           style="font-size:3.200px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space: pre-line;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fed976;"
-           inline-size="200px"
-           x="5"
-           y="1">600 - Northumbria, the northern most of the English precursor kingdoms, converted in the 600s.[^20200623-3]</text>
-      </g>
+          id="text50090"
+         	style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #fed976;"
+          inline-size="200px"
+          x="5"
+          y="1">
+						600 - Northumbria, the northern most of the English precursor kingdoms, converted in the 600s.[^20200623-3]
+				</text>
+			</g>
     </g>
   </g>
 </svg>
