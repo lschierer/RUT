@@ -2,11 +2,6 @@
 
 [[!img History.svg id="History"]]
 
-* "The long reign (900–942/3) of Donald's successor Causantín (Constantine II)
-  is often regarded as the key to formation of the Kingdom of Alba/Scotland, and
-  he was later credited with bringing Scottish Christianity into conformity with
-  the Catholic Church."[^20210406-30]
-
 * 927 - July 12, Kingdom of England formed by Æthelstan.[^20210406-1]
 
 * 939 - Edmund I of England.[^20210406-10]
@@ -874,6 +869,10 @@
 [^20210406-29]: [Wikipedia](https://en.wikipedia.org/).
     "[https://en.wikipedia.org/wiki/List_of_English_monarchs](https://en.wikipedia.org/wiki/List_of_English_monarchs)"
     Last Edited: 2021-04-05. Last Viewed: 2021-04-06.
+
+[^20210531-1]: [Wikipedia](https://en.wikipedia.org/).
+    "[Kingdom of Scotland](https://en.wikipedia.org/wiki/Kingdom_of_Scotland)"
+    Last Edited: 2021-04-03. Last Viewed: 2021-04-06.
 
 [^20210406-30]: [Wikipedia](https://en.wikipedia.org/).
     "[Kingdom of Scotland](https://en.wikipedia.org/wiki/Kingdom_of_Scotland)"

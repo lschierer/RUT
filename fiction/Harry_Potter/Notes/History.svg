@@ -60,6 +60,30 @@
 				</text>
 			</g>
 			<g
+				transform="translate(0,900)">
+				<defs>
+					<rect id="wrap" x="5" y="1" width="200" height="80"/>
+				</defs>
+				<circle
+					style="fill:#ff0000;fill-opacity:1;"
+					r="1"
+					cx="2"
+					cy="1"
+				/>
+				<polyline
+					style="fill:#ff0000;fill-opacity:1;stroke-width:0.5;stroke:#ff0000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
+					points="3,0 3,42"/>
+				<text
+					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #ff0000;"
+					x="5"
+					y="1">
+					900 - "The long reign (900–942/3) of Donald's successor Causantín (Constantine II)
+					is often regarded as the key to formation of the Kingdom of Alba/Scotland.[^20210531-1]
+					he was later credited with bringing Scottish Christianity into conformity with
+					the Catholic Church."[^20210406-30]
+				</text>
+			</g>
+			<g
 				transform="translate(0,802)">
 				<defs>
 					<rect id="wrap" x="5" y="1" width="200" height="80"/>
@@ -87,6 +111,27 @@
 		<g
 			transform="translate(4,0)"
 			id="Church">
+			<g
+				transform="translate(0,900)">
+				<defs>
+					<rect id="wrap" x="5" y="1" width="200" height="80"/>
+				</defs>
+				<circle
+					style="fill:#fed976;fill-opacity:1;"
+					r="1"
+					cx="2"
+					cy="1"
+				/>
+				<polyline
+					style="fill:#fed976;fill-opacity:1;stroke-width:0.5;stroke:#fed976;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
+					points="4,0 4,42"/>
+				<text
+					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #fed976;"
+					x="5"
+					y="1">
+					900 - Causantín (Constantine II) was credited with bringing Scottish Christianity into conformity with the Catholic Church sometime during his reign.[^20210406-30]
+				</text>
+			</g>
 			<g
 				transform="translate(0,597)">
 				<defs>
