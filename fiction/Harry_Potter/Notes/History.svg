@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="History.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-grids="true"
+     inkscape:zoom="0.67607926"
+     inkscape:cx="-154.56768"
+     inkscape:cy="613.83335"
+     inkscape:window-width="1312"
+     inkscape:window-height="990"
+     inkscape:window-x="601"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Church" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="World"
+     inkscape:groupmode="layer"
+     transform="translate(2,-400)"
+     id="World">
+    <g
+       id="410 A.D."
+       transform="translate(2,410)">
+      <circle
+         style="fill:#010000;fill-opacity:1;"
+         r="1"
+         cx="2"
+         cy="2"
+         />
+      <text
+         id="text49243"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre"
+         inline-size="175px"
+         x="5"
+         y="1">410 - Romans pulled out of Britain.[^20200623-1]  While Hadrian's wall isn't technically the furthest north they ever went, it seems to be the furthest consistently controlled, and probably represents the northern bounds of Christianity. Note, that bit about Christianity is pure speculation on my part.  Interestingly, the oldest known &quot;split-nib metal dip pen&quot; dates from around then.[^20200816-1]</text>
+    </g>
+    <g
+       inkscape:label="British"
+       inkscape:groupmode="layer"
+	   transform="translate(1,0)"
+       id="British">
+      <g
+         id="500 A.D."
+         transform="translate(2,500)">
+        <circle
+           style="fill:#ff0000;fill-opacity:1;"
+           r="1"
+           cx="2"
+           cy="1"
+           />
+        <polyline
+           style="fill:#ff0000;fill-opacity:1;stroke-width:0.5;stroke:#ff0000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
+           points="2,0 2,99"/>
+        <text
+           style="font-size:3.175px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;"
+           inline-size="175px"
+           x="5"
+           y="1">500 - While the historical reality of King Arthur is uncertain, he would necessarily exist in this timeline.  To the extent that King Arthur and Merlin are historical, they are somewhere in the 500s.[^20200713-3]  Merlin could not have been sorted into Slytherin, despite the Pottermore claims.[^20210111-1]</text>
+      </g>
+    </g>
+    <g
+       inkscape:label="Church"
+       inkscape:groupmode="layer"
+	   transform="translate(2,0)"
+       id="Church">
+      <g
+         id="597 A.D."
+         transform="translate(2,597)">
+        <circle
+           style="fill:#fed976;fill-opacity:1;"
+           r="1"
+           cx="2"
+           cy="1"
+           />
+        <text
+           id="text50085"
+           style="font-size:3.175px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fed976;"
+           inline-size="200px"
+           x="5"
+           y="1">597 - Augustine of Canterbury arrived.[^20200623-2] He focused on Kent, so it probably didn't impact northern Scotland till much later.</text>
+      </g>
+      <g
+         id="600 A.D."
+         transform="translate(2,600)">
+        <circle
+           style="fill:#fed976;fill-opacity:1;"
+           r="1"
+           cx="2"
+           cy="1"
+           />
+        <polyline
+           style="fill:#fed976;fill-opacity:1;stroke-width:0.5;stroke:#fed976;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
+           points="2,0 2,99"
+           id="polyline50088" />
+        <text
+           id="text50090"
+           style="font-size:3.175px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';white-space:pre;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fed976;"
+           inline-size="175px"
+           x="5"
+           y="1">600 - Northumbria, the northern most of the English precursor kingdoms, converted in the 600s.[^20200623-3]</text>
+      </g>
+    </g>
+  </g>
+</svg>
