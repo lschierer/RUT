@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 
 <svg
-   width="250mm"
-   height="800mm"
-   viewBox="0 0 250 800"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <g
@@ -34,7 +31,7 @@
 			</text>
 		</g>
 		<g
-			transform="translate(1,0)"
+			transform="translate(2,0)"
 			id="British">
 			<g
 				transform="translate(0,500)">
@@ -61,7 +58,7 @@
 				</text>
 			</g>
 			<g
-				transform="translate(0,800)">
+				transform="translate(0,802)">
 				<defs>
 					<rect id="wrap" x="5" y="1" width="200" height="80"/>
 				</defs>
@@ -86,7 +83,7 @@
 			</g>
 		</g>
 		<g
-			transform="translate(2,0)"
+			transform="translate(4,0)"
 			id="Church">
 			<g
 				transform="translate(0,597)">
