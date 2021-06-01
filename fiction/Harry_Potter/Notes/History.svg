@@ -22,13 +22,14 @@
 			font-variant:normal;
 			font-weight:normal;
 			font-stretch:normal;
-			font-size:9px;
+			font-size:3px;
 			font-family:sans-serif;
 			font-variant-ligatures:normal;
 			font-variant-caps:normal;
 			font-variant-numeric:normal;
 			font-variant-east-asian:normal;
 			line-height:1;
+			stroke-width:0.1;
 			text-overflow:ellipsis;
 			white-space: pre-line;
 		}
@@ -47,8 +48,7 @@
 				x="5"
 				y="1"
 				style="shape-inside: url(#wrap);"
-			>
-				410 - Romans pulled out of Britain.[^20200623-1]  While Hadrian's wall isn't 
+			>	410 - Romans pulled out of Britain.[^20200623-1]  While Hadrian's wall isn't 
 				technically the furthest north they ever went, it seems to be the furthest 
 				consistently controlled, and probably represents the northern bounds of 
 				Christianity. Note, that bit about Christianity is pure speculation on my part.  
@@ -69,8 +69,8 @@
 				<text
 					style="shape-inside: url(#wrap);"
 					x="5"
-					y="1">
-					992 - Hogwarts was founded "over a thousand years" before HP2.[^20200622-1] Given
+					y="1"
+				>	992 - Hogwarts was founded "over a thousand years" before HP2.[^20200622-1] Given
 					the above, we can safely say that by pretty much any date in the 800s or 900s
 					Christianity was around. However, it seems safe to say that the Hogwarts
 					founders would also have been recruiting students from pagan backgrounds as
@@ -98,8 +98,8 @@
 					style="shape-inside: url(#wrap);"
 					transform="translate(0,2)"
 					x="5"
-					y="1">
-					900 - "The long reign (900–942/3) of Donald's successor Causantín (Constantine II)
+					y="1"
+				>	900 - "The long reign (900–942/3) of Donald's successor Causantín (Constantine II)
 					is often regarded as the key to formation of the Kingdom of Alba/Scotland.[^20210531-1]
 				</text>
 			</g>
@@ -118,8 +118,8 @@
 				<text
 					style="shape-inside: url(#wrap);"
 					x="5"
-					y="1">
-					500 - While the historical reality of King Arthur is uncertain, he would 
+					y="1"
+				>	500 - While the historical reality of King Arthur is uncertain, he would 
 					necessarily exist in this timeline.  To the extent that King Arthur and Merlin 
 					are historical, they are somewhere in the 500s.[^20200713-3]  Merlin could not 
 					have been sorted into Slytherin, despite the Pottermore claims.[^20210111-1]
@@ -134,8 +134,8 @@
 				<text
 					style="shape-inside: url(#wrap);"
 					x="5"
-					y="1">
-					927-07-12 - Kingdom of England formed by Æthelstan.[^20210406-1]
+					y="1"
+				>	927-07-12 - Kingdom of England formed by Æthelstan.[^20210406-1]
 				</text>
 			</g>
 			<g
@@ -148,8 +148,8 @@
 				<text
 					style="shape-inside: url(#wrap);"
 					x="5"
-					y="1">
-					927 - Æthelstan is the first king of England.[^20210531-1]
+					y="1"
+				>	927 - Æthelstan is the first king of England.[^20210531-1]
 				</text>
 			</g>
 			<g
@@ -162,8 +162,8 @@
 				<text
 					style="shape-inside: url(#wrap);"
 					x="5"
-					y="1">
-					800 - The Norse raiders imposed paganism in the areas they controlled, starting
+					y="1"
+				> 800 - The Norse raiders imposed paganism in the areas they controlled, starting
 					sometime around 800 through apparently the 10th century.[^20200623-5]
 				</text>
 			</g>
@@ -177,8 +177,8 @@
 				<text
 					style="shape-inside: url(#wrap);"
 					x="5"
-					y="1">
-					939 - Edmund I of England.[^20210406-10]
+					y="1"
+				>	939 - Edmund I of England.[^20210406-10]
 				</text>
 			</g>
 			<g
@@ -191,8 +191,8 @@
 				<text
 					style="shape-inside: url(#wrap);"
 					x="5"
-					y="1">
-					946 - Eadred of England.[^20210406-11]
+					y="1"
+				>	946 - Eadred of England.[^20210406-11]
 				</text>
 			</g>
 			<g
@@ -205,8 +205,8 @@
 				<text
 					style="shape-inside: url(#wrap);"
 					x="5"
-					y="1">
-					946 - Eadwig of England.[^20210406-12]
+					y="1"
+				>	946 - Eadwig of England.[^20210406-12]
 				</text>
 			</g>
 			<g
@@ -219,8 +219,8 @@
 				<text
 					style="shape-inside: url(#wrap);"
 					x="5"
-					y="1">
-					959 - Edgar the Peaceful of England.[^20210406-13]
+					y="1"
+				>	959 - Edgar the Peaceful of England.[^20210406-13]
 				</text>
 			</g>
 			<g
@@ -233,8 +233,8 @@
 				<text
 					style="shape-inside: url(#wrap);"
 					x="5"
-					y="1">
-					975 - Edward the Martyr of England.[^20210406-14]
+					y="1"
+				>	975 - Edward the Martyr of England.[^20210406-14]
 				</text>
 			</g>
 			<g
@@ -247,8 +247,8 @@
 				<text
 					style="shape-inside: url(#wrap);"
 					x="5"
-					y="1">
-					978 - Æthelred of England.[^20210406-15]
+					y="1"
+				>	978 - Æthelred of England.[^20210406-15]
 				</text>
 			</g>
 		</g>
@@ -266,8 +266,8 @@
 				<text
 					style="shape-inside: url(#wrap);"
 					x="5"
-					y="1">
-					900 - Causantín (Constantine II) was credited with bringing Scottish Christianity into conformity with the Catholic Church sometime during his reign.[^20210406-30]
+					y="1"
+				>	900 - Causantín (Constantine II) was credited with bringing Scottish Christianity into conformity with the Catholic Church sometime during his reign.[^20210406-30]
 				</text>
 			</g>
 			<g
@@ -279,8 +279,8 @@
 				<text
 					style="shape-inside: url(#wrap);"
 					x="5"
-					y="1">
-					597 - Augustine of Canterbury arrived.[^20200623-2] He focused on Kent, so it probably didn't impact northern Scotland till much later.
+					y="1"
+				>	597 - Augustine of Canterbury arrived.[^20200623-2] He focused on Kent, so it probably didn't impact northern Scotland till much later.
 					</text>
 				</g>
 				<g
@@ -293,8 +293,8 @@
 				<text
 					style="shape-inside: url(#wrap);"
 					x="5"
-					y="1">
-					600 - Northumbria, the northern most of the English precursor kingdoms, converted in the 600s.[^20200623-3]
+					y="1"
+				>	600 - Northumbria, the northern most of the English precursor kingdoms, converted in the 600s.[^20200623-3]
 				</text>
 			</g>
 			<g
@@ -307,8 +307,8 @@
 				<text
 					style="shape-inside: url(#wrap);"
 					x="5"
-					y="1">
-					800 - "Pictish stones began to show Christian symbolism from the early eighth 
+					y="1"
+				>	800 - "Pictish stones began to show Christian symbolism from the early eighth 
 					century"[^20200623-4] The exact progress of Christianity in Scotland seems to
 					be largely speculative, messy, and slow.
 				</text>
