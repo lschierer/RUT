@@ -34,10 +34,12 @@ be fairly certain of.  We know that some of the Slytherins students are either
 openly Death Eaters, or are openly vying to become Death Eaters.[^20200806-2]
 We know that at least one female student was assaulted in an unknown way by
 [[dark magic|Magic]], that Snape calls it funny, and Lily calls it evidence
-of Mulciber being "creepy."[^20200806-3] I could go on, but you can see that
-already, [[McGonagall]] and [[Dumbledore]] are allowing not just pranks, but
-actual evil to go unpunished.  In such an environment, the needs of victims are
-not going to be addressed.
+of Mulciber being "creepy."[^20200806-3] When it comes to Snape, [[Sirius]] is
+hardly unbiased, but I think we *can* trust him when he says that Snape's
+interest in the [[Dark Arts|Magic]] was well known.[^20210601-1]  I could go on,
+but you can see that already, [[McGonagall]] and [[Dumbledore]] are allowing not
+just pranks, but actual evil to go unpunished.  In such an environment, the
+needs of victims are not going to be addressed.
 
 As I said, we know little of Snape at school, but his memories from _the
 Deathly Hallows_ have a few things that are possibly suggestive.  In one scene
@@ -201,6 +203,10 @@ article does not specifically talk about that, but covers the available evidence
 as if it were.[^20210517-6]
 
 [lc1]: http://www.the-leaky-cauldron.org/features/essays/issue18/snapeandmalfoys/
+
+[^20210601-1]: Mrs. J. K. Rowling. 
+    _[Harry Potter and the Goblet of Fire](https://www.goodreads.com/book/show/6.Harry_Potter_and_the_Goblet_of_Fire)_
+    Kindle Location 7922. Pottermore Limited. American Kindle Edition. © 2003 
 
 [^20210523-2]: On a side note, how much of Fudge's distrust of Harry is based on
     this episode, and how much is based on Rita Skeeter's articles across the
