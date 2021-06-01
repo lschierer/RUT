@@ -36,7 +36,7 @@
 	</style>
   <g
 		transform="translate(2,-400)"
-		style="fill:#010000;"
+		style="fill:#010000;stroke:#010000;"
 		id="World">
 		<g
 			transform="translate(0,410)">
@@ -85,7 +85,7 @@
 		</g>
 		<g
 			transform="translate(2,0)"
-			style="fill:#ff0000;stroke:#ff0000;"
+			style="fill:#f7fbff;stroke:#f7fbff;"
 			id="Scotish">
 			<g
 				transform="translate(0,900)">
