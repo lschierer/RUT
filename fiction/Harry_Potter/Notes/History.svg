@@ -57,6 +57,21 @@
 			</text>
 		</g>
 		<g
+			transform="translate(0,802)">
+			<defs>
+				<rect id="wrap" x="5" y="1" width="400" height="80"/>
+			</defs>
+			<circle r="1"	cx="2" cy="1"	/>
+			<polyline points="2,0 2,200" />
+			<text
+				style="shape-inside: url(#wrap);"
+				x="5"
+				y="1"
+			> 800 - The Norse raiders imposed paganism in the areas they controlled, starting
+				sometime around 800 through apparently the 10th century.[^20200623-5]
+			</text>
+		</g>
+		<g
 			transform="translate(1,0)"
 			style="fill:#238443;stroke:#238443;"
 			id="HP">
@@ -139,32 +154,18 @@
 				</text>
 			</g>
 			<g
-				transform="translate(0,929)">
+				transform="translate(0,927)">
 				<defs>
 					<rect id="wrap" x="5" y="1" width="400" height="80"/>
 				</defs>
 				<circle r="1"	cx="3" cy="1"	/>
 				<polyline points="3,0 3,12"/>
 				<text
+					transform="translate(0,4)"
 					style="shape-inside: url(#wrap);"
 					x="5"
 					y="1"
 				>	927 - Æthelstan is the first king of England.[^20210531-1]
-				</text>
-			</g>
-			<g
-				transform="translate(0,802)">
-				<defs>
-					<rect id="wrap" x="5" y="1" width="400" height="80"/>
-				</defs>
-				<circle r="1"	cx="2" cy="1"	/>
-				<polyline points="2,0 2,200" />
-				<text
-					style="shape-inside: url(#wrap);"
-					x="5"
-					y="1"
-				> 800 - The Norse raiders imposed paganism in the areas they controlled, starting
-					sometime around 800 through apparently the 10th century.[^20200623-5]
 				</text>
 			</g>
 			<g
