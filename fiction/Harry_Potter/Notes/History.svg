@@ -5,9 +5,37 @@
 	viewBox="0 0 450 1000"
 	xmlns="http://www.w3.org/2000/svg"
 	xmlns:svg="http://www.w3.org/2000/svg">
+	<style>
+		circle {
+			fill-opacity:1;
+		}
+		polyline {
+			fill-opacity:1;
+			stroke-dasharray:1.5,0.5;
+			stroke-dashoffset:0;
+			stroke-miterlimit:4;
+			stroke-opacity:1;
+			stroke-width:0.5;
+		}
+		text {
+			font-style:normal;
+			font-variant:normal;
+			font-weight:normal;
+			font-stretch:normal;
+			font-size:3.200px;
+			font-family:sans-serif;
+			font-variant-ligatures:normal;
+			font-variant-caps:normal;
+			font-variant-numeric:normal;
+			font-variant-east-asian:normal;
+			line-height:1;
+			text-overflow:ellipsis;
+			white-space: pre-line;
+		}
+	</style>
   <g
 		transform="translate(2,-400)"
-		style="fill:#010000;fill-opacity:1;"
+		style="fill:#010000;"
 		id="World">
 		<g
 			transform="translate(0,410)">
@@ -18,7 +46,7 @@
 			<text
 				x="5"
 				y="1"
-				style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);"
+				style="shape-inside: url(#wrap);"
 			>
 				410 - Romans pulled out of Britain.[^20200623-1]  While Hadrian's wall isn't 
 				technically the furthest north they ever went, it seems to be the furthest 
@@ -30,7 +58,7 @@
 		</g>
 		<g
 			transform="translate(1,0)"
-			style="fill:#238443;fill-opacity:1;stroke-width:0.5;stroke:#238443;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
+			style="fill:#238443;stroke:#238443;"
 			id="HP">
 			<g
 				transform="translate(0,992)">
@@ -39,7 +67,7 @@
 				</defs>
 				<circle r="1"	cx="3" cy="1"	/>
 				<text
-					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #238443;"
+					style="shape-inside: url(#wrap);"
 					x="5"
 					y="1">
 					992 - Hogwarts was founded "over a thousand years" before HP2.[^20200622-1] Given
@@ -57,7 +85,7 @@
 		</g>
 		<g
 			transform="translate(2,0)"
-			style="fill:#ff0000;fill-opacity:1;stroke-width:0.5;stroke:#ff0000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
+			style="fill:#ff0000;stroke:#ff0000;"
 			id="Scotish">
 			<g
 				transform="translate(0,900)">
@@ -67,8 +95,8 @@
 				<circle r="1"	cx="3" cy="1"	/>
 				<polyline points="3,0 3,42" />
 				<text
+					style="shape-inside: url(#wrap);"
 					transform="translate(0,2)"
-					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #ff0000;"
 					x="5"
 					y="1">
 					900 - "The long reign (900–942/3) of Donald's successor Causantín (Constantine II)
@@ -78,7 +106,7 @@
 		</g>
 		<g
 			transform="translate(2,0)"
-			style="fill:#ff0000;fill-opacity:1;stroke-width:0.5;stroke:#ff0000;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
+			style="fill:#ff0000;stroke:#ff0000;"
 			id="English">
 			<g
 				transform="translate(0,500)">
@@ -88,7 +116,7 @@
 				<circle r="1"	cx="2" cy="1"	/>
 				<polyline points="2,0 2,99" />
 				<text
-					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #ff0000;"
+					style="shape-inside: url(#wrap);"
 					x="5"
 					y="1">
 					500 - While the historical reality of King Arthur is uncertain, he would 
@@ -104,7 +132,7 @@
 				</defs>
 				<circle r="1"	cx="3" cy="1"	/>
 				<text
-					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #ff0000;"
+					style="shape-inside: url(#wrap);"
 					x="5"
 					y="1">
 					927-07-12 - Kingdom of England formed by Æthelstan.[^20210406-1]
@@ -118,7 +146,7 @@
 				<circle r="1"	cx="3" cy="1"	/>
 				<polyline points="3,0 3,12"/>
 				<text
-					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #ff0000;"
+					style="shape-inside: url(#wrap);"
 					x="5"
 					y="1">
 					927 - Æthelstan is the first king of England.[^20210531-1]
@@ -132,7 +160,7 @@
 				<circle r="1"	cx="2" cy="1"	/>
 				<polyline points="2,0 2,200" />
 				<text
-					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #ff0000;"
+					style="shape-inside: url(#wrap);"
 					x="5"
 					y="1">
 					800 - The Norse raiders imposed paganism in the areas they controlled, starting
@@ -147,7 +175,7 @@
 				<circle r="1"	cx="3" cy="1"	/>
 				<polyline points="3,0 3,6" />
 				<text
-					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #ff0000;"
+					style="shape-inside: url(#wrap);"
 					x="5"
 					y="1">
 					939 - Edmund I of England.[^20210406-10]
@@ -161,7 +189,7 @@
 				<circle r="1"	cx="3" cy="1"	/>
 				<polyline points="3,0 3,9" />
 				<text
-					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #ff0000;"
+					style="shape-inside: url(#wrap);"
 					x="5"
 					y="1">
 					946 - Eadred of England.[^20210406-11]
@@ -175,7 +203,7 @@
 				<circle r="1"	cx="3" cy="1"	/>
 				<polyline points="3,0 3,3" />
 				<text
-					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #ff0000;"
+					style="shape-inside: url(#wrap);"
 					x="5"
 					y="1">
 					946 - Eadwig of England.[^20210406-12]
@@ -189,7 +217,7 @@
 				<circle r="1"	cx="3" cy="1" />
 				<polyline points="3,0 3,15"/>
 				<text
-					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #ff0000;"
+					style="shape-inside: url(#wrap);"
 					x="5"
 					y="1">
 					959 - Edgar the Peaceful of England.[^20210406-13]
@@ -203,7 +231,7 @@
 				<circle r="1"	cx="3" cy="1"	/>
 				<polyline points="3,0 3,2"/>
 				<text
-					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #ff0000;"
+					style="shape-inside: url(#wrap);"
 					x="5"
 					y="1">
 					975 - Edward the Martyr of England.[^20210406-14]
@@ -217,7 +245,7 @@
 				<circle r="1"	cx="3" cy="1"	/>
 				<polyline points="3,0 3,34"/>
 				<text
-					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #ff0000;"
+					style="shape-inside: url(#wrap);"
 					x="5"
 					y="1">
 					978 - Æthelred of England.[^20210406-15]
@@ -226,7 +254,7 @@
 		</g>
 		<g
 			transform="translate(4,0)"
-			style="fill:#fed976;fill-opacity:1;stroke-width:0.5;stroke:#fed976;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
+			style="fill:#fed976;stroke:#fed976;"
 			id="Church">
 			<g
 				transform="translate(0,900)">
@@ -236,7 +264,7 @@
 				<circle r="1"	cx="2" cy="1"	/>
 				<polyline points="2,0 2,42"/>
 				<text
-					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #fed976;"
+					style="shape-inside: url(#wrap);"
 					x="5"
 					y="1">
 					900 - Causantín (Constantine II) was credited with bringing Scottish Christianity into conformity with the Catholic Church sometime during his reign.[^20210406-30]
@@ -249,7 +277,7 @@
 				</defs>
 				<circle r="1"	cx="2" cy="1" />
 				<text
-					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #fed976;"
+					style="shape-inside: url(#wrap);"
 					inline-size="200px"
 					x="5"
 					y="1">
@@ -264,7 +292,7 @@
 				<circle r="1"	cx="2" cy="1"/>
 				<polyline	points="2,0 2,99"	/>
 				<text
-					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #fed976;"
+					style="shape-inside: url(#wrap);"
 					inline-size="200px"
 					x="5"
 					y="1">
@@ -279,7 +307,7 @@
 				<circle r="1"	cx="2" cy="1"	/>
 				<polyline points="2,0 2,50"	/>
 				<text
-					style="text-overflow:ellipsis;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.200px;line-height:1;font-family:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space: pre-line;shape-inside: url(#wrap);fill: #fed976;"
+					style="shape-inside: url(#wrap);"
 					inline-size="200px"
 					x="5"
 					y="1">
