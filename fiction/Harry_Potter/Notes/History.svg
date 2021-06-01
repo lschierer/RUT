@@ -252,6 +252,62 @@
 				>	978 - Æthelred of England.[^20210406-15]
 				</text>
 			</g>
+			<g
+				transform="translate(0,1013)">
+				<defs>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
+				</defs>
+				<circle r="1"	cx="3" cy="1"	/>
+				<polyline points="3,0 3,1"/>
+				<text
+					style="shape-inside: url(#wrap);"
+					x="5"
+					y="1"
+				>	1013 - Sweyn Forkbeard of England, a Danish King.[^20210406-16]
+				</text>
+			</g>
+			<g
+				transform="translate(0,1014)">
+				<defs>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
+				</defs>
+				<circle r="1"	cx="3" cy="1"	/>
+				<polyline points="3,0 3,2"/>
+				<text
+					style="shape-inside: url(#wrap);"
+					x="5"
+					y="1"
+				>	1014 - Æthelred of England regains the throne.[^20210406-17]
+				</text>
+			</g>
+			<g
+				transform="translate(0,1016)">
+				<defs>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
+				</defs>
+				<circle r="1"	cx="3" cy="1"	/>
+				<polyline points="3,0 3,1"/>
+				<text
+					style="shape-inside: url(#wrap);"
+					x="5"
+					y="1"
+				>	1016 - Edmond Ironside of England.[^20210406-18]
+				</text>
+			</g>
+			<g
+				transform="translate(0,1016)">
+				<defs>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
+				</defs>
+				<circle r="1"	cx="3" cy="1"	/>
+				<polyline points="3,0 3,19"/>
+				<text
+					style="shape-inside: url(#wrap);"
+					x="5"
+					y="1"
+				>	1016 - Canute of England, another Dane.[^20210406-19]
+				</text>
+			</g>
 		</g>
 		<g
 			transform="translate(4,0)"
