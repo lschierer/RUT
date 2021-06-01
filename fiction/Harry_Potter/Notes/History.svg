@@ -22,7 +22,7 @@
 			font-variant:normal;
 			font-weight:normal;
 			font-stretch:normal;
-			font-size:3.200px;
+			font-size:9px;
 			font-family:sans-serif;
 			font-variant-ligatures:normal;
 			font-variant-caps:normal;
@@ -40,7 +40,7 @@
 		<g
 			transform="translate(0,410)">
 			<defs>
-				<rect id="wrap" x="5" y="1" width="200" height="80"/>
+				<rect id="wrap" x="5" y="1" width="400" height="80"/>
       </defs>
       <circle r="1"	cx="2" cy="2"	/>
 			<text
@@ -63,7 +63,7 @@
 			<g
 				transform="translate(0,992)">
 				<defs>
-					<rect id="wrap" x="5" y="1" width="200" height="80"/>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
 				</defs>
 				<circle r="1"	cx="3" cy="1"	/>
 				<text
@@ -90,7 +90,7 @@
 			<g
 				transform="translate(0,900)">
 				<defs>
-					<rect id="wrap" x="5" y="1" width="200" height="80"/>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
 				</defs>
 				<circle r="1"	cx="3" cy="1"	/>
 				<polyline points="3,0 3,42" />
@@ -111,7 +111,7 @@
 			<g
 				transform="translate(0,500)">
 				<defs>
-					<rect id="wrap" x="5" y="1" width="200" height="80"/>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
 				</defs>
 				<circle r="1"	cx="2" cy="1"	/>
 				<polyline points="2,0 2,99" />
@@ -128,7 +128,7 @@
 			<g
 				transform="translate(0,927)">
 				<defs>
-					<rect id="wrap" x="5" y="1" width="200" height="80"/>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
 				</defs>
 				<circle r="1"	cx="3" cy="1"	/>
 				<text
@@ -141,7 +141,7 @@
 			<g
 				transform="translate(0,929)">
 				<defs>
-					<rect id="wrap" x="5" y="1" width="200" height="80"/>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
 				</defs>
 				<circle r="1"	cx="3" cy="1"	/>
 				<polyline points="3,0 3,12"/>
@@ -155,7 +155,7 @@
 			<g
 				transform="translate(0,802)">
 				<defs>
-					<rect id="wrap" x="5" y="1" width="200" height="80"/>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
 				</defs>
 				<circle r="1"	cx="2" cy="1"	/>
 				<polyline points="2,0 2,200" />
@@ -170,7 +170,7 @@
 			<g
 				transform="translate(0,939)">
 				<defs>
-					<rect id="wrap" x="5" y="1" width="200" height="80"/>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
 				</defs>
 				<circle r="1"	cx="3" cy="1"	/>
 				<polyline points="3,0 3,6" />
@@ -184,7 +184,7 @@
 			<g
 				transform="translate(0,946)">
 				<defs>
-					<rect id="wrap" x="5" y="1" width="200" height="80"/>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
 				</defs>
 				<circle r="1"	cx="3" cy="1"	/>
 				<polyline points="3,0 3,9" />
@@ -198,7 +198,7 @@
 			<g
 				transform="translate(0,955)">
 				<defs>
-					<rect id="wrap" x="5" y="1" width="200" height="80"/>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
 				</defs>
 				<circle r="1"	cx="3" cy="1"	/>
 				<polyline points="3,0 3,3" />
@@ -212,7 +212,7 @@
 			<g
 				transform="translate(0,959)">
 				<defs>
-					<rect id="wrap" x="5" y="1" width="200" height="80"/>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
 				</defs>
 				<circle r="1"	cx="3" cy="1" />
 				<polyline points="3,0 3,15"/>
@@ -226,7 +226,7 @@
 			<g
 				transform="translate(0,975)">
 				<defs>
-					<rect id="wrap" x="5" y="1" width="200" height="80"/>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
 				</defs>
 				<circle r="1"	cx="3" cy="1"	/>
 				<polyline points="3,0 3,2"/>
@@ -240,7 +240,7 @@
 			<g
 				transform="translate(0,978)">
 				<defs>
-					<rect id="wrap" x="5" y="1" width="200" height="80"/>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
 				</defs>
 				<circle r="1"	cx="3" cy="1"	/>
 				<polyline points="3,0 3,34"/>
@@ -259,7 +259,7 @@
 			<g
 				transform="translate(0,900)">
 				<defs>
-					<rect id="wrap" x="5" y="1" width="200" height="80"/>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
 				</defs>
 				<circle r="1"	cx="2" cy="1"	/>
 				<polyline points="2,0 2,42"/>
@@ -273,12 +273,11 @@
 			<g
 				transform="translate(0,597)">
 				<defs>
-					<rect id="wrap" x="5" y="1" width="200" height="80"/>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
 				</defs>
 				<circle r="1"	cx="2" cy="1" />
 				<text
 					style="shape-inside: url(#wrap);"
-					inline-size="200px"
 					x="5"
 					y="1">
 					597 - Augustine of Canterbury arrived.[^20200623-2] He focused on Kent, so it probably didn't impact northern Scotland till much later.
@@ -287,13 +286,12 @@
 				<g
 				transform="translate(0,600)">
 				<defs>
-					<rect id="wrap" x="5" y="1" width="200" height="80"/>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
 				</defs>
 				<circle r="1"	cx="2" cy="1"/>
 				<polyline	points="2,0 2,99"	/>
 				<text
 					style="shape-inside: url(#wrap);"
-					inline-size="200px"
 					x="5"
 					y="1">
 					600 - Northumbria, the northern most of the English precursor kingdoms, converted in the 600s.[^20200623-3]
@@ -302,13 +300,12 @@
 			<g
 				transform="translate(0,800)">
 				<defs>
-					<rect id="wrap" x="5" y="1" width="200" height="80"/>
+					<rect id="wrap" x="5" y="1" width="400" height="80"/>
 				</defs>
 				<circle r="1"	cx="2" cy="1"	/>
 				<polyline points="2,0 2,50"	/>
 				<text
 					style="shape-inside: url(#wrap);"
-					inline-size="200px"
 					x="5"
 					y="1">
 					800 - "Pictish stones began to show Christian symbolism from the early eighth 
