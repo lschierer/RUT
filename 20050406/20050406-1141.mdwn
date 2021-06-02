@@ -1,10 +1,3 @@
 [[!meta  title="20050406-1141"]]
 [[!meta  date="2005-04-06 16:41:00"]]
-<p> <a href="http://www.townhall.com/columnists/markalexander/ma20050404.shtml">The
-'Gun Problem'</a>," by Mark Alexander, is one for the archives.
-It points out some useful statistics for use in my not infrequent
-discussions with people where guns are banned.  Sometimes #gaim is
-really #politics. <big>&#x263a;</big></p>
-
-[[!tag  pidgin]]
-[[!tag  politics-law]]
+[[!meta redir=Politics_And_Law/second-amendment-factoids]]
