@@ -377,8 +377,10 @@ is probably precisely the point.
 [^20200811-2]: Mrs. J. K. Rowling.  I don't recall which book this is in.
     Better citation needed. 
 
-[^20200419-1]: Mugglenet.  _The Revised Forty_
-    [MuggleNet](https://mugglenet.com) last viewed 2020-04-19.
+[^20200419-1]: Mugglenet.  
+    _[The Revised Forty](https://www.mugglenet.com/2016/03/the-revised-forty/)_ 
+    [MuggleNet](https://mugglenet.com) Published: 2016-03-31. Updated:
+    2021-05-31. last viewed 2021-06-02.
 
 [^20200630-1]: Ms. Diana Summers. 
     _Secrets of the Classlist: Harry Potter and the Original Forty Classmates_  
