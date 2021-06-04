@@ -490,7 +490,7 @@ determine what happens to a given child.
   sort="title_natural path_natural"
   trail=yes
 ]]
-[[!trailoptions sort="meta(title)" circular="yes"]]
+[[!trailoptions sort="title_natural" circular="yes"]]
 [[!trailitem Prologue]]
 
 [^20210518-1]: Mrs. J. K. Rowling. _Harry Potter and the Chamber of Secrets_
