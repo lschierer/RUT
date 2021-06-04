@@ -36,13 +36,13 @@ not be reading it.  It is disturbing to see how quickly after finding
 such research, I see confirmation that it is indeed necessary to
 have it.
 
-[^1]: http://vjolt.student.virginia.edu/graphics/vol2/vol2_art2.html
+[^1]: <http://vjolt.student.virginia.edu/graphics/vol2/vol2_art2.html>
 
-[^2]: http://vjolt.student.virginia.edu/graphics/vol2/vol2_art2.html#IVD
+[^2]: <http://vjolt.student.virginia.edu/graphics/vol2/vol2_art2.html#IVD>
 
-[^3]: http://vjolt.student.virginia.edu/graphics/vol2/vol2_art2.html#IVD
+[^3]: <http://vjolt.student.virginia.edu/graphics/vol2/vol2_art2.html#IVD>
 
-[^4]: http://news.com.com/Minnesota+court+takes+dim+view+of+encryption/2100-1030_3-5718978.html
+[^4]: <http://news.com.com/Minnesota+court+takes+dim+view+of+encryption/2100-1030_3-5718978.html>
 
 [[!tag technical]]
 [[!tag politics-law]]
