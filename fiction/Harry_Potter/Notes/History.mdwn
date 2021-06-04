@@ -325,6 +325,9 @@
 * 1945 - July - Tom Marvolo Riddle graduates from Hogwarts (computed from when he
   started).
 
+* 1948 - The Children Act 1948 established a children's committee and a
+  children's officer in each local authority.[^20210604-4]
+
 * 1948 - Wihelmina Tuft elected Minister for Magic.[^20210330-35]
 
 * 1950 - February 6 - Arthur Weasley born.[^20210301-3]
@@ -361,8 +364,14 @@
   first downfall: “We’ve had precious little to celebrate for
   eleven years.”[^20210514-1] 
 
+* 1970 - "Under the Local Authority Social Services Act 1970, local authority
+  social work services and social care provision, including those for children,
+  were unified in social services departments."[^20210604-5]
+
 * 1971 - September 1st thus [[James|adults/James_Potter]], Lilly and [[Sirius|adults/Sirius]] start Hogwarts in 1971. 
 * Lucius Malfoy is a prefect.[^20210223-2]
+
+* 1974 - Development of area child protection committees (ACPCs).[^20210604-6]
 
 * 1975 - Harold Minchum elected Minister for Magic.[^20210330-40]
 
@@ -409,11 +418,35 @@
 
 * 1991 - Arcturus Black ([[Sirius Orion's|adults/Sirius]] Paternal Grandfather) dies.[^20210122-9]
 
+* 1991 - The Children Act 1989 comes into force in England and Wales.  Every
+  child has the right to protection from abuse and exploitation and the right to
+  have inquiries made to safeguard their welfare.[^20210604-7]
+
 * 1992 - Cygnus Black II dies.[^20210122-14]
 
 * 1996 - Rufus Scrimgeour elected Minister for Magic.[^20210330-43]
 
 * 1997 - 1997 Firearms (Amendment) Acts: nearly all guns banned.[^20210228-6]
+
+[^20210604-7]: Mr. David Batty. 
+    "[Timeline: the history of child protection](https://www.theguardian.com/society/2004/apr/23/childrensservices.childprotection)"
+    *[The Guardian](https://www.theguardian.com/)* 2004-04-23.  Last Viewed:
+    2021-06-04. 
+
+[^20210604-6]: Mr. David Batty. 
+    "[Timeline: the history of child protection](https://www.theguardian.com/society/2004/apr/23/childrensservices.childprotection)"
+    *[The Guardian](https://www.theguardian.com/)* 2004-04-23.  Last Viewed:
+    2021-06-04. 
+
+[^20210604-5]: Mr. David Batty. 
+    "[Timeline: the history of child protection](https://www.theguardian.com/society/2004/apr/23/childrensservices.childprotection)"
+    *[The Guardian](https://www.theguardian.com/)* 2004-04-23.  Last Viewed:
+    2021-06-04. 
+
+[^20210604-4]: Mr. David Batty. 
+    "[Timeline: the history of child protection](https://www.theguardian.com/society/2004/apr/23/childrensservices.childprotection)"
+    *[The Guardian](https://www.theguardian.com/)* 2004-04-23.  Last Viewed:
+    2021-06-04. 
 
 [^20210603-2]: I know the popular theory is to white-wash the druids, but I
     refuse to do so.  Mr. James Owen's "[Druids Committed Human Sacrifice,
