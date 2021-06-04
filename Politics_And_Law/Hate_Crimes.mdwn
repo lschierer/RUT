@@ -10,8 +10,8 @@ eligible for toleration by those who disagree with us?
 [[!tag society]]
 [[!tag morality-religion]]
 
-[lsur1]: <http://www.lsureveille.com/vnews/display.v/ART/2005/01/25/41f5eb5a8887d>
+[lsur1]: http://www.lsureveille.com/vnews/display.v/ART/2005/01/25/41f5eb5a8887d
 
-[lsur2]: <http://www.lsureveille.com>
+[lsur2]: http://www.lsureveille.com
 
 [mmc1]: http://michellemalkin.com/archives/001333.htm
