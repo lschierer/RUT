@@ -1,12 +1,15 @@
-[[!meta  title="20050125-1802"]]
+[[!meta  title="Hate Crimes"]]
 [[!meta  date="2005-01-25 22:02:00"]]
-<a href="http://www.lsureveille.com/vnews/display.v/ART/2005/01/25/41f5eb5a8887d">This
-story from the LSU Reveille</a> also mentioned <a href="http://michellemalkin.com/archives/001333.htm">here
-in Michelle Malkin's web log</a> brings up a very good
-question.  Why is it only a hate crime if it is committed
-against some hip minority?  Why is it not a hate crime
-to vandalize the crosses used in this Christian protest?
-Why are Christians not eligible for toleration by those
-who disagree with us?
+[This story from the LSU Reveille][lsur1] also mentioned [here in Michelle
+Malkin's web log][mmc1] brings up a very good question.  Why is it only a hate
+crime if it is committed against some hip minority?  Why is it not a hate crime
+to vandalize the crosses used in this Christian protest?  Why are Christians not
+eligible for toleration by those who disagree with us?
 
-[[!tag  uncategorized]]
+[[!tag politics-law]]
+[[!tag society]]
+[[!tag morality-religion]]
+
+[lsur1]: <http://www.lsureveille.com/vnews/display.v/ART/2005/01/25/41f5eb5a8887d>
+
+[mmc1]: http://michellemalkin.com/archives/001333.htm
