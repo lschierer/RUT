@@ -27,8 +27,8 @@ go to Pub Quiz last night.  Don't know why on either one.<br  /><br  />
 
 Mom is having trouble sending and receiving from Mrs. Moffatt.
 Finally got around to looking at my mail logs today, and
-interestingly enough, cox is <em>not showing up in them at all</em>.
+interestingly enough, cox is *not showing up in them at all*.
 One or two incoming messages, and no outgoing ones.  I think my
 next stop will be Mom's address book.
 
-[[!tag  uncategorized]]
+[[!tag personad]]

@@ -1,9 +1,8 @@
 [[!meta  title="20050203-1515"]]
 [[!meta  date="2005-02-03 20:15:00"]]
-The <a href="www.nytimes.com">New
-York Times</a> has a story on a new (very
-expensive) gadget that creates a 3D video display.  Entitled "<a href="http://www.nytimes.com/2005/02/03/technology/circuits/03soon.html?ex=1265173200&en=7db18d68202cff3e&ei=5088&partner=rssnyt">Virtual
-Home Theater Promises Immersion and Fits on Your Head</a>,"
+The [New York Times][nyt1] has a story on a new (very
+expensive) gadget that creates a 3D video display.  Entitled 
+"[Virtual Home Theater Promises Immersion and Fits on Your Head][nyt2],"
 the article talks about its use for people who want to watch a
 presentation or movie, but this isn't so much what strikes me
 about it.  Gnome has and is working on what they call "spacial"
@@ -18,4 +17,8 @@ on, or something similar.  It would probably confuse many users at
 first, but for those of us who are used to multiple monitors and/or
 multiple work spaces, this would be an interesting advancement.
 
-[[!tag  uncategorized]]
+[[!tag technical]]
+
+[nyt1]: https://www.nytimes.com
+
+[nyt2]: http://www.nytimes.com/2005/02/03/technology/circuits/03soon.html?ex=1265173200&en=7db18d68202cff3e&ei=5088&partner=rssnyt
