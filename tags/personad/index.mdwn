@@ -1,0 +1,4 @@
+[[!meta title="pages tagged personad"]]
+
+[[!inline pages="tagged(personad)" actions="no" archive="yes"
+feedshow=10]]
