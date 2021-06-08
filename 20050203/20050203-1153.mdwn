@@ -31,4 +31,4 @@ interestingly enough, cox is *not showing up in them at all*.
 One or two incoming messages, and no outgoing ones.  I think my
 next stop will be Mom's address book.
 
-[[!tag personad]]
+[[!tag personal]]
