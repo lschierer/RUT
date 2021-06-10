@@ -18,23 +18,6 @@ against the death penalty saying that in the modern era, it is
 possible to keep society safe without it.  I tend to agree, but
 things like this make me wonder if that is true.
 
-The BBC [reports](http://news.bbc.co.uk/2/hi/in_depth/4208479.stm)
-that birth rates are falling world wide.  The tone of the article
-seems to oscillate between sorrow that they are not falling faster
-and worry that they are falling.  How confused a world we live in,
-when the fact that we can't sustain population levels isn't a cause
-for concern, a wake-up call that something is wrong with society.
-Our faith tells us that we are called to "multiply", I do not
-think God intended that to mean "by fractions".  At some point
-we are going to have to realize that motherhood is important,
-and that having and raising children is the most important, most
-meaningful thing that a couple will, or could, ever do.  I don't
-know how to argue this one effectively.  I know that it is true,
-but how to seriously tell a girl that you don't think a career
-outside the home is the best course she can take, the best she
-can aspire to?  For all its truth, how do you make that truth
-shine through?
-
 **gaim**
 
 I hate it when users get ideas about how easy something is to implement.
@@ -47,3 +30,4 @@ developers' priorities matter?
 [[!tag  morality-religion]]
 [[!tag  pidgin]]
 [[!tag  politics-law]]
+[[!tag pidgin]]
