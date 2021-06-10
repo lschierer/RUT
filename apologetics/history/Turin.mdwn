@@ -8,6 +8,6 @@ of Turin that calls into question the 1988 radiocarbon dating find.  Perhaps
 science will once again allow us to believe that the Shroud is legitimate.  I
 wouldn't hold your breath though.
 
-[bbc1]: <http://news.bbc.co.uk/2/hi/science/nature/4210369.stm>
+[bbc1]: http://news.bbc.co.uk/2/hi/science/nature/4210369.stm
 
-[bbc2]: <http://news.bbc.co.uk>
+[bbc2]: http://news.bbc.co.uk
