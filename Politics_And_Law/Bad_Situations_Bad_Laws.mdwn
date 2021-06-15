@@ -1,7 +1,7 @@
-[[!meta  title="20050524-1733"]]
+[[!meta  title="Bad Situations Make for Bad Laws"]]
 [[!meta  date="2005-05-24 22:33:00"]]
-<p>The CS Monitor has an article today talking about the state
-of "second wives" in France.[1] Apparently France only very
+The CS Monitor has an article today talking about the state
+of "second wives" in France.[^1] Apparently France only very
 recently outlawed polygamy, and a number of African men have
 come to France bringing multiple "wives" and the children of both
 "wives."  The article highlights the problems that come from lack
@@ -15,8 +15,9 @@ one man and one woman, so they must be single with children, and
 should be legally so treated.  Worse, I am sure this sort of thing
 will be used by liberals world-wide to try to pressure France to
 repeal the law.  This would be an unmitigated disaster, with the
-marriage under attack from so many other angles as well.</p>
+marriage under attack from so many other angles as well.
 
-[1] http://www.csmonitor.com/2005/0525/p16s01-woeu.html
+[^1]: <http://www.csmonitor.com/2005/0525/p16s01-woeu.html>
 
-[[!tag  uncategorized]]
+[[!tag politics-law]]
+[[!tag society]]
