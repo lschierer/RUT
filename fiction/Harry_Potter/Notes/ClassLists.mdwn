@@ -1,6 +1,27 @@
 [[!meta title="List of Hogwarts Students by Year"]]
 [[!toc levels=2 startlevel=3]]
 
+I started out being incredibly strict, accepting only names from the listing of
+the original forty and those I found in the books.  On being incredibly
+frustrated with the dearth of names, however, I reluctantly expanded that to
+accept some of the names from the video games as documented in what seems to me
+to be the main [Harry Potter fan wiki][hpfd1].  While I am sure there are more
+names in the wiki that, as of writing this, I have not yet come across, I have
+enough data to have noticed that there are far far too many families with only
+one child.  I know there is some grounds to believe that pureblood families have
+a bias towards having only one child, but they also want to preserve their
+names.  Thus families with a girl should have a fairly strong tendency towards
+having at least two children, even a pureblood biased towards having only one
+child would try a second time to get a male heir. 
+
+Given the wide range of apparent ethnicity in the names, I think that the game
+manufacturers gave in rather too strongly to a desire for inclusion and
+diversity, and rather too little consideration to what 1800s and 1900s Britain
+looked like. We must remember that the wizarding world tends to be around a
+century, if not more, behind. 
+
+[hpfd1]: https://harrypotter.fandom.com/wiki/Main_Page
+
 
 ### Students starting in 1986
 
@@ -29,7 +50,7 @@
 Terry Boot appears to have attended his seventh year at [[Hogwarts]] despite the
 laws against first generation students doing so.[^20210602-1]  This means either
 my sources for him being a first generation student are wrong, or he was able to
-fake an ancestory for himself. 
+fake an ancestry for himself. 
 
 Mrs. Rowling's original notes put Kevin Entwhistle in Ravenclaw[^20200701-3],
 but there are too many Ravenclaws and too many boys for her seeming desire for
