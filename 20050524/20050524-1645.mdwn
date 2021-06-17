@@ -1,6 +1,6 @@
 [[!meta  title="20050524-1645"]]
 [[!meta  date="2005-05-24 21:45:00"]]
-<p>Ars is talking about a flash hard drive from Samsung.[1] At 16Gb
+Ars is talking about a flash hard drive from Samsung.[^1] At 16Gb
 max, it is, by today's standards, too small for most desktop use.
 We are all spoiled by the massive 40Gb, 80Gb, and bigger hard drives
 available now, and most people would have trouble getting accustomed
@@ -13,8 +13,8 @@ a 150 percent performance increase here will certainly be noticeable,
 and few people (who don't download lots of movies) will notice if
 the high end of these drives starts to compete (size wise) with
 the low end current drive, so long as the price wise is competitive
-with other drives (not necessarily of the same size).</p>
+with other drives (not necessarily of the same size).
 
-[1] http://arstechnica.com/news.ars/post/20050524-4939.html
+[^1]: <http://arstechnica.com/news.ars/post/20050524-4939.html>
 
-[[!tag  uncategorized]]
+[[!tag technical]]
