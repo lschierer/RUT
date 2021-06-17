@@ -6,15 +6,14 @@ One of the recurring issues that I read about is the exchange rate between
 galleons and non-magical currencies.  It seems that many people dislike the five
 pounds to the galleon answer that we were given in 2001.[^20210617-1]  It is
 hard for me to say definitively how realistic that conversion rate is or is not,
-however:
-
-* I find that 
-  > 1 Gram Gold Bar Size & Product Details
-    * Purity: .9999 fine gold minimum (24 karat).
-    * Gold Weight: 1 gram, or 0.0322 troy ounces.
-    * Approx. width of the package: 2-1/8 inches.
-    * Approx. length of the package: 3-3/8 inches.
-    * Approx. thickness of the package: 3/16 of an inch.[^20210617-2]
+however, I  find that 
+> 1 Gram Gold Bar Size & Product Details
+> 
+>  * Purity: .9999 fine gold minimum (24 karat).
+>  * Gold Weight: 1 gram, or 0.0322 troy ounces.
+>  * Approx. width of the package: 2-1/8 inches.
+>  * Approx. length of the package: 3-3/8 inches.
+>  * Approx. thickness of the package: 3/16 of an inch.[^20210617-2]
 
 That seems rather large for a coin, so it allows for a reasonable amount of gold
 per galleon. We next need to know the price of gold per gram, over time.
