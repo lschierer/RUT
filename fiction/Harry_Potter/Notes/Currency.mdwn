@@ -7,34 +7,39 @@ galleons and non-magical currencies.  It seems that many people dislike the five
 pounds to the galleon answer that we were given in 2001.[^20210617-1]  It is
 hard for me to say definitively how realistic that conversion rate is or is not,
 however, I  find that 
-> 1 Gram Gold Bar Size & Product Details
-> 
->  * Purity: .9999 fine gold minimum (24 karat).
->  * Gold Weight: 1 gram, or 0.0322 troy ounces.
->  * Approx. width of the package: 2-1/8 inches.
->  * Approx. length of the package: 3-3/8 inches.
->  * Approx. thickness of the package: 3/16 of an inch.[^20210617-2]
+> * Width: 8mm (0.32 inches)
+> * Length: 15mm (0.59 inches)
+> * Depth/Thickness: 0.4mm (0.02 inches)[^20210617-6]
 
-That seems rather large for a coin, so it allows for a reasonable amount of gold
-per galleon. We next need to know the price of gold per gram, over time.
-[BullionByPost][BBP1] provides a [chart][BBP2] on that, which we will assume is
-reasonably accurate.  Per that chart, in August of 1991, gold was approx
-£6.77/gram.[^20210617-3] So as long as a galleon is not a whole gram, if it were
-say half a gram, five pounds per galleon might actually be Gringotts making a
-profit on the conversion. 
+That might be slightly small for a coin, but if you assume a galleon is not
+pure, it allows for a reasonable amount of gold per galleon. We next need to
+know the price of gold per gram, over time.  [BullionByPost][BBP1] provides a
+[chart][BBP2] on that, which we will assume is reasonably accurate.  Per that
+chart, in August of 1991, gold was approx £6.77/gram.[^20210617-3] 
 
-That being said, it is important to note that Mrs. Rowling said the exchange
-rate varies.[^20210617-4] Gold is _**much**_ more expensive per gram now, so we
+It is important to note that Mrs. Rowling said the exchange rate
+varies.[^20210617-4] Gold is _**much**_ more expensive per gram now, so we
 would be looking at exchange rates of something more like 40:1 now, if not
-higher.[^20210617-5]
+higher.[^20210617-5]  It is also important to know that her math is notoriously
+poor, and that 5:1 was an estimate.  
 
-So given that the galleon exchange rate seams reasonable, I am going to assume
-that sickles and knuts are either equally reasonable, or that the metals
-involved are debased to become reasonable. 
+So given that the galleon exchange rate seems more or less reasonable, I am
+going to assume that sickles and knuts are either equally reasonable, or that
+the metals involved are debased to become reasonable. 
+
+So in summary, galleons are not pure gold, and 5:1 was a slightly low estimate
+of what the exchange rate was when the series started.  As the rate varied
+considerably over the course of Harry's seven years, one would expect anything
+under 10:1 to be reasonable, but that it would probably go up and down a fair
+amount.
 
 [BBP2]: https://www.bullionbypost.co.uk/gold-price/gold-charts/
 
 [BBP1]: https://www.bullionbypost.co.uk/
+
+[^20210617-6]: [USGB, LLC](https://www.usgoldbureau.com/)
+    "[How Big Is a Gold Bar?](https://www.usgoldbureau.com/gold-bar-sizes)"
+    Last Viewed: 2021-06-17. 
 
 [^20210617-5]: [Jewellery Quarter Bullion Ltd.](https://www.bullionbypost.co.uk/)
     "[Gold Charts UK in GBP per Gram](https://www.bullionbypost.co.uk/gold-price/gold-charts/)"
