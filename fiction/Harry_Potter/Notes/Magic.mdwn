@@ -228,9 +228,9 @@ The moon is up during the day sometimes.  How would a solar eclipse affect a
 werewolf? 
 
 
-[20210513-4]: citation needed
+[^20210513-4]: citation needed
 
-[20210513-5]: citation needed
+[^20210513-5]: citation needed
 
 ### Wands
 
