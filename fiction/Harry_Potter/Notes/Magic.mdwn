@@ -59,7 +59,12 @@ reprehensible.
 
 Some writers have suggested that at least some versions of the animagus
 transformation result in changes to the human, just as there are identifying
-marks on the animal.[^20210514-9]
+marks on the animal.[^20210514-9]  This would explain Madam Hooch
+eyes.[^20210618-5]
+
+[^20210618=6]: Mrs. J. K. Rowling. 
+    _[Harry Potter and the Sorcerer's Stone](https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone)_
+    p. 146. Pottermore Limited. American Kindle Edition. 
 
 [^20210514-9]: works that do this include:
     * CmptrWz. 
@@ -121,14 +126,13 @@ logic to it, particularly for the Imperius curse, but overall it does not fit
 with what we read in the books.  I need to look up the citations for this, but
 there are a couple of key points.  
 
-Fake professor Moody tells the class that the
-killing curse requires true hate as well as power.  He asserts that the class
-could cast it, but that he would be unlikely to get so much as a nose
-bleed.[^20200731-4]  You do not hate an animal you are trying to kill
-painlessly.  There is no obvious derivation from a spell used for animal
-slaughter to one that _requires_ this kind of hatred to work.  The addition of
-emotion may make a spell stronger, perhaps harder to block, but the spell as
-described does not overpower shields, it goes right through them.  
+Fake professor Moody tells the class that the killing curse requires true hate
+as well as power.  He asserts that the class could cast it, but that he would be
+unlikely to get so much as a nose bleed.[^20200731-4]  You do not hate an animal
+you are trying to kill painlessly.  There is no obvious derivation from a spell
+used for animal slaughter to one that _requires_ this kind of hatred to work.
+The addition of emotion may make a spell stronger, perhaps harder to block, but
+the spell as described does not overpower shields, it goes right through them.  
 
 Bellatrix tells Harry much the same thing when he fails to cast the cruciatus
 curse on her.[^20200731-5]  There is no medical application for hating someone.
@@ -171,12 +175,12 @@ it certainly allows for a lot of flexibility.
 This explains why the Death Eaters were so hard to fight, even though Aurors are
 supposedly some of the most skilled at magic that you could find, requiring five
 NEWTS with Exceeds Expectations including some of the harder
-disciplines.[^20200731-7]  I *strongly* suspect that not all inner circle Death Eaters have
-the same Exceeds Expectations or better in Charms, Transfiguration and Defence.
-If what they have instead is a type of magic that levels the playing field, or
-even tilts it the other way, a desperate Ministry losing the war might well
-decide to authorise it, and leave it up to each individual Auror to judge the
-cost.  
+disciplines.[^20200731-7]  I *strongly* suspect that not all inner circle Death
+Eaters have the same Exceeds Expectations or better in Charms, Transfiguration
+and Defence.  If what they have instead is a type of magic that levels the
+playing field, or even tilts it the other way, a desperate Ministry losing the
+war might well decide to authorise it, and leave it up to each individual Auror
+to judge the cost.  
 
 #### Vampires
 
@@ -236,7 +240,7 @@ werewolf?
   * Umbridge has a birch wand,[^20210511-4] and is also
     on her original list of Celtic woods when she talks about
     wands.[^20210511-7]
-  * James Potter had a mahogany wand.[^20210511-5]
+  * [James Potter|adults/James_Potter]] had a mahogany wand.[^20210511-5]
   * ivy is on the list of Celtic woods that Mrs. Rowling posted when she first
     talked about wand woods.[^20210511-6] 
   * Fleur had a rosewood wand.[^20210511-8] 
@@ -367,7 +371,7 @@ fail.  Per the books, the wards were stood up when Petunia took Harry into her
 home.[^20180709-2]  I have to deal with this in this in any story.  How exactly do the
 wards work, and what protection do they provide? I initially considered that the
 wards might not have activated, as this would both be a bit of ironic justice
-and make any story easier.  In _[[Family Inseparable|Family_Inseparable]]_ I
+and make any story easier.  In *[[Family Inseparable|Family_Inseparable]]* I
 adopted a story in which Harry gets married at a young age.  What affect, if
 any, would such a marriage have on the wards?  In the non-magical world,
 [Wikipedia](https://en.wikipedia.org/) suggests that England does not have a
@@ -402,6 +406,15 @@ A related question is The Trace, which also terminates at 17.  How does this
 operate?  As I said, I think it has to be a detection ward of some sort.  I have
 read number of different ideas about it.
 
+Things we know:
+* "small explosions from Fred and George’s bedroom were considered perfectly
+  normal."[^20210618-1] They are certainly doing under-aged magic of some sort
+  (probably potions based). 
+* Dobby's magic can trigger it.[^20210618-2]
+* It is suggested that the is sneaking Harry out under the eyes of the
+  Ministry,[^20210618-3] and yet Tonks' magic does not set it off in book five.[^20210618-4]
+
+Things we speculate: 
 * One author suggested that it gets added to wands that ride the Hogwarts
   Express.[^20210329-13] The problem with this is that I believe it would effect
   the wands of 7th year students, most if not all of whom are already 17. 
@@ -410,10 +423,10 @@ read number of different ideas about it.
 * One author suggested there is a network of rune-engraved ward-stones across
   the country.[^20210329-15] 
 * One author suggests that monitoring devices are placed near the address of
-  witches and wizards known to be underaged.[^20210329-16] The Trace then only
+  witches and wizards known to be under-aged.[^20210329-16] The Trace then only
   works near such devices. 
 * A number of authors suggest that there is "equipment" at the Ministry that is used to
-  detect magic.  Some think that equipment can distinguish between underaged and
+  detect magic.  Some think that equipment can distinguish between under-aged and
   over aged magic.[^20210329-17] This would effectively be an example of 17 as a
   magical number that effects the way magic operates at a fundamental level.
   Some think that the equipment is "tuned" to detect certain magic, and could be
@@ -433,6 +446,22 @@ supervised household charm or does not function at all in wizarding households,
 probably the latter.  The whole "do not use magic outside of school" thing is
 more for muggle born witches and wizards rather than any real restriction. See
 [[Culture]] for more on this. 
+
+[^20210618-1]: Mrs. J. K. Rowling. 
+    _[Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets)_
+    p. 42. Pottermore Limited. American Kindle Edition. 
+
+[^20210618-2]: Mrs. J. K. Rowling. 
+    _[Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets)_
+    p. 20. Pottermore Limited. American Kindle Edition. 
+
+[^20210618-3]: Mrs. J. K. Rowling.
+    _[Harry Potter and the Order of the Phoenix](https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix)_
+    Kindle Locations 821-823. Pottermore Limited. American Kindle Edition. 
+
+[^20210618-4]: Mrs. J. K. Rowling.
+    _[Harry Potter and the Order of the Phoenix](https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix)_
+    Kindle Locations 760,851. Pottermore Limited. American Kindle Edition. 
 
 [^20210329-13]: Need Citation
 
