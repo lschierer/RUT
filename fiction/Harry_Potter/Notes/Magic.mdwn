@@ -407,6 +407,7 @@ operate?  As I said, I think it has to be a detection ward of some sort.  I have
 read number of different ideas about it.
 
 Things we know:
+
 * "small explosions from Fred and George’s bedroom were considered perfectly
   normal."[^20210618-1] They are certainly doing under-aged magic of some sort
   (probably potions based). 
@@ -415,6 +416,7 @@ Things we know:
   Ministry,[^20210618-3] and yet Tonks' magic does not set it off in book five.[^20210618-4]
 
 Things we speculate: 
+
 * One author suggested that it gets added to wands that ride the Hogwarts
   Express.[^20210329-13] The problem with this is that I believe it would effect
   the wands of 7th year students, most if not all of whom are already 17. 
