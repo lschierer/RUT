@@ -16,6 +16,7 @@ We seem to have:
    * Mrs. Rowling published a Book of Spells only available on
      Playstation.[^20210406-44]  There seems to be a [transcript
      available][BoST]
+   * [[Serpensortia]]
 * Potions
 * Runes
 * Divination - tea cups, horoscopes, star charts, crystal balls, so on.
