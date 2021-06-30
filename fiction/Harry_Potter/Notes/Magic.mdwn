@@ -16,8 +16,21 @@ We seem to have:
    * Mrs. Rowling published a Book of Spells only available on
      Playstation.[^20210406-44]  There seems to be a [transcript
      available][BoST]
+   * Transfiguration is troubling on a few levels.
+      * Are transfiguration permanent or temporary?
+      * Are you changing the form, the substance, or both? [Gamp’s Law][hpl1]
+        suggests that this is a complicated answer. 
+      * The vanishing spell on living things is *really* disturbing.  If you
+        master this on a mammal, you essentially have the perfect murder weapon. 
    * [[Serpensortia]]
-* Potions
+* Potions 
+   * Where precisely is the magic in potions?  
+      * If the ingredients, then both squibs and muggles ought to be able to
+        create them. 
+      * If in the creation, then how is the magic applied to the ingredients?
+        There is, after all, "little foolish wand-waving."[^20210630-5]
+      * Do they stir *with their **wooden** wands*‽
+
 * Runes
 * Divination - tea cups, horoscopes, star charts, crystal balls, so on.
 * Arithmancy - Per Google, this should be part of Divination, but is apparently
@@ -27,6 +40,12 @@ We seem to have:
    else we see of magic is.
 
 [BoST]: https://magicscrapbook.tumblr.com/post/162085200042/book-of-spells-transcript
+
+[hpl1]: https://www.hp-lexicon.org/thing/gamps-law-of-elemental-transfiguration/
+
+[^20210630-5]: Mrs. J. K. Rowling. 
+    _[Harry Potter and the Sorcerer's Stone](https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone)_
+    p. 137. Pottermore Limited. American Kindle Edition. 
 
 [^20210406-44]: [magicscrapbook](https://magicscrapbook.tumblr.com/)
     "[‘Book of Spells’ transcript](https://magicscrapbook.tumblr.com/post/162085200042/book-of-spells-transcript)"
