@@ -24,13 +24,11 @@ We seem to have:
         master this on a mammal, you essentially have the perfect murder weapon. 
    * [[Serpensortia]]
 * Potions 
-   * Where precisely is the magic in potions?  
-      * If the ingredients, then both squibs and muggles ought to be able to
-        create them. 
-      * If in the creation, then how is the magic applied to the ingredients?
-        There is, after all, "little foolish wand-waving."[^20210630-5]
-      * Do they stir *with their **wooden** wands*‽
-
+   * What role do the ingredients play in potions? 
+   * > It is often asked whether a Muggle could create a magic potion, given a
+     > Potions book and the right ingredients. The answer, unfortunately, is no.
+     > There is always some element of wandwork necessary to make a
+     > potion[^20210702-4]
 * Runes
 * Divination - tea cups, horoscopes, star charts, crystal balls, so on.
 * Arithmancy - Per Google, this should be part of Divination, but is apparently
@@ -42,6 +40,11 @@ We seem to have:
 [BoST]: https://magicscrapbook.tumblr.com/post/162085200042/book-of-spells-transcript
 
 [hpl1]: https://www.hp-lexicon.org/thing/gamps-law-of-elemental-transfiguration/
+
+[^20210702-4]: Mrs. J. K. Rowling. 
+     _[Short Stories from Hogwarts of Power, Politics and Pesky
+     Poltergeists](https://www.goodreads.com/book/show/31538614-short-stories-from-hogwarts-of-power-politics-and-pesky-poltergeists)_
+     p. 42. Pottermore Publishing. © 2016 American Kindle Edition. 
 
 [^20210630-5]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Sorcerer's Stone](https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone)_
