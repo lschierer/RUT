@@ -127,7 +127,7 @@ Harry would learn about that the hard way.
     "[THE BRITISH EDUCATION SYSTEM][TBES]" © Copyright The Learn English 
     Network - All Rights Reserved, last viewed 2021-02-08.
 
-[TBES]: <https://www.learnenglish.de/culture/educationculture.html>
+[TBES]: https://www.learnenglish.de/culture/educationculture.html
 
 [^20210208-1]: Lily is deceased, despite the fact that her soul is sticking
     around inside Harry.  As such her free will is not curtailed per-se, but
