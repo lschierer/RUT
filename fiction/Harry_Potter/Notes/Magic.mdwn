@@ -7,6 +7,14 @@
 Where does magic come from?  How does it work?  What are the mechanics of it for
 lack of a better word? 
 
+We are told that magic and non-magical technology does not get along.  Clocks
+are fairly high precision devices, yet watches seem to work, so I am going to
+assume only electronics are affected.  Why is this? One theory is that magical
+properties tend to be protected against specific kinds of things.  If one of
+these protections were to be against lightening, and if that protection were
+applied broadly, and not just to the roof (since lightening can strike through
+windows for example), that would effect electronics.[^20210709-1]
+
 We seem to have:
 
 * Spells - curses, hexes, jinks, charms, transfiguration
@@ -40,6 +48,12 @@ We seem to have:
 [BoST]: https://magicscrapbook.tumblr.com/post/162085200042/book-of-spells-transcript
 
 [hpl1]: https://www.hp-lexicon.org/thing/gamps-law-of-elemental-transfiguration/
+
+[^20210709-1]: CmptrWz. 
+    _[For Want of an Outfit](https://archiveofourown.org/works/28507302)_
+    [Chapter 19](https://archiveofourown.org/works/28507302/chapters/76593785)
+    [Archive of Our Own](https://archiveofourown.org)
+    Published: 2021-01-02 Updated: 2021-07-05.
 
 [^20210702-4]: Mrs. J. K. Rowling. 
      _[Short Stories from Hogwarts of Power, Politics and Pesky
