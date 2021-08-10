@@ -3,12 +3,28 @@
 
 ### timeline notes
 
-* 1881 Albus Percival Wulfric Brian Dumbledore born.[^20200714-1]
-
 * Dumbledore became Headmaster after Lupin was bitten.[^20200720-6]
   Since Lupin was a classmate of [[James_Potter|James]] and Lily, he was born in either late 1959
   or early 1960.[^20200813-1]  Since he was bitten at age four, that puts us in
   approximately 1964.[^20200813-2]
+* However, Dumbledore's memory of Riddle's timeline says that Riddle's job
+  interview was ten years after he murdered Hepzibah Smith.[^20210810-6] That
+  would mean that Riddle was with Borgin and Burke for something like 20
+  years.[^20210810-7]  This seems improbable, as he is still described as
+  "young" when he left the shop.[^20210810-8]
+* It does, however fit with the emergence of Riddle and the Death Eaters as a
+  terrorist force, which the [[timeline|History]] places around 1970.  
+* Thus my guess is that Dumbledore *collected* the memory from the house elf ten
+  years prior to the interview, not that the the house elf *formed* the memory
+  ten years prior.  Note, this actually puts Dumbledore in a really poor light. 
+
+[^20210810-7]: Mrs. J. K. Rowling.
+    _[Harry Potter and the Half-Blood Prince](https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince)_
+    page 365. © 2005 American Kindle Edition. 
+
+[^20210810-6]: Mrs. J. K. Rowling.
+    _[Harry Potter and the Half-Blood Prince](https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince)_
+    page 366. © 2005 American Kindle Edition. 
 
 [^20200714-1]: [Harry Potter Wiki](https://harrypotter.fandom.com).  [Screenshot of the old potermore fact file for Dumbledore](https://harrypotter.fandom.com/wiki/Main_Page?file=Albus+Dumbledore+Fact+File+-+PM+via+Internet+Archive.png) Last viewed 2020-07-14
 
@@ -17,6 +33,10 @@
 [^20200813-2]: Mrs. J. K. Rowling. "[Remus Lupin](https://www.wizardingworld.com/writing-by-jk-rowling/remus-lupin)" [Wizarding World](https://www.wizardingworld.com/) Originally Published 2015-08-10.  Last Seen 2020-08-13. 
 
 [^20200813-1]: Mrs. J. K. Rowling.  _Harry Potter and the Deathly Hallows_ (p. 135). Pottermore Publishing. American Kindle Edition. 
+
+[^20210810-7]: See my notes on [[History]], compute from when Riddle graduated
+    Hogwarts to the earliest Dumbledore could be headmaster and yet be winter
+    *after* [[Remus|Lupin]] is bitten. 
 
 ### Character Analysis
 
