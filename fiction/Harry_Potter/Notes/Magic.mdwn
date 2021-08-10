@@ -9,11 +9,14 @@ lack of a better word?
 
 We are told that magic and non-magical technology does not get along.  Clocks
 are fairly high precision devices, yet watches seem to work, so I am going to
-assume only electronics are affected.  Why is this? One theory is that magical
-properties tend to be protected against specific kinds of things.  If one of
-these protections were to be against lightening, and if that protection were
-applied broadly, and not just to the roof (since lightening can strike through
-windows for example), that would effect electronics.[^20210709-1]
+assume only electronics are affected.  Interestingly, Mrs. Rowling writes that
+an early 1800s Minister for Magic thought that telegraph lines affected *magic*,
+not the other way around.[^20210810-5]  Why would magic and electricity
+interact?  One theory is that magical properties tend to be protected against
+specific kinds of things.  If one of these protections were to be against
+lightening, and if that protection were applied broadly, and not just to the
+roof (since lightening can strike through windows for example), that would
+effect electronics.[^20210709-1]
 
 We seem to have:
 
@@ -48,6 +51,11 @@ We seem to have:
 [BoST]: https://magicscrapbook.tumblr.com/post/162085200042/book-of-spells-transcript
 
 [hpl1]: https://www.hp-lexicon.org/thing/gamps-law-of-elemental-transfiguration/
+
+[^20210810-5]: Mrs. J. K. Rowling. 
+     _[Short Stories from Hogwarts of Power, Politics and Pesky
+     Poltergeists](https://www.goodreads.com/book/show/31538614-short-stories-from-hogwarts-of-power-politics-and-pesky-poltergeists)_
+     p. 18. Pottermore Publishing. © 2016 American Kindle Edition. 
 
 [^20210709-1]: CmptrWz. 
     _[For Want of an Outfit](https://archiveofourown.org/works/28507302)_
