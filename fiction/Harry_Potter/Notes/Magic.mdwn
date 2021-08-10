@@ -466,6 +466,9 @@ Things we know:
 * "small explosions from Fred and George’s bedroom were considered perfectly
   normal."[^20210618-1] They are certainly doing under-aged magic of some sort
   (probably potions based). 
+* "they can detect magic, but not the perpetrator … They rely on witch and
+  wizard parents to enforce their offspring’s obedience while within their
+  walls.”[^20210810-4]
 * Dobby's magic can trigger it.[^20210618-2]
 * It is suggested that the is sneaking Harry out under the eyes of the
   Ministry,[^20210618-3] and yet Tonks' magic does not set it off in book five.[^20210618-4]
@@ -503,6 +506,10 @@ supervised household charm or does not function at all in wizarding households,
 probably the latter.  The whole "do not use magic outside of school" thing is
 more for muggle born witches and wizards rather than any real restriction. See
 [[Culture]] for more on this. 
+
+[^20210810-4]: Mrs. J. K. Rowling. 
+    _[Harry Potter and the Half-Blood Prince](https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince)_
+    page 307. © 2005. American Kindle Edition. 
 
 [^20210618-1]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets)_
