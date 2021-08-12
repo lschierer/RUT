@@ -179,6 +179,24 @@ lack of hygiene is just … distasteful.
     _Hogwarts: An Incomplete and Unreliable Guide_
     p. 74. Pottermore Publishing. American Kindle Edition. 
 
+#### Curriculum
+
+Has Hogwarts always had the same classes we see during Harry's time as a
+student?  Was alchemy at one time a more regularly scheduled elective?  Were
+there ever classes in the arts or in languages?  For most of its history,
+literacy was not universal, did Hogwarts have classes in writing, composition,
+reading, or arithmetic, if so, did the need for these classes contribute to the
+prejudice against those from non-magical backgrounds?  Or were these subjects
+handled by one-on-one tutoring (with the same result, since it probably had more
+of an impact on the student's performance in the normal classes)? 
+
+The spells we see all seem to have a Latin basis.  What effect did the Norse
+invasions on Great Britain have on the magical populations?[^20210812-1]  Did it
+effect the spells that were taught, the classes available?
+
+[^20210812-1]: see [[History]], the Norse took over substantial parts of
+    Scotland and eastern England at different times. 
+
 #### [[Class Schedule|Class_Schedule_Rant]]
 
 #### Punishments
@@ -266,10 +284,10 @@ there.[^20200819-3]
 Another possibility is that the Death Eaters used contacts within the Ministry
 of Magic's Accidental Magic Reversal Squad or the Improper Use of Magic office
 to get word of under aged magic users, and to kill the muggle ones.[^20200819-4]
-If so, the same work suggests that they may have killed *fewer* of them in the
-years between the two Riddle wars, but not completely stopped.  This would
-artificially deflate the number of first generation wizards not just in [[Harry]]'s
-year, but in all of the classes we see in the books.  While [[Mr.
+If so, it is possible that they may have killed *fewer* of them in the years
+between the two Riddle wars, but not completely stopped.  This would
+artificially deflate the number of first generation wizards not just in
+[[Harry]]'s year, but in all of the classes we see in the books.  While [[Mr.
 Weasley|adults/Arthur]]'s "Muggle Protection Act" argues against this idea, it
 does seem believable of Umbridge and those like her who set up the laws under
 Pius Thicknesse's puppet government. 
@@ -394,8 +412,12 @@ you try to put it in context of a larger student body.
     the portrait tunnel, and pretty much his entire class, plus both Creevy boys
     seem to be there.  Get a citation for this.
 
-[^20200819-4]: AndrewWolfe. _[The Ghost of Privet Drive](https://archiveofourown.org/works/21500365)_ 
-    [Archive of Our Own](https://archiveofourown.org) Last Updated 2020-08-14. Last Viewed 2020-08-19.
+[^20200819-4]: Several works have this idea, amoung them:
+    * AndrewWolfe. _[The Ghost of Privet Drive](https://archiveofourown.org/works/21500365)_ 
+      [Archive of Our Own](https://archiveofourown.org) Last Updated 2020-08-14. Last Viewed 2020-08-19.
+    * old-crow. _[Unintended Consequences](https://www.fanfiction.net/s/13903544)_
+      [Fanfiction.net](https://fanfiction.net) Published: 2021-06-18. Last
+      Updated: 2021-08-10. Last Viewed: 2021-08-12. 
 
 ### Teachers
 
@@ -419,10 +441,11 @@ on an extended rant about the evils of married teachers, and how it puts too
 much responsibility on the prefects.[^20210521-6] _Stalky & Co._ is certainly
 idealised, no doubt in a lot of ways, but if you read carefully you can tell
 there is a lot of bullying, it is a rough life, but it is kept sufficiently in
-check that most of them come out of it … typically British.  If *Stalky* thinks
-that it would be *worse* if the teachers he describes do *less*, well, then we
-have to assume that the few phrases we have hinting at the problems within
-Hogwarts are actually understating things. 
+check that most of them come out of it … typically British (see the quote on
+bullying in the Students section above).  If *Stalky* thinks that it would be
+*worse* if the teachers he describes do *less*, well, then we have to assume
+that the few phrases we have hinting at the problems within Hogwarts are
+actually understating things. 
 
 Look at the roles that play out in _Stalky_ versus _Harry Potter_.  In _Stalky_
 we see prefects giving out discipline, including corporal punishment, but each house
