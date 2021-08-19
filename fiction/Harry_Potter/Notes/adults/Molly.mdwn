@@ -1,5 +1,5 @@
 [[!meta title="Molly Weasley"]]
-[[!toc levels=2 startlevel=3]]
+[[!toc levels=3 startlevel=2]]
 
 ## Overview 
 
