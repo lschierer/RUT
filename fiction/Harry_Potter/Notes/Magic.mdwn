@@ -35,6 +35,10 @@ We seem to have:
         master this on a mammal, you essentially have the perfect murder weapon. 
    * [[Serpensortia]]
    * turning vinegar into wine is taught in charms class.[^20210820-1]
+     * some speculate that this only works with wine based vinegar, because the
+       spell is reversing oxidation, not actually transfiguring.  Under this
+       view, transfiguration changes form but not substance.  Since the
+       substance *really is wine*, it cannot be true transfiguration. 
 * Potions 
    * What role do the ingredients play in potions? 
    * > It is often asked whether a Muggle could create a magic potion, given a
