@@ -34,6 +34,7 @@ We seem to have:
       * The vanishing spell on living things is *really* disturbing.  If you
         master this on a mammal, you essentially have the perfect murder weapon. 
    * [[Serpensortia]]
+   * turning vinegar into wine is taught in charms class.[^20210820-1]
 * Potions 
    * What role do the ingredients play in potions? 
    * > It is often asked whether a Muggle could create a magic potion, given a
@@ -51,6 +52,10 @@ We seem to have:
 [BoST]: https://magicscrapbook.tumblr.com/post/162085200042/book-of-spells-transcript
 
 [hpl1]: https://www.hp-lexicon.org/thing/gamps-law-of-elemental-transfiguration/
+
+[^20210820-1]: Mrs. J. K. Rowling. 
+    _[Harry Potter and the Half-Blood Prince](https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince)_
+    p. 428. Pottermore Publishing. American Kindle Edition. 
 
 [^20210810-5]: Mrs. J. K. Rowling. 
      _[Short Stories from Hogwarts of Power, Politics and Pesky
