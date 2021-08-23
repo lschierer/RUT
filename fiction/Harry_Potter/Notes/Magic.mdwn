@@ -12,11 +12,20 @@ are fairly high precision devices, yet watches seem to work, so I am going to
 assume only electronics are affected.  Interestingly, Mrs. Rowling writes that
 an early 1800s Minister for Magic thought that telegraph lines affected *magic*,
 not the other way around.[^20210810-5]  Why would magic and electricity
-interact?  One theory is that magical properties tend to be protected against
-specific kinds of things.  If one of these protections were to be against
-lightening, and if that protection were applied broadly, and not just to the
-roof (since lightening can strike through windows for example), that would
-effect electronics.[^20210709-1]
+interact?  
+* One theory is that magical properties tend to be protected against
+  specific kinds of things.  If one of these protections were to be against
+  lightening, and if that protection were applied broadly, and not just to the
+  roof (since lightening can strike through windows for example), that would
+  effect electronics.[^20210709-1]
+* One theory is that magic essentially an electromagnetic field. The source work
+  does not clearly spell this out, but describes magic as a field that interacts
+  with electrical fields, and thus powers, and sometimes over powers, electrical
+  devices.[^20210823-5] Per this theory, it was the poor understanding of
+  electricity in the 1700s and 1800s that lead magicals to conclude that
+  electrical things could not work, and their isolation that lead them to never
+  revisit that "knowledge" even as the non-magical world advanced and made
+  electricity both more common and safer.[^20210823-6]
 
 We seem to have:
 
@@ -56,6 +65,16 @@ We seem to have:
 [BoST]: https://magicscrapbook.tumblr.com/post/162085200042/book-of-spells-transcript
 
 [hpl1]: https://www.hp-lexicon.org/thing/gamps-law-of-elemental-transfiguration/
+
+[^20210823-6]: Kratos1989.
+    _[Head Start](https://www.fanfiction.net/s/13492410)_
+    [Book 1, Chapter 10](https://www.fanfiction.net/s/13492410/11/Head-Start)
+    Updated: 2021-08-23. Published: 2020-02-03. Last Viewed: 2021-08-23. 
+
+[^20210823-5]: Kratos1989.
+    _[Head Start](https://www.fanfiction.net/s/13492410)_
+    [Book 1, Chapter 10](https://www.fanfiction.net/s/13492410/11/Head-Start)
+    Updated: 2021-08-23. Published: 2020-02-03. Last Viewed: 2021-08-23. 
 
 [^20210820-1]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Half-Blood Prince](https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince)_

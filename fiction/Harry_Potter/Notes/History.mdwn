@@ -221,6 +221,9 @@
 
 * 1752 - Hesphaestus Gore elected Minister for Magic.[^20210330-15]
 
+* 1752 - June - Benjamin Franklin proves the electrical nature of
+  lightning.[^20210823-1]
+
 * 1770 - Maximilian Crowdy elected Minister for Magic.[^20210330-17]
 
 * 1781 - Porteus Knatchbull elected Minister for Magic.[^20210330-18]
@@ -228,6 +231,10 @@
 * 1789 - Unctuous Osbert elected Minister for Magic.[^20210330-19]
 
 * 1798 - Artemisia Lufkin elected Minister for Magic.[^20210330-20]
+
+* 1800 - "Direct current was produced in 1800 by Italian physicist Alessandro
+  Volta's battery, his Voltaic pile.[5] The nature of how current flowed was not
+  yet understood."[^20210823-3]
 
 * 1811 - Grogan Stump elected Minister for Magic.[^20210330-21]
 
@@ -238,6 +245,10 @@
   instrument."[^20200816-2]
 
 * 1827 - Ottaline Gambol elected Minister for Magic.[^20210330-23]
+
+* 1832 - "The first alternator to produce alternating current was a dynamo
+  electric generator based on Michael Faraday's principles constructed by the
+  French instrument maker Hippolyte Pixii"[^20210823-2]
 
 * 1835 - Radolphus Lestrange elected Minister for Magic.[^20210330-24]
 
@@ -260,6 +271,9 @@
 * 1858 - Dugald McPhail elected Minister for Magic.[^20210330-28]
 
 * 1865 - Faris Spavin elected Minister for Magic.[^20210330-29]
+
+* 1870 - "The late 1870s and early 1880s saw electricity starting to be
+  generated at power stations."[^20210823-4]
 
 * 1881 Albus Percival Wulfric Brian Dumbledore born.[^20200714-1]
 
@@ -438,6 +452,22 @@
 * 1996 - Rufus Scrimgeour elected Minister for Magic.[^20210330-43]
 
 * 1997 - 1997 Firearms (Amendment) Acts: nearly all guns banned.[^20210228-6]
+
+[^20210823-4]: [Wikipedia](https://en.wikipedia.org/)
+    "[Direct current](https://en.wikipedia.org/wiki/Direct_current)"
+    Last Edited: 2021-08-10. Last Viewed: 2021-08-23.
+
+[^20210823-3]: [Wikipedia](https://en.wikipedia.org/)
+    "[Direct current](https://en.wikipedia.org/wiki/Direct_current)"
+    Last Edited: 2021-08-10. Last Viewed: 2021-08-23.
+
+[^20210823-2]: [Wikipedia](https://en.wikipedia.org/)
+    "[Alternating current](https://en.wikipedia.org/wiki/Alternating_current)"
+    Last Edited: 2021-08-07. Last Viewed: 2021-08-23.
+
+[^20210823-1]: [Wikipedia](https://en.wikipedia.org/)
+    "[Kite experiment](https://en.wikipedia.org/wiki/Kite_experiment)"
+    Last Edited: 2021-07-14. Last Viewed: 2021-08-23.
 
 [^20210813-1]: See the [[Weasley]] family page for justification of this date.
 
