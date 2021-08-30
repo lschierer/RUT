@@ -248,6 +248,12 @@ fairs.
 
 ### Students
 
+Keeping track of exactly how old a student is by age is not natural to me.  For
+whatever reason I tend to think of school age children in terms of their class,
+except being from the United States, I use that education system, not the
+British ones.  I put together [[a table|comparitive_class_ages]] to help with
+that. 
+
 Cannon focuses on [[Harry]]'s classmates almost exclusively.  [Harry's
 Yearmates](https://mugglenet.com/2016/03/the-revised-forty/)[^20200419-1] is
 probably the best source for almost cannon information, though _Secrets of the
