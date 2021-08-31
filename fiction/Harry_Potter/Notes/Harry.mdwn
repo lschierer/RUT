@@ -335,4 +335,4 @@ to keep the essence of who Harry is as a character intact.
 [^20210304-7]: Mrs. J. K. Rowling. _Harry Potter and the Half-Blood Prince_ pp. 85-86. Pottermore Publishing. American Kindle Edition. 
 
 [[!tag "HP Notes"]]
-
+[[!meta title="Harry James Potter"]]

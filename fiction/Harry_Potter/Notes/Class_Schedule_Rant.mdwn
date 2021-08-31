@@ -136,4 +136,4 @@ to fight.
 		citation needed.
 
 [[!tag "HP Notes"]]
-
+[[!meta title="Hogwarts Class Schedule Impossibility"]]
