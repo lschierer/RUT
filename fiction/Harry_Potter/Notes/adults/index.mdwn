@@ -46,6 +46,6 @@ physically, but metaphorically, as the one who could be his equal.[^20210521-8]
 
 ### Specific Adults
 
-[[!map pages="tagged(HP_Notes) and 
+[[!map pages="
               tagged(HP_Adult) 
               "]]
