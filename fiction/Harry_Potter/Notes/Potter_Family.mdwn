@@ -1,4 +1,5 @@
 [[!tag "HP Notes"]] 
+[[!meta title="The Potter Family"]]
 [[!graph width=5, file="fiction/Harry_Potter/Notes/Potter_Family.dot"]]
 
 This tree is speculative based on the available information.  Charlus Potter is

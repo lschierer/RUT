@@ -1,4 +1,4 @@
-## Hogwarts
+[[!meta title="Hogwarts"]]
 
 [[!toc levels=2 startlevel=3]]
 
