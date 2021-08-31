@@ -1,7 +1,3 @@
-## Hogwarts
-
-### Class Schedules Rant
-
 The class schedules pretty much must be intended more as a plot device
 than any serious attempt at sitting down and figuring out how to schedule
 classes for four houses across seven years with only one teacher per
