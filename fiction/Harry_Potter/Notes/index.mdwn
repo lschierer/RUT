@@ -31,55 +31,55 @@ These pages serve three purposes:
 
 [jkr1]: https://www.jkrowling.com/
 
-[[!map pages="title(A*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(B*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(C*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(D*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(E*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(F*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(G*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(H*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(I*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(J*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(K*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(L*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(M*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(N*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(O*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(P*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(Q*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(R*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(S*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(T*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(U*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(V*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(W*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(X*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(Y*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
-[[!map pages="title(Z*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
-
+* A
+  [[!map pages="title(A*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* B
+  [[!map pages="title(B*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* C
+  [[!map pages="title(C*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* D
+  [[!map pages="title(D*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* E
+  [[!map pages="title(E*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* F
+  [[!map pages="title(F*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* G
+  [[!map pages="title(G*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* H
+  [[!map pages="title(H*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* I
+  [[!map pages="title(I*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* J
+  [[!map pages="title(J*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* K
+  [[!map pages="title(K*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* L
+  [[!map pages="title(L*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* M
+  [[!map pages="title(M*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* N
+  [[!map pages="title(N*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* O
+  [[!map pages="title(O*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* P
+  [[!map pages="title(P*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* Q
+  [[!map pages="title(Q*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* R
+  [[!map pages="title(R*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* S
+  [[!map pages="title(S*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* T
+  [[!map pages="title(T*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* U
+  [[!map pages="title(U*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* V
+  [[!map pages="title(V*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* W
+  [[!map pages="title(W*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* X
+  [[!map pages="title(X*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* Y
+  [[!map pages="title(Y*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
+* Z
+  [[!map pages="title(Z*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
