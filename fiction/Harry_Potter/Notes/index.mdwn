@@ -31,6 +31,8 @@ These pages serve three purposes:
 
 [jkr1]: https://www.jkrowling.com/
 
+### Pages by starting letter
+
 * A
   [[!map pages="title(A*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*"]]
 * B
