@@ -35,54 +35,54 @@ These pages serve three purposes:
 
 
 * A
-  [[!inline pages="title(A*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(A*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * B
-  [[!inline pages="title(B*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(B*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * C
-  [[!inline pages="title(C*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(C*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * D
-  [[!inline pages="title(D*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(D*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * E
-  [[!inline pages="title(E*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(E*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * F
-  [[!inline pages="title(F*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(F*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * G
-  [[!inline pages="title(G*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(G*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * H
-  [[!inline pages="title(H*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(H*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * I
-  [[!inline pages="title(I*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(I*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * J
-  [[!inline pages="title(J*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(J*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * K
-  [[!inline pages="title(K*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(K*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * L
-  [[!inline pages="title(L*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(L*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * M
-  [[!inline pages="title(M*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(M*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * N
-  [[!inline pages="title(N*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(N*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * O
-  [[!inline pages="title(O*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(O*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * P
-  [[!inline pages="title(P*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(P*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * Q
-  [[!inline pages="title(Q*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(Q*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * R
-  [[!inline pages="title(R*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(R*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * S
-  [[!inline pages="title(S*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(S*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * T
-  [[!inline pages="title(T*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(T*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * U
-  [[!inline pages="title(U*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(U*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * V
-  [[!inline pages="title(V*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(V*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * W
-  [[!inline pages="title(W*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(W*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * X
-  [[!inline pages="title(X*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(X*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * Y
-  [[!inline pages="title(Y*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(Y*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
 * Z
-  [[!inline pages="title(Z*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feedshow=no quick=no limit=0 sort=title_natural]]
+  [[!inline pages="title(Z*) and tagged(HP_Notes) and fiction/Harry_Potter/Notes/* and ! fiction/Harry_Potter/Notes/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]]
