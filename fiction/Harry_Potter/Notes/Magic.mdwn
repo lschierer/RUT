@@ -36,6 +36,8 @@ We seem to have:
    * Mrs. Rowling published a Book of Spells only available on
      Playstation.[^20210406-44]  There seems to be a [transcript
      available][BoST]
+   * tabula charm - speculated charm that might be part of making the marader's
+     map.[^20210830-2]
    * Transfiguration is troubling on a few levels.
       * Are transfiguration permanent or temporary?
       * Are you changing the form, the substance, or both? [Gamp’s Law][hpl1]
@@ -65,6 +67,9 @@ We seem to have:
 [BoST]: https://magicscrapbook.tumblr.com/post/162085200042/book-of-spells-transcript
 
 [hpl1]: https://www.hp-lexicon.org/thing/gamps-law-of-elemental-transfiguration/
+
+[^20210830-2]: Secre. _[I Did Nothing](https://www.fanfiction.net/s/9920072)_
+    Published: 2013-12-12. Last Updated: 2018-09-18. Last Viewed: 2021-08-30. 
 
 [^20210823-6]: Kratos1989.
     _[Head Start](https://www.fanfiction.net/s/13492410)_
