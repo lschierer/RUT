@@ -1,6 +1,5 @@
 [[!meta title="Professor Binns"]]
 [[!meta date="2021-05-19"]]
-[[!tag "HP Notes"]] 
 [[!tag "HP Adult"]]
 [[!toc levels=2 startlevel=3]]
 
