@@ -274,7 +274,20 @@ determine what happens to a given child.
      the potion in question).  A strong ability inherited from the Cherubim will
      make you more able to discern the effects of the ingredients, including
      between instances of supposedly identical ingredients.  Thus the best
-     potion makers strongly inherit from both the Cherubim and Virtues.
+     potion makers strongly inherit from both the Cherubim and Virtues.  This is
+     one of several counter-intuitive places.  What is happening is that the
+     nephil is using abilities inherited from the Virtues to *unconsciously*
+     (hence no wand waving) augment the ingredients with additional properties.
+     These augmented ingredients then interact to become more than the sum of
+     their parts and produce a potion that does something the nephil could not
+     have achieved with his/her own abilities alone.  The nephil must use
+     abilities coming from the Cherubim to pick precisely the ingredients most
+     affected by his/her unconscious magic, and not only most effected, but
+     effected in precisely the manner to elicit the desired result.  Nearly all
+     nephil react to substances (like beetle eyes) in sufficiently the same
+     manner to make potion recipes possible, but differ just enough that the
+     best results will always come from deviating from some else' recipe by
+     *just the right amount*. 
    * Alchemy is the attempt to make a transmutation affect not just the form
      but the substance.  In practice Alchemy is almost entirely coming from the
      Powers, but happening at the subatomic level.  Things like the Elixir of
