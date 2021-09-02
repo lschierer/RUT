@@ -9,11 +9,11 @@ transfiguration as she had been at charms, and so the two of them had competed
 for top honours in Defence against the Dark arts.[^20210902-7]  Both had done
 well in Ancient Runes, but Lily's stronger work ethic had carried the day, and
 so it was that she took the lead in researching protective measures when they
-learned that Voldemort was targeting their infant son.  The accepted wisdom is
-that there is no defence against the killing curse, and having faced *him* three
-times, both knew the "unforgivable" curses to be particular favourites of his.
-There was no doubt in either mind it was this curse they needed to defend their
-son against.
+learned that Voldemort[^20210902-8] was targeting their infant son.  The
+accepted wisdom is that there is no defence against the killing curse, and
+having faced *him* three times, both knew the "unforgivable" curses to be
+particular favourites of his.  There was no doubt in either mind it was this
+curse they needed to defend their son against.
 
 The Potter family was an old one, the first recorded magical Potter was from
 the twelfth century, which is respectable, even in wizarding terms.  What is
@@ -109,3 +109,8 @@ shard could not possess her son.  A battle of wills and of magic began.
 [^20210902-6]: See the [[Evans Family|Evans_Family]]. 
 
 [^20210902-7]: See the [[Potters|Potter_Family]].
+
+[^20210902-8]: Per my initial [[notes|Harry_Potter_-_Nephilim]], one of the key
+    aspects of this universe is that I was fairly mathematical about magic.
+    Thus the most pivotal characters need a breakdown of their abilities.
+    See [[Riddle]]'s.  

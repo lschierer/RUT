@@ -35,7 +35,7 @@ Dominions|4|2|6|
 Virtues|6|3|9|
 Powers|6|0|6|
 Principalities|6|3|9|
-Archangels|5|2|7|
+Archangels|5|1|6|
 Angels|6|2|8|
 """]]
 
