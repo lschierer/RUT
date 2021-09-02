@@ -5,9 +5,9 @@ Type|base value|bonus value|total value|
 Seraphim|6|2|8|
 Cherubim|9|-5|4|
 Thrones|4|5|9|
-Dominions|2|7|9|
+Dominions|2|8|10|
 Virtues|8|-3|5|
-Powers|6|4|10|
+Powers|6|3|9|
 Principalities|5|3|8|
 Archangels|4|5|9|
 Angels|3|3|6|
@@ -24,9 +24,9 @@ Type|Father|Mother|inherited|
 Seraphim|8|7|8|
 Cherubim|4|7|6|
 Thrones|9|8|9|
-Dominions|9|6|8|
+Dominions|10|6|8|
 Virtues|5|9|7|
-Powers|10|6|8|
+Powers|9|6|8|
 Principalities|8|9|9|
 Archangels|9|6|9|
 Angels|7|8|8|
@@ -36,3 +36,16 @@ Harry is, as you can see, slightly above an average of his parents except in a
 couple of key categories where he straight up inherited the more powerful
 ability.  As the child of two exceptionally powerful parents, even a partial
 inheritance can still result in someone really really powerful. 
+
+If you compare Harry to [[Riddle]], you will see that really Harry is a much
+more balanced wizard, he has neither the highs nor the lows that Riddle has
+(though neither is an especially strong Cherubim).  The one place that Harry
+shines that Riddle does not is the Principalities - population effects.  This is
+probably counter-intuitive.  Riddle works by intimidation, and while you *can*
+intimidate populations, that is not actually what he does.  Instead he creates
+atrocities, and allows his *actions* to act on the populace.  Remember that the
+population effects from the Principalities are tied to locations, thus Harry is
+unconsciously enhancing his environment with magics that affect the people
+around him.  However, he will not find out that is happening until he has
+travelled far enough to see what it looks like when people are *not* affected by
+this magic. 
