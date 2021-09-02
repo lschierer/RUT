@@ -47,8 +47,14 @@ various side streets he could take in his attempts to avoid his pursuers.
 Life thus settled into a pattern.  Harry found that he could avoid Uncle Vernon
 more easily than he remembered being able to do even a few months ago, but that
 whatever was happening did not work nearly so well on Aunt Petunia or Mrs. Figg.
-Already habitually silent, he was now getting used to being invisible as well.
-He learned to avoid making unnecessary noises, as that seemed to break or pause
+It was clear that neither of them could see him unless he made a noise, but both
+of them *remembered* him far more than Vernon, Dudley, or his teachers ever did.
+This was both good and bad.  On the plus side, Aunt Petunia usually remembered
+to unlock the cupboard in the mornings.  On the down side, she remembered to
+give him chores, and follow up to see that they were completed.  Harry was not
+lazy, but sometimes she gave him so much to do that it was hard to find time to
+do his homework.  Overall, it was best when she didn't notice him.  He learned
+to avoid making unnecessary noises, as that seemed to break or pause
 his invisibility.  
 
 Like many children before him, he found that when no one notices you are there,
@@ -56,7 +62,14 @@ adults say things that they would probably rather you not hear. It was this way
 that he learned that his aunt and uncle were not quite as blind to Dudley's
 faults as they pretended — he overheard his uncle on the phone with the school
 superintendent one day, and saw an envelope change hands with one of the town
-constables another.  
+constables another.  Once, mowing Mrs. Figg's lawn, he overheard her talking to
+someone in the house about making sure that the "obliv-somethings" made "their
+monthly visit before people start asking questions again about Potter's
+disgraceful clothing."  He wondered what an "obliv-something" was and if it
+(they?) had anything to do with the way nothing had happened the one time he had
+tried making an anonymous call to the local ACPCs.[^20210902-9]  Still, Harry
+figured it was better to know more than not; already habitually silent, he was
+now getting used to being invisible as well.  
 
 
 ---
@@ -75,3 +88,5 @@ should cover perhaps as much as the first term of the school year.
     forgive any inaccuracies. 
 
 [^20210810-1]: <https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/239040/PRIMARY_national_curriculum_-_Physical_education.pdf> states that students should be taught to swim, and that performance should be compared, for each student, over time.  Timed laps seems like one way a school would implement these two directives. 
+
+[^20210604-8]: See the [[History|Harry_Potter/Notes/History]] page, The Children Act of 1989 was not in effect yet. Again, please forgive my butchering of actual British law. 
