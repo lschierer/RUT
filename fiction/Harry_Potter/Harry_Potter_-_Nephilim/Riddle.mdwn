@@ -1,5 +1,5 @@
 Tom Riddle: 1% chance of something bizarre happening.
-[[!table data="""     
+[[!table data="""
 Type|base value|bonus value|total value| 
 Seraphim|1|8|9|
 Cherubim|4|1|5|
