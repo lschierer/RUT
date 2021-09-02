@@ -349,7 +349,11 @@ determine what happens to a given child.
     * Occlumency - the magical suppression of emotion and with that access to
       thoughts comes at a similar moral and magical cost to active legilimancy.
       This work will offer magical defences to legilimancy besides that of
-      occlumency.  
+      occlumency.  This will require inheritance from the Cherubim (for
+      targeting), the Dominions (for transmuting brain chemicals), and the
+      Seraphim (dealing with the non-material parts of men/nephil).  Lacking
+      *any* of these will basically mean you are not going to succeed at
+      Occlumency.  
 * Per the above, it takes approximately six consecutive generations of magical
   abuse for "truly bizarre" things to become not just possible but probable.
    * In _The Screwtape Letters_, describes the effect of sin on the fallen
