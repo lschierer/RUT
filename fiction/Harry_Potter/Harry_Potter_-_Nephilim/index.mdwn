@@ -168,6 +168,11 @@ determine what happens to a given child.
      be called a squib.  A child with 3 or below on all categories will not be
      invited to any magical school, but might be able to effectively use some
      magic.  A program like Kwick Spell might prey on such people.  
+   * On a related note, a child with a 9 or a 10 in any category uses magic in
+     that category instinctively.  A child with a 10 not only uses it
+     instinctively, but with conscious control. [[Riddle]] did not have to be
+     taught the Imperius Curse, learning it merely fine-tuned something he was
+     already doing. 
    * Because it is possible (16% chance) for the parents' abilities to
      recombine, these "squibs" who are actually extremely low powered nephilim,
      can eventually produce higher powered children.  These children will
