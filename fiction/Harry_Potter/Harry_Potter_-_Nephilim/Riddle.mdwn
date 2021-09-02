@@ -1,4 +1,5 @@
-Tom Riddle: 1% chance of something bizarre happening.
+Tom Riddle: 1% chance of something bizarre happening (base value from his
+mother, plus a bizarre bonus).
 [[!table data="""
 Type|base value|bonus value|total value| 
 Seraphim|1|8|9|
