@@ -5,9 +5,9 @@
 
 Vernon Dursley was a huge walrus of a man, with a large moustache and hardly
 any neck. Although fundamentally a bully by nature, Vernon would never dream of
-crossing his wife, Petunia.  It was not that she was physically intimidating.
-Almost anorexic woman, with a rather horsey face, you might have been
-excused for thinking her the victim and Vernon the aggressor.  Instead,
+crossing his wife, Petunia.[^20210902-6]  It was not that she was physically
+intimidating.  Almost anorexic woman, with a rather horsey face, you might have
+been excused for thinking her the victim and Vernon the aggressor.  Instead,
 deep down (as much as he denied it even to himself), he secretly dreaded
 her shrewish temper.  He did all he could to accommodate her obsessions,
 while fully sharing her small minded bigotry, and petty hatreds.  Thus when
@@ -195,3 +195,7 @@ find their books scarier than children do.
     _[Justice Served With A Side Of Fries](https://www.fanfiction.net/s/6300111)_ 
     though I think I came up with my version before I read that story. 
 
+[^20210902-6]: Per my [[Notes|Harry_Potter_-_Nephilim]] on this fanfiction, I am
+    making Petunia a Squib, see the [[Evans Family|Evans_Family]]. Vernon is
+    purely non-magically, and Dudley, being a boy born from a male human and a
+    female nephil, ended up also pure human (non-magical). 

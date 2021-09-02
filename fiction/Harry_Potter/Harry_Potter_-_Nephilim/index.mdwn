@@ -266,7 +266,10 @@ determine what happens to a given child.
      something that has, to paraphrase McGonagall, gone into everything.  
    * Potions are complicated.   The magic comes in part from the brewer
      (primarily from the Virtues), and in part from the ingredients (depends on
-     the potion in question). 
+     the potion in question).  A strong ability inherited from the Cherubim will
+     make you more able to discern the effects of the ingredients, including
+     between instances of supposedly identical ingredients.  Thus the best
+     potion makers strongly inherit from both the Cherubim and Virtues.
    * Alchemy is the attempt to make a transmutation affect not just the form
      but the substance.  In practice Alchemy is almost entirely coming from the
      Powers, but happening at the subatomic level.  Things like the Elixir of

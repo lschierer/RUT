@@ -1,0 +1,54 @@
+Mr. Evans (Lily's father):
+[[!table data="""
+Seraphim|2|
+Cherubim|1|
+Thrones|1|
+Dominions|2|
+Virtues|3|
+Powers|3|
+Principalities|3|
+Archangels|2|
+Angels|3|
+"""]]
+
+Mrs. Evans (Lily's mother):
+[[!table data="""
+Seraphim|1|
+Cherubim|2|
+Thrones|1|
+Dominions|2|
+Virtues|3|
+Powers|3|
+Principalities|3|
+Archangels|3|
+Angels|3|
+"""]]
+
+Lily: 1% chance of something bizarre happening.  Add her two parent's score and
+add in a bonus (positive or negative - in this case positive)
+[[!table header=yes data="""
+Type|base value|bonus value|total value|
+Seraphim|3|4|7|
+Cherubim|3|4|7|
+Thrones|2|7|8|
+Dominions|4|2|6|
+Virtues|6|3|9|
+Powers|6|0|6|
+Principalities|6|3|9|
+Archangels|5|2|7|
+Angels|6|2|8|
+"""]]
+
+Petunia: 7.5% chance of a partial inheritance from just her mother
+[[!table data="""
+Seraphim|1|
+Cherubim|1|
+Thrones|1|
+Dominions|0|
+Virtues|0|
+Powers|1|
+Principalities|1|
+Archangels|0|
+Angels|0|
+"""]]
+

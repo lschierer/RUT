@@ -1,0 +1,38 @@
+James Potter: 1% chance of something bizarre happening.  Add his parent's scores
+(mod 10) and add in a bonus (positive or negative - in this case a mix of both)
+[[!table header=yes data="""
+Type|base value|bonus value|total value|
+Seraphim|6|2|8|
+Cherubim|9|-5|4|
+Thrones|4|5|9|
+Dominions|2|7|9|
+Virtues|8|-3|5|
+Powers|6|4|10|
+Principalities|5|3|8|
+Archangels|4|5|9|
+Angels|3|5|8|
+"""]]
+
+James really should not have existed at all.  He was born, per cannon, after his
+parents were already old.  I am taking that fairly literally, and saying that
+since magic interfered with their fertility, it interfered with his magical
+inheritance as well. 
+
+Harry Potter: 14% chance of a partial inheritance from both parents, 
+[[!table header=yes data="""
+Type|Father|Mother|inherited|
+Seraphim|8|7|8|
+Cherubim|4|7|6|
+Thrones|9|8|9|
+Dominions|9|6|8|
+Virtues|5|9|7|
+Powers|10|6|8|
+Principalities|8|9|9|
+Archangels|9|7|9|
+Angels|8|8|8|
+"""]]    
+
+Harry is, as you can see, slightly above an average of his parents except in a
+couple of key categories where he straight up inherited the more powerful
+ability.  As the child of two exceptionally powerful parents, even a partial
+inheritance can still result in someone really really powerful. 

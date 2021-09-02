@@ -3,16 +3,17 @@
 ## Harry Potter - Nephilim 
 ### Prologue
 
-While Lily Potter had excelled in potions, she had been a charms prodigy.
-Her husband, James, had been as skilled at transfiguration as she had been
-at charms, and so the two of them had competed for top honours in Defence
-against the Dark arts.  Both had done well in Ancient Runes, but Lily's
-stronger work ethic had carried the day, and so it was that she took the
-lead in researching protective measures when they learned that Voldemort was
-targeting their infant son.  The accepted wisdom is that there is no defence
-against the killing curse, and having faced *him* three times, both knew
-the "unforgivable" curses to be particular favourites of his.  There was no
-doubt in either mind it was this curse they needed to defend their son against.
+While Lily Potter had excelled in potions, she had been a charms
+prodigy.[^20210902-6]  Her husband, James, had been as skilled at
+transfiguration as she had been at charms, and so the two of them had competed
+for top honours in Defence against the Dark arts.[^20210902-7]  Both had done
+well in Ancient Runes, but Lily's stronger work ethic had carried the day, and
+so it was that she took the lead in researching protective measures when they
+learned that Voldemort was targeting their infant son.  The accepted wisdom is
+that there is no defence against the killing curse, and having faced *him* three
+times, both knew the "unforgivable" curses to be particular favourites of his.
+There was no doubt in either mind it was this curse they needed to defend their
+son against.
 
 The Potter family was an old one, the first recorded magical Potter was from
 the twelfth century, which is respectable, even in wizarding terms.  What is
@@ -104,3 +105,7 @@ shard could not possess her son.  A battle of wills and of magic began.
 [^20210218-2]: See my notes on the [[Peverells|fiction/Harry_Potter/Notes/Peverell]]
 
 [^20210420-1]: See my notes on [[Culture|fiction/Harry_Potter/Notes/Culture]]
+
+[^20210902-6]: See the [[Evans Family|Evans_Family]]. 
+
+[^20210902-7]: See the [[Potters|Potter_Family]].
