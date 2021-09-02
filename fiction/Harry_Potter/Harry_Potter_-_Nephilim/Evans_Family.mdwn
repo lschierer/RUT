@@ -1,5 +1,6 @@
 Mr. Evans (Lily's father):
 [[!table data="""
+Type|Value|
 Seraphim|2|
 Cherubim|1|
 Thrones|1|
@@ -13,6 +14,7 @@ Angels|3|
 
 Mrs. Evans (Lily's mother):
 [[!table data="""
+Type|Value|
 Seraphim|1|
 Cherubim|2|
 Thrones|1|
@@ -41,6 +43,7 @@ Angels|6|2|8|
 
 Petunia: 7.5% chance of a partial inheritance from just her mother
 [[!table data="""
+Type|Value|
 Seraphim|1|
 Cherubim|1|
 Thrones|1|

@@ -1,5 +1,5 @@
 Tom Riddle: 1% chance of something bizarre happening.
-[[!table header=yes data="""     
+[[!table data="""     
 Type|base value|bonus value|total value| 
 Seraphim|1|8|9|
 Cherubim|4|1|5|
@@ -42,5 +42,5 @@ Lily's protection aside, you need to decide what theory of [[horcruxes|Notes/Hor
 are using, and what affect that theory has on Riddle's powers after the
 destruction of the diary.  For this work, I think that both the audience and the
 characters are in the dark about that answer, but suffice to say that one way or
-another, you cannot suffer the destruction of a [[[[horcruxes|Notes/Horcruxes]]
+another, you cannot suffer the destruction of a [[horcruxes|Notes/Horcruxes]]
 you have created without *suffering.*  
