@@ -36,15 +36,39 @@ We seem to have:
    * Mrs. Rowling published a Book of Spells only available on
      Playstation.[^20210406-44]  There seems to be a [transcript
      available][BoST]
-   * tabula charm - speculated charm that might be part of making the marader's
-     map.[^20210830-2]
    * Transfiguration is troubling on a few levels.
       * Are transfiguration permanent or temporary?
       * Are you changing the form, the substance, or both? [Gamp’s Law][hpl1]
         suggests that this is a complicated answer. 
       * The vanishing spell on living things is *really* disturbing.  If you
         master this on a mammal, you essentially have the perfect murder weapon. 
+   * Fidelius Charm has contradictory information available. 
+     * When Hermione disapperates from the Ministry in book 7, bringing Yaxley
+       along, she claims that since [[Dumbledore|adults/Dumbledore]] died, they
+       are *each* secret keepers, and so she has effectively told Yaxley the
+       secret.[^20210902-3]
+     * Mrs. Rowling, writing in her web page FAQ, writes 
+       > When a Secret-Keeper dies, their secret dies with them, or, to put it
+       > another way, the status of their secret will remain as it was at the
+       > moment of their death. Everybody in whom they confided will continue to
+       > know the hidden information, but nobody else.[^20210902-4]
+     * The FAQ page exists *after* the publishing of book 7: 
+       * Book Seven is copyright 2007
+       * [Archive.org][AO1] shows the FAQ page up on 2012-02-04
+     * Either Hermione and Harry are wrong or the FAQ is wrong. 
+     * If the FAQ is correct, then any use of the spell is really rather
+       dangerous.  You set up a situation where locations can be totally lost,
+       once the secret keeper dies, no one can learn the information, including
+       potentially the location.  Thus within a generation or so, a house
+       becomes unfindable. There would need to be a way to deconstruct/break the
+       spell without having the secret keeper. 
+     * If the FAQ is wrong, then it is *even more* complicated than any of Mrs.
+       Rowling's descriptions.  How does the secret move into the other souls
+       after the death of the first secret keeper? What is the mechanism that
+       makes untransmittable knowledge now something "stored in your soul"? 
    * [[Serpensortia]]
+   * tabula charm - speculated charm that might be part of making the marader's
+     map.[^20210830-2]
    * turning vinegar into wine is taught in charms class.[^20210820-1]
      * some speculate that this only works with wine based vinegar, because the
        spell is reversing oxidation, not actually transfiguring.  Under this
@@ -67,6 +91,16 @@ We seem to have:
 [BoST]: https://magicscrapbook.tumblr.com/post/162085200042/book-of-spells-transcript
 
 [hpl1]: https://www.hp-lexicon.org/thing/gamps-law-of-elemental-transfiguration/
+
+[AO1]: https://web.archive.org/
+
+[^20210902-3]: Mrs. J. K. Rowling. 
+    _[Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows)_
+    p. 112. Pottermore Publishing. © 2007 American Kindle Edition. 
+
+[^20210902-4]: Mrs. J. K. Rowling.
+    "[Result of F.A.Q. Poll](https://web.archive.org/web/20060224124124/http://www.jkrowling.com:80/textonly/en/faq_poll.cfm)"
+    Same page through [2012-02-04](https://web.archive.org/web/20120204062053/http://www.jkrowling.com/textonly/en/faq_poll.cfm)
 
 [^20210830-2]: Secre. _[I Did Nothing](https://www.fanfiction.net/s/9920072)_
     Published: 2013-12-12. Last Updated: 2018-09-18. Last Viewed: 2021-08-30. 
