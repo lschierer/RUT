@@ -294,7 +294,9 @@ determine what happens to a given child.
          it is only because they judge it useful to lead us further into sin.
          Users of this magic make future generations more susceptible to magics
          inherited from the Seraphim and Thrones (for four generations per
-         above).  Thus most prophesies are misleading, false, or both. 
+         above).  Thus most prophesies are misleading, false, or both.  This
+         fits well with what Mrs. Rowling writes in her original FAQ when she
+         compared her series' prophecy to the one from _Macbeth_.[^20210902-5]
        * Users particularly skilled in the abilities from the Seraphim may be
          able to use these abilities to make incredibly accurate predictions
          about people without crossing any lines.  Knowing that someone is
@@ -527,3 +529,7 @@ determine what happens to a given child.
 
 [^20210408-1]: Mr. C. S. Lewis. _The Screwtape Letters_. pp. 120-121. Copyright 1942. HarperOne. Kindle Edition. 
 
+[^20210902-5]: Mrs. J. K. Rowling. 
+    "[What is the significance of Neville being the other boy to whom the
+    prophecy might have referred?](https://therowlinglibrary.com/jkrowling.com/textonly/en/faq_view_id=84.html)"
+    Last Viewed: 2021-09-02. 
