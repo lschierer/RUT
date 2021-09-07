@@ -14,6 +14,7 @@ Evans|Petunia|4|1|1|1|0|0|1|1|0|0||
 Dursley|Dudley|6|1|1|0|0|0|0|0|0|0||[^note6]|
 Riddle|Tom|1|9|5|10|8|7|9|6|9|9|[^note9]|
 Poter|Harry|3|8|6|9|8|7|8|9|9|8|[^note4]|
+"""]]
 
 [^note1]: We have no canonical background information on Euphemia except for the
     fact that she was either a pureblood or a halfblood.  Thus, I have moulded
