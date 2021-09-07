@@ -196,6 +196,6 @@ find their books scarier than children do.
     though I think I came up with my version before I read that story. 
 
 [^20210902-6]: Per my [[Notes|Harry_Potter_-_Nephilim]] on this fanfiction, I am
-    making Petunia a Squib, see the [[Evans Family|Evans_Family]]. Vernon is
-    purely non-magically, but nephil traits are sometimes remarkably persistent,
-    so [[Dudley]] is, just barely, a nephil. 
+    making Petunia a Squib. Vernon is purely non-magically, but nephil traits
+    are sometimes remarkably persistent, so Dudley is, just barely, a nephil.
+    See my notes on [[relative power levels|power_chart]].
