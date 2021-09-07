@@ -2,7 +2,7 @@
 [[!table header=yes data="""
 Last Name|First Name|Inheritance Rule|Seraphim|Cherubim|Thrones|Dominions|Virtues|Powers|Principalities|Archangels|Angels|
 Dumbledore|Albus[^note10]|2|7|8|9|10|8|7|6|7|9|
-Potter|Euphemia[^note1]|1|9|1|10|2|9|10|9|6|
+Potter|Euphemia[^note1]|1|9|1|10|10|2|9|10|9|6|
 Poter|Fleamont[^note2]|1|7|8|8|4|8|7|6|9|6|
 Evans|Mr.|1|2|1|1|2|3|3|3|2|3|
 Evans|Mrs.|1|1|2|1|2|3|3|3|3|3|
