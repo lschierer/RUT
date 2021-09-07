@@ -1,0 +1,147 @@
+## Relative power of different characters in each class of power.
+[[!table header=yes data="""
+Last Name|First Name|Inheritance Rule|Seraphim|Cherubim|Thrones|Dominions|Virtues|Powers|Principalities|Archangels|Angels|Notes|
+Dumbledore|Albus|2|7|8|9|10|7|6|7|9|[^note10]|
+Potter|Euphemia|1|9|1|10|2|9|10|9|6|[^note1]|
+Poter|Fleamont|1|7|8|8|4|8|7|6|9|6|[^note2]|
+Evans|Mr.|1|2|1|1|2|3|3|2|3||
+Evans|Mrs.|1|1|2|1|2|3|3|3|3|3||
+Prince|Eileen|1|2|7|3|6|5|4|3|4|4|[^note8]|
+Poter|James|3|8|4|9|10|5|9|8|9|6|[^note3]|
+Evans|Lily|7|7|7|8|6|9|6|9|6|8|[^note5]|
+Snape|Severus|7|8|9|7|6|9|9|5|8|7|[^note7]|
+Evans|Petunia|4|1|1|1|0|0|1|1|0|0||
+Dursley|Dudley|6|1|1|0|0|0|0|0|0|0||[^note6]|
+Riddle|Tom|1|9|5|10|8|7|9|6|9|9|[^note9]|
+Poter|Harry|3|8|6|9|8|7|8|9|9|8|[^note4]|
+
+[^note1]: We have no canonical background information on Euphemia except for the
+    fact that she was either a pureblood or a halfblood.  Thus, I have moulded
+    her to fit what I envision James to be.  She is an incredibly eclectic mix
+    of highs and lows, in terms of ability.  I imagine, given how interconnected
+    the wizarding world is, that no matter her personal beliefs, in her
+    background, several ancestors have abused magics that compel the will,
+    compulsions, imperious, confundus, and similar.  This has boosted her
+    inheritance from the Thrones.  I further suspect she is related to the
+    creators of one of the humaniform "races" of pseudo-sentient beings.  Such a
+    massive violation of the natural order might well have boosted the Dominions
+    inheritance to the point that it has yet to degrade even generations later.
+    In short, she comes from a "darker" family, but, like Sirius, has rejected
+    that past. 
+
+[^note2]: Fleamont was an incredible duellist and a good potioneer. 
+
+[^note3]: James really should not have existed at all.  He was born, per cannon,
+    after his parents were already old. In many ways he inherited the average of
+    both parents, but in keeping with the above, I am saying that the inheritance
+    from the Dominions is too strongly "programmed" to degrade. 
+
+[^note4]: Harry is, as you can see, slightly above an average of his parents
+    except in a couple of key categories where he straight up inherited the more
+    powerful ability.  As the child of two exceptionally powerful parents, even a
+    partial inheritance can still result in someone really really powerful. We are
+    finally far enough away from whenever in time the Dominions were abused that
+    this ability can degrade. 
+
+[^note5]: Lily inherited the sum total of her parents, plus an unexpected
+    something extra.
+
+[^note6]: Dudley is a male child from a human father and a squibbish nephil
+    mother.  He stood a good chance of being born pure human.  Unfortunately, I
+    need him to do a fair amount of "Harry Hunting."  He falls in that that 4%
+    chance of a partial inheritance from just his mother. He has a *minuscule*
+    ability to perceive that magic exists, and his only, barely rate-able,
+    inheritance from the Seraphim, is a slight ability to feel when legilimency
+    is being used around him.
+
+[^note8]: We have next to no canonical information about Eileen Prince.  We know
+    that she was either unable or unwilling to protect her sun from the muggle
+    Tobias Snape.  I am assuming unable.  With that in mind, I have given her a
+    range of abilities that left her week in the wand-based subjects,
+    particularly where it comes to the types of magic that would allow her to
+    protect her son most effectively.  She was probably good but not brilliant
+    at Potions.
+
+[^note7]: Snape is a potions prodigy.  He does his potions entirely
+    instinctively, *and as such has no understanding of why other people do not
+    find them just as easy*.  Snape is not just picking his ingredients
+    precisely right, and augmenting them exactly as needed, he is even
+    manipulating chemistry at an instinctual unconscious level so that his
+    cauldrons and fires are exactly what the potion needs.  Snape has never
+    needed an explanation of how to cut an ingredient, how to stir a potion,
+    *why* one stirs one way versus another way, or any of the other myriad
+    details of potion making.  He does not understand why anyone else might need
+    these tedious lectures - they are self explanatory to anyone with half a
+    brain.  The only reason why Lily outshines him in Slughorn's class is
+    because: 
+
+    1. he is essentially lazy.  The class comes easily to him, so he frequently
+       tries just hard enough to show up everyone present *except* Lily (he does
+       not care if she beats him)
+    1. he is distracted by James and Sirius
+       * partly by what they are doing to him
+       * partly by what he is trying to do to them
+    1. he is distracted *by __Lily__* whereas she feels only friendship for him
+       and so is not distracted by him.
+
+[^note8]: Riddle, as the male child of a near Squib, did not have great odds of
+    being a powerful wizard.  That he is means that he was that 1% chance.
+
+If you compare Snape, James, and Lily, you will see that Snape and James are
+almost precisely equal, except for their exact skill set, and that Lily is
+actually *slightly* under-powered compared to both of them.  This matches what
+Ollivander says of James' and Lily's wands, that James' has a little more power,
+and yet makes Lily powerful enough to be scary. 
+
+The other thing I have done is that the average of Riddle and Harry's abilities
+are both an 8, so that while they have different specific abilities, they are in
+a sense equally strong nephilim.  You will see that really Harry is a much
+more balanced wizard, he has neither the highs nor the lows that Riddle has
+(though neither is an especially strong Cherubim).  The one place that Harry
+shines that Riddle does not is the Principalities - population effects.  This is
+probably counter-intuitive.  Riddle works by intimidation, and while you *can*
+intimidate populations, that is not actually what he does.  Instead he creates
+atrocities, and allows his *actions* to act on the populace.  Remember that the
+population effects from the Principalities are tied to locations, thus Harry is
+unconsciously enhancing his environment with magics that affect the people
+around him.  However, he will not find out that is happening until he has
+travelled far enough to see what it looks like when people are *not* affected by
+this magic. 
+
+f you stack rank Riddle against Lily and James, the there are really four things
+that make Riddle so scary. 
+
+1. With an inheritance of 9 from the Seraphim, few people can defend against his
+   legilimency, particularly when he employs it in mid duel.
+1. With his maximised inheritance from the Thrones, nearly no-one can resist his
+   Imperius Curse. In point of fact, Riddle is unconsciously bending other
+   nephil to his will merely by being in their presence.
+1. Few wizards (or witches) are as strong at *both* attack and defence (this is
+   effectively two things, hence I said four total).
+
+If you compare him to Harry, and in light of the above, I am going to get
+complaints that I am either being inconsistent if I let Harry resist Riddle's
+Imperius Curse, or that I'm ignoring cannon where Harry does just that.  There
+are three possibilities, and I will probably actually go some combination of
+them:
+
+1. If you put the Goblet of Fire grave yard situation in this universe, then you
+   would *not* just have Harry resisting Riddle, because Harry also has Lily's
+   protection augmenting his capabilities.  Riddle never fully understood that
+   protection, and taking Harry's blood does not fully bypass it. 
+1. Lily's protection aside, you need to decide what theory of
+   [[horcruxes|Notes/Horcruxes]] you are using, and what affect that theory has
+   on Riddle's powers after the destruction of the diary.  For this work, I
+   think that both the audience and the characters are in the dark about that
+   answer, but suffice to say that one way or another, you cannot suffer the
+   destruction of a [[horcruxes|Notes/Horcruxes]] you have created without
+   *suffering.* 
+1. In the books, Harry *learns* to resist the Imperius Curse, the fake Moody
+   uses it several times on him before he can resist it easily.  Even then, it
+   takes Harry noticable effort to resist Riddle's when they meet in the
+   graveyard.  This suggests that Harry's ability *is* less than Riddle's, but
+   that Harry's is sufficiently strong that *with training* he can *learn* to
+   stand up to Riddle. This last suggests that anyone with a score of 8 in the
+   Thrones can be taught to resist Riddle's Imperius Curse.  That puts James,
+   Dumbledore, and Snape at a level where they need not fear Riddle overwhelming
+   them in the mind arts. 
