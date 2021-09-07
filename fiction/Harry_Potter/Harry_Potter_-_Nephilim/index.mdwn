@@ -207,7 +207,11 @@ determine what happens to a given child.
      has marginal *at best* affect on full humans. Things like the imperious
      curse or the confundus charm fit in here. 
    * From the Dominions, the ability to transmute the form, but not the
-     substance, of one thing to another
+     substance, of one thing to another.  This will be temporary unless the
+     change is "locked" in place through combining this ability with that
+     inherited from the Powers.  Neither alone can make a transmutation
+     permenent.  That is, the Powers cannot retroactively make a transmutation
+     permenent, it must be done *as the change is made, by the same nephil*. 
    * From the Virtues the ability to temporarily augment the nature of the
      natural world
    * From the Powers, temporary & localised manipulation of the laws of physics
