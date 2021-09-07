@@ -1,20 +1,19 @@
 ## Relative power of different characters in each class of power.
-[[!table header=yes data="""
-Last Name|First Name|Inheritance Rule|Seraphim|Cherubim|Thrones|Dominions|Virtues|Powers|Principalities|Archangels|Angels|
-Dumbledore|Albus[^note10]|2|7|8|9|10|8|7|6|7|9|
-Potter|Euphemia[^note1]|1|9|1|10|10|2|9|10|9|6|
-Poter|Fleamont[^note2]|1|7|8|8|4|8|7|6|9|6|
-Evans|Mr.|1|2|1|1|2|3|3|3|2|3|
-Evans|Mrs.|1|1|2|1|2|3|3|3|3|3|
-Prince|Eileen[^note8]|1|2|7|3|6|5|4|3|4|4|
-Poter|James[^note3]|3|8|4|9|10|5|9|8|9|6|
-Evans|Lily[^note5]|7|7|7|8|6|9|6|9|6|8|
-Snape|Severus[^note7]|7|8|9|7|6|9|9|5|8|7|
-Evans|Petunia|4|1|1|1|0|0|1|1|0|0|
-Dursley|Dudley[^note6]|6|1|1|0|0|0|0|0|0|0|
-Riddle|Tom[^note9]|1|9|5|10|8|7|9|6|9|9|
-Poter|Harry[^note4]|3|8|6|9|8|7|8|9|9|8|
-"""]]
+Last Name |First Name      |Inheritance Rule|Seraphim|Cherubim|Thrones|Dominions|Virtues|Powers|Principalities|Archangels|Angels|Average
+----------|----------------|----------------|--------|--------|-------|---------|-------|------|--------------|----------|------|-------
+Dumbledore|Albus[^note10]  |2               |7       |8       |9      |10       |8      |7     |6             |7         |9     |7.88   
+Potter    |Euphemia[^note1]|1               |9       |1       |10     |10       |2      |9     |10            |9         |6     |7.33
+Poter     |Fleamont[^note2]|1               |7       |8       |8      |4        |8      |7     |6             |9         |6     |7.00
+Evans     |Mr.             |1               |2       |1       |1      |2        |3      |3     |3             |2         |3     |2.22
+Evans     |Mrs.            |1               |1       |2       |1      |2        |3      |3     |3             |3         |3     |2.33
+Prince    |Eileen[^note8]  |1               |2       |7       |3      |6        |5      |4     |3             |4         |4     |4.22
+Poter     |James[^note3]   |3               |8       |4       |9      |10       |5      |9     |8             |9         |6     |7.55
+Evans     |Lily[^note5]    |7               |7       |7       |8      |6        |9      |6     |9             |6         |8     |7.33
+Snape     |Severus[^note7] |7               |8       |9       |7      |6        |9      |9     |5             |8         |7     |7.55
+Evans     |Petunia         |4               |1       |1       |1      |0        |0      |1     |1             |0         |0     |0.55
+Dursley   |Dudley[^note6]  |6               |1       |1       |0      |0        |0      |0     |0             |0         |0     |0.22
+Riddle    |Tom[^note9]     |1               |9       |5       |10     |8        |7      |9     |6             |9         |9     |8.00
+Poter     |Harry[^note4]   |3               |8       |6       |9      |8        |7      |8     |9             |9         |8     |8.00
 
 [^note1]: We have no canonical background information on Euphemia except for the
     fact that she was either a pureblood or a halfblood.  Thus, I have moulded
