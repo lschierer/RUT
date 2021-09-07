@@ -1,9 +1,10 @@
 ## Relative power of different characters in each class of power.
 Last Name |First Name      |Inheritance Rule|Seraphim|Cherubim|Thrones|Dominions|Virtues|Powers|Principalities|Archangels|Angels|Average
 ----------|----------------|----------------|--------|--------|-------|---------|-------|------|--------------|----------|------|-------
-Dumbledore|Albus[^note10]  |2               |7       |8       |9      |10       |8      |7     |6             |7         |9     |7.88   
+Dumbledore|Albus[^note10]  |2               |7       |8       |9      |10       |8      |9     |6             |7         |9     |8.11   
 Potter    |Euphemia[^note1]|1               |9       |1       |10     |10       |2      |9     |10            |9         |6     |7.33
 Poter     |Fleamont[^note2]|1               |7       |8       |8      |4        |8      |7     |6             |9         |6     |7.00
+Riddle    |Tom[^note9]     |1               |9       |5       |10     |8        |7      |9     |6             |9         |9     |8.00
 Evans     |Mr.             |1               |2       |1       |1      |2        |3      |3     |3             |2         |3     |2.22
 Evans     |Mrs.            |1               |1       |2       |1      |2        |3      |3     |3             |3         |3     |2.33
 Prince    |Eileen[^note8]  |1               |2       |7       |3      |6        |5      |4     |3             |4         |4     |4.22
@@ -12,9 +13,22 @@ Evans     |Lily[^note5]    |7               |7       |7       |8      |6        
 Snape     |Severus[^note7] |7               |8       |9       |7      |6        |9      |9     |5             |8         |7     |7.55
 Evans     |Petunia         |4               |1       |1       |1      |0        |0      |1     |1             |0         |0     |0.55
 Dursley   |Dudley[^note6]  |6               |1       |1       |0      |0        |0      |0     |0             |0         |0     |0.22
-Riddle    |Tom[^note9]     |1               |9       |5       |10     |8        |7      |9     |6             |9         |9     |8.00
 Poter     |Harry[^note4]   |3               |8       |6       |9      |8        |7      |8     |9             |9         |8     |8.00
 
+[^note10]: The cannonical books talk about Dumbledore as the most powerful
+    wizard known, the only one Riddle fears, and yet Dumbledore cannot defeat
+    Riddle.  Why is this?  Here I provide a possible explanation that is not
+    simply lack of will to do so.  The devil is in the details.  Riddle is
+    exceptionally strong in both offensive and defensive magic (Archangels and
+    Angels), Dumbledore is only above average offensively, but is superlative in
+    transmutation, manipulation of physics and chemistry, and binding the will.
+    Unfortunately, Riddle actually equals or exceeds Dumbledore in the wand arts
+    *except* in transmutation and temporary augementation (Virtues).  Neither of
+    these makes for an easy combat victory, and Riddle's strong offensive magic
+    means that it essentially becomes a stand-off between the two.  Dumbledore's
+    great inteligence lets him use transmutation and out-of-the-box thinking to
+    make up for a lack of directly offensive capability.  
+    
 [^note1]: We have no canonical background information on Euphemia except for the
     fact that she was either a pureblood or a halfblood.  Thus, I have moulded
     her to fit what I envision James to be.  She is an incredibly eclectic mix
@@ -84,7 +98,7 @@ Poter     |Harry[^note4]   |3               |8       |6       |9      |8        
     1. he is distracted *by __Lily__* whereas she feels only friendship for him
        and so is not distracted by him.
 
-[^note8]: Riddle, as the male child of a near Squib, did not have great odds of
+[^note9]: Riddle, as the male child of a near Squib, did not have great odds of
     being a powerful wizard.  That he is means that he was that 1% chance.
 
 If you compare Snape, James, and Lily, you will see that Snape and James are
