@@ -2,6 +2,11 @@
 
 ## Information about families that do not require a page to themselves.
 
+I generated a [[graph|Potterverse_Relationships_Relative_to_Ginny.svg]] showing
+many of the characters and how they relate to each other, "centred" on
+[[Ginny]].  This was generated using Gramps, and while graphviz made a few odd
+placement choices, it is still fairly useful. 
+
 ### Belby family
 
 Damocles Belby was taught by Slughorn and invented the Wolfsbane Potion, for
@@ -152,7 +157,6 @@ Interestingly, based on the timelines I can piece together, Abraxus Malfoy
 should have been alive for most if not all of the first war.[^20210816-1] At
 least, I can find no indication that he himself was a known death
 eater,[^20210816-2] or that he died before Lucius graduated school.[^20210816-3]
-
 
 [^20210816-3]: I cannot exactly document a negative for this one. 
 
