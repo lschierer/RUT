@@ -23,6 +23,16 @@ These pages serve three purposes:
    the stuff that will be common to everything I write in this line; I am
    already overly verbose in the way of story notes.
 
+In addition to the wiki version of the notes, I have also put some of my notes
+in a [Gramps](https://gramps-project.org/blog/) database which I have then
+exported [[here|People]].  The formatting of the Gramps exported content leaves
+much to be desired, but it *is* well organised, and it can be much easier to
+find some of the people related information that way. Most if not all of what is
+in Gramps is either canonical, or the best inferences I can make based on
+canonical information to make Mrs. Rowling's rather incomplete backgrounds for
+the characters make sense. I have tried to include sources for both the
+canonical information and the inferences when they are not uniquely mine.
+
 [wws1]: https://www.wizardingworld.com/writing-by-jk-rowling
 
 [hpwiki1]: https://harrypotter.fandom.com/wiki/Main_Page
