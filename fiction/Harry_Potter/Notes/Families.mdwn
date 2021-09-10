@@ -2,10 +2,15 @@
 
 ## Information about families that do not require a page to themselves.
 
-I generated a [[graph|Potterverse_Relationships_Relative_to_Ginny.svg]] showing
-many of the characters and how they relate to each other, "centred" on
-[[Ginny]].  This was generated using Gramps, and while graphviz made a few odd
-placement choices, it is still fairly useful. 
+I generated a graph showing many of the characters and how they relate to each
+other, "centred" on [[Ginny]].  This was generated using Gramps, and while
+graphviz made a few odd placement choices, it is still fairly useful.
+Unfortunately, it puts people unrelated to [[Ginny]] in a row across the top,
+even in the few cases where those people do have dates associated with them
+(this is why I "centred" it on her, she is more closely related to more people
+than [[Harry]]). 
+
+[[graph|Potterverse_Relationships_Relative_to_Ginny.svg]]
 
 ### Belby family
 
