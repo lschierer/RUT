@@ -6,12 +6,12 @@
 	<meta name ="viewport" content="width=device-width; height=device-height; initial-scale=1.0; minimum-scale=0.5; maximum-scale=10.0; user-scalable=yes" />
 	<meta name ="apple-mobile-web-app-capable" content="yes" />
 	<meta name="generator" content="Gramps 5.1.2 http://gramps-project.org/" />
-	<meta name="author" content="" />
-	<link href="../../../../images/favicon2.ico" rel="shortcut icon" type="image/x-icon" />
-	<link href="../../../../css/narrative-print.css" media="print" rel="stylesheet" type="text/css" />
-	<link href="../../../../css/narrative-screen.css" media="screen" rel="stylesheet" type="text/css" />
+	<meta name="author" content="Luke Schierer" />
+	<link href="../../../images/favicon2.ico" rel="shortcut icon" type="image/x-icon" />
+	<link href="../../../css/narrative-print.css" media="print" rel="stylesheet" type="text/css" />
+	<link href="../../../css/narrative-screen.css" media="screen" rel="stylesheet" type="text/css" />
 	<script>function navFunction() { var x = document.getElementById("dropmenu"); if (x.className === "nav") { x.className += " responsive"; } else { x.className = "nav"; } }</script>
-	<link href="../../../../css/ancestortree.css" media="screen" rel="stylesheet" type="text/css" />
+	<link href="../../../css/ancestortree.css" media="screen" rel="stylesheet" type="text/css" />
 </head>
 <body>
 	<div id="outerwrapper">
@@ -22,13 +22,13 @@
 		<div class="wrappernav" id="nav" role="navigation">
 			<div class="container">
 				<ul class="nav" id="dropmenu">
-					<li class = "CurrentSection"><a href="../../../../individuals/" title="Individuals">Individuals</a></li>
-					<li><a href="../../../../" title="Surnames">Surnames</a></li>
-					<li><a href="../../../../families/" title="Families">Families</a></li>
-					<li><a href="../../../../sources/" title="Sources">Sources</a></li>
-					<li><a href="../../../../media/" title="Media">Media</a></li>
-					<li><a href="../../../../thumbnails/" title="Thumbnails">Thumbnails</a></li>
-					<li><a href="../../../../statistics/" title="Statistics">Statistics</a></li>
+					<li class = "CurrentSection"><a href="../../../individuals.html" title="Individuals">Individuals</a></li>
+					<li><a href="../../../index.html" title="Surnames">Surnames</a></li>
+					<li><a href="../../../families.html" title="Families">Families</a></li>
+					<li><a href="../../../sources.html" title="Sources">Sources</a></li>
+					<li><a href="../../../media.html" title="Media">Media</a></li>
+					<li><a href="../../../thumbnails.html" title="Thumbnails">Thumbnails</a></li>
+					<li><a href="../../../statistics.html" title="Statistics">Statistics</a></li>
 					<li><a onclick="history.go(-1);">Previous</a></li>
 					<li><a onclick="history.go(+1);">Next</a></li>
 				</ul>
@@ -50,17 +50,53 @@
 					</tr>
 				</table>
 			</div>
+			<div class="subsection" id="events">
+				<h4>Events</h4>
+				<table class="infolist eventlist">
+					<thead>
+						<tr>
+							<th class="ColumnEvent">Event</th>
+							<th class="ColumnDate">Date</th>
+							<th class="ColumnPlace">Place</th>
+							<th class="ColumnDescription">Description</th>
+							<th class="ColumnSources">Sources</th>
+							</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td class="ColumnEvent">
+							Hogwarts Sorting
+							</td>
+							<td class="ColumnDate">1991-09-01</td>
+							<td class="ColumnPlace">&nbsp;</td>
+							<td class="ColumnDescription">&nbsp;</td>
+							<td class="ColumnSources" rowspan="2">
+							 <a href="#sref2a">2a</a>
+							</td>
+							<tr>
+								<td class="ColumnEvent">
+								
+								</td>
+								<td class="ColumnNotes" colspan="3">
+									<div>
+									</div>
+								</td>
+							</tr>
+						</tr>
+					</tbody>
+				</table>
+			</div>
 			<div class="subsection" id="families">
 				<h4>Families</h4>
 				<table class="infolist">
 					<tr class="BeginFamily">
-						<td class="ColumnValue" colspan="3"><H4 class="subsection"><a href="../../../../fam/a/a/ed5da1f7ba648b9a57df86391aa/" title="Family of Longbottom, Neville and Abbott, Hannah">Family of Longbottom, Neville and Abbott, Hannah</a></H4></td>
+						<td class="ColumnValue" colspan="3"><H4 class="subsection"><a href="../../../fam/a/a/ed5da1f7ba648b9a57df86391aa.html" title="Family of Longbottom, Neville and Abbott, Hannah">Family of Longbottom, Neville and Abbott, Hannah</a></H4></td>
 					</tr>
 					<tr class="BeginFamily">
 						<td class="ColumnType">Married</td>
 						<td class="ColumnAttribute">Husband</td>
 						<td class="ColumnValue">
-							<a href="../../../../ppl/6/6/ed5a3f1b022731e3e528b34f366/">Longbottom, Neville</a>
+							<a href="../../../ppl/6/6/ed5a3f1b022731e3e528b34f366.html">Longbottom, Neville</a>
 						 ( * 
 						1980-07-30
 						 + 
@@ -91,7 +127,7 @@
 										<td class="ColumnPlace">&nbsp;</td>
 										<td class="ColumnDescription">&nbsp;</td>
 										<td class="ColumnSources" rowspan="2">
-										 <a href="#sref2a">2a</a>
+										 <a href="#sref3a">3a</a>
 										</td>
 										<tr>
 											<td class="ColumnEvent">
@@ -109,6 +145,41 @@
 					</tr>
 				</table>
 			</div>
+			<div class="subsection" id="Addresses">
+				<h4>Addresses</h4>
+				<div id="AddressTable">
+					<table class = "infolist addrlist">
+						<thead>
+							<tr>
+								<th class="ColummnDate">Date</th>
+								<th class="ColummnStreetAddress">Street</th>
+								<th class="ColummnLocality">Locality</th>
+								<th class="ColummnCity">City</th>
+								<th class="ColummnState">State/ Province</th>
+								<th class="ColummnCounty">County</th>
+								<th class="ColummnPostalcode">Postal Code</th>
+								<th class="ColummnCntry">Country</th>
+								<th class="ColummnPhone">Phone</th>
+								<th class="ColummnSources">Sources</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td class="ColumnDate">&nbsp;</td>
+								<td class="ColumnStreetAddress">&nbsp;</td>
+								<td class="ColumnLocality">&nbsp;</td>
+								<td class="ColumnCity">&nbsp;</td>
+								<td class="ColumnState">Devon</td>
+								<td class="ColumnCounty">&nbsp;</td>
+								<td class="ColumnPostalCode">&nbsp;</td>
+								<td class="ColumnCntry">UK</td>
+								<td class="ColumnPhone">&nbsp;</td>
+								<td class="ColumnSources"> <a href="#sref4a">4a</a></td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
 			<div class="subsection" id="pedigree">
 				<h4>Pedigree</h4>
 				<ol class="pedigreegen">
@@ -118,7 +189,7 @@
 							Abbott, Hannah
 								<ol class="spouselist">
 									<li class="spouse">
-										<a href="../../../../ppl/6/6/ed5a3f1b022731e3e528b34f366/">Longbottom, Neville</a>
+										<a href="../../../ppl/6/6/ed5a3f1b022731e3e528b34f366.html">Longbottom, Neville</a>
 									</li>
 								</ol>
 							</li>
@@ -130,7 +201,7 @@
 				<h4>Source References</h4>
 				<ol>
 					<li>
-						<a href="../../../../src/7/c/ed5926e209e1387645aecd422c7/" title="J. K. Rowling: Harry Potter and the Sorcerer's Stone" name ="sref1">
+						<a href="../../../src/7/c/ed5926e209e1387645aecd422c7.html" title="J. K. Rowling: Harry Potter and the Sorcerer's Stone" name ="sref1">
 						J. K. Rowling: Harry Potter and the Sorcerer's Stone
 						</a>
 						<ol>
@@ -144,14 +215,42 @@
 						</ol>
 					</li>
 					<li>
-						<a href="../../../../src/2/3/ed5d9c91d4e2418d74b833e5e32/" title="Pottermore: Pottermore" name ="sref2">
-						Pottermore: Pottermore
+						<a href="../../../src/8/9/ed62acd935b252b6d6976f8e998.html" title="MUGGLENET: Mugglenet" name ="sref2">
+						MUGGLENET: Mugglenet
 						</a>
 						<ol>
 							<li id="sref2a">
 								<ul>
 									<li>
+									Page: https://www.mugglenet.com/2016/03/the-revised-forty/
+									</li>
+								</ul>
+							</li>
+						</ol>
+					</li>
+					<li>
+						<a href="../../../src/2/5/ed626729e245ab26cb7e21a8e52.html" title="Pottermore: Pottermore" name ="sref3">
+						Pottermore: Pottermore
+						</a>
+						<ol>
+							<li id="sref3a">
+								<ul>
+									<li>
 									Page: https://web.archive.org/web/20191002072136/https://www.pottermore.com/features/why-neville-longbottom-story-always-deserved-a-happy-ending
+									</li>
+								</ul>
+							</li>
+						</ol>
+					</li>
+					<li>
+						<a href="../../../src/2/9/ed5da04438f28b2c2cff36a1192.html" title="Diana Summers: Secrets of the Classlist" name ="sref4">
+						Diana Summers: Secrets of the Classlist
+						</a>
+						<ol>
+							<li id="sref4a">
+								<ul>
+									<li>
+									Page: Location 1233
 									</li>
 								</ul>
 							</li>
@@ -163,7 +262,7 @@
 		<div class="fullclear"></div>
 		<div id="footer">
 			<p id="createdate">
-			Generated by <a href="http://gramps-project.org/">Gramps</a> 5.1.2<br />Last change was the 2021-09-09 01:28:53
+			Generated by <a href="http://gramps-project.org/">Gramps</a> 5.1.2<br />Last change was the 2021-09-10 23:31:53
 			</p>
 			<p id="copyright">
 			<a rel="license" href="http://creativecommons.org/licenses/by-nc/2.5/"><img alt="Creative Commons License - By attribution, Non-commercial" title="Creative Commons License - By attribution, Non-commercial" src="../../../images/somerights20.gif" /></a>
