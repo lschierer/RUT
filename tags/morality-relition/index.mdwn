@@ -1,0 +1,4 @@
+[[!meta title="pages tagged morality-relition"]]
+
+[[!inline pages="tagged(morality-relition)" actions="no" archive="yes"
+feedshow=10]]
