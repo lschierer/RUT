@@ -1,7 +1,10 @@
 [[!tag "HP Adult"]]
-## Albus Percival Wulfric Brian Dumbledore
+[[!tag "HP Notes"]]
+[[!meta title="Albus Percival Wulfric Brian Dumbledore"]]
 
-### timeline notes
+[[!toc levels=2 startlevel=3]]
+
+### timeline Speculation
 
 * Dumbledore became Headmaster after Lupin was bitten.[^20200720-6]
   Since Lupin was a classmate of [[James_Potter|James]] and Lily, he was born in either late 1959
@@ -119,11 +122,14 @@ phoenixes had been started by Dumbledore anyway. At the end of the day,
 though highly magical, unicorns were just horses and phoenixes were
 just birds.[^20191025-1]
 
-Some authors of fanfiction have focused in on Dumbledore's talk of "the
-greater good" in his relationship with Gellert Grindelwald.  To what
-extent did Dumbledore actually turn away from this view of morality,
-that so long as you act for the greater good, you can cause suffering
-to individuals? Ms. Richa Venkatraman wrote a defence of Dumbledore on
+Dumbledore, in his youth, was very taken by [[Gellert Grindelwald|Grindelwald]]'s talk of "the Greater Good", a version of [[Utilitarianism]] that Mrs. Rowling fleshes out just enough to identify as such.  While he implies that he turned away from these views, he never outright states as much.  He says he learned that he was not to be trusted with power, and that he learned to live with the "price of [his] shame."[^20210912-8]  I believe that while Dumbledore did realize the evil that [[Grindelwald]] represented, he continued to be guided by the same fundamental [[Utilitarianism]] that he (Dumbledore) used to justify the plans they had made during their time together.  This makes sense if the moral philosophy originated from Dumbledore, if [[Grindelwald]] tolerated it, but did not actually care one way or another about the justification for actions he intended to take either way.  
+
+[^20210912-8]: Mrs. J. K. Rowling.
+    _[Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows)_
+    Page 296. 
+    Pottermore Limited © 2007. American Kindle Edition.
+
+Ms. Richa Venkatraman wrote a defence of Dumbledore on
 MuggleNet[^20190301-1] in which she seems to express well the view that
 [[Harry]] himself has in the book, that Dumbledore is ultimately a good, if
 flawed, person.  I have trouble with this, it is way too close to "the
@@ -350,7 +356,7 @@ with [[Snape]] to ensure that he (Dumbledore) dies undefeated.  The wand has alr
 been defeated.  This makes me think that there is something to Rita's claims
 that there was in fact no duel.[^20200812-6]
 
-Why lie about having duelled Grindelwald?  To paraphrase Dumbledore himself, I am
+Why lie about having dueled Grindelwald?  To paraphrase Dumbledore himself, I am
 now leaving the few facts I have for the murky grounds of speculation.
 Grindelwald had become notorious, the outcry against him was such that their
 joint ideas for society were never going to gain ground under his leadership.
@@ -380,7 +386,7 @@ done home visits.  Sure he has seen situations like that of Riddle, but he has
 also seen situations like the Grangers or the Creeveys.  Muggle born cannot be
 trusted to understand the dangers muggles pose.  Future girls like Ariana must
 be safe. Magical blood, those of magical ability, are much more valuable to
-society than some mere muggles.  Who knows what the muggle born would vote for!
+society then some mere muggles.  Who knows what the muggle born would vote for!
 Why, they might want to give muggles rights! 
 
 So what do we replace it with?  This is where fanfiction goes all over the
@@ -517,6 +523,4 @@ Is is public face at all related to his private goals?
     Published 2017-08-02.  Last viewed 2019-03-01.
 
 
-[[!tag "HP Notes"]]
 
-[[!meta title="Albus Percival Wulfric Brian Dumbledore"]]
