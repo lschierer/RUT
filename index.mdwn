@@ -9,6 +9,7 @@
 	!*/Discussion and 
 	!ikiwiki and 
 	!ikiwiki/* and 
+  !fiction/Harry_Potter/Notes/People/* and
 	!recentchanges and 
 	!posts and 
 	!sandbox and 
@@ -29,6 +30,7 @@
 	!archives and !archives/* and 
 	!*/Discussion and 
 	!ikiwiki and !ikiwiki/* and 
+  !fiction/Harry_Potter/Notes/People/* and
 	!recentchanges and 
 	!posts and 
 	!sandbox and 
