@@ -244,6 +244,22 @@ the caster, the victim, or both in some way.  If there is a victim, the results
 are harder or even impossible to reverse.  In some places there is an
 implication that it is also harder to even block. I need citations for this. 
 
+Beyond these vague generalisations, what constitutes "dark" magic? You can
+after all kill someone with a sufficiently well placed cutting spell, regardless
+of whether or not it is technically a curse.  You can similarly kill with a
+tripping jinx, though that one requires that it be timed such that the person
+trip such that the fall is fatal.  Levitation, taught in charms, can be fatal,
+if the person is released from high enough, or if something heavy enough is
+first levitated then released.  Not to mention that if you can vanish a mammal,
+you can vanish a human.[^20210914-1]  A sufficiently creative mind can, no
+doubt, find dozens of other spells from each of charms and transfiguration that
+can be used to kill someone.
+
+[^20210914-1]: Mrs. J. K. Rowling. 
+    _[Harry Potter and the Order of the
+    Phoenix](https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix)_
+    Locations 4842-4843. Pottermore Limited. American Kindle Edition. 
+
 #### Horcrux
 
 These are a huge topic, and need their own [[page|Horcruxes]].
