@@ -1,9 +1,8 @@
-[[!tag morality-relition]]
+[[!tag morality-religion]] 
 [[!tag society]]
 [[!tag politics-law]]
-[[!tag HP Notes]]
+[[!tag "HP Notes"]]
 [[!meta title="contra Utilitarianism"]]
-
 Utilitarianism is a moral philosophy where the highest good is identified with
 happiness.[^20210913-2]  More precisely, this theory states "that the aim of
 action should be the largest possible balance of pleasure over pain or the
@@ -45,10 +44,10 @@ only neglected, but actively harmed.  The [Internet Encyclopedia of
 Philosophy][IEP1]'s article on [Utilitarianism][IEPU1] outlines this as part of
 its discussion of "wrong answers" in the two sections on objections to the
 different versions of this philosophy.  Suffice to say that utilitarianism
-denies the concept of [justice][FJHMDCJu1], and no one is really safe under a
+denies the concept of justice[^20210913-6], and no one is really safe under a
 regime ruled by these tenants. 
 
-[FJHMDCJu1]: Fr. John Hardon.
+[^20210913-6]: Fr. John Hardon.
     "[Justice](https://www.catholicculture.org/culture/library/dictionary/index.cfm?id=34423)"
     _[Modern Catholic Dictionary](https://www.catholicculture.org/culture/library/dictionary/)_
     © Eternal Life
