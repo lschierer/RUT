@@ -84,7 +84,7 @@ fanfiction criticisms of Dumbledore are.  In no particular order:
   Honestly, if Dumbledore were as calculating about subjecting [[Harry]]
   to abuse as some authors would have him, then he took an incredibly
   reckless chance.  Dumbledore knows how similar [[Harry]]'s situation is to
-  Riddle's childhood.  I think that this plan is something that Dumbledore
+  [[Riddle]]'s childhood.  I think that this plan is something that Dumbledore
   came to over time, not something he intended from the beginning.
 * Dumbledore placed Mrs. Figg to watch [[Harry]].  She knows she has to be
   unpleasant to him to retain access to him and thus fulfilled her mission.
@@ -93,26 +93,17 @@ fanfiction criticisms of Dumbledore are.  In no particular order:
   of the pure-blood's unconscious prejudices against them.  Alternately,
   while he does believe her, he risks both [[Harry]] turning evil and [[Harry]]'s
   health, because he views the odds that [[Harry]] will be killed by a Death
-  Eater and/or a returned Riddle that probable.  There _must_ have been some
+  Eater and/or a returned [[Riddle] that probable.  There _must_ have been some
   middle ground.  Between Dumbledore's civil authority on the Wizengamot,
   and his experience with and control over magic, he could have dome
-  _something_ to intervene in [[Harry]]'s treatment.  
-* Along the same lines, the following the quote from _Harry Potter and the Order of the Phoenix_:
-  > You arrived at Hogwarts, neither as happy nor as well nourished
-  > as I would have liked, perhaps, yet alive and healthy. You were not
-  > a pampered little prince, but as normal a boy as I could have hoped
-  > under the circumstances. Thus far, my plan was working well.
-
-  and secondly the quote: 
-  > You had suffered. I knew you would when I
-  > left you on your aunt and uncle’s doorstep. I knew I was condemning
-  > you to ten dark and difficult years.
+  *something* to intervene in [[Harry]]'s treatment.  
+* The above and [[much more|treatment_of_Harry]] concerning [[Harry]]. 
 
 Against this collection of problems is Dumbledore's friendship with
 Fawkes.  How intelligent are phoenixes?  Does the phoenix bond with its
 partner (popular in fanfiction), or is it more of a friendship thing?
-A phoenix in the HP world is a highly loyal creature.  Would this loyalty
-persist if Dumbledore started to believe his own legend and allow power
+A phoenix in the HP world is a highly loyal creature.[^20210914-2]  Would this
+loyalty persist if Dumbledore started to believe his own legend and allow power
 to corrupt him? We do not, to my knowledge, have good answers to any of
 these questions.  
 > Fawkes slept soundly on his perch. Being willing to
@@ -122,61 +113,71 @@ phoenixes had been started by Dumbledore anyway. At the end of the day,
 though highly magical, unicorns were just horses and phoenixes were
 just birds.[^20191025-1]
 
-Dumbledore, in his youth, was very taken by [[Gellert Grindelwald|Grindelwald]]'s talk of "the Greater Good", a version of [[Utilitarianism]] that Mrs. Rowling fleshes out just enough to identify as such.  While he implies that he turned away from these views, he never outright states as much.  He says he learned that he was not to be trusted with power, and that he learned to live with the "price of [his] shame."[^20210912-8]  I believe that while Dumbledore did realize the evil that [[Grindelwald]] represented, he continued to be guided by the same fundamental [[Utilitarianism]] that he (Dumbledore) used to justify the plans they had made during their time together.  This makes sense if the moral philosophy originated from Dumbledore, if [[Grindelwald]] tolerated it, but did not actually care one way or another about the justification for actions he intended to take either way.  
+Dumbledore, in his youth, was very taken by [[Gellert
+Grindelwald|Grindelwald]]'s talk of "the Greater Good", a version of
+[Utilitarianism][IEPU2] that Mrs. Rowling fleshes out just enough to identify as
+such.  While he implies that he turned away from these views, he never outright
+states as much.  He says he learned that he was not to be trusted with power,
+and that he learned to live with the "price of [his] shame."[^20210912-8]  I
+believe that while Dumbledore did realise the evil that [[Grindelwald]]
+represented, he continued to be guided by the same fundamental utilitarianism
+that he (Dumbledore) used to justify the plans they had made during their time
+together.  This makes sense if the moral philosophy originated from Dumbledore,
+if [[Grindelwald]] tolerated it, but did not actually care one way or another
+about the justification for actions he intended to take either way.  
+
+[IEPU2]: https://iep.utm.edu/util-a-r/
+
+[^20210914-2]: Mrs. J. K. Rowling.
+    _[Harry Potter and the Chamber of
+    Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets)_
+    p. 207. Pottermore Limited. American Kindle Edition. 
 
 [^20210912-8]: Mrs. J. K. Rowling.
     _[Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows)_
     Page 296. 
     Pottermore Limited © 2007. American Kindle Edition.
 
-Ms. Richa Venkatraman wrote a defence of Dumbledore on
-MuggleNet[^20190301-1] in which she seems to express well the view that
-[[Harry]] himself has in the book, that Dumbledore is ultimately a good, if
-flawed, person.  I have trouble with this, it is way too close to "the
-ends justify the means," and I am far from convinced that it differs
-in any important detail.  Yes you should act to promote the greatest
-good to the greatest number of people, but you may not do so using means
-that encompass actual harm to individuals.  The ends (the greater good)
-do not justify the means (cooperating with (in a moral sense) the abuse
-[[Harry]] suffers).  I suspect however, that Ms. Venkatraman is right,
-that Dumbledore suffers in his conscience from the pain he causes,
-and he does _intend_ good.  For my purposes, Fawkes recognises this
-good intent, but is not intelligent enough (a phoenix is an animal,
-not a being) to understand the flaws in Dumbledore's execution.
+Ms. Richa Venkatraman wrote a defence of Dumbledore on MuggleNet[^20190301-1] in
+which she seems to express well the view that [[Harry]] himself has in the book,
+that Dumbledore is ultimately a good, if flawed, person.  I have trouble with
+this, Dumbledore's unstated philosophy seems way too close to "the ends justify
+the means," and I am far from convinced that it differs in any important detail.
 
-I myself am convinced that Dumbledore, while not formally evil per-se,
-strongly subscribes to a utilitarian world view that allows him to
-passively allow suffering, so long as he does not _directly_ cause it,
-and so long as he judges it necessary to obtain some end he deems worthy.
-In short "the greater good" is a version of "the ends justify the
-means" except that Dumbledore pays semantics with different levels of
-cooperation with evil.[^20200624-1] Formally, Dumbledore's cooperation
-is often Remote Mediate Material Cooperation, sometimes Proximate
-Mediate Material Cooperation, and only occasionally Immediate Material
-Cooperation. Dumbledore himself would view only Formal Cooperation wrong
-(or "dark"), though he probably feels uneasy about Immediate Material
-cooperation.
 
-Notice that even with Remote Mediate Material Cooperation, Catholic
-theology would require that Dumbledore exercise caution. Should he truly
-be _unknowing_, then he is naturally blameless, but I suspect he's more
-often being wilfully ignorant if not aware and actually negligent. He is,
-to the extent that he does know of the evil results, or could and should
-know if he exercised a normal level of prudence, required to assess
-if his actions have a proportionately serious reason.  I suspect that
-Dumbledore always does this, so he is not guilty where his cooperation
-is Remote Mediate Material Cooperation.
+The ends (the greater good) do not justify the means (cooperating with (in a
+moral sense) the abuse [[Harry]] suffers).  I suspect however, that Ms.
+Venkatraman is right, that Dumbledore suffers in his conscience from the pain he
+causes, and he does _intend_ good.  For my purposes, Fawkes recognises this
+good intent, but is not intelligent enough (a phoenix is an animal, not a being)
+to understand the flaws in Dumbledore's execution.  In any case, I am not about
+to allow an animal, particularly not a fictional representation of an even more
+fictional animal, to decide for me whether or not someone is acting morally or
+not. If you do convince me that the phoenix *should* be a moral indicator, then
+I would be forced to conclude that either Fawkes is held in bondage in some
+way[^20210914-3], or that Mrs. Rowling has misrepresented phoenix-kind. 
 
-However, with [[Harry]], Dumbledore goes beyond this.  By sending him back
-knowing his time there would be "dark" and "difficult,"[^20200624-2] I
-believe he has gone beyond Remote Cooperation and is now doing something
-that minimally "leads to the commission of the act" if not "is necessary
-for the immoral act to occur."[^20200624-3] With either of these two
-categories, Dumbledore is guilty to the extent he foresaw the evil, and
-even more guilty to the extent he continued his course of action after
-not just foreseeing the evil, but being aware that it was a reality.
-The one thing I keep coming back to is echoed in at least one fanfiction
-I have read:
+Dumbledore's "greater good" philosophy thus falls on the wrong side of the
+"Wrong Answers" objection to utilitarianism.[^20210914-4]  While I did not
+discuss that objection in [[my own attack|Society/utilitarianism]], I did link
+to one. Dumbledore would, I believe, deny that he is guilty of this because he
+himself does not *directly* act to cause harm.  For me, as a Catholic, this is
+an insufficient defence.  Dumbledore is, effectively, relying on either the
+double effect defence (which can be valid), or is on the fact that *he* did not
+commit evil, others did that.  He would be wise enough to use the two defences
+in different circumstances across the books. 
+
+The principle of the double effect can be a valid defence.[^20210914-5]  It only
+actually applies to morally good and morally neutral acts done for good ends
+that have incidental evil by-products.  Thus Dumbledore might justify placing
+[[Harry]] with the [[Dursleys]] if he *truly* **only** intended to save his
+life, and did not also intend the "dark" and "difficult years"[^20200624-2] to temper a
+perceived Potter tendency towards over-egoism.  If [[Harry]]'s suffering was an
+*aim* of the placement, then the act was not morally good nor even morally
+neutral, and thus not protected by this principle even if saving his life was
+also intended.  We naturally cannot definitively know which of these
+alternatives is the case.  That being said, the one thing I keep coming back to
+is echoed in at least one fanfiction I have read:
 
 > No, he could not admit he knew anything about the abuse. He could not
 > admit that he had actually planned for it, to keep young Harry humble
@@ -193,18 +194,39 @@ I have read:
 > No, the world needed this Harry, shy, polite, an indifferent student, and utterly
 > incurious, save for what he could learn about his parents.[^20200721-1]
 
-Now in this particular fanfiction, [[Harry]] is acting somewhat out of
-character.  The cannon [[Harry]] is *intensely* curious, but from Dumbledore's
-perspective about the "right" things: [[Harry]] is curious about the Stone,
-about the robbery attempt, ultimately about (although [[Harry]] does not
-know it at first) Riddle.  The cannon [[Harry]] is even less academically
-inclined than this fanfiction [[Harry]] is.  It is perhaps the closest
-Dumbledore comes to being active.  There comes a point at which the
-way he (Dumbledore) has been blind to the situation with [[Snape]] ceases
-to be an act of omission, of merely neglecting to do (or even notice)
-something, and makes one an active accomplice.  Dumbledore allowed
-both the marauders and the Weasley twins what appears to have been
-fairly free reign.  The marauders certainly and the Weasleys likely
+While that fanfiction's depiction of [[Harry]] is somewhat out of character, it
+is close enough that the depiction of Dumbledore's thoughts, here quoted, is
+disturbingly believable. 
+
+Other acts Dumbledore would have to defend by saying he was not his actions in
+any sense.  Dumbledore directed [[Snape]] to teach [[Occlumency]], and claims he
+trusted that it would be done professionally.[^20210914-6]  He would say he is
+morally blameless for the lack of oversight not only for these lessons, but for
+all of [[Snape]]'s behaviour across the series.  Again, this argument falls
+short. Dumbledore has assigned [[Snape]] this role, and has ignored complaints
+about the way the role has been executed, not just once, but repeatedly.  Thus
+Dumbledore is, in Catholic terms, guilty of (in this case) Immediate Material
+Cooperation with evil[^20200624-1] (Dubmledore's protection of [[Snape]] is
+necessary for the act).  Once [[Snape]] is accused, Dumbledore's failure to
+investigate forces this determination (or at least Proximate Mediate Material
+Cooperation, which is still a guilt condition).  This is just one example,
+others are possible. 
+
+Notice that even with Remote Mediate Material Cooperation, Catholic
+theology would require that Dumbledore exercise caution. Should he truly
+be *unknowing*, then he is naturally blameless, but I suspect he's more
+often being wilfully ignorant if not aware and actually negligent. He is,
+to the extent that he does know of the evil results, or could and should
+know if he exercised a normal level of prudence, required to assess
+if his actions have a proportionately serious reason.  I suspect that
+Dumbledore always does this, so he is not guilty where his cooperation
+is Remote Mediate Material Cooperation.
+
+There comes a point at which the way he (Dumbledore) has been blind to the
+situation with [[Snape]] ceases to be an act of omission, of merely neglecting
+to do (or even notice) something, and makes one an active accomplice.
+Dumbledore allowed both the marauders and the Weasley twins what appears to have
+been fairly free reign.  The marauders certainly and the Weasleys likely
 crossed the line between humour and cruelty in their so called pranks.
 Given that [[Snape]] and Filch are our primary source for this opinion and that
 neither is reliable, take any impression of the two sets of pranksters with a
@@ -214,23 +236,6 @@ pranks were justified by the injustice they fought, so much the worse for
 Dumbledore. If the pranks were truly unjustified, the difference hardly helps
 his (Dumbledore's) case.  Either way the students had to defend themselves
 with no intervention from authority.  
-
-However, it is fairly clear that [[James_Potter|James]] arrived at Hogwarts
-spoiled and at least somewhat of a brat. Dumbledore could not afford for
-[[Harry]] to do the same. [[Harry]] was being groomed to be self sacrificing
-from the moment he entered Hogwarts. But Dumbledore cannot act directly to
-effect this.  So what does he do? He places [[Harry]] with family.  On the
-surface that's a legitimate and nearly unimpeachable decision.  Never mind the
-abuse, Dumbledore will be blind to it.  Never aware of how bad it was, and
-sorrowful that it happened at all. He puts [[Snape]] in a position of authority
-as Potions teacher, but allows him to be a poor, biased, and cruel
-teacher.[^20210318-7] Then he makes the situation worse by making [[Snape]] head
-of Slytherin. Now [[Snape]] can justify his behaviour in terms of the bias his
-([[Snape]]'s) house faces from everyone else in the school.  As head of house,
-[[Snape]] has to show them that someone on the staff will support them right? No
-matter what that means to the rest of the school, his house must be his
-priority; surely you cannot argue about that. And so Dumbledore remains
-"blameless," at least in his own view.
 
 Now sure, it isn't entirely fair to hold Dumbledore fully accountable to
 Catholic theology when he isn't Catholic.  That isn't to say that Catholic
@@ -242,10 +247,10 @@ values and judgements, he can be judged to be sinful, but not mortally
 sinful, and thus not evil. It is only where he is self deceptive, that
 is he knows his arguments are either not cogent or not based on true
 value propositions, that he can be held mortally accountable, and thus
-potentially evil.  In this Dumbledore contrasts positively with Riddle,
+potentially evil.  In this Dumbledore contrasts positively with [[Riddle]],
 who quite frankly doesn't care about either the cogency or the validity
 of his decisions. Dumbledore is certainly _less evil_ though possibly
-_more morally dangerous_ (in that he is more insidious) than Riddle.
+_more morally dangerous_ (in that he is more insidious) than [[Riddle]].
 
 Dumbledore might (almost certainly is) wrong about what the Greater
 Good looks like. He is certainly wrong about what he can and cannot do
@@ -258,6 +263,23 @@ That being said, was Dumbledore a master of [[manipulation|Manipulator]], or
 was he just as much reacting to an out of control situating that he abhorred as
 [[Harry]] is?  In other words, just how much of the world situation is he in
 fact responsible for?  We cannot ultimately know. 
+
+[^20210914-3]: this has been done, find citations. 
+
+[^20210914-4]: Mr. Stephen Nathanson. 
+    "[Act and Rule Utilitarianism](https://iep.utm.edu/util-a-r/)"
+    [Internet Encyclopedia of Philosophy](https://iep.utm.edu)
+    https://iep.utm.edu Last Viewed: 2021-09-14
+
+[^20210914-5]: Fr. John Hardon.
+    "[Double Effect](https://www.catholicculture.org/culture/library/dictionary/index.cfm?id=33215##)"
+    _[Modern Catholic Dictionary](https://www.catholicculture.org/culture/library/dictionary/)_
+    © Eternal Life
+
+[^20210914-6]: Mrs. J. K. Rowling. 
+    _[Harry Potter and the Order of the
+    Phoenix](https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix)_
+    Locations 12202-12203. Pottermore Limited. American Kindle Edition. 
 
 ### On titles
 
@@ -356,7 +378,7 @@ with [[Snape]] to ensure that he (Dumbledore) dies undefeated.  The wand has alr
 been defeated.  This makes me think that there is something to Rita's claims
 that there was in fact no duel.[^20200812-6]
 
-Why lie about having dueled Grindelwald?  To paraphrase Dumbledore himself, I am
+Why lie about having duelled Grindelwald?  To paraphrase Dumbledore himself, I am
 now leaving the few facts I have for the murky grounds of speculation.
 Grindelwald had become notorious, the outcry against him was such that their
 joint ideas for society were never going to gain ground under his leadership.
@@ -369,7 +391,7 @@ despite his mother's pretensions, his blood status was too well known for him to
 get significant power in the pure blood dominated society of the early 1900s.  He
 wouldn't become Headmaster until the 1960s or early 1970s, I suspect he had been
 passed over at least once.  It was his defeat of Grindelwald that gave him the
-statue to overcome his background and gain ground in the Wizengamot, to have
+stature to overcome his background and gain ground in the Wizengamot, to have
 become Headmaster at all, to have become Supreme Mugwump.  
 
 So if Dumbledore was going to advance the future that he and Grindelwald had
