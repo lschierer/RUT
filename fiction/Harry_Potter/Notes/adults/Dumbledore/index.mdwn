@@ -10,12 +10,12 @@
   Since Lupin was a classmate of [[James_Potter|James]] and Lily, he was born in either late 1959
   or early 1960.[^20200813-1]  Since he was bitten at age four, that puts us in
   approximately 1964.[^20200813-2]
-* However, Dumbledore's memory of Riddle's timeline says that Riddle's job
+* However, Dumbledore's memory of [[Riddle]]'s timeline says that Riddle's job
   interview was ten years after he murdered Hepzibah Smith.[^20210810-6] That
-  would mean that Riddle was with Borgin and Burke for something like 20
+  would mean that [[Riddle]] was with Borgin and Burke for something like 20
   years.[^20210810-7]  This seems improbable, as he is still described as
   "young" when he left the shop.[^20210810-8]
-* It does, however fit with the emergence of Riddle and the Death Eaters as a
+* It does, however fit with the emergence of [[Riddle]] and the Death Eaters as a
   terrorist force, which the [[timeline|History]] places around 1970.  
 * Thus my guess is that Dumbledore *collected* the memory from the house elf ten
   years prior to the interview, not that the the house elf *formed* the memory
@@ -37,7 +37,7 @@
 
 [^20200813-1]: Mrs. J. K. Rowling.  _Harry Potter and the Deathly Hallows_ (p. 135). Pottermore Publishing. American Kindle Edition. 
 
-[^20210810-7]: See my notes on [[History]], compute from when Riddle graduated
+[^20210810-7]: See my notes on [[History]], compute from when [[Riddle]] graduated
     Hogwarts to the earliest Dumbledore could be headmaster and yet be winter
     *after* [[Remus|Lupin]] is bitten. 
 
@@ -60,13 +60,13 @@ just enjoying them as stories), is just how valid some of the common
 fanfiction criticisms of Dumbledore are.  In no particular order:
 
 * Dumbledore does not seem to know about the horcruxes until he is
-  presented with the diary.  He knew Riddle had survived the Halloween
+  presented with the diary.  He knew [[Riddle]] had survived the Halloween
   encounter with [[Harry]], but apparently did nothing to investigate this.
 * [[Harry]]'s scar as a horcrux:
   * [Saving the Saviour](https://www.fanfiction.net/s/11833745/14/Saving-the-Saviour)
     talks about how Dumbledore didn't have [[Harry]] examined at all by a
     Healer after that fateful Halloween night.  Could the soul fragment
-    Riddle left have been detected?  Could something have been done
+    [[Riddle]] left have been detected?  Could something have been done
     about it?  
   * See the discussion on [[Harry]]'s scar in [[Horcruxes]] 
 * More or less a follow up to the previous point, but further consider.
@@ -93,7 +93,7 @@ fanfiction criticisms of Dumbledore are.  In no particular order:
   of the pure-blood's unconscious prejudices against them.  Alternately,
   while he does believe her, he risks both [[Harry]] turning evil and [[Harry]]'s
   health, because he views the odds that [[Harry]] will be killed by a Death
-  Eater and/or a returned [[Riddle] that probable.  There _must_ have been some
+  Eater and/or a returned [[Riddle]] that probable.  There _must_ have been some
   middle ground.  Between Dumbledore's civil authority on the Wizengamot,
   and his experience with and control over magic, he could have dome
   *something* to intervene in [[Harry]]'s treatment.  
