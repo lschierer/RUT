@@ -81,8 +81,8 @@ because Sirius inherited number 12 Grimmauld Place, that neither Orion (died
 1979) nor Arcturus Black (died 1991) did so.[^20210517-3]  However, we can
 infer the following from the fact that they *also* did not disown Bellatrix and
 Regulus Black:
-* they at very least were not opposed to Riddle's pure-blood terrorism
-* they probably (given what we know of Walburga at least) supported Riddle
+* they at very least were not opposed to [[Riddle]]'s pure-blood terrorism
+* they probably (given what we know of Walburga at least) supported [[Riddle]]
 * they cared more about the survival of the name Black than Sirius' beliefs
 
 My guess is that they held themselves apart from actually joining the Death
@@ -93,25 +93,25 @@ incarceration thus as being one of two alternatives:
 
 Given that, I believe they would find the lack of a trial almost palatable, they
 would somewhat fear to find out which alternative is true.  If he is in fact
-guilty, then when Riddle returns (which they *probably* expected, the Malfoy
+guilty, then when [[Riddle]] returns (which they *probably* expected, the Malfoy
 family certainly seems to have expected it) then he would be freed from Azkaban.
 If he was innocent, then it is a shame the family name would die out, but better
 that no one know their shame (that Sirius is a blood traitor).  
 
 Thus they were essentially betting on the odds that Sirius was both in fact
-guilty (and thus the trial would not help him) and that Riddle would return
+guilty (and thus the trial would not help him) and that [[Riddle]] would return
 before Sirius died, thus giving him (Sirius) an opportunity to
 procreate.[^20210517-4]
 
 Why did Andromeda not demand a trial?  My guess is that she falls sufficiently
-into the "trust Dumbledore" category that she believes his testimony about the
+into the "trust [[Dumbledore]]" category that she believes his testimony about the
 betrayal even if the only evidence of her Order membership is the use of her
 house as a safe house.[^20210517-5]
 
 What about [[Dumbledore]]?  It really comes down to what did he know when.  Was
 anything said in the Potter wills?  We do not know. Did he have any indication,
-from Snape for example, that Pettigrew was in fact the traitor?  Again, we do
-not know.  This *might* be simply Dumbledore not caring to use political capital
+from [[Snape]] for example, that Pettigrew was in fact the traitor?  Again, we do
+not know.  This *might* be simply [[Dumbledore]] not caring to use political capital
 to ensure a trial that should not change anything (Sirius if guilty would have
 still gone to Azkaban). 
 
@@ -126,10 +126,10 @@ still gone to Azkaban).
 
 #### Sirius as Godparent
 
-Does Sirius recognise that Harry is not James reincarnated?  Is he an adrenaline
-junkie, or can he help Harry learn to make mature decisions about dangerous
+Does Sirius recognise that [[Harry]] is not James reincarnated?  Is he an adrenaline
+junkie, or can he help [[Harry]] learn to make mature decisions about dangerous
 situations?  Is the antagonism with [[Snape]] due to hatred for one whose
-loyalty he suspects might in fact be towards Riddle, or is it evidence that he
+loyalty he suspects might in fact be towards [[Riddle]], or is it evidence that he
 remains the immature bully he admits he was a youth?[^20210519-11]  In short,
 does Sirius deserve the censure that [[Molly]] and [[Hermione]] at times level
 upon him?
