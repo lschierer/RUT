@@ -46,6 +46,7 @@ different type of nephil, which in my notes I call "primordial nephil."  My
 intention, however, is that these types are not different species, but rather
 more like having different traits that can be independently inherited.  A nephil
 can possibly inherit the following:
+
 * From the Seraphim, the ability to perceive the heart.  When used on other
   nephil, this allows access to information about the person's physical state,
   their will, and their memories.  When used on humans, it allows only access to
@@ -89,6 +90,7 @@ can possibly inherit the following:
 #### mapping to Harry Potter
 
 Harry Potter cannon breaks magic down into: 
+
 * charms - generally a mix of inheritance from Virtues and Powers for the lower
   years, however
   - things like "cheering charms" are _actually_ a form of transmutation
