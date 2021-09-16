@@ -12,31 +12,31 @@ of angelic abilities. This naturally means that for many of the pivotal
 characters, I have [[mathematical notes on their power levels|power_chart]].  For the purposes of this work:
 
 | Power Level | Ability Estimate |
-| :---------: | :--------------:
+| :---------: | :--------------: |
 | 1           | * some single weak ability within this category
-              | * no conscious control |
-| 2           | either: 
-              | * multiple barely detectable abilities
-              | * conscious control of a single weak ability |
+|             | * no conscious control |
+| 2           | either: |
+|             | * multiple barely detectable abilities |
+|             | * conscious control of a single weak ability |
 | 3           | able to manipulate this category of magic with great difficulty |
-| 4           | * able to achieve minimally acceptable levels of competence in this category of magic 
-              | * if some OWL test depended solely on this category of magic, expect to score in the P range. |
-| 5           | * expected to achieve acceptable levels of proficiency in this category of magic 
-              | * if some OWL test depended solely on this category of magic, expect to score in the A range. |
-| 6           | * expected to be capable of more advanced learning in this category of magic. 
-              | * if some OWL test depended solely on this category of magic, expect to score in the E range. 
-              | * if some NEWT test depended solely on this category of magic, expect to score in the A range. |
-| 7           | * expected to be capable of doing well in an advanced course on this category of magic. 
-              | * if some OWL test depended solely on this category of magic, expect to score in the O range. 
-              | * if some NEWT test depended solely on this category of magic, expect to score in the E range. 
-              | * possibly capable of learning magics in this category beyond NEWT level. |
-| 8           | * expected to be capable of doing well in an advanced course on this category of magic. 
-              | * if some OWL test depended solely on this category of magic, expect to score in the O range. 
-              | * if some NEWT test depended solely on this category of magic, expect to score in the O range. 
-              | * capable of learning magics in this category beyond NEWT level. |
-| 9           | * expected to learn OWL and NEWT level magics with relative ease. 
-              | * expected to learn magics beyond the NEWT level in this category of magic. 
-              | * instinctual (unconscious) use of magic in this category is extremely common. | 
+| 4           | * able to achieve minimally acceptable levels of competence in this category of magic |
+|             | * if some OWL test depended solely on this category of magic, expect to score in the P range. |
+| 5           | * expected to achieve acceptable levels of proficiency in this category of magic |
+|             | * if some OWL test depended solely on this category of magic, expect to score in the A range. |
+| 6           | * expected to be capable of more advanced learning in this category of magic. |
+|             | * if some OWL test depended solely on this category of magic, expect to score in the E range. |
+|             | * if some NEWT test depended solely on this category of magic, expect to score in the A range. |
+| 7           | * expected to be capable of doing well in an advanced course on this category of magic. |
+|             | * if some OWL test depended solely on this category of magic, expect to score in the O range. |
+|             | * if some NEWT test depended solely on this category of magic, expect to score in the E range. |
+|             | * possibly capable of learning magics in this category beyond NEWT level. |
+| 8           | * expected to be capable of doing well in an advanced course on this category of magic. |
+|             | * if some OWL test depended solely on this category of magic, expect to score in the O range. |
+|             | * if some NEWT test depended solely on this category of magic, expect to score in the O range. |
+|             | * capable of learning magics in this category beyond NEWT level. |
+| 9           | * expected to learn OWL and NEWT level magics with relative ease. |
+|             | * expected to learn magics beyond the NEWT level in this category of magic. |
+|             | * instinctual (unconscious) use of magic in this category is extremely common. | 
 | 10          | learning this category of magic is more about finding out what is possible and fine-tuning abilities you already have. |
 
 #### abilities by type
