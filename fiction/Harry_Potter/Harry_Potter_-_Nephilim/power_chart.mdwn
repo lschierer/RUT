@@ -1,23 +1,29 @@
 [[!meta title="Harry Potter - Nephilim: Appendix A - Relative Power Levels"]]
 [[!meta author="Luke Schierer"]]
 
+Per the inheritance rules, you can follow a different rule for inheritance in
+each column.  As an author this maximizes my flexibility in one sense.  As a
+world builder, it comes closer to how real inheritance works.  As a
+documentation producer, it is nightmarish, because it makes understanding where
+each character came from really complicated. 
+
 ## Relative power of different characters in each class of power.
-Last Name |First Name      |Inheritance Rule|Seraphim|Cherubim|Thrones|Dominions|Virtues|Powers|Principalities|Archangels|Angels|Average
-----------|----------------|----------------|--------|--------|-------|---------|-------|------|--------------|----------|------|-------
-Dumbledore|Albus[^note10]  |2               |7       |8       |9      |10       |8      |9     |6             |7         |9     |8.11   
-Riddle    |Tom[^note9]     |1               |9       |5       |10     |8        |7      |9     |6             |9         |9     |8.00
-Poter     |Harry[^note4]   |3               |8       |6       |9      |8        |7      |8     |9             |9         |8     |8.00
-Poter     |James[^note3]   |3               |8       |4       |9      |10       |5      |9     |8             |9         |6     |7.55
-Snape     |Severus[^note7] |7               |8       |9       |7      |6        |9      |9     |5             |8         |7     |7.55
-Evans     |Lily[^note5]    |7               |7       |7       |8      |6        |9      |6     |9             |6         |8     |7.33
-Potter    |Euphemia[^note1]|1               |9       |1       |10     |10       |2      |9     |10            |9         |6     |7.33
-Poter     |Fleamont[^note2]|1               |7       |8       |8      |4        |8      |7     |6             |9         |6     |7.00
-Prince    |Eileen[^note8]  |1               |2       |7       |3      |6        |5      |4     |3             |4         |4     |4.22
-Evans     |Mrs.            |1               |1       |2       |1      |2        |3      |3     |3             |3         |3     |2.33
-Evans     |Mr.             |1               |2       |1       |1      |2        |3      |3     |3             |2         |3     |2.22
-Evans     |Petunia         |4               |1       |1       |1      |0        |0      |1     |1             |0         |0     |0.55
-Figg      |Arabella        |4               |0       |2       |0      |1        |2      |1     |0             |0         |0     |0.44
-Dursley   |Dudley[^note6]  |6               |1       |1       |0      |0        |0      |0     |0             |0         |0     |0.22
+Last Name |First Name      |Seraphim|Cherubim|Thrones|Dominions|Virtues|Powers|Principalities|Archangels|Angels|Average
+----------|----------------|--------|--------|-------|---------|-------|------|--------------|----------|------|-------
+Dumbledore|Albus[^note10]  |7       |7       |9      |10       |9      |10    |7             |7         |9     |8.22  
+Riddle    |Tom[^note9]     |9       |5       |10     |8        |7      |10    |5             |9         |9     |8.00
+Poter     |Harry[^note4]   |8       |6       |9      |8        |7      |8     |9             |9         |8     |8.00
+Poter     |James[^note3]   |8       |4       |9      |10       |5      |9     |8             |9         |6     |7.55
+Snape     |Severus[^note7] |8       |9       |7      |6        |9      |9     |5             |8         |7     |7.55
+Evans     |Lily[^note5]    |7       |7       |8      |6        |9      |6     |9             |6         |8     |7.33
+Potter    |Euphemia[^note1]|3       |1       |10     |10       |4      |9     |2             |9         |6     |6.00
+Poter     |Fleamont[^note2]|7       |8       |8      |4        |8      |7     |6             |9         |6     |7.00
+Prince    |Eileen[^note8]  |2       |7       |3      |6        |5      |4     |3             |4         |4     |4.22
+Evans     |Mrs.            |1       |2       |1      |2        |3      |3     |3             |3         |3     |2.33
+Evans     |Mr.             |2       |1       |1      |2        |3      |3     |3             |2         |3     |2.22
+Evans     |Petunia         |1       |1       |1      |0        |0      |1     |1             |0         |0     |0.55
+Figg      |Arabella        |0       |2       |0      |1        |2      |1     |0             |0         |0     |0.44
+Dursley   |Dudley[^note6]  |1       |1       |0      |0        |0      |0     |0             |0         |0     |0.22
 
 [^note10]: The cannonical books talk about Dumbledore as the most powerful
     wizard known, the only one Riddle fears, and yet Dumbledore cannot defeat
@@ -25,7 +31,8 @@ Dursley   |Dudley[^note6]  |6               |1       |1       |0      |0        
     simply lack of will to do so.  The devil is in the details.  Riddle is
     exceptionally strong in both offensive and defensive magic (Archangels and
     Angels), Dumbledore is only above average offensively, but is superlative in
-    transmutation, manipulation of physics and chemistry, and binding the will.
+    transmutation, and the manipulation of physics and chemistry, he is also
+    hard to beat at binding the will and augmenting nature.
     Unfortunately, Riddle actually equals or exceeds Dumbledore in the wand arts
     *except* in transmutation and temporary augementation (Virtues).  Neither of
     these makes for an easy combat victory, and Riddle's strong offensive magic
@@ -36,30 +43,19 @@ Dursley   |Dudley[^note6]  |6               |1       |1       |0      |0        
 [^note1]: We have no canonical background information on Euphemia except for the
     fact that she was either a pureblood or a halfblood.  Thus, I have moulded
     her to fit what I envision James to be.  She is an incredibly eclectic mix
-    of highs and lows, in terms of ability.  I imagine, given how interconnected
-    the wizarding world is, that no matter her personal beliefs, in her
-    background, several ancestors have abused magics that compel the will,
-    compulsions, imperious, confundus, and similar.  This has boosted her
-    inheritance from the Thrones.  I further suspect she is related to the
-    creators of one of the humaniform "races" of pseudo-sentient beings.  Such a
-    massive violation of the natural order might well have boosted the Dominions
-    inheritance to the point that it has yet to degrade even generations later.
-    In short, she comes from a "darker" family, but, like Sirius, has rejected
-    that past. 
+    of highs and lows, in terms of ability.  
 
 [^note2]: Fleamont was an incredible duellist and a good potioneer. 
 
 [^note3]: James really should not have existed at all.  He was born, per cannon,
-    after his parents were already old. In many ways he inherited the average of
-    both parents, but in keeping with the above, I am saying that the inheritance
-    from the Dominions is too strongly "programmed" to degrade. 
+    after his parents were already old. In some places he he inherited the average of
+    both parents, in others he inherited the sum total of both parents, and in a
+    few places he has the stronger power.  
 
 [^note4]: Harry is, as you can see, slightly above an average of his parents
     except in a couple of key categories where he straight up inherited the more
     powerful ability.  As the child of two exceptionally powerful parents, even a
-    partial inheritance can still result in someone really really powerful. We are
-    finally far enough away from whenever in time the Dominions were abused that
-    this ability can degrade. 
+    partial inheritance can still result in someone really really powerful. 
 
 [^note5]: Lily inherited the sum total of her parents, plus an unexpected
     something extra.

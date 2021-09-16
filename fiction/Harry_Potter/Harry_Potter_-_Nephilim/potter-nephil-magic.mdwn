@@ -47,45 +47,52 @@ intention, however, is that these types are not different species, but rather
 more like having different traits that can be independently inherited.  A nephil
 can possibly inherit the following:
 
-* From the Seraphim, the ability to perceive the heart.  When used on other
-  nephil, this allows access to information about the person's physical state,
-  their will, and their memories.  When used on humans, it allows only access to
-  information about the person's physical state.  However, an astute judge of
-  human nature can combine this with situational awareness, historical
-  information about the person, body language, and similar data to make highly
-  accurate guesses. 
-* From the Cherubim, the ability to perceive/detect what has been done with
-  magic, and what is possible with it. 
-* From the Thrones, the ability to bind the will of other nephilim.  For the
-  purposes of this story, and *unlike cannon Harry Potter*, this ability has
-  marginal *at best* affect on full humans. Things like the imperious curse or
-  the confundus charm fit in here.  
-* From the Dominions, the ability to transmute the form, but not the substance,
-  of one thing to another.  This will be temporary unless the change is "locked"
-  in place through combining this ability with that inherited from the Powers.
-  Neither alone can make a transmutation permanent.  That is, the Powers cannot
-  retroactively make a transmutation permanent, it must be done *as the change
-  is made, by the same nephil*. 
-* From the Virtues the ability to temporarily augment the nature of the natural
-  world. Things like animation charms fit here. The other thing that fits here
-  is that when a nephil who inherits from the Virtues handles certain raw
-  materials (potions ingredients), these become "charged" with extra properties.
-  This is a deviation from Mrs. Rowling's explanation for potions. 
-* From the Powers, temporary & localised manipulation of the laws of physics and
-  chemistry. 
-* From the Principalities, the ability to create area effects on populations
-  (unplottable, "muggle repelling", so on). This differs from the Thrones in
-  that the gifts from the Thrones affect individuals regardless of location.
-  The gifts from the Principalities affect whoever, full human or nephil, is in
-  the right location to be affected, and no one who is not in relationship to
-  that location.  Your ability to see into a place, remember a place, stay near
-  a place, so on. 
-* From the Archangels, offensive magics (recall that the nephilim come from
-  fallen angels, so some of these offensive magics are corrupted and should not
-  be used).  Now yes, all sorts of magic can be used to harm someone.  That is
-  not what I mean.  I mean magics that have no other use. 
-* From the angels, defensive magics (these can also be corrupted to the point of
-  being dangerous to the user).  
+=From the Seraphim=
+    the ability to perceive the heart.  When used on other nephil, this allows
+    access to information about the person's physical state, their will, and
+    their memories.  When used on humans, it allows only access to information
+    about the person's physical state.  However, an astute judge of human nature
+    can combine this with situational awareness, historical information about
+    the person, body language, and similar data to make highly accurate guesses. 
+=From the Cherubim=
+    the ability to perceive/detect what has been done with magic, and what is
+    possible with it. 
+=From the Thrones=
+    the ability to bind the will of other nephilim.  For the purposes of this
+    story, and *unlike cannon Harry Potter*, this ability has marginal *at best*
+    affect on full humans. Things like the imperious curse or the confundus
+    charm fit in here.  
+=From the Dominions=
+    the ability to transmute the form, but not the substance, of one thing to
+    another.  This will be temporary unless the change is "locked" in place
+    through combining this ability with that inherited from the Powers. Neither
+    alone can make a transmutation permanent.  That is, the Powers cannot
+    retroactively make a transmutation permanent, it must be done *as the change
+    is made, by the same nephil*. 
+=From the Virtues=
+    the ability to temporarily augment the nature of the natural world. Things
+    like animation charms fit here. The other thing that fits here is that when
+    a nephil who inherits from the Virtues handles certain raw materials
+    (potions ingredients), these become "charged" with extra properties.  This
+    is a deviation from Mrs. Rowling's explanation for potions. 
+=From the Powers=
+    temporary & localised manipulation of the laws of physics and chemistry. 
+=From the Principalities=
+    the ability to create area effects on populations (unplottable, "muggle
+    repelling", so on). This differs from the Thrones in that the gifts from the
+    Thrones affect individuals regardless of location.   The gifts from the
+    Principalities affect whoever, full human or nephil, is in the right
+    location to be affected, and no one who is not in relationship to that
+    location.  Your ability to see into a place, remember a place, stay near a
+    place, so on. 
+=From the Archangels=
+    offensive magics (recall that the nephilim come from fallen angels, so some
+    of these offensive magics are corrupted and should not be used).  Now yes,
+    all sorts of magic can be used to harm someone.  That is not what I mean.  I
+    mean magics that have no other use. 
+=From the angels=
+    defensive magics (these can also be corrupted to the point of being
+    dangerous to the user).  
 
 #### mapping to Harry Potter
 
@@ -421,17 +428,17 @@ determine what happens to a given child.
 * nephil do get one straight up advantage over humans in addition to using
   magic - they [[live longer|Life_Expectancy]].  This is *actually* a side
   effect of their magic, which, regardless of type, will offer some protection
-  against disease and against any change to their bodies not caused by their own
-  use of magic.  It does not halt the decay of old age, but it does retard it.
-  The extend to which it extends the nephil's life depends on the nephil's
-  average power level.  For males, I settled on the formula a = 50+e^.5x  where
+  against disease and against the effects of entropy (and thus old age).  It
+  does not halt the decay of old age, but it does retard it.  The extend to
+  which it extends the nephil's life depends on the nephil's average power
+  level.  For males, I settled on the formula a = 16.14+29.9e^0.184x  where
   a is their estimated average lifespan, e is Euler's number, and x is the
-  average of their ten power levels.  For females, using the same variables, I
-  settled on the   formula a = 58.3+7e^.534x.  I chose the different formulas
+  average of their nine power levels.  For females, using the same variables, I
+  settled on the formula a = 31+22.39e^0.205x.  I chose the different formulas
   because while it does not fully remove the fact that women normally live
-  longer than men, it does massively reduce the delta.  I decided that (while I
-  have no proof of this) a large part of the difference between male and female
-  humans has got to be either the effects of more guys involved in wars, or
+  longer than men, it does massively reduce the delta.  I decided  (while I have
+  no proof of this) a large part of the difference between male and female
+  humans has got to be either the effects of more guys involved in wars or
   disease (or both). 
 * Per earlier sections, it takes approximately six consecutive generations of magical
   abuse for "truly bizarre" things to become not just possible but probable.
