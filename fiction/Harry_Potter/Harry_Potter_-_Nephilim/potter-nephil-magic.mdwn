@@ -207,12 +207,12 @@ Harry Potter cannon breaks magic down into:
       crystal gazing grew from this magical insight into people
     - There is some crossover between the two, generally to the detriment of
       both the user and any understanding of the truth. 
-    - Users of the first form make future generations more susceptible to magics
-      inherited from the Seraphim and Thrones (for four generations per my rules
-      on nephil inheritance).  So while in general someone strong in the Thrones
-      could normally resist the imperious curse, if they come from a family
-      steeped in the use of divination, then he/she personally will be
-      abnormally susceptible to this magic. 
+    Users of the first form make future generations more susceptible to magics
+    inherited from the Seraphim and Thrones (for four generations per my rules
+    on nephil inheritance).  So while in general someone strong in the Thrones
+    could normally resist the imperious curse, if they come from a family
+    steeped in the use of divination, then he/she personally will be
+    abnormally susceptible to this magic. 
 =Arithmancy=
     This has a Wikipedia definition as being a speciality of divination.  For my
     purposes this is _almost_ true.  For my purposes Arithmancy attempts to
@@ -418,7 +418,22 @@ determine what happens to a given child.
   be temptations to a human can be overriding compulsions to a nephil, and they
   are vulnerable to each other (and to others who can use similar powers) in
   ways that humans are not. 
-* Per the above, it takes approximately six consecutive generations of magical
+* nephil do get one straight up advantage over humans in addition to using
+  magic - they [[live longer|Life_Expectancy]].  This is *actually* a side
+  effect of their magic, which, regardless of type, will offer some protection
+  against disease and against any change to their bodies not caused by their own
+  use of magic.  It does not halt the decay of old age, but it does retard it.
+  The extend to which it extends the nephil's life depends on the nephil's
+  average power level.  For males, I settled on the formula a = 50+e^.5x  where
+  a is their estimated average lifespan, e is Euler's number, and x is the
+  average of their ten power levels.  For females, using the same variables, I
+  settled on the   formula a = 58.3+7e^.534x.  I chose the different formulas
+  because while it does not fully remove the fact that women normally live
+  longer than men, it does massively reduce the delta.  I decided that (while I
+  have no proof of this) a large part of the difference between male and female
+  humans has got to be either the effects of more guys involved in wars, or
+  disease (or both). 
+* Per earlier sections, it takes approximately six consecutive generations of magical
   abuse for "truly bizarre" things to become not just possible but probable.
    * Recall the note from the [[Introduction|Harry_Potter_-_Nephilim]] on _The
      Screwtape Letters_. 

@@ -1,18 +1,18 @@
 US Males 1900, US Females 1900, Average Power Level, US Male Nephilim 1900, US Female Nephilim 1900
-51.5,58.3,0,51.5,58.3
-51.5,58.3,1,51.6,59.4
-51.5,58.3,2,52.7,60.3
-51.5,58.3,3,54.5,61.7
-51.5,58.3,4,57.4,64.2
-51.5,58.3,5,62.2,68.4
-51.5,58.3,6,70.1,75.5
-51.5,58.3,7,83.1,87.7
-51.5,58.3,8,104.5,108.5
-51.5,58.3,9,140.0,143.9
-51.5,58.3,10,198.4,204.3
 
-females = 58.3+.7e^.534x
-males = 50+e^.5x
+human males|human females|average power level|nephil males|nephil females
+:---------:|:-----------:|:-----------------:|:----------:|:------------:
+51.5|58.3|0|51.5|58.3
+51.5|58.3|1|51.6|59.4
+51.5|58.3|2|52.7|60.3
+51.5|58.3|3|54.5|61.7
+51.5|58.3|4|57.4|64.2
+51.5|58.3|5|62.2|68.4
+51.5|58.3|6|70.1|75.5
+51.5|58.3|7|83.1|87.7
+51.5|58.3|8|104.5|108.5
+51.5|58.3|9|140.0|143.9
+51.5|58.3|10|198.4|204.3
 
 based on Ms. Felicitie C. Bell, Mr. Michael L. Miller.  "[Life Tables for the United States Social Security Area 1900-2100](https://www.ssa.gov/oact/NOTES/pdf_studies/study120.pdf)" 2005-08. SSA Pub. No. 11-11536. 
 I'm using 1900's US numbers essentially because 1) I do not have UK numbers 2)
