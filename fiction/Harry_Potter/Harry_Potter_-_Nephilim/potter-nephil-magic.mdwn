@@ -91,152 +91,173 @@ can possibly inherit the following:
 
 Harry Potter cannon breaks magic down into: 
 
-* charms - generally a mix of inheritance from Virtues and Powers for the lower
-  years, however
-  - things like "cheering charms" are _actually_ a form of transmutation
-    manipulating the form of brain chemicals, and thus, temporarily, their
-    effect. 
-  - memory charms like obliviation are a mix of transmutation on brain chemicals
-    with the Seraphic ability to perceive (and thus target the transmutation
-    really precisely). Because they are chemical in nature, they can work on full
-    humans.  However, they can be more precisely targeted and more finely
-    crafted/tuned when used against a nephil.  Thus you can make a human forget,
-    say, the last hour, or the last day; you can make a nephil forget that a
-    single person was present while otherwise remembering the event. 
-  - Imperious curse acts differently on humans and nephil. Using the imperious
-    curse on a human will require "operating" that human line you would a puppet
-    or a remote control robot, while using it on a nephil acts more like what
-    you see in the Harry Potter books, where you can give a command and the
-    victim's own mind will assist in finding ways to carry out the order. 
-  - Confundus type charms only work well on nephil, because they extend memory
-    charms by depending on abilities inherited from Thrones. When used on a
-    human, this charm interferes with the ability to form a long term memory,
-    and the ability to retrieve long term memories, both for the duration of the
-    charm, and it causes the various chemicals in the brain to surge.  So humans
-    will tend to end up all sorts of confused, but without the fine grained
-    control over what they are confused about, or what they think is actually
-    happening that you can achieve with a nephil.  Note that not all nephil are
-    *aware* of the difference in affect here. 
-* transfiguration comes primarily from the Dominions, but is highly temporary
-  unless you use abilities from the Virtues to augment reality to make a
-  permanent change possible *as you make the change*. 
-* conjuring requires inheritance from the Powers, as you are in essence
-  manipulating quantum probabilities.  Unlike the standard Harry Potter,
-  conjuration will tend to be permanent.
-* Vanishing, though considered transfiguration, comes from the Powers, it is a
-  form of dissolving something.  Because it is explained so poorly, students new
-  to the practice will often actually attempt to modify the thing being
-  vanished, resulting in transparent versions instead of something that has, to
-  paraphrase McGonagall, gone into everything.
-* Potions are complicated.   The magic comes in part from the brewer (primarily
-  from the Virtues), and in part from the ingredients (different ingredients
-  will react to your magical influence in different ways).  No two nephil will
-  affect ingredients precisely the same way; similarly no two instances of the
-  same ingredient are actually precisely the same.  A strong ability inherited
-  from the Cherubim will make you more able to discern the effects of the
-  ingredients, including between instances of supposedly identical ingredients.
-  Thus the best potioneers strongly inherit from both the Cherubim and Virtues.
-  Some potions additionally require chemical reactions not possible in nature,
-  this requires the potioneer to have abilities in the Powers space as well.
-  Lastly, if a potion is to be stored, rather than used immediately, the effects
-  must be locked in place *at the time of creation* by mixing in some magic from
-  the Dominions. Potions is a wandless art, though some traditions *do* use
-  incantations as part of the process the potioneer trigger their magic.
-  Hogwarts teaches potions in its hardest form: both wandless and silent,
-  requiring near instinctual use of effectively three to four forms of magic
-  simultaneously.  The nephil must use abilities inherited from the Virtues to
-  augment the ingredients with additional properties, locking the augmentation
-  in place using the transformative powers from the Dominions.  As this highly
-  personal process will result in something slightly different from nephil to
-  nephil, he/she must use abilities from the Cherubim to pick precisely the
-  ingredients affected by his/her magic to precisely the right degree and in
-  precisely the right way.  Should the ingredients not want to mix, the nephil
-  then uses abilities inherited from the Powers to manipulate the laws of
-  chemistry to make the reaction possible. The different ways and patterns of
-  stirring are essentially mental triggers to help the nephil activate this
-  chemical magic from the Powers.  This means that a potion recipe is more of a
-  suggestion than a true recipe, the best will always come from deviating from
-  the recipe by *just the right amount* to account for your personal magic and
-  the specific ingredients you happen to be using in this particular instance. 
-* Runes are also complicated.  Runes are _created_ from powers inherited from
-  the Virtues, you augment reality to give your writing not just meaning, but
-  power.  They are, however, *powered* by the inheritance related to the effect
-  of the runes in question.  Thus two people equally skilled at creating runes
-  might not be equally skilled at powering those runes, or vice versa. This is
-  also a deviation from the cannon Harry Potter universe.  Runes can also be
-  created to *absorb* power from the surrounding area to power connected
-  sequences of runes, using abilities inherited from the Principalities.  This
-  in practice reduces the effect of any attempt to use other powers in any way
-  not connected to that rune sequence.  For a school like Hogwarts, it would be
-  safer to practice your magic because the effect of each spell would be
-  lessened.  The Hospital Wing would need to be shielded from most of the runes
-  protecting the rest of the castle to ensure that you could still be cured
-  using magic at full efficacy.  Overall, this effect would bluster Hogwart's
-  reputation for being one of the safest places in Britain. 
-* divination has two categories. 
-  - prophesy is a morally suspect magic.  I am going to go with Biblical
-    theology here; in divination the nephil knowingly or unknowingly
-    communicates with fallen angels.  If they ever tell anything truthful, it is
-    only because they judge it useful to lead us further into sin. Thus most
-    prophesies are misleading, false, or both.  This fits well with what Mrs.
-    Rowling writes in her original FAQ when she compared her series' prophecy to
-    the one from _Macbeth_.[^20210902-5] 
-  - Users particularly skilled in the abilities from the Seraphim may be able to
-    use these abilities to make incredibly accurate predictions about people
-    without crossing any lines.  Knowing that someone is clumsy from their
-    memories, knowing that someone is afraid from their emotions, the user can
-    predict some short term events and reactions in ways that might seem like
-    divination.  Practices like palm reading, tea leaves, and crystal gazing
-    grew from this magical insight into people.
-  - There is some crossover between the two, generally to the detriment of both
-    the user and any understanding of the truth. 
-  - Users of the first form make future generations more susceptible to magics
-    inherited from the Seraphim and Thrones (for four generations per my rules
-    on nephil inheritance).  So while in general someone strong in the Thrones
-    could normally resist the imperious curse, if they come from a family
-    steeped in the use of divination, then he/she personally will be abnormally
-    susceptible to this magic. 
-* Arithmancy has a Wikipedia definition as being a speciality of divination.
-  For my purposes this is _almost_ true.  For my purposes Arithmancy attempts to
-  predict the effect of a use of magic.  It attempts to make magic scientific.
-  However, it is complicated by the fact that its practitioners themselves do
-  not actually understand the scientific method, nor agree on which mathematical
-  system(s) they are using to do this in.  The field is dominated by people with
-  only the vaguest idea of what the mundane world has done with either numbers
-  or science in the past 200 years. 
-* Legilimency - requires both an inheritance from the Seraphim and the Thrones,
-  for this work it comes in 3 phases. 
-  - Passively, it is solely from the Seraphim, and is morally neutral. This will
-    tell you a target's emotional state (anything related to brain chemistry),
-    whether or not the person is telling the truth (again based on brain
-    chemistry and things like pulse rates, but done automatically for you by the
-    magic), energy level/alertness, and other purely physical things but _not_
-    about the person's actual thoughts or memories. A really skilled user may be
-    able to infer thoughts from a however with a fair degree of accuracy. 
-  - Communicatively, it adds in abilities from the Thrones, forcing the
-    recipient to hear your thoughts. This is a bit of a grey area morally. 
-  - Actively, you force the victim to reveal their memories, implant memories,
-    or manipulate emotional states.  For some unknown reason, unless the target
-    has at least some magic, you will be unable to do more than manipulate
-    emotional states.  This manipulation goes beyond the simple transmutation of
-    brain chemicals, it actually causes the brain to release the appropriate
-    chemicals as if naturally in that emotional state. All active legilimency is
-    morally repugnant, and comes at a magical cost.  Excessive use of this form
-    of legilimency will have bizarre effects.  The effects may be physical,
-    spiritual, mental, or any combination thereof. Per the above, what
-    constitutes "excessive" has not been quantified.  To the extent that the use
-    is not just excessive but also malicious and/or selfish (as opposed to
-    defensive) in nature, the effects will not only be bizarre but hereditary,
-    *and* will be coupled with reduced will-power in subsequent generations as
-    is described in the section of magical inheritance for magics requiring
-    emotional content. 
-* Occlumency - the magical suppression of emotion and with that access to
-  thoughts comes at a similar moral and magical cost to active legilimency. This
-  will require inheritance from the Cherubim (for targeting), the Dominions (for
-  transmuting brain chemicals), and the Seraphim (dealing with the non-material
-  parts of men/nephil).  Lacking *any* of these will basically mean you are not
-  going to succeed at Occlumency.  This story will offer magical defences to
-  legilimency besides that of occlumency.
+=charms=
+    generally a mix of inheritance from Virtues and Powers for the lower years,
+    however
+    - things like "cheering charms" are _actually_ a form of transmutation
+      manipulating the form of brain chemicals, and thus, temporarily, their
+      effect. 
+    - memory charms like obliviation are a mix of transmutation on brain
+      chemicals with the Seraphic ability to perceive (and thus target the
+      transmutation really precisely). Because they are chemical in nature, they
+      can work on full humans.  However, they can be more precisely targeted and
+      more finely crafted/tuned when used against a nephil.  Thus you can make a
+      human forget, say, the last hour, or the last day; you can make a nephil
+      forget that a single person was present while otherwise remembering the
+      event.
+    - Imperious curse acts differently on humans and nephil. Using the
+      imperious curse on a human will require "operating" that human line you
+      would a puppet or a remote control robot, while using it on a nephil acts
+      more like what you see in the Harry Potter books, where you can give a
+      command and the victim's own mind will assist in finding ways to carry out
+      the order. 
+    - Confundus type charms only work well on nephil, because they extend memory
+      charms by depending on abilities inherited from Thrones. When used on a
+      human, this charm interferes with the ability to form a long term memory,
+      and the ability to retrieve long term memories, both for the duration of
+      the charm, and it causes the various chemicals in the brain to surge.  So
+      humans will tend to end up all sorts of confused, but without the fine
+      grained control over what they are confused about, or what they think is
+      actually happening that you can achieve with a nephil.  Note that not all
+      nephil are *aware* of the difference in affect here. 
+=transfiguration=
+    comes primarily from the Dominions, but is highly temporary unless you use
+    abilities from the Virtues to augment reality to make a permanent change
+    possible *as you make the change*.
+=animagus=
+    In the Harry Potter books, this is a form of transfiguration enabled by the
+    use of a ritual that combines a repeated spell with a potion.  For this
+    story, that is just one way to become an animagus.  How you go about
+    becoming one determines what types of magic are involved, but some
+    inheritance from the Dominions is generally needed. 
+=conjuring=
+    requires inheritance from the Powers, as you are in essence manipulating
+    quantum probabilities.  Unlike the standard Harry Potter, conjuration will
+    tend to be permanent.
+=Vanishing=
+    though considered transfiguration, comes from the Powers, it is a form of
+    dissolving something.  Because it is explained so poorly, students new to
+    the practice will often actually attempt to modify the thing being vanished,
+    resulting in transparent versions instead of something that has, to
+    paraphrase McGonagall, gone into everything.
+=Potions+
+    These are complicated.  The magic comes in part from the brewer (primarily
+    from the Virtues), and in part from the ingredients (different ingredients
+    will react to your magical influence in different ways).  No two nephil will
+    affect ingredients precisely the same way; similarly no two instances of the
+    same ingredient are actually precisely the same.  A strong ability inherited
+    from the Cherubim will make you more able to discern the effects of the
+    ingredients, including between instances of supposedly identical
+    ingredients. Thus the best potioneers strongly inherit from both the
+    Cherubim and Virtues. Some potions additionally require chemical reactions
+    not possible in nature, this requires the potioneer to have abilities in the
+    Powers space as well. Lastly, if a potion is to be stored, rather than used
+    immediately, the effects must be locked in place *at the time of creation*
+    by mixing in some magic from the Dominions. Potions is a wandless art,
+    though some traditions *do* use incantations as part of the process the
+    potioneer trigger their magic. Hogwarts teaches potions in its hardest form:
+    both wandless and silent, requiring near instinctual use of effectively
+    three to four forms of magic simultaneously.  The nephil must use abilities
+    inherited from the Virtues to augment the ingredients with additional
+    properties, locking the augmentation in place using the transformative
+    powers from the Dominions.  As this highly personal process will result in
+    something slightly different from nephil to nephil, he/she must use
+    abilities from the Cherubim to pick precisely the ingredients affected by
+    his/her magic to precisely the right degree and in precisely the right way.
+    Should the ingredients not want to mix, the nephil then uses abilities
+    inherited from the Powers to manipulate the laws of chemistry to make the
+    reaction possible. The different ways and patterns of stirring are
+    essentially mental triggers to help the nephil activate this chemical magic
+    from the Powers.  This means that a potion recipe is more of a  suggestion
+    than a true recipe, the best will always come from deviating from the recipe
+    by *just the right amount* to account for your personal magic and the
+    specific ingredients you happen to be using in this particular instance. 
+=Runes=
+    These are also complicated.  Runes are _created_ from powers inherited from
+    the Virtues, you augment reality to give your writing not just meaning, but
+    power.  They are, however, *powered* by the inheritance related to the
+    effect of the runes in question.  Thus two people equally skilled at
+    creating runes might not be equally skilled at powering those runes, or vice
+    versa. This is also a deviation from the cannon Harry Potter universe.
+    Runes can also be created to *absorb* power from the surrounding area to
+    power connected sequences of runes, using abilities inherited from the
+    Principalities.  This in practice reduces the effect of any attempt to use
+    other powers in any way not connected to that rune sequence.  For a school
+    like Hogwarts, it would be safer to practice your magic because the effect
+    of each spell would be lessened.  The Hospital Wing would need to be
+    shielded from most of the runes protecting the rest of the castle to ensure
+    that you could still be cured using magic at full efficacy.  Overall, this
+    effect would bluster Hogwart's reputation for being one of the safest places
+    in Britain. 
+=divination=
+    This magic has two categories. 
+    - prophesy is a morally suspect magic.  I am going to go with Biblical
+      theology here; in divination the nephil knowingly or unknowingly
+      communicates with fallen angels.  If they ever tell anything truthful, it
+      is only because they judge it useful to lead us further into sin. Thus
+      most prophesies are misleading, false, or both.  This fits well with what
+      Mrs. Rowling writes in her original FAQ when she compared her series'
+      prophecy to the one from _Macbeth_.[^20210902-5]
+    - Users particularly skilled in the abilities from the Seraphim may be able
+      to use these abilities to make incredibly accurate predictions about
+      people without crossing any lines.  Knowing that someone is clumsy from
+      their memories, knowing that someone is afraid from their emotions, the
+      user can predict some short term events and reactions in ways that might
+      seem like divination.  Practices like palm reading, tea leaves, and
+      crystal gazing grew from this magical insight into people
+    - There is some crossover between the two, generally to the detriment of
+      both the user and any understanding of the truth. 
+    - Users of the first form make future generations more susceptible to magics
+      inherited from the Seraphim and Thrones (for four generations per my rules
+      on nephil inheritance).  So while in general someone strong in the Thrones
+      could normally resist the imperious curse, if they come from a family
+      steeped in the use of divination, then he/she personally will be
+      abnormally susceptible to this magic. 
+=Arithmancy=
+    This has a Wikipedia definition as being a speciality of divination.  For my
+    purposes this is _almost_ true.  For my purposes Arithmancy attempts to
+    predict the effect of a use of magic.  It attempts to make magic scientific.
+    However, it is complicated by the fact that its practitioners themselves do
+    not actually understand the scientific method, nor agree on which
+    mathematical system(s) they are using to do this in.  The field is dominated
+    by people with only the vaguest idea of what the mundane world has done with
+    either numbers or science in the past 200 years. 
+=Legilimency=
+    This requires both an inheritance from the Seraphim and the Thrones, for
+    this work it comes in 3 phases. 
+    - Passively, it is solely from the Seraphim, and is morally neutral. This
+      will tell you a target's emotional state (anything related to brain
+      chemistry), whether or not the person is telling the truth (again based on
+      brain chemistry and things like pulse rates, but done automatically for
+      you by the magic), energy level/alertness, and other purely physical
+      things but _not_ about the person's actual thoughts or memories. A really
+      skilled user may be able to infer thoughts from a however with a fair
+      degree of accuracy.
+    - Unidirectionally Outbound, it adds in abilities from the Thrones, forcing
+      the recipient to hear your thoughts. This is a bit of a grey area morally. 
+    - Actively, you force the victim to reveal their memories, implant memories,
+      or manipulate emotional states.  For some unknown reason, unless the
+      target has at least some magic, you will be unable to do more than
+      manipulate emotional states.  This manipulation goes beyond the simple
+      transmutation of brain chemicals, it actually causes the brain to release
+      the appropriate chemicals as if naturally in that emotional state. All
+      active legilimency is morally repugnant, and comes at a magical cost.
+      Excessive use of this form of legilimency will have bizarre effects.  The
+      effects may be physical, spiritual, mental, or any combination thereof.
+      Per the above, what constitutes "excessive" has not been quantified.  To
+      the extent that the use is not just excessive but also malicious and/or
+      selfish (as opposed to defensive) in nature, the effects will not only be
+      bizarre but hereditary, *and* will be coupled with reduced will-power in
+      subsequent generations as is described in the section of magical
+      inheritance for magics requiring emotional content. 
+=Occlumency=
+    The magical suppression of emotion and with that access to thoughts comes at
+    a similar moral and magical cost to active legilimency. This will require
+    inheritance from the Cherubim (for targeting), the Dominions (for
+    transmuting brain chemicals), and the Seraphim (dealing with the
+    non-material parts of men/nephil).  Lacking *any* of these will basically
+    mean you are not going to succeed at Occlumency.  This story will offer
+    magical defences to legilimency besides that of occlumency.
 
 [^20210902-5]: Mrs. J. K. Rowling. 
     "[What is the significance of Neville being the other boy to whom the prophecy might have 
