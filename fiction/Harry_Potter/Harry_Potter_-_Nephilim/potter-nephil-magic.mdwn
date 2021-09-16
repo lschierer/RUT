@@ -431,10 +431,10 @@ determine what happens to a given child.
   against disease and against the effects of entropy (and thus old age).  It
   does not halt the decay of old age, but it does retard it.  The extend to
   which it extends the nephil's life depends on the nephil's average power
-  level.  For males, I settled on the formula a = 16.14+29.9e^0.184x  where
+  level.  For males, I settled on the formula a = 16.14+29.9e\^0.184x  where
   a is their estimated average lifespan, e is Euler's number, and x is the
   average of their nine power levels.  For females, using the same variables, I
-  settled on the formula a = 31+22.39e^0.205x.  I chose the different formulas
+  settled on the formula a = 31+22.39e\^0.205x.  I chose the different formulas
   because while it does not fully remove the fact that women normally live
   longer than men, it does massively reduce the delta.  I decided  (while I have
   no proof of this) a large part of the difference between male and female
