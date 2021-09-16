@@ -52,8 +52,9 @@ Some points of divergence from Harry Potter:
   receive forgiveness from their sins, they would also lose their access to
   magic.
 * Following from the origin of magic I'm using, magic will follow somewhat
-  different [[rules|potter-nephil-magic]] than the Harry Potter books.  
-* Modern day welders of magic, heavily influenced by paganism, and by those who
+  different [[rules|potter-nephil-magic]] than the Harry Potter books.  This
+  includes both the way the characters use magic and magical creatures. 
+* Modern day welders of magic, heavily influenced by paganism and by those who
   have given into temptation, have obscured the difference between those who
   inherit magic and those who have gained it through sin. They call all female
   welders of magic witches, this is part denial, part self delusion, and part
@@ -103,8 +104,6 @@ Some points of divergence from Harry Potter:
 ]]
 [[!trailoptions sort="title_natural" circular="yes"]]
 [[!trailitem Prologue]]
-
-[knffnm]: <kokopelli.nsns.fanficauthors.net/Maskirovat/Maskirovat/>
 
 [WP1]: https://en.wikipedia.org/
 
