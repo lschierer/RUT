@@ -6,8 +6,37 @@
 ### Overall Rules
 
 Nephil can be rated on a scale of 1 (low) to 10 (high) for access to each class
-of angelic abilities. For the purposes of this work, nephil can possibly inherit
-the following:
+of angelic abilities. For the purposes of this work:
+| Power Level | Ability Estimate |
+| :---------: | :--------------:
+| 1           | * some single weak ability within this category
+              | * no conscious control |
+| 2           | either: 
+              | * multiple barely detectable abilities
+              | * conscious control of a single weak ability |
+| 3           | able to manipulate this category of magic with great difficulty |
+| 4           | * able to achieve minimally acceptable levels of competence in this category of magic 
+              | * if some OWL test depended solely on this category of magic, expect to score in the P range. |
+| 5           | * expected to achieve acceptable levels of proficiency in this category of magic 
+              | * if some OWL test depended solely on this category of magic, expect to score in the A range. |
+| 6           | * expected to be capable of more advanced learning in this category of magic. 
+              | * if some OWL test depended solely on this category of magic, expect to score in the E range. 
+              | * if some NEWT test depended solely on this category of magic, expect to score in the A range. |
+| 7           | * expected to be capable of doing well in an advanced course on this category of magic. 
+              | * if some OWL test depended solely on this category of magic, expect to score in the O range. 
+              | * if some NEWT test depended solely on this category of magic, expect to score in the E range. 
+              | * possibly capable of learning magics in this category beyond NEWT level. |
+| 8           | * expected to be capable of doing well in an advanced course on this category of magic. 
+              | * if some OWL test depended solely on this category of magic, expect to score in the O range. 
+              | * if some NEWT test depended solely on this category of magic, expect to score in the O range. 
+              | * capable of learning magics in this category beyond NEWT level. |
+| 9           | * expected to learn OWL and NEWT level magics with relative ease. 
+              | * expected to learn magics beyond the NEWT level in this category of magic. 
+              | * instinctual (unconscious) use of magic in this category is extremely common. | 
+| 10          | learning this category of magic is more about finding out what is possible and fine-tuning abilities you already have. |
+
+
+For the purposes of this work, nephil can possibly inherit the following:
 * From the Seraphim, the ability to perceive the heart.  When used on other
   nephil, this allows access to information about the person's physical state,
   their will, and their memories.  When used on humans, it allows only access to
@@ -220,11 +249,12 @@ These rules are hierarchical, that is you need to apply the rules in order to
 determine what happens to a given child. 
 
 1. Children born of at least one magical parent have a 80% chance of following
-   these rules, and a 20% chance of following Mendelian genetics.  If they
-   follow Mendelian genetics, any magical abilities will tend to degrade with
-   each generation that follows Mendelian genetics. In other words, they will
-   become more and more normal, more and more in line with the way the world
-   would have worked without disruption or intervention.  
+   these rules, and a 20% chance of following purely human inheritance patterns,
+   which I will refer to as Mendelian genetics for simplicity.  If they follow
+   Mendelian genetics, any magical abilities will tend to degrade with each
+   generation that follows Mendelian genetics. In other words, they will become
+   more and more normal, more and more in line with the way the world would have
+   worked without disruption or intervention.  
 1. Children not following Mendelian genetics will have a 80% chance of still
    following Mendelian for traits not influenced by the deviation that
    distinguishes them from the mundane (in the nephilim this includes height,
@@ -234,7 +264,7 @@ determine what happens to a given child.
    Thus things like Weasley red hair (many generations), or Potter hair (at
    least 3 generations) start to become non-mundane traits.
 1. For non-mundane traits, a male child will have (a female child has similar
-   numbers, but switch father/mother ).
+   numbers, but switch father/mother). This is computed *per trait*. 
     * a 50% chance of inheriting solely from his father, 
     * a 16% chance of inheriting the sum total of both parents, 
     * a 14% chance of a partial inheritance from both parents,
@@ -243,60 +273,88 @@ determine what happens to a given child.
     * a 4% chance of a partial inheritance from just his mother,
     * a 1% chance of something truly bizarre happening
     * a 0.5% chance of becoming mundane,
-1. Some uses of magic *requires* an emotional content (unforgivables require
-   hatred, the patronus requires positive emotions, so on).  
-    * Sufficient use of this magic predisposes the next generation to be
-      susceptible to these emotions by 10% _per parent_.  
-    * How much use qualifies as "sufficient" is insufficiently researched. 
-    * Only magic that *requires* emotion does this.  Magic merely *affected* by
-      emotion does not. 
-    * This effect lasts for four generations.  
-    * If the total effect exceeds 90% (at 100% you would have no free will),
-      then the odds off something bizarre happening goes up by one percent for
-      every 10% of difference.  So if for example all of your progenitors on
-      both sizes excessively used the killing curse, you would be susceptible
-      to hatred by 300% base, since the total effect cannot remove your free
-      will, the actual effect is more complicated.  Your great-grandparents
-      each had a 20% boost, but your grandparents inherited that 20% boost
-      *from both sides* and *in addition* a 10% boost from each
-      great-grandparent, for a total of a 60% boost.  Your parents were the
-      first generation to exceed 90%: a 60% boost from each side plus 10% from
-      each parent for a total of 140%.  This is reduced to 90%, but the chance
-      of something bizarre is increased by 5%.  You then inherit 90% from each
-      parent (180%) which is again reduced to 90%, but causes an additional
-      boost on the chance of the bizarre, this time by 9%.  You are thus
-      susceptible to hatred  by 90%, but the odds of something bizarre happening
-      to you are the base  1% plus an additional 19% (5% from each parent plus
-      9% from your own overflow) for a total of a 20% chance.
-    * Inbreeding would make the above worse, as some progenitors would be
-      counted twice over. 
-    * Thus someone like Draco Malfoy actually does have tremendous trouble
-      controlling his instinctual behaviour in many ways. Judged by human
-      standards, he is mentally crippled, with severely damaged executive
-      function, particularly in the areas of impulse control, aggression, and
-      judgement. 
+1. Recall that I said that magic can be inherently corrupting.  Magic that is
+   corrupting not only affects the user, but his/her descendants, four
+   generations out.  All magic that *requires* an emotional content
+   (unforgivables require hatred, the patronus requires positive emotions, so
+   on) fits in this category. 
+   - by corrupting, I do not necessarily mean that it tends the user towards
+     evil, I mean that it tends to change (corrupt) the nature of the user.  
+   - magic where the required emotion closely aligns with one or more of the
+     seven deadly signs tends to corrupt the user more severely and more rapidly
+     (both) than magic where the required emotion is either neutral or closely
+     aligns with a virtue.  
+   - Only magic that *requires* emotion tends to have very low, very real
+     thresholds.  Magic that is merely *affected* by the user's emotions tends
+     to allow for greater ranges of use without hitting thresholds.
+   - It is theoretically possible, but in practice highly unlikely, that the
+     changes induced by different magics requiring opposing emotional contexts
+     might cancel each other out.
+   - While all emotional magic falls in this category of corrupting the user,
+     there are other classes of magic that do as well. 
+   - Use of a corrupting magic sufficient to reach a change threshold frequently
+     predisposes the next generation to be susceptible to either that type of
+     magic, the type of emotions that are required for that magic, or both, by 10%
+     _per ancestor_.  That is, the next generation has *stronger concupiscence*
+     and in fact *less free will.* 
+   - The thresholds involved for each kind of magic are very poorly researched
+     and not at all understood. 
+   - As stated elsewhere, this effect lasts for four generations. 
+   - If the total effect exceeds 90% (at 100% you would have no free will), then
+     the odds off something bizarre happening goes up by one percent for every
+     10% of difference.  
+     * So if for example all of your progenitors on both sizes excessively used
+       the killing curse, you would be susceptible to hatred (anger) by 300%
+       base.  Since the total effect cannot remove your free will, the actual
+       effect is more complicated.  Your great-grandparents each had a 20% boost
+       (10% from each of their parents).  Your grandparents inherited that 20%
+       boost *from both sides* and *in addition* a 10% boost because of each
+       great-grandparent's own personal abuse of magic, yielding a 60% boost to
+       your grandparent's experience of angry emotions, and a corresponding
+       decrease in their ability to choose not to act on these emotions.  Your
+       parents were the first generation to exceed 90%: a 60% remote
+       inheritance, plus a 10% immediate inheritance, from each parent, for a
+       total of 140%.  This is reduced to 90%, but the chance of something
+       bizarre is increased by 5%.  You then get the 90% anger *and* the 5%
+       bizarre factors as your remote inheritance, *plus* the 10% anger boost
+       from *your parent's* personal abuse of magic (again from each parent).
+       This puts your total anger boost at 180%, which is again reduced to 90%,
+       but causes an additional boost on the chance of the bizarre, this time by
+       9%.  This gets added to the 5% from the remote inheritance, for a total
+       chance of something bizarre happening to you at 19% over the base rate
+       (5% from each parent plus 9% from 180 being 9*10 over 90).  One in five
+       children in such a scenario would have something totally inexplicable
+       happen to them magically, physically, or both as they are conceived,
+       gestated and born.
+     * Inbreeding would make the above worse, as some progenitors would be
+       counted  multiple times over.
+     * Thus someone like Draco Malfoy actually does have tremendous trouble
+       controlling his instinctual behaviour in many ways. Judged by human
+       standards, he is mentally crippled, with severely damaged executive
+       function, particularly in the areas of impulse control, aggression, and
+       judgement. 
 1. Harry Potter talks about two classes that require special mention, squibs and
    muggle born.  They are effectively inverse of each other. 
    * A true squib is the child who resulted from the 0.5% chance of becoming
      mundane.  Such a child is fully human, and no "muggle-born" will ever
      descend from such a child.
    * It is possible for a child receiving a partial inheritance from his or her
-     parent(s) to have very low power.  On the scale of 1 to 10, in practice a
-     child with a power level of 2 or below on all categories (see below) will
-     be called a squib.  A child with 3 or below on all categories will not be
-     invited to any magical school, but might be able to effectively use some
-     magic.  A program like Kwick Spell might prey on such people.  
-   * On a related note, a child with a 9 or a 10 in any category uses magic in
-     that category instinctively.  A child with a 10 not only uses it
-     instinctively, but with conscious control. [[Riddle]] did not have to be
-     taught the Imperius Curse, learning it merely fine-tuned something he was
-     already doing. 
+     parent(s) to have very low power.  
+     - A child with a power level of 2 or below on all categories will be called
+       a squib.  
+     - A child with 3 or below on all categories will not be invited to any
+       magical school, but might be able to effectively use some magic.  A
+       program like Kwick Spell might prey on such people.  
+     - Hogwarts requires at least a 4 in each of the following categories:
+       Dominions, Virtues, and Powers; at least a 4 in *one* of Archangels or
+       angels and at least a 3 in the other; and at least a 3 in each of
+       Cherubim and Principalities.  
    * Because it is possible (16% chance) for the parents' abilities to
      recombine, these "squibs" who are actually extremely low powered nephilim,
      can eventually produce higher powered children.  These children will
      *generally* be low powered (a mix of 3s, 4s and 5s in the various
-     categories).  However, sometimes (1% chance) the something bizarre
-     increases the child's ability beyond expectations. 
+     categories).  However, sometimes (base rate of a 1% chance) the something
+     bizarre increases the child's ability beyond expectations. 
    * This partially explains some of the bias against these "first generation"
      magical users.  Not only are they new to a xenophobic culture, but marrying
      them *generally* creates a risk of low powered children.  With this
@@ -328,12 +386,8 @@ determine what happens to a given child.
   ways that humans are not. 
 * Per the above, it takes approximately six consecutive generations of magical
   abuse for "truly bizarre" things to become not just possible but probable.
-   * In _The Screwtape Letters_, describes the effect of sin on the fallen
-     angels.[^20210408-1] At the risk of adding *yet another* crossover to this
-     story, this is at the heart of explaining what is happening in the
-     following instances of something "truly bizarre" happening instead of
-     explicable magical inheritance. Essentially these represent instances of
-     Divine Justice.  
+   * Recall the note from the [[Introduction|Harry_Potter_-_Nephilim]] on _The
+     Screwtape Letters_. 
    * Building on what I wrote above comparing "standard humans" to nephil,
      beings in these categories are even more corrupted by the combination of
      sin and the inherent weakness of being of a race that was made, and not
@@ -343,130 +397,179 @@ determine what happens to a given child.
      This list is essentially ordered from most nearly equal to the nephilim to
      least nearly equal. 
    * mermen - These were once a magically powerful people who used inheritances
-     from the Dominions to transmute themselves to survive the great Flood. They
-     failed to consider that they might not be able to undo their own spells,
-     and the effects were not only permanent, but inherited. They have lost the
-     use of most magics through successive generations of partial inheritance
-     despite the odds. In their quest to regain their human form, some groups
-     did make progress, hence non-magical peoples have mythology about merfolk
-     looking like a more literally half man half fish.  Between wars between
-     tribes and wars between merfolk and other peoples, only those most capable
-     of living fully submerged have survived. While mentally and spiritually
-     most nearly equal to the nephilim from whom they (distantly) descend, their
-     extreme physical changes, and near entire loss of magic means that they
-     have little ability to form more than the most rudimentary societies in
-     their fully aquatic environments. 
+     from the Dominions to transmute themselves to survive the great Flood.
+     Magic in this category is generally very short lived, so over the course of
+     the great Flood, they used an *incredible* amount of it.  As the flood
+     ended, a Screwtape event happened, and they found themselves unable to undo
+     their own spells: the effects were not only permanent, but inherited. They
+     have lost the use of most magics through successive generations of partial
+     inheritance despite the odds. In their quest to regain their human form,
+     some groups did make progress, hence non-magical peoples have mythology
+     about merfolk looking like a more literally half man half fish.  Between
+     wars between tribes and wars between merfolk and other peoples, only those
+     most capable of living fully submerged have survived. While mentally and
+     spiritually most nearly equal to the nephilim from whom they (distantly)
+     descend, their extreme physical changes, and near entire loss of magic
+     means that they have little ability to form more than the most rudimentary
+     societies in their fully aquatic environments. 
    * dwarfs - I really dislike what Mrs. Rowling did with the dwarfs in _the
      Chamber of Secrets_.[^20210518-1]  Since she says that goblins of all
      things are expert craftsmen,[^20210518-2] my take is that nephil became
-     dwarfs became goblins.  I will figure out something else for Lockhart's
-     cupids if I ever get that far in writing. 
+     dwarfs which in turn became goblins.  I will figure out something else for
+     Lockhart's cupids if I ever get that far in writing. 
    * goblins - people who are highly susceptible to greed, envy, and wrath.
      Their form has been distorted by the sins of their forefathers centuries
-     ago.  They are still capable of good deeds, and some have been so highly
+     ago.  Once, they would have ranked in this list below the veela.  However,
+     they are still capable of good deeds, and some have been so highly
      virtuous as to have actually reduced their susceptibility from the 90%
-     maximum to a more manageable 60-70 (this represents the *best* of goblin
-     families), but the physical changes wrought on them have become "mundane,"
-     and are now governed by Mendelian inheritance.  Despite their flaws, these
-     populations retained their intelligence and their magic. They are
-     particularly strong inheritors from the Virtues, Powers, and Archangels,
-     with lesser inheritances from the Principalities and angels.
+     maximum to a more manageable 60-70%, but the physical changes wrought on
+     them have become "mundane," and are now governed by Mendelian inheritance.
+     Despite their flaws, these populations retained their intelligence and
+     their magic. They are particularly strong inheritors from the Virtues,
+     Powers, and Archangels, with lesser inheritances from the Principalities
+     and angels.  It is suspected that the earliest goblins may have been
+     responsible for the creation of the trolls, however, the proof (or
+     disproof) of this has been lost to reliable history.  If so, this explains
+     why they were punished so harshly (as to have originally lost nearly all
+     free will - 90% impact).  
    * hags - a people who are consumed by envy and lust.  Their sins robbed their
      ancestors of all they can now value. They have particularly strong
      inheritances from the Thrones, reasonable inheritances from the Virtues
      and Powers.  Some have partial inheritances of random other types.
    * centaurs - a nearly primordial people (inheriting from both the the
-     Seraphim and Cherubim) who selfishly abused divination magic until
-     something truly bizarre happened.  They became nearly immune to the magic
-     of the Dominions as practices by other mortals, but almost entirely ruled
-     by subconscious influences of the angelic and nephilim from the surrounding
-     areas, both those fallen and those who remained faithful.  They are also
-     incredibly sensitive to the state of balance between them and human society.
-     Whenever society takes a turn for the worse, so do they, whenever the
-     societies they live near turn towards God, the centaur populations become
-     more friendly.  However, as they remain addicted to divination, they never
-     reconcile with the peoples the reside near. Their form comes from the fact
-     that in their dependence on divination, they (as a people) adopted a herd
-     mentality, and in a 1% chance freak event of Divine Justice, their form
-     came to, in part, match their mentality. 
-   * veela - a people who are consumed by lust.  For the purposes of this story,
-     veela are "dark" creatures[^20210126-4] that have some of the strongest
-     inheritances from the Thrones of all humanoid magic users.  A
-     "half-veela" is a veela/human or veela/nephil cross where either the veela
-     nature was, against the odds, only partially inherited; or the 16% chance
-     that the veela nature is inherited in addition to a full nephil
-     inheritance.   The pure veela is not however a true example of a primordial
-     people.  In reality, the veela race comes from a cross from a really really
-     strong primordial nephil of the Thrones type, with a primordial nephil of
-     the Dominions type whose partial inheritance of those abilities means that
-     the veela can only transmute really small molecules.  As a race, the veela
-     combined these abilities in acts of true depravity, giving way to unbridled
-     lust, and using their abilities to transmute to create pheromones, and
-     their abilities to force the will to go beyond sexual temptation to enslave
-     those they had maddened with lust.   These were a fallen people who took
-     their powers as a license to abuse those weaker than them.  In this case
-     their cumulative chance of the "something bizarre" rendered their
-     behaviour a racial genetic trait, but also created a cruel, and highly
-     ironic trap. The first prong of the trap, the veela is, unlike most
-     nephilim, noticeably not fully human.  All veela have an avian animagus form
-     that they are only partially in control over.  Involuntary transformation
-     to the avian form is common when the veela becomes angered.  The second
-     prong of the trap, if a veela falls in love, his or her magic implodes in a
-     particularly harsh, and entirely involuntary way.  The *veela's* magic will
-     cause the beloved to exert an effect on the veela to the same (except
-     obviously inverted) extent as if the veela were, not just using but
-     *pushing* his/her abilities to affect someone else.[^20210408-2] Because
-     the veela's own magic is doing this, the other person cannot stop affecting
-     the veela. Combined with the weakened will power that comes with abuse of
-     mind magics, the veela is ill equipped to turn off his or her own magic and
-     so the slaver becomes enslaved. This remains true of the "half-veela." Like
-     _[Maskirovat][knffnm]_ I am going to speculate that the pure veela's
-     lifespan is shorter than a normal human's, and fertility has shifted such
-     that female births outnumber male births (most male sperm are simply not
-     viable and so fewer males are conceived). If the half-veela falls in the
-     16% total of both, he or she will inherit the greater of the two lifespans;
-     if the 14% partial from both, the average of the two lifespans; otherwise
-     lifespan follows either being veela or not being veela. The animagus-like
-     transformation into an avian form is the result of a second 1% chance like
-     event that became dominant in the veela race and is now effectively a
-     permanent trait of all who inherit any portion of the veela nature. 
-   * giants - a people who are consumed by wrath and sloth.  They neither build
-     nor have any true culture as a result.  They have lost the use of nearly
-     all magics through successive generations of partial inheritance, despite
-     the odds.  Like the goblins the physical changes wrought on them by sin
-     have become "mundane" and are now governed by Mendelian inheritance.  
+     Seraphim and Cherubim) who, not just as individuals, but as a people,
+     selfishly abused divination magic until something truly bizarre happened. 
+     - Their form transmuted to a half animal form to reflect the fact that
+       their free will is nearly gone.  They now have a herd instinct that rules
+       much of their behaviour.
+     - They became nearly immune to the magic of the Thrones as practices by
+       other mortals.  It is next to impossible to confound or imperious a
+       centaur for example. 
+     - Despite the above, they are almost entirely ruled by subconscious
+       influences of the angelic and nephilim from the surrounding areas, both
+       those fallen and those who remained faithful. Whenever the societies
+       around them take a turn for the worse, so do they, whenever the societies
+       they live near turn towards God, the centaur populations become more
+       friendly. 
+     - they remain addicted to divination, as such they perpetuate these effects
+       to the next generation endlessly.  
+     - the ranking in this list between centaur and veela is debatable.  Any
+       single centaur is probably less free than any single veela, but as a
+       herd, centaurs are capable of slightly more autonomy than pure veela are
+       either as individuals or in groups (since veela have no herd, or in their
+       case flock, effect).  
+   * veela - For the purposes of this story, veela are "dark"
+     creatures[^20210126-4].  I have chosen to create a version of veela that
+     justifies the suspicion that [[Molly]], [[Hermione]] and [[Ginny]] view
+     [[Fleur]] with.  Veela have some of the strongest inheritances from
+     the Thrones of all humanoid magic users.  A "half-veela" is a veela/human
+     or veela/nephil cross where either the veela nature was, against the odds,
+     only partially inherited; or the 16% chance that the veela nature is
+     inherited in addition to a full nephil inheritance.   The pure veela is not
+     an example of a primordial  people.  Rather,the veela race comes from an
+     example of true perfidy. Genetically the first veela's parents were a
+     cross from a really really strong primordial nephil of the Thrones type,
+     with a primordial nephil of the Dominions type on one side, and a primordial
+     nephil of the Powers type on the other.  This child grew up into a young
+     woman who viewed the men around her as easily manipulated means to her
+     ends.  She used her abilities to inflame their desires and bind their
+     wills, with little regard for not only the men, but also the impact on the
+     families they came from.  She was also responsible for the creation of
+     doxies and fairies, a crime so great that she was cursed with a Screwtape
+     style mutation of epic proportions:
+     - All veela are female, a male child of a veela will inherit solely from
+       the child's father in terms of magic. 
+     - Her concupiscence was vastly increased. A full veela has perhaps 20% of
+       the ability to go against her instincts that a full human does.  A
+       half-veela will generally have much more free will, divine providence
+       generally ensures that a being that is not bound by the limits here
+       described for full veela inherits her father's self control.  
+     - Her form was changed to shift to that of a bird's any time her wrath,
+       sloth, greed, or gluttony exceed her (incredibly minimal) control over
+       them.  What type of bird she most resembles seems to vary from veela
+       community to veela community.
+     - Her inheritance from the Dominions was restricted
+       * in human form she *always* produces pheromones.  She cannot *not*
+         produce them, though with considerable effort she can control *how
+         much* she produces. 
+       * in avian form, she can *only* produce a form of naphtha that catches
+         fire instantly when exposed to oxygen, though fortunately (for
+         everyone else) she has *some* control over this (unlike the
+         pheromones). Extreme lack of repentance for her behaviour caused it to
+         get locked in place as a perpetual temptation for her, and her
+         decedents, to fight hopelessly against.  Remember, nephilim are more
+         like angels in that their choices can have permanent repercussions. 
+       * she can transmute herself between forms, but as implied above, her
+         shift is not under direct conscious control, but is rather tied to her
+         (incredibly limited) ability to control herself.  Some full veela spend
+         nearly their entire lives as a bird.
+     - Her inheritance from the Powers was restricted such that it *cannot*
+       combine with her inheritance from the Dominions.  No full veela is
+       capable of permanent transmutation, and a "half-veela" is capable of it
+       only to the extent her male parent was. 
+     - Her lifespan was reduced to half that of a full human's.[^20210916-1]
+       A half-veela has a 16% chance of inheriting the greater of the two
+       lifespans (her father's and her mother's), a 14% chance of inheriting the
+       average of the two lifespans, and a 70% chance of simply being either
+       veela (with a veela's lifespan) or not being veela (with the lifespan of
+       whatever her father is, either a nephil or a human or whatever).  
+     - Her fertility was shifted such her body is sufficiently actively hostile
+       to male sperm that female births outnumber male births by at least three
+       to one.  This is generally true of female half-veela as well. 
+     - Her physical maturation is human like from age zero to the onset of
+       puberty, but then becomes more rapid like that of a bird's until she
+       reaches full physical maturity.  How fast this is depends on which veela
+       community she comes from.  More eagle-like veela generally finish
+       maturing by thirteen.  More hawk-like veela will rapidly mature over the
+       course of a few days.  Her *mental* maturation is not accelerated
+       during this time of accelerated physical growth, putting a mentally young
+       girl in an adult's body for a period of years (with all the extra self
+       control issues adding adult hormone levels to that lack of mental
+       maturity would imply).  This is generally proportionately true of a
+       half-veela (average normal human growth with that typical of her veela
+       community).  
+     - If a veela falls in love, her pheromone ability inverts, instead of
+       producing pheromones that bewitch others, she produces pheromones that
+       perfectly mimic those produced by the person she has fallen in love with.
+       Combined with her weakened will power (see above), she is very poorly
+       equipped to control the production of these pheromones, causing her own
+       magic to essentially enslave her to the one she loves. This remains true
+       of the "half-veela."[^20210916-2]  This is the punishment for giving in
+       to the temptation of her locked powers. 
+   * giants - Like the goblins the physical changes wrought on them by sin have
+     become "mundane" and are now governed by Mendelian inheritance.  Church
+     records show that the giants come from the creators of the house  elves.
+     The family that first created house elves were punished with these, for
+     lack of a better word, gigantic forms.  Just as house elves are the most
+     successfully mockery of man, so too was nearly everything taken from their
+     creators - their forms are too clumsy to use most tools, their intellects
+     too clouded to appreciate literature or indeed even much in the  way of
+     rational discourse.  Their magic was stripped from them except for that
+     which is required to keep these unnatural forms alive, and, to ensure that
+     those who profited from the house elves did not rescue them from their
+     punishment, an unconscious use of magic in their skins that acts as a shield
+     protecting them from all external magic - thus locking them in their new forms.  
+     Behold in them what man would be if left without his mind, the only hope
+     they have is that their intellects are so clouded that it is nearly
+     impossible for them to actually commit a mortal sin.  Should any be willing
+     to be missionary to the giants, the grace of baptism would be nearly
+     unopposed, because these beings have so little ability to freely choose to
+     do anything, and even less ability to understand something is gravely wrong.  
+
+[^20210916-1]: Like in _[Maskirovat][knffnm]_. 
+
+[^20210916-2]: This idea resembles that from Jeconais'
+    _[Hope](https://jeconais.fanficauthors.net/Hope)_
+    Last Updated: 2007-05-30. Last Viewed: 2021-09-16. 
+    I have not copied it precisely as he came up with it, my version is
+    less voluntary, and does not include the death inducing madness, nor the bond
+    aspect. 
 
 ### Other Races
 
 Other "races" are not really people at all, they have varying levels of
 intelligence, but are all effectively the same as meeting different qualities of
 AI players, as if you were encountering cyborgs.  
-
-* trolls - created by the extreme use of magics on apes, the *most* intelligent
-  trolls might be able to perform similarly to a human with mental retardation
-  capable of living in a group home. This is not a fair comparison however, the
-  human is suffering from a disability; the troll is performing with unusual
-  *capability.*  
-* gnomes - created by the extreme use of magics on clay figures, these beings
-  have no long term memory at all. 
-* fairies/pixies/doxies - created by the extreme use of magics on (different)
-  insects, these beings appear humanoid, but still reproduce by laying eggs like
-  insects.  Unlike gnomes, they have some ability to form long term memories,
-  but only very limited ability to learn from these experiences; their actions
-  are guided by incredibly strong instinct rather than by reasoning. They are
-  very like domesticated cats and dogs in this respect; a dog might remember its
-  owner, but its behaviours will always be more governed by instinct than not.
-* house elves - created by the extreme use of magics on an unknown mammal (not a
-  human), they are the most nearly human of all created beings.  They are
-  capable of learning, loyalty and betrayal; they have memories equivalent to
-  ours.  They closely mimic having true free will, just as some human scientists
-  speculate the highest animals do.  House elves were created with an innate
-  *need* for *altruistic work*.  An idle elf will get sick and die.  Even levels
-  of self-interest that would be normal and healthily in a human is also
-  sufficient to cause a fatal illness in a house elf. Thus while they need not
-  be magically bound to servitude as is traditional, they can at best be in an
-  underpaid servant's position.  When bound, and elf can "feed" on the bond,
-  using its master's magic to amplify its own. 
 
 The creation of these "races" is an abomination, and the more nearly human, or
 in other words the more perfectly the simulate free will, the greater the
@@ -481,8 +584,57 @@ exist at odds with true charity: in the case of the trolls a "race" that cannot
 rise above rage, and in the case of the house elves a "race" that can never be
 fully freed.  
 
-[^20210408-1]: Mr. C. S. Lewis. _The Screwtape Letters_. pp. 120-121. Copyright 1942. HarperOne. Kindle Edition. 
-   
+* Acromantula - created from spiders (obviously) by an unknown nephil or group
+  of nephilim.  Acromantula are capable of learning human speech, but do not
+  speak anything that could be defined as a language in the wild.[^20210916-3]
+* Bowtruckle - created by the extreme use of magics on tree branches by an
+  unknown agency (may be directly demonic). 
+* fairies/imps/doxies - created by the extreme use of magics on (different)
+  insects, these beings appear humanoid, but still reproduce by laying eggs like
+  insects.  Unlike gnomes, they have some ability to form long term memories,
+  but only very limited ability to learn from these experiences; their actions
+  are guided by incredibly strong instinct rather than by reasoning. They are
+  very like domesticated cats and dogs in this respect; a dog might remember its
+  owner, but its behaviours will always be more governed by instinct than not.
+  It is known that fairies and doxies were created by the woman who became the
+  first veela.  It is unknown who first created imps. 
+* ghoul - unknown origin. Often treated as a pet.[^20210916-4]
+* gnomes - created by the extreme use of magics on clay figures, these beings
+  have no long term memory at all.  It is unknown who created these.  
+* house elves - created by the extreme use of magics on an unknown mammal (not a
+  human), they are the most nearly human of all created beings.  They are
+  capable of learning, loyalty and betrayal; they have memories equivalent to
+  ours.  They closely mimic having true free will, just as some human scientists
+  speculate the highest animals do.  House elves were created with an innate
+  *need* for *altruistic work*.  An idle elf will get sick and die.  Even levels
+  of self-interest that would be normal and healthily in a human is also
+  sufficient to cause a fatal illness in a house elf. Thus while they need not
+  be magically bound to servitude as is traditional, they can at best be in an
+  underpaid servant's position.  When bound, and elf can "feed" on the bond,
+  using its master's magic to amplify its own.  Created by the ancestors of the
+  giants. 
+* Leprechaun - created by the use of extreme magics on an unknown mammal, by an
+  unknown being.  
+  > More intelligent than the fairy and less malicious than the imp, the pixie
+  > or the Doxy, the leprechaun is nevertheless mischievous.[^20210916-5]
+* Pixie - The pixie largely resembles an imp in behaviour and intelligence, but
+  the fact that it bears live young suggests a different origin.  We have no
+  true history of how they came to be. 
+* Red Cap - even less intelligent than trolls, it is suspected that like them
+  they were originally created for some type of combat.  That being said, no
+  real knowledge of their origin is known. 
+* Sphinx - created by the extreme use of magic on a lion by an Egyptian nephil,
+  the only true unknown is how the sphinx survived the great Flood.  We are
+  fairly confident, mostly by process of elimination, that its creators did not. 
+* trolls - created by the extreme use of magics on apes, the *most* intelligent
+  trolls might be able to perform similarly to a human with mental retardation
+  capable of living in a group home. This is not a fair comparison however, the
+  human is suffering from a disability; the troll is performing with unusual
+  *capability.*  Believed to be created by the ancestors of the goblins. 
+
+
+[knffnm]: <kokopelli.nsns.fanficauthors.net/Maskirovat/Maskirovat/>  
+
 [^20210518-1]: Mrs. J. K. Rowling. _Harry Potter and the Chamber of Secrets_
     Better citation needed.
 
@@ -493,10 +645,17 @@ fully freed.
     "[Veelas – What Exactly Are The Slavic Seductresses From Harry Potter?](https://www.slavorum.org/veelas-what-exactly-are-the-slavic-seductresses-from-harry-potter/)"
     [The Official Slavorum](https://www.slavorum.org/) Last Viewed 2020-07-07.
 
-[^20210408-2]: Anyone who has read Jeconais' story
-    _[Hope](https://jeconais.fanficauthors.net/Hope/index/)_ will recognise this
-    concept.  I have not copied it precisely as he came up with it, my version is
-    less voluntary, and does not include the death inducing madness, nor the bond
-    aspect. 
+[^20210916-5]: Mrs. J. K. Rowling
+    _[Fantastic Beasts and Where to Find
+    Them](https://www.goodreads.com/book/show/41899.Fantastic_Beasts_and_Where_to_Find_Them)_
+    Kindle Locations 694-698. Pottermore. American Kindle Illustrated Edition. 
 
+[^20210916-4]: Mrs. J. K. Rowling
+    _[Fantastic Beasts and Where to Find
+    Them](https://www.goodreads.com/book/show/41899.Fantastic_Beasts_and_Where_to_Find_Them)_
+    Kindle Location 564. Pottermore. American Kindle Illustrated Edition. 
 
+[^20210916-3]: This is an exaggerated version of Mrs. J. K. Rowling's
+    "Acromantula" _[Fantastic Beasts and Where to Find
+    Them](https://www.goodreads.com/book/show/41899.Fantastic_Beasts_and_Where_to_Find_Them)_
+    Kindle Locations 265-266. Pottermore. American Kindle Illustrated Edition. 
