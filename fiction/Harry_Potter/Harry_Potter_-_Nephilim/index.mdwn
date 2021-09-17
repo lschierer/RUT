@@ -104,7 +104,7 @@ Some points of divergence from Harry Potter:
   sort="title_natural path_natural"
   trail=yes
 ]]
-[[!trailoptions sort="title_natural" circular="yes"]]
+[[!trailoptions sort="title_natural meta(title)" circular="yes"]]
 [[!trailitem Prologue]]
 
 [WP1]: https://en.wikipedia.org/
