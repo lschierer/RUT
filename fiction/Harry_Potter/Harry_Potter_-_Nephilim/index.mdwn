@@ -100,7 +100,7 @@ Some points of divergence from Harry Potter:
 [[!inline pages="title(Harry Potter - Nephilim:*)"
   archive=yes
   feedonly=yes
-  reverse=no
+  reverse=yes
   sort="title_natural path_natural"
   trail=yes
 ]]
