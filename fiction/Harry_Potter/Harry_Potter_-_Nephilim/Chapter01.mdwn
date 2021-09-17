@@ -6,15 +6,15 @@
 Vernon Dursley was a huge walrus of a man, with a large moustache and hardly
 any neck. Although fundamentally a bully by nature, Vernon would never dream of
 crossing his wife, Petunia.[^20210902-6]  It was not that she was physically
-intimidating.  Almost anorexic woman, with a rather horsey face, you might have
-been excused for thinking her the victim and Vernon the aggressor.  Instead,
-deep down (as much as he denied it even to himself), he secretly dreaded
-her shrewish temper.  He did all he could to accommodate her obsessions,
+intimidating.  An almost anorexic woman, with a rather horsey face, you might
+have been excused for thinking her the victim and Vernon the aggressor.
+Instead, deep down (as much as he denied it even to himself), he secretly
+dreaded her shrewish temper.  He did all he could to accommodate her obsessions,
 while fully sharing her small minded bigotry, and petty hatreds.  Thus when
 they found their nephew on their doorstep one morning, the only real question
 was just how bad things would get.
 
-The Dursleys were not monsters, nor was Dumbledore in sending Harry to them
+The Dursleys were not monsters, nor was Dumbledore in sending Harry to them.
 The Dursleys did not take in their nephew and immediately start plotting
 all the ways they would keep his spirits down, or how they would keep him
 ignorant of his heritage.  Dumbledore's note included no spells to create
@@ -111,12 +111,12 @@ Lily took a different approach.
 The primary problem, as Lily saw it, was that every time she turned aside
 from battling Voldemort to heal Harry, it backfired because the diversion of
 power made him vulnerable to Voldemort.  Worse, she realised that he was using
-legilimancy in his attacks on Harry.  Diseased she saw clearly something that
+legilimency in his attacks on Harry.  Deceased, she saw clearly something that
 was only hinted at in books on the mind magics - anything beyond so-called
-"passive legilimancy" where only the emotional state of the target was
+"passive legilimency" where only the emotional state of the target was
 observed came with risks to *both* caster *and* target.  She might be able
 to teach Harry to heal himself physically, but inevitably there would be a
-magical cost to the way legilimancy repeatedly linked her son with his foe.
+magical cost to the way legilimency repeatedly linked her son with his foe.
 What form that cost would take she did not know, but it could not be good.
 
 Moreover, he really needed protection from the mental effects of his spiralling
@@ -128,16 +128,20 @@ the more he grew, the more he could help, the more she could do, creating a
 positive feedback loop in place of the negative one she was currently fighting.
 
 She started setting up shields, similar to the effects of occlumency, but
-in substance very different.  True occlumency would have been useless -
-Voldemort was already inside Harry's head.  What was needed was to *truly*
-empty Harry's mind, to separate that which made Harry himself from that
-which the soul shard could influence or even detect.  To an observer, these
-shields created an effect that mimicked a child with a dissociative disorder:
-Harry became *even more* withdrawn, and seemed to not even notice the abuse
-Dudley (and sometimes Vernon) heaped upon him. It was as if each part of
-his physical brain was split in two, one that controlled his body and was
-vulnerable to the shard, one that remained in tune with her son's soul and
-remained part of his mind and thoughts.
+in substance very different.  True occlumency would have been as useless as it
+would be dangerous (emotions cannot be suppressed without risking one's
+humanity) - Voldemort was already inside Harry's head.  Lily concluded that what
+was needed was to *truly* empty Harry's mind, to separate that which made Harry
+himself from that which the soul shard could influence or even detect.  She knew
+an empty mind was protected against legilimency, and did not know of any *other*
+way to thwart such an attack.[^20210917-1] 
+
+To an observer, these shields created an effect that mimicked a child with a
+dissociative disorder: Harry became *even more* withdrawn, and seemed to not
+even notice the abuse Dudley (and sometimes Vernon) heaped upon him. It was as
+if each part of his physical brain was split in two, one that controlled his
+body and was vulnerable to the shard, one that remained in tune with her son's
+soul and remained part of his mind and thoughts.
 
 For Harry however, something very different was happening.  Harry was
 becoming more and more aware of the spiritual world around him.  Being a
@@ -154,32 +158,40 @@ was fighting for him, helping and healing him when it could, and fighting,
 constantly fighting to keep him from something far scarier and far worse
 than anything that Dudley or Vernon could do.
 
-This was not really legilimancy, it was too unformed, unfocused, and
-uncontrolled to really be called that.  Harry had no access to a person's
-memories, and only the most superficial sense of their emotional state.
-And yet, Harry could see Lily and Voldemort-sliver battling; he now also saw
-the people around him, Aunt Petunia, Uncle Vernon, Dudley, and occasionally
-Mrs. Figg as souls attached to bodies, the difference being that they each only
-had one, where there seemed to be two extras constantly with him.  One that
-loved him, and one that hated him.  And so Harry knew that Aunt Petunia did
-not *really* hate him, he could see that her anger was very different than
+This was not legilimency, it was too unformed, unfocused, and uncontrolled, but
+it most certainly was from the same branch or type of magic.  Harry had no
+access to a person's memories, and only the most superficial sense of their
+emotional state.  And yet, Harry could see Lily and Voldemort-sliver battling;
+he now also saw the people around him, Aunt Petunia, Uncle Vernon, Dudley, and
+occasionally Mrs. Figg as souls attached to bodies, the difference being that
+they each only had one, where there seemed to be two extras constantly with him.
+One that loved him, and one that hated him.  And so Harry knew that Aunt Petunia
+did not *really* hate him, he could see that her anger was very different than
 Uncle Vernon's or the dark thing's.  And no matter now hard his life was,
 Harry also knew he was loved.  The bright soul was there, and it loved him.
-Now all he had to do was find another soul, an embodied soul, that might also
-love him.  He was not really sure how he knew that such a soul was out there
-somewhere, but the bright soul made it clear, without words, that he would find
-it someday. It was not that Harry was *actually* as unaware of the world around
-him as he seemed; but the shields Lily created did make the physical world and
-his physical pain seem ... slight distant, and certainly less real than the
-spiritual battle he was a constant witness to.  The dark thing did not just
-want to take over, it wanted to *destroy* everything that made him *himself*.
-When your very soul is at stake, who cares about a few merely physical pains?
+Still, while it was comforting to know that he was loved, in some ways that just
+made the part of Harry that was still aware of his own physical body desire to
+find another soul, an embodied soul, that might also love him.  He was too young
+to express it clearly, even to himself, but he wanted someone who could express
+love in terms of hugs, food, and physical safety.  While *Harry* might not have
+been able to express or understand this, Lily understood it anyway.  Harry ended
+unsure how he knew that such a soul was out there somewhere, but knowing that
+the "bright soul" (he did not know yet to call her either "mum' or "Lily" either
+one) had made it clear, without words, that he would find it someday. 
 
-These were big thoughts for a two year old, and so naturally Harry did
-not fully understand them.  Still, adults would be surprised how much even
-really young children can understand, even if they do not have the words to
-express it.  Roald Dahl knew that, as did C. S. Lewis - that is why adults
-find their books scarier than children do.
+[^20210917-1]: Being deceased *does* give Lily some insight into the
+    "cosmological" (for lack of a better word) results of different types of
+    magic, but she has not been granted greater knowledge than she had when she
+    died in most respects.  It is mostly the difference between knowledge
+    (static) and understanding (increased).  Being dead does change things for
+    Lily; her free will is not curtailed per-se, but rather, some choices are
+    simply not really choices at all because the rightness/wrongness of the
+    alternatives (on a moral scale) is obvious to her (that whole understanding
+    thing).  She can however still make a mistake.  Lily here is choosing
+    between three perceived alternatives: doing nothing, teaching occlumency, or
+    trying *something else* (not yet described) to empty his mind. She does not
+    know of another option.  *Of those three options*, her "something else" is
+    *least bad*.
 
 [^20201214-1]: The idea that James and Lily used a ritual sacrifice to save
     Harry comes from PetrificusSomewhatus's _[Daphne Greengrass and the Importance Of Intent](https://archiveofourown.org/works/23986264?view_full_work=true)_.

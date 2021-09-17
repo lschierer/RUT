@@ -128,7 +128,8 @@ Weasley   |Molly[^note19]  |4       |8       |2      |8        |8      |8     |8
 [^note4]: Harry is, as you can see, slightly above an average of his parents
     except in a couple of key categories where he straight up inherited the more
     powerful ability.  As the child of two exceptionally powerful parents, even a
-    partial inheritance can still result in someone really really powerful. 
+    partial inheritance can still result in someone really really powerful.
+    These represent Harry's numbers at birth.
 
 [^note5]: Lily inherited the sum total of her parents, plus an unexpected
     something extra.
@@ -173,6 +174,8 @@ Weasley   |Molly[^note19]  |4       |8       |2      |8        |8      |8     |8
 
 [^note9]: Riddle, as the male child of a near Squib, did not have great odds of
     being a powerful wizard.  That he is means that he was that 1% chance.
+    These also represent numbers from at birth. Giving numbers from 1981 or
+    later would, I think, be too much of a spoiler. 
 
 If you compare Snape, James, and Lily, you will see that Snape and James are
 almost precisely equal, except for their exact skill set, and that Lily is
