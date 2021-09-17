@@ -386,10 +386,12 @@ determine what happens to a given child.
      - A child with 3 or below on all categories will not be invited to any
        magical school, but might be able to effectively use some magic.  A
        program like Kwick Spell might prey on such people.  
-     - Hogwarts requires at least a 4 in each of the following categories:
-       Dominions, Virtues, and Powers; at least a 4 in *one* of Archangels or
-       angels and at least a 3 in the other; and at least a 3 in each of
-       Cherubim and Principalities.  
+     Hogwarts requires at least a 4 in each of the following categories:
+     Dominions, Virtues, and Powers; at least a 4 in *one* of Archangels or
+     angels and at least a 3 in the other; and at least a 3 in each of
+     Cherubim and Principalities.  However, a child who got in just barely
+     meeting these minimums would be very unlikely to get into NEWT level
+     classes. 
    * Because it is possible (16% chance) for the parents' abilities to
      recombine, these "squibs" who are actually extremely low powered nephilim,
      can eventually produce higher powered children.  These children will
