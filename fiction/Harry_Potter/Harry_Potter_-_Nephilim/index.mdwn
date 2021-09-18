@@ -1,6 +1,7 @@
 [[!meta title="Harry Potter - Nephilim: Introduction"]]
 [[!meta author="Luke Schierer"]]
-## Harry Potter - Nephilim
+[[!trailoptions sort="title_natural meta(title)" circular="yes"]]
+[[!trailitem Prologue]]
 
 I recently read _[Many Waters][MW]_ by Madeleine L'Engle.  Her theology in that
 book is *really really* sketchy, but like many distortions of true Catholic
@@ -104,8 +105,6 @@ Some points of divergence from Harry Potter:
   sort="title_natural path_natural"
   trail=yes
 ]]
-[[!trailoptions sort="title_natural meta(title)" circular="yes"]]
-[[!trailitem Prologue]]
 
 [WP1]: https://en.wikipedia.org/
 
