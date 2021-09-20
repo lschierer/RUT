@@ -27,7 +27,9 @@ does he need glasses?
 
 ---
 
-> “Who wants to be in Slytherin? I think I’d leave, wouldn’t you?” James asked the boy lounging on the seats opposite him, and with a jolt, Harry realized that it was Sirius. Sirius did not smile. 
+> “Who wants to be in Slytherin? I think I’d leave, wouldn’t you?” James asked
+> the boy lounging on the seats opposite him, and with a jolt, Harry realized
+> that it was Sirius. Sirius did not smile. 
 > 
 > “My whole family have been in Slytherin,” he said. 
 > 
@@ -36,6 +38,21 @@ does he need glasses?
 > Sirius grinned. “Maybe I’ll break the tradition. Where are you heading, if you’ve got the choice?” 
 > 
 > James lifted an invisible sword. “‘Gryffindor, where dwell the brave at heart!’ Like my dad.”[^20210128-24]
+…
+> “Where’re you hoping to go, seeing as you’re neither?” interjected Sirius.
+> 
+> James roared with laughter. Lily sat up, rather flushed, and looked from James
+> to Sirius in dislike. 
+> 
+> “Come on, Severus, let’s find another compartment.”
+> 
+> “Oooooo . . .” 
+> 
+> James and Sirius imitated her lofty voice; James tried to trip
+> Snape as he passed. 
+> 
+> “See ya, Snivellus!” a voice called, as the compartment door
+> slammed. . . .[^202100920-1]
 
 James, like [[Ron]], grew up thinking ill of Slytherin.  I sometimes wonder if that
 is really the root of most of the controversy between Lily and James.  We cannot
@@ -107,8 +124,9 @@ We have nothing but [[Snape]]'s (untrustworthy) word to stay that James knew of
 > “Black and Potter. Ringleaders of their little gang. Both very bright, of course exceptionally bright, in fact but I don’t think we’ve ever had such a pair of troublemakers”[^20210128-19]
 
 It is interesting that so many people assume that James was a total idiot.  I do
-not think that a realistic take on his character.  We know he was good at
-transfiguration, but I think most people dismiss that because his only known
+not think that a realistic take on his character - I do not think anyone would
+say that [[McGonagall]] is given to false or light praise.  We know he was good
+at transfiguration, but I think most people dismiss that because his only known
 accomplishment is the animagus transformation, and Pettigrew also accomplished
 that.  My take is that it is actually a testament to James' skills that he was
 able to coach the unskilled Pettigrew through the process.  I also wonder what
@@ -141,8 +159,8 @@ this memory was tampered with.  The fact that Lupin and [[Sirius]] would not den
 anything in the brief fireplace conversation suggests that it is at best based
 on something factual, but then so too are the best lies.  It would be a more
 cunning and effective plan to subtlety twist the memory to put James in a worse
-light, portray Snape as a more innocent victim, but leave the core events
-sufficiently in place so that when Harry describes what he sees, it rings true
+light, portray [[Snape]] as a more innocent victim, but leave the core events
+sufficiently in place so that when [[Harry]] describes what he sees, it rings true
 to those who witnessed it.  
 
 ---
@@ -159,8 +177,8 @@ been in his youth.
 
 > Harry wondered why James didn’t tell Wormtail to get a grip on himself, but James seemed to be enjoying the attention. Harry noticed his father had a habit of rumpling up his hair as though to make sure it did not get too tidy, and also that he kept looking over at the girls by the water’s edge.[^20210128-11]
 
-Harry has not noticed at this point that his mother is one of those girls.  Is
-James enjoying the attention because he wants *anyone's* attention, or is he
+[[Harry]] has not noticed at this point that his mother is one of those girls.
+Is James enjoying the attention because he wants *anyone's* attention, or is he
 enjoying it as a (probably mistaken) indication that what he is doing might
 attract *Lily's*?  Perception is everything, and *[[Snape]]'s* memory does not
 really tell us what is going on in *James'* head. 
@@ -192,17 +210,28 @@ to behave that way to get the results she wants.
 
 ---
 
-> “Look, Harry,” said Sirius placatingly, “James and Snape hated each other from the moment they set eyes on each other, it was just one of those things, you can understand that, can’t you? I think James was everything Snape wanted to be he was popular, he was good at Quidditch, good at pretty much everything. And Snape was just this little oddball who was up to his eyes in the Dark Arts and James — whatever else he may have appeared to you, Harry always hated the Dark Arts.” 
+> “Look, Harry,” said Sirius placatingly, “James and Snape hated each other from
+> the moment they set eyes on each other, it was just one of those things, you
+> can understand that, can’t you? I think James was everything Snape wanted to
+> be he was popular, he was good at Quidditch, good at pretty much everything.
+> And Snape was just this little oddball who was up to his eyes in the Dark Arts
+> and James — whatever else he may have appeared to you, Harry always hated the
+> Dark Arts.” 
 > 
-> “Yeah,” said Harry, “but he just attacked Snape for no good reason, just because — well, just because you said you were bored,” he finished with a slightly apologetic note in his voice. 
+> “Yeah,” said Harry, “but he just attacked Snape for no good reason, just
+> because — well, just because you said you were bored,” he finished with a
+> slightly apologetic note in his voice. 
 > 
 > “I’m not proud of it,” said Sirius quickly. 
 > 
-> Lupin looked sideways at Sirius and then said, “Look, Harry, what you’ve got to understand is that your father and Sirius were the best in the school at whatever they did — everyone thought they were the height of cool — if they sometimes got a bit carried away —” 
+> Lupin looked sideways at Sirius and then said, “Look, Harry, what you’ve got
+> to understand is that your father and Sirius were the best in the school at
+> whatever they did — everyone thought they were the height of cool — if they
+> sometimes got a bit carried away —” 
 > 
 > “If we were sometimes arrogant little berks, you mean,” said Sirius.[^20210128-16]
 
-The book does not tell us exactly how detailed a description Harry gave the two
+The book does not tell us exactly how detailed a description [[Harry]] gave the two
 of what he say.  I really wish it gave us more, it would answer the question on
 how accurate the memory was.  The thing is that even [[Sirius]] here can admit that
 at least some of what they did was wrong.  We cannot be sure how much, but
@@ -213,7 +242,9 @@ been still more profound.
 
 ---
 
-> Lupin burst out laughing. “Sometimes you remind me a lot of James. He called it my ‘furry little problem’ in company. Many people were under the impression that I owned a badly behaved rabbit.”[^20210128-18]
+> Lupin burst out laughing. “Sometimes you remind me a lot of James. He called
+> it my ‘furry little problem’ in company. Many people were under the impression
+> that I owned a badly behaved rabbit.”[^20210128-18]
 
 ### From Pottermore:
 
@@ -229,7 +260,10 @@ woods.[^20210511-3]
 
 ---
 
-> Euphemia and Fleamont Potter tried and failed for many years to bring a child into the world before baby James came along. They were much older, and wealthy, so James grew up in a doting environment without the compromise of siblings, in a home without material limits.[^20210128-27]
+> Euphemia and Fleamont Potter tried and failed for many years to bring a child
+> into the world before baby James came along. They were much older, and
+> wealthy, so James grew up in a doting environment without the compromise of
+> siblings, in a home without material limits.[^20210128-27]
 
 ---
 
@@ -237,7 +271,10 @@ woods.[^20210511-3]
 
 ---
 
-> Fleamont and Euphemia lived long enough to see James marry a Muggle-born girl called Lily Evans, but not to meet their grandson, Harry. Dragon pox carried them off within days of each other, due to their advanced age, and James Potter then inherited Ignotus Peverell’s Invisibility Cloak.[^20210128-29]
+> Fleamont and Euphemia lived long enough to see James marry a Muggle-born girl
+> called Lily Evans, but not to meet their grandson, Harry. Dragon pox carried
+> them off within days of each other, due to their advanced age, and James
+> Potter then inherited Ignotus Peverell’s Invisibility Cloak.[^20210128-29]
 
 ### When did he get the Cloak
 
@@ -324,6 +361,10 @@ targeting and have occasionally over-reacted, but he was *reacting* not
 [^20210128-25]: Wizarding World characters, names and related indicia are ™ and © of Warner Bros. Entertainment Inc. All rights reserved. Archived version of [Pottermore](https://www.pottermore.com), article on [James Potter](https://web.archive.org/web/20190108143612/https://www.pottermore.com/explore-the-story/james-potter), archived 2019-01-08. Last Viewed 2021-01-28. 
 
 [^20210128-26]: Wizarding World characters, names and related indicia are ™ and © of Warner Bros. Entertainment Inc. All rights reserved. Archived version of [Pottermore](https://www.pottermore.com), article on [James Potter](https://web.archive.org/web/20190108143612/https://www.pottermore.com/explore-the-story/james-potter), archived 2019-01-08. Last Viewed 2021-01-28. 
+
+[^20210920-1]: Mrs. J. K. Rowling.
+    _[Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows)_
+    p. 277. Pottermore Publishing. American Kindle Edition. 
 
 [^20210128-24]: Mrs. J. K. Rowling. 
     _Harry Potter and the Deathly Hallows_ p. 277 Location 8526 of 9604. 
