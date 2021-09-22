@@ -7,15 +7,7 @@ relationships (both positive and negative) between them, and yes, even to some
 extent [[McGonagall]] and [[Dumbledore]] ends up pivoting on the events at the
 end of the 1975-1976 school year when [[Lily|adults/Lily]], [[James|adults/James]] and their friends (or
 enemies as the case may be) were in their fifth year. We do not know the exact
-chronology, and unfortunately our most detailed account of these events comes
-from the memories that [[Snape|adults/Snape]], a master
-[[Occlumens|The_Mind_Arts/Occlumency]], gives Harry as he lays dying.  We know
-that when Slughorn tried to modify a memory to give to [[Dumbledore]], the
-result was painfully obvious in a pensieve.[^20210921-1]  What we do not know is
-if it was obvious *because it was modified* or if it was obvious *because the
-modification was crudely done.*[^20210921-2]  Thus we do not know if it is
-possible that [[Snape|adults/Snape]] modified these memories or not, we do not know how
-reliable a witness they represent.[^20210921-3] 
+chronology, what follows is my best reconstruction. 
 
 ## What Happened
 
@@ -95,13 +87,11 @@ wronged him.
 
 * It is the Defence Against the Dark Arts OWL written exam.
 * [[James|adults/James]] and [[Snape|adults/Snape]] (minimally) *leave the exam with the exam question
-  paper.*  As an American, that strikes me as really odd for an important
-  standardised exam. 
+  paper.*  
 * [[James|adults/James]] and [[Lupin|adults/Lupin]] are talking very openly about [[Lupin|adults/Lupin]]'s status as a
   werewolf, yet [[Lupin|adults/Lupin]] after himself saying "His name's Remus Lupin" as a
   joke answer to "signs that identify a werewolf" tells [[James|adults/James]] to keep his
-  voice down two lines later.  I know we cannot fully read what was said in a
-  whisper and what was not, but the whole thing is strange. 
+  voice down two lines later.  
 * They settle outside under a tree, and [[Snape|adults/Snape]] *just happens* to settle down
   within hearing distance of his worst enemies. 
 * [[James|adults/James]] is showing off with a snitch, well aware that there are girls in the
@@ -151,6 +141,8 @@ wronged him.
 * [[Snape|adults/Snape]] has no response. 
 
 ## What does this mean
+
+### Looking at the events themselves
 
 I do not doubt that [[James|adults/James]] was in fact fairly arrogant, and that
 was a barrier to any friendship between himself and [[Lily|adults/Lily]].  That
@@ -214,6 +206,67 @@ entirely agreed with [[Snape|adults/Snape]]'s reading of events, I see only a
 difference in target.  Since I *don't* agree with [[Snape|adults/Snape]]'s
 reading, I see that any offence against' [[Snape|adults/Snape]] is unforgivable,
 but *anything* [[Snape|adults/Snape]] does is justifiable. 
+
+### Looking at the memories
+
+I have some questions about the memories, in both books.
+
+#### The presentation
+
+Unfortunately our most detailed account of these events comes from the memories
+that [[Snape|adults/Snape]], a master [[Occlumens|The_Mind_Arts/Occlumency]].
+We know that when Slughorn tried to modify a memory to give to [[Dumbledore]],
+the result was painfully obvious in a pensieve.[^20210921-1]  What we do not
+know is if it was obvious *because it was modified* or if it was obvious
+*because the modification was crudely done.*[^20210921-2]  Thus we do not know
+if it is possible that [[Snape|adults/Snape]] modified these memories or not; we
+do not know how reliable a witness these memories represent.[^20210921-3] 
+
+The second memory, the one with the most discrepancies (see below), has some
+partial validation in that neither [[Sirius|adults/Sirius]] nor
+[[Lupin|adults/Lupin]] deny what happened, on the other hand, [[Harry]] only
+describes what he saw, they did not see the memory themselves.  If
+[[Snape|adults/Snape]] was smart enough to craft his lies on versions of the
+truth, if he distorted true memories rather than than inventing things out of
+whole cloth, [[Harry]] may not have included the details that would allow either
+listener to notice the discrepancies.  
+
+#### The content
+
+There are a few details that raise red flags.  Unfortunately, some of them *may*
+be a cultural thing, the difference between American schools and British ones.  
+
+The first is, as I note above, that the students take the exam paper with them
+when they leave the OWL exam.  Based on my experience of standardised exams,
+this seems incredibly odd.  I know that all of the *[[Hogwarts]]* students take
+the OWLS at the same time, but we also know that not everyone goes to
+[[Hogwarts]].  As corrupt as that culture is, surely the Wizarding Examinations
+Authority has had to deal with people buying copies of a test before.
+Controlling access to the exact exam questions used should carry over to the
+magical world as well. 
+
+Second, as everyone is leaving the exam, we overhear [[James|adults/James]],
+[[Lupin|adults/Lupin]], Pettigrew and [[Sirius|adults/Sirius]] talking.  Keep in
+mind two things, this is *[[Snape|adults/Snape]]'s* memory.  He was close enough
+to at least subconsciously hear them. The book attempts to account for this by
+saying that [[Harry]] has to strain to hear them, but, the passage describes a
+"gang" of girls as having just left the boys' group, and then, when they start
+picking on [[Snape|adults/Snape]], we see that a number of students are able to
+quickly gather.  Why are they discussing [[Lupin|adults/Lupin]]'s status so
+openly at all?  Why does *[[Lupin|adults/Lupin]]* joke about answering that
+question in that way?  We see no indication of what volume most of the comments
+were said at, but it is still very odd that so much was said before
+[[Lupin|adults/Lupin]] became uncomfortable. 
+
+Third, [[Snape|adults/Snape]] settles down in fairly close range to
+[[James|adults/James]] and [[Sirius|adults/Sirius]] *at all.*  If this were
+anything other than a necessary plot device in fiction, this right here would be
+the single strongest indicator that the memories are fabricated.  As someone who
+has had trouble with school yard bullies, you simply do *not* relax around them.
+[[Snape|adults/Snape]] would have picked *anywhere* else on the grounds.  He
+would have *stayed inside* rather than willingly putting himself at risk that
+way.  
+
 
 [^20210921-10]: I was not the first to think of this. Cite others if I refind
     them. 
