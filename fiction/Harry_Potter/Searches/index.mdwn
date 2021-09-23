@@ -8,7 +8,10 @@ relationship in some situations.
 https://fictionhunt.com/discover/search?q=&type=1&status=0&length=10&language=28&rating=0&followers=0&range=0&sort=0&fandoms=83&characters=105&characters_ex=119,95,154,104,101,118,117
 ) - No Draco, Snape, Fleur, Dudley, Albus Severus
 
-[[!map pages="fiction/Harry_Potter/Searches/* and
+[[!inline pages="fiction/Harry_Potter/Searches/* and
   ! index.mdwn
   "
+  archive=no
+  feeds=no
+  raw=yes
  ]]
