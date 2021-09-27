@@ -54,6 +54,8 @@ he would latter have.  I am inclined to blame the lack of investigation here on
 forces and situations that pre-date Dumbledore.  He did not help the situation,
 but in this one instance, he did not create it. 
 
+### Before the First Fall
+
 [[Riddle]] graduates, works for an unknown amount of time as a purchasing agent
 for Borgin and Burke, then disappears.  He returns sometime in the late 1960s,
 already in command of the Death Eaters,[^20210927-12] for a doomed interview for
@@ -72,18 +74,20 @@ failing* seems to me worse than saying that you were forced to take the law into
 your own hands because the government was too corrupt, to penetrated by the
 Death Eaters, to be effective. 
 
+### The Prophecy
+
 The immediate rebuttal is that it does not matter that Dumbledore did not act,
-because [[Harry]] will be subject of a prophesy stating (effectively) that
+because [[Harry]] will be subject of a prophecy stating (effectively) that
 Dumbledore lacks the power to defeat [[Riddle]].  This argument has no weight.  
 
-Firstly, it has no weight because the prophesy has not happened yet.  Dumbledore
+Firstly, it has no weight because the prophecy has not happened yet.  Dumbledore
 is failing to act not because he knows that someone else is the only one who
 can, but for some other reason.  We do not know if it is fear, agreement with
 [[Riddle]]'s goals, a mis-guided sense that [[Riddle]] can be redeemed, or what.
 We only know that Dumbledore is failing to act when he, as yet, has no reason
 for holding back.  
 
-Secondly, even after hearing the prophesy, Dumbledore tells us that the prophesy
+Secondly, even after hearing the prophecy, Dumbledore tells us that the prophecy
 only has the power that we give it.[^20210927-13]  Mrs. Rowling, speaking
 outside the books, confirms that prophecy does not have some cosmic force of
 fate, but rather acts as a goad, triggering actions, but not forcing behaviour.
@@ -98,7 +102,11 @@ Dumbledore realises that both [[Riddle]] and [[Harry]] could have ignored the
 prophecy; the corollary is also true, though less intuitive: *Dumbledore is not
 bound by it either.*  If prophecy need not come true,[^20210927-15] then
 Dumbledore could have done more than battle to a standstill, he could have truly
-spared [[Harry]].  It is in *this* light that we must question why the war
+spared [[Harry]].  
+
+### Summation
+
+It is in *this* light that we must question why the war
 dragged on for eleven years before [[Riddle]]'s first defeat.  Why, knowing that
 [[Riddle]] would return, Dumbledore does *nothing* to investigate how or why
 [[Riddle]] avoided death.  Why, learning about the [[horcuruxes]] in [[Harry]]'s
