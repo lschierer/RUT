@@ -1,3 +1,4 @@
+[[!meta title="Hogwarts Class Schedule Impossibility"]]
 The class schedules pretty much must be intended more as a plot device
 than any serious attempt at sitting down and figuring out how to schedule
 classes for four houses across seven years with only one teacher per
@@ -132,4 +133,3 @@ to fight.
 		citation needed.
 
 [[!tag "HP Notes"]]
-[[!meta title="Hogwarts Class Schedule Impossibility"]]

@@ -1,0 +1,5 @@
+[[!meta title="Hogwarts"]]
+
+[[!inline pages="fiction/Harry_Potter/Notes/Hogwarts* and ! fiction/Harry_Potter/Notes/Hogwarts/*/*/*" archive=yes feeds=no quick=no limit=0 sort=title_natural]] 
+
+[[!tag "HP Notes"]]

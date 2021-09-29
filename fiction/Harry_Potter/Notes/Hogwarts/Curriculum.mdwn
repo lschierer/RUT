@@ -1,0 +1,31 @@
+[[!meta title="Hogwarts Curriculum"]]
+Has Hogwarts always had the same classes we see during Harry's time as a
+student?  Was alchemy at one time a more regularly scheduled elective?  Were
+there ever classes in the arts or in languages?  For most of its history,
+literacy was not universal, did Hogwarts have classes in writing, composition,
+reading, or arithmetic, if so, did the need for these classes contribute to the
+prejudice against those from non-magical backgrounds?  Or were these subjects
+handled by one-on-one tutoring (with the same result, since it probably had
+more of an impact on the student's performance in the normal classes)?  The
+spells we see all seem to have a Latin basis.  What effect did the Norse
+invasions on Great Britain have on the magical populations?[^20210812-1]  Did
+it effect the spells that were taught, the classes available?  
+
+These are not idle questions.  We know that Dumbledore was disinclined to
+"allow the subject of Divination to continue at all"[^20210928-6] when hearing
+[[Trelawney]] actually give a prophecy changed his mind.  We are also told that
+specialized subjects (plural), of which Alchemy is the only provided example,
+are sometimes provided for NEWT students.[^20210928-7]  Moreover, as you answer
+these questions, the overall impossibility of the [[class
+schedule|Class_Schedule_Rant]] comes more and more into play. 
+
+[^20210928-7]: Mrs. J. K. Rowling.
+    _[Hogwarts: An Incomplete and Unreliable Guide](https://www.goodreads.com/book/show/31538647-hogwarts)_
+    p. 36. © 2016 Pottermore Publishing. American Kindle Edition.
+
+[^20210928-6]: Mrs. J. K. Rowling. 
+    _[Harry Potter and the Order of the Phoenix](https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix)_
+    Kindle Location 12299. © 2005 Pottermore Limited. Kindle Edition. 
+
+[^20210812-1]: see [[History]], the Norse took over substantial parts of
+    Scotland and eastern England at different times.
