@@ -35,7 +35,10 @@ We seem to have:
      > cast simply by pointing the finger or through hand gestures.[^20210304-5]
    * Mrs. Rowling published a Book of Spells only available on
      Playstation.[^20210406-44]  There seems to be a [transcript
-     available][BoST]
+     available][BoST], and mentions a fair number of [[spells]].
+   * I am putting together my own book of spells [[here|spells]].  I am not
+     trying to build a useful spell book, but rather a reference of names and
+     sources.  
    * Transfiguration is troubling on a few levels.
       * Are transfiguration permanent or temporary?
       * Are you changing the form, the substance, or both? [Gamp’s Law][hpl1]
@@ -67,8 +70,6 @@ We seem to have:
        after the death of the first secret keeper? What is the mechanism that
        makes untransmittable knowledge now something "stored in your soul"? 
    * [[Serpensortia]]
-   * tabula charm - speculated charm that might be part of making the marader's
-     map.[^20210830-2]
    * turning vinegar into wine is taught in charms class.[^20210820-1]
      * some speculate that this only works with wine based vinegar, because the
        spell is reversing oxidation, not actually transfiguring.  Under this
@@ -101,9 +102,6 @@ We seem to have:
 [^20210902-4]: Mrs. J. K. Rowling.
     "[Result of F.A.Q. Poll](https://web.archive.org/web/20060224124124/http://www.jkrowling.com:80/textonly/en/faq_poll.cfm)"
     Same page through [2012-02-04](https://web.archive.org/web/20120204062053/http://www.jkrowling.com/textonly/en/faq_poll.cfm)
-
-[^20210830-2]: Secre. _[I Did Nothing](https://www.fanfiction.net/s/9920072)_
-    Published: 2013-12-12. Last Updated: 2018-09-18. Last Viewed: 2021-08-30. 
 
 [^20210823-6]: Kratos1989.
     _[Head Start](https://www.fanfiction.net/s/13492410)_
