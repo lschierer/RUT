@@ -47,10 +47,8 @@ century, if not more, behind.
 
 [[!table format=dsv file="fiction/Harry_Potter/Notes/ClassOf1991.dsv"]]
 
-There is some ambiguity about Hannah's blood status.  She has switched from
-being a first generational magic user to a pure-blood, to a half-blood depending
-on which second-order source you use.  Mrs. Rowling seems to have had particular
-trouble deciding with Hannah. 
+There is some ambiguity about Hannah's blood status.  See my notes on the
+[[Abbott family|Families]]. 
 
 Terry Boot appears to have attended his seventh year at [[Hogwarts]] despite the
 laws against first generation students doing so.[^20210602-1]  This means either
