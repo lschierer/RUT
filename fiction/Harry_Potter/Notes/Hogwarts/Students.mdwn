@@ -49,10 +49,14 @@ gives me a class that is 45% pureblooded, despite [[Mr. Weasley|adults/Arthur]]
 being quoted as saying that purebloods are dying out, and that most families
 are halfblooded.[^20200817-1]  Some of that may be the influence of the first
 Riddle war, where entire families were wiped out.  I imagine the halfblooded
-families were disproportionately affected by that.  If there should be about
-1000 students at Hogwarts,[^20200817-2] then we should have 35-36 per house per
-year, not 40 per year total.  If we had 140 students in [[Harry]]'s year, then
-the 18 purebloods would be only 13% of the class, and the muggleborn only 4%.  
+families were disproportionately affected by that.  One author takes it a step
+further, essentially counting the children of first generation witches and
+wizards as still being themselves culturally first generation, and accounting
+for nearly all the deaths.[^20211001-1]  Still, returning to facts, if there
+should be about 1000 students at Hogwarts,[^20200817-2] then we should have
+35-36 per house per year, not 40 per year total.  If we had 140 students in
+[[Harry]]'s year, then the 18 purebloods would be only 13% of the class, and the
+muggleborn only 4%.  
 
 That assumes that all 116 students killed by Riddle are halfblooded (or at
 least that the ones that were pureblooded would be in different years), which
@@ -75,6 +79,10 @@ in [[Harry]]'s year, but in all of the classes we see in the books.  While
 [[Mr. Weasley|adults/Arthur]]'s "Muggle Protection Act" argues against this
 idea, it does seem believable of Umbridge and those like her who set up the
 laws under Pius Thicknesse's puppet government.
+
+[^20211001-1]: Bakuraptor.
+    _[A Wizard's Guide to 'Banking'](https://www.fanfiction.net/s/12327848)_
+    Published: 2017-01-18. Updated: 2021-07-21. Last Viewed: 2021-10-01.
 
 [^20200819-4]: Several works have this idea, amoung them:
     * AndrewWolfe. _[The Ghost of Privet Drive](https://archiveofourown.org/works/21500365)_ 
