@@ -345,30 +345,30 @@ determine what happens to a given child.
      the odds off something bizarre happening goes up by one percent for every
      10% of difference.  
      * So if for example all of your progenitors on both sizes excessively used
-       the killing curse, you would be susceptible to hatred (anger) by 300%
-       base.  Since the total effect cannot remove your free will, the actual
-       effect is more complicated.  Your great-grandparents each had a 20% boost
-       (10% from each of their parents).  Your grandparents inherited that 20%
-       boost *from both sides* and *in addition* a 10% boost because of each
-       great-grandparent's own personal abuse of magic, yielding a 60% boost to
-       your grandparent's experience of angry emotions, and a corresponding
-       decrease in their ability to choose not to act on these emotions.  Your
-       parents were the first generation to exceed 90%: a 60% remote
-       inheritance, plus a 10% immediate inheritance, from each parent, for a
-       total of 140%.  This is reduced to 90%, but the chance of something
+       the killing curse, you would be susceptible to (unable to control) hatred
+       (anger) by 300% base.  Since the total effect cannot remove your free
+       will, the actual effect is more complicated.  Your great-grandparents
+       each had a 20% boost (10% from each of their parents).  Your grandparents
+       inherited that 20% boost *from both sides* and *in addition* a 10% boost
+       because of each great-grandparent's own personal abuse of magic, yielding
+       a 60% boost to your grandparent's experience of angry emotions, and a
+       corresponding decrease in their ability to choose not to act on these
+       emotions.  Your parents were the first generation to exceed 90%: a 60%
+       remote inheritance, plus a 10% immediate inheritance, from each parent,
+       for a total of 140%.  This is reduced to 90%, but the chance of something
        bizarre is increased by 5%.  You then get the 90% anger *and* the 5%
        bizarre factors as your remote inheritance, *plus* the 10% anger boost
        from *your parent's* personal abuse of magic (again from each parent).
        This puts your total anger boost at 180%, which is again reduced to 90%,
        but causes an additional boost on the chance of the bizarre, this time by
-       9%.  This gets added to the 5% from the remote inheritance, for a total
-       chance of something bizarre happening to you at 19% over the base rate
-       (5% from each parent plus 9% from 180 being 9*10 over 90).  One in five
-       children in such a scenario would have something totally inexplicable
-       happen to them magically, physically, or both as they are conceived,
-       gestated and born.
+       9%.  This gets added to the 5% (per parent) from the remote inheritance,
+       for a total chance of something bizarre happening to you at 19% over the
+       base rate (5% from each parent plus 9% from 180 being 9*10 over 90).  One
+       in five children in such a scenario would have something totally
+       inexplicable happen to them magically, physically, or both as they are
+       conceived, gestated and born.
      * Inbreeding would make the above worse, as some progenitors would be
-       counted  multiple times over.
+       counted multiple times over.
      * Thus someone like Draco Malfoy actually does have tremendous trouble
        controlling his instinctual behaviour in many ways. Judged by human
        standards, he is mentally crippled, with severely damaged executive
@@ -422,11 +422,34 @@ determine what happens to a given child.
   the nephilim as being an unnatural hybrid of two things God created. In making
   this hybrid, something of each was lost. They are thus *slightly* lesser than
   humans. Despite having greater capabilities in some ways, they have deficits
-  in others, most notably, they are overall *less free.*  Their choices are
-  often constrained in ways that are not externally apparent, things that would
-  be temptations to a human can be overriding compulsions to a nephil, and they
-  are vulnerable to each other (and to others who can use similar powers) in
-  ways that humans are not. 
+  in others, most notably, they are overall *less free.*  
+
+  In angelic beings, there is very little potentiality in knowledge, when they
+  learn something, they learn it fully and completely, not gradually come to
+  understand/know it over time.  As part and parcel of this, when an angelic
+  being decides, its decision lasts for all time, and is by nature irrevocable.
+  Thus we say that free will for angelic beings consists, in some ways, of the
+  sole choice to obey God or to rebel against God, made once at the moment of
+  their creation. This is not precisely accurate, but is a reasonable working
+  definition.  Humans on the other hand, learn and grow over time, constantly
+  changing.  Thus our choices are contingent on our level of knowledge and
+  experience, and since that is, as I stated, always changing, our choices are
+  not irrevocable until the moment of death, we can repent of past actions, and
+  through grace even repair our relationship with God. 
+
+  Nephil have some aspects of both.  They are *mostly* contingent beings that
+  grow and change over time, but their use of magic is, in this universe, the
+  use of an angelic power, and so it tends to either be 1) incredibly crippled
+  compared to actual angels (for example, charms wear off really fast) or 2)
+  incredibly permanent. In the canon books, you cannot remove Walburga's
+  portrait from the wall without removing the wall, which might have been stupid
+  for a house that will be passed down through generations, but clearly
+  demonstrates that a momentary decision can have effects all out of proportion
+  to the result.  I am restricting that to magic used on things without immortal
+  souls and to magic used on *other nephilim* (or on races descending from
+  nephilim, see below).  Things that would be temptations to a human can be
+  overriding compulsions to a nephil, and they are vulnerable to each other (and
+  to others who can use similar powers) in ways that humans are not. 
 * nephil do get one straight up advantage over humans in addition to using
   magic - they [[live longer|Life_Expectancy]].  This is *actually* a side
   effect of their magic, which, regardless of type, will offer some protection
@@ -475,25 +498,27 @@ determine what happens to a given child.
      things are expert craftsmen,[^20210518-2] my take is that nephil became
      dwarfs which in turn became goblins.  I will figure out something else for
      Lockhart's cupids if I ever get that far in writing. 
-   * goblins - people who are highly susceptible to greed, envy, and wrath.
-     Their form has been distorted by the sins of their forefathers centuries
-     ago.  Once, they would have ranked in this list below the veela.  However,
-     they are still capable of good deeds, and some have been so highly
-     virtuous as to have actually reduced their susceptibility from the 90%
-     maximum to a more manageable 60-70%, but the physical changes wrought on
-     them have become "mundane," and are now governed by Mendelian inheritance.
-     Despite their flaws, these populations retained their intelligence and
-     their magic. They are particularly strong inheritors from the Virtues,
-     Powers, and Archangels, with lesser inheritances from the Principalities
-     and angels.  It is suspected that the earliest goblins may have been
-     responsible for the creation of the trolls, however, the proof (or
-     disproof) of this has been lost to reliable history.  If so, this explains
+   * goblins - people, descendant from the dwarfs, who are highly susceptible to
+     greed, envy, and wrath.  Their form has been distorted by the sins of their
+     forefathers centuries ago.  Once, they would have ranked in this list below
+     the veela.  However, they are still capable of good deeds, and some have
+     been so highly virtuous as to have actually reduced their susceptibility
+     from the 90% maximum to a more manageable 60-70%.  Similarly, the physical
+     changes wrought on them have "softened" and so they are less hideous than
+     described by authors like Tolkien who have packaged aspects of the magical
+     world as fiction.  Despite their flaws, these populations retained their
+     intelligence and their magic.  They are particularly strong inheritors from
+     the Virtues, Powers, and Archangels, with lesser inheritances from the
+     Principalities and angels.  It is suspected that the earliest goblins may
+     have been responsible for the creation of the trolls, however, the proof
+     (or disproof) of this has been lost to reliable history.  If so, this explains
      why they were punished so harshly (as to have originally lost nearly all
      free will - 90% impact).  
-   * hags - a people who are consumed by envy and lust.  Their sins robbed their
-     ancestors of all they can now value. They have particularly strong
-     inheritances from the Thrones, reasonable inheritances from the Virtues
-     and Powers.  Some have partial inheritances of random other types.
+   * hags - a people who are consumed by envy and lust.  They have particularly
+     strong inheritances from the Thrones, reasonable inheritances from the
+     Virtues and Powers.  Some have partial inheritances of random other types.
+     Hags are known for using infant sacrifice in evil magical rites.  These
+     sins robbed their ancestors of all they can now value.
    * centaurs - a nearly primordial people (inheriting from both the the
      Seraphim and Cherubim) who, not just as individuals, but as a people,
      selfishly abused divination magic until something truly bizarre happened. 
@@ -503,12 +528,12 @@ determine what happens to a given child.
      - They became nearly immune to the magic of the Thrones as practices by
        other mortals.  It is next to impossible to confound or imperious a
        centaur for example. 
-     - Despite the above, they are almost entirely ruled by subconscious
-       influences of the angelic and nephilim from the surrounding areas, both
-       those fallen and those who remained faithful. Whenever the societies
-       around them take a turn for the worse, so do they, whenever the societies
-       they live near turn towards God, the centaur populations become more
-       friendly. 
+     - While it is, per the above, almost impossible to affect individuals with
+       magical effects on the mind or free will, the *herd* is massively
+       influenced at a subconscious level by the moral state of the people in
+       surrounding areas.  Whenever the societies around them take a turn for
+       the worse, so do they, whenever the societies they live near turn towards
+       God, the centaur populations become more friendly. 
      - they remain addicted to divination, as such they perpetuate these effects
        to the next generation endlessly.  
      - the ranking in this list between centaur and veela is debatable.  Any
@@ -520,14 +545,11 @@ determine what happens to a given child.
      creatures[^20210126-4].  I have chosen to create a version of veela that
      justifies the suspicion that [[Molly]], [[Hermione]] and [[Ginny]] view
      [[Fleur]] with.  Veela have some of the strongest inheritances from
-     the Thrones of all humanoid magic users.  A "half-veela" is a veela/human
-     or veela/nephil cross where either the veela nature was, against the odds,
-     only partially inherited; or the 16% chance that the veela nature is
-     inherited in addition to a full nephil inheritance.   The pure veela is not
-     an example of a primordial  people.  Rather,the veela race comes from an
-     example of true perfidy. Genetically the first veela's parents were a
-     cross from a really really strong primordial nephil of the Thrones type,
-     with a primordial nephil of the Dominions type on one side, and a primordial
+     the Thrones of all humanoid magic users.  The pure veela is not an example
+     of a primordial  people.  Rather,the veela race comes from an example of
+     true perfidy. Genetically the first veela's parents were a cross from a
+     really really strong primordial nephil of the Thrones type, with a
+     primordial nephil of the Dominions type on one side, and a primordial
      nephil of the Powers type on the other.  This child grew up into a young
      woman who viewed the men around her as easily manipulated means to her
      ends.  She used her abilities to inflame their desires and bind their
@@ -536,7 +558,11 @@ determine what happens to a given child.
      doxies and fairies, a crime so great that she was cursed with a Screwtape
      style mutation of epic proportions:
      - All veela are female, a male child of a veela will inherit solely from
-       the child's father in terms of magic. 
+       the child's father in terms of magic.
+     - A "half-veela" is a veela/nephil cross where either the veela nature was,
+       against the odds, only partially inherited; or the 16% chance that the
+       veela nature is inherited in addition to a full nephil inheritance.  All
+       half-veela are female.
      - Her concupiscence was vastly increased. A full veela has perhaps 20% of
        the ability to go against her instincts that a full human does.  A
        half-veela will generally have much more free will, divine providence
@@ -545,22 +571,27 @@ determine what happens to a given child.
      - Her form was changed to shift to that of a bird's any time her wrath,
        sloth, greed, or gluttony exceed her (incredibly minimal) control over
        them.  What type of bird she most resembles seems to vary from veela
-       community to veela community.
+       community to veela community.  This almost always applies to half-veela
+       as well. 
      - Her inheritance from the Dominions was restricted
        * in human form she *always* produces pheromones.  She cannot *not*
          produce them, though with considerable effort she can control *how
-         much* she produces. 
+         much* she produces.  This is true of half-veela as well. 
        * in avian form, she can *only* produce a form of naphtha that catches
          fire instantly when exposed to oxygen, though fortunately (for
          everyone else) she has *some* control over this (unlike the
-         pheromones). Extreme lack of repentance for her behaviour caused it to
+         pheromones). 
+       * Extreme lack of repentance for her behaviour caused her temper to
          get locked in place as a perpetual temptation for her, and her
-         decedents, to fight hopelessly against.  Remember, nephilim are more
-         like angels in that their choices can have permanent repercussions. 
-       * she can transmute herself between forms, but as implied above, her
+         decedents, to fight hopelessly against.  Remember, nephilim are
+         more like angels in that their choices can have permanent
+         repercussions. 
+       * she can transmute herself between forms, but unlike an animagus, her
          shift is not under direct conscious control, but is rather tied to her
          (incredibly limited) ability to control herself.  Some full veela spend
-         nearly their entire lives as a bird.
+         nearly their entire lives as a bird.  This is also true of half-veela,
+         though they *tend* to have greater control over their temper, and thus
+         tend to spend much more time in human form.
      - Her inheritance from the Powers was restricted such that it *cannot*
        combine with her inheritance from the Dominions.  No full veela is
        capable of permanent transmutation, and a "half-veela" is capable of it
@@ -573,7 +604,7 @@ determine what happens to a given child.
        whatever her father is, either a nephil or a human or whatever).  
      - Her fertility was shifted such her body is sufficiently actively hostile
        to male sperm that female births outnumber male births by at least three
-       to one.  This is generally true of female half-veela as well. 
+       to one.  This is generally true of half-veela as well. 
      - Her physical maturation is human like from age zero to the onset of
        puberty, but then becomes more rapid like that of a bird's until she
        reaches full physical maturity.  How fast this is depends on which veela
@@ -594,19 +625,19 @@ determine what happens to a given child.
        magic to essentially enslave her to the one she loves. This remains true
        of the "half-veela."[^20210916-2]  This is the punishment for giving in
        to the temptation of her locked powers. 
-   * giants - Like the goblins the physical changes wrought on them by sin have
-     become "mundane" and are now governed by Mendelian inheritance.  Church
-     records show that the giants come from the creators of the house  elves.
-     The family that first created house elves were punished with these, for
-     lack of a better word, gigantic forms.  Just as house elves are the most
-     successfully mockery of man, so too was nearly everything taken from their
-     creators - their forms are too clumsy to use most tools, their intellects
-     too clouded to appreciate literature or indeed even much in the  way of
-     rational discourse.  Their magic was stripped from them except for that
-     which is required to keep these unnatural forms alive, and, to ensure that
-     those who profited from the house elves did not rescue them from their
-     punishment, an unconscious use of magic in their skins that acts as a shield
-     protecting them from all external magic - thus locking them in their new forms.  
+   * giants - the physical changes wrought on them by sin have become "mundane"
+     and are now governed by Mendelian inheritance.  Church records show that
+     the giants come from the creators of the house elves.  The family that
+     first created house elves were punished with these, for lack of a better
+     word, gigantic forms.  Just as house elves are the most successfully
+     mockery of man, so too was nearly everything taken from their creators -
+     their forms are too clumsy to use most tools, their intellects too clouded
+     to appreciate literature or indeed even much in the  way of rational
+     discourse.  Their magic was stripped from them except for that which is
+     required to keep these unnatural forms alive, and, to ensure that those who
+     profited from the house elves did not rescue them from their punishment, an
+     unconscious use of magic in their skins that acts as a shield protecting
+     them from all external magic - thus locking them in their new forms.  
      Behold in them what man would be if left without his mind, the only hope
      they have is that their intellects are so clouded that it is nearly
      impossible for them to actually commit a mortal sin.  Should any be willing
