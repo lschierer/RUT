@@ -4,3 +4,6 @@ https://archiveofourown.org/works?utf8=%E2%9C%93&commit=Sort+and+Filter&work_sea
 ) - This one does not allow for a reasonable Snape, nor for Albus Severus.  Thus
 it will miss some reasonable stories like [Backward Witha Purpose](https://archiveofourown.org/works/15498366)
 
+[Fiction Alley
+Harry/Ginny](https://www.fictionalley-archive.org/stories?Order=updated&Title=&Include.Character=H&Include.Ship=G%2FH&Exclude.Character=D&Exclude.Character=Snape&Exclude.Character=Vold&Exclude.Character=Tom&Exclude.Character=Fleur&Exclude.Character=ASP&Exclude.Ship=ASP%2FRoW&Exclude.Ship=ASP%2FSM&Exclude.Ship=BCJ%2FSB&Exclude.Ship=BW%2FGW&Exclude.Ship=BW%2FH&Exclude.Ship=BW%2FRL&Exclude.Ship=Ced%2FH&Exclude.Ship=Ced%2FMW&Exclude.Ship=Ced%2FOW&Exclude.Ship=D%2FG&Exclude.Ship=D%2FH&Exclude.Ship=D%2FHr&Exclude.Ship=Dud%2FH&Exclude.Ship=FF%2FHgrd&Exclude.Ship=Fi%2FH&Exclude.Ship=Fleur%2FH&Exclude.Ship=Fleur%2FLucM&Exclude.Ship=Gr%2FH&Exclude.Ship=GW%2FH&Exclude.Ship=GW%2FWood&Exclude.Ship=H%2FH&Exclude.Ship=H%2FJames&Exclude.Ship=H%2FJPII&Exclude.Ship=H%2FNev&Exclude.Ship=H%2FVik&Exclude.Ship=H%2FWood&Exclude.Ship=LPII%2FSM&Exclude.Ship=Peter%2FRL&Exclude.Ship=Peter%2FSB&Exclude.Ship=Vik%2FWood&WordsFrom=&WordsTo=&ChaptersFrom=&ChaptersTo=&DateFrom=&DateTo=&Summary=&IncludeCorrupt=false)
+a bunch of excluded ships.
