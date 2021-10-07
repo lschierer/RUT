@@ -20,7 +20,7 @@ to social events without magical assistance, be it charms for their hair,
 magical replacements for make-up (either charms, potions, or both), charms for
 clothing (both for fit and to make the appearance more … magical), so on.  Some
 of this may be built into the fabric when it is purchased, but I am reminded of
-the descriptions of elven women in _The Elvenbane_[^210329-20].  In that
+the descriptions of elfin women in _The Elvenbane_[^210329-20].  In that
 series, the women use their appearance and clothing to display their magical
 prowess, with the goal of making themselves more attractive as brides.  Sure no
 one talks much of that in Harry Potter, but I think it is only because it *is*
@@ -153,12 +153,12 @@ Treaty of Kent (or whatever name) theory, there were *already* in place
 mechanisms for dealing with land ownership, taxes, law enforcement, and
 citizenship across the two societies.  For all its flaws, _Not Normal_ does a
 fairly good job of world building a history of the separation for
-example.[^210406-52] In that case, it would be a case of making those
-properties secret, and the offices in charge of keeping them separate equally
-so.  That is much more obtainable than implementing all of that in a vacuum to
-solve a threat that largely does not exist, is already in decline to the extent
-it does exist, and requires admitting that those who do not have magic are a
-threat to (and thus not fully inferior to) those who do. 
+example.[^210406-52] In that case, it would be a case of making those properties
+secret, and the offices in charge of keeping them separate equally so.  That is
+much more obtainable than implementing all of that in a vacuum to solve a threat
+that largely does not exist, is already in decline to the extent it does exist,
+and requires admitting that those who do not have magic are a threat to (and
+thus not fully inferior to) those who do. 
 
 Mrs. Rowling, on the Pottermore website (and thus the wizardingworld successor
 site), devotes considerable energy to the supposed back story for the magical
@@ -250,7 +250,58 @@ movies and the website articles as canonical only when convenient.
   suggests, but does not prove, a legislative function. 
 * Able to at least suggest that a Minister leave office.[^210330-9]
 
-[^210517-15]: See my notes on the [[Potter_Family]].
+Any number of stories, including _[Not Normal][RNN1]_, which I have referenced
+as an example of interesting world building time and time again, fall into the
+trap of assuming that the Wizengamot is populated by those who either do or did
+hold titles of nobility.  _[Not Normal][RNN2]_ attempts to reconcile how this
+might work, but it ultimately fails the consistency check.  Disregarding Mrs.
+Rowling's date for the [[Malfoy|Families]] family's introduction to England is
+relatively minor, but you also have to rewrite the [[Potter|Families/Potter]]
+and [[Black|Families]] histories.  You are essentially ignoring *all*
+genealogical information not just from secondary canonical sources like
+[Pottermore][], you are even ignoring some from the books.  If the Wizengamot is
+based on noble titles, then [[Harry]]'s status as [[Sirius|adults|Sirius]]'
+godson is insufficient to explain inheritance, [[Harry]] must also be
+biologically related to the [[Blacks|Families]].  The problem is that there is
+no Euphemia Black in the [[Black|Families]] tree, and no reasonable
+[[Black|Families]] who might have married [[Henry
+Potter|People/ppl/1/0/ed5a623f3fdb0cc0fb3a9d9f01/]].  
+
+_["Great Scott, Potter, This is War!"][GSP1]_ on the other hand assumes that
+membership is based on being an influential family back when our theoretical
+treaty of separation was negotiated.[^211007-1]  To make this story work, the
+author posited that while we may have *records* of the Potter family only as far
+back of as [[Linfred the Potterer|People/ppl/e/9/ed65c4983c814d5df333de2729e/]],
+the family itself is much older.[^211007-2]  The primary problems with this are
+that it contradicts the origin story for the [[Potter|Families/Potter]]s and
+possibly others, and that it gives the [[Malfoy|Families]] a seat in the "Full
+Wizengamot" that, per the above, they do not seem to have.  A secondary problem
+with this is that it seems to ignore the [[Peverell|Families/Peverell]] family
+name, with the accompanying backstory for the Deathly Hallows.  Lastly, it does
+not solve the problem of voting inheritance between the [[Black|Families]] and
+[[Potter|Families/Potter]] families (though this might be considered part of my
+statement that it contradicts the origin stories).  
+
+[GSP1]: https://aaran-st-vines.nsns.fanficauthors.net/Great_Scott_Potter_This_is_War
+
+[GSP2]: https://aaran-st-vines.nsns.fanficauthors.net/Great_Scott_Potter_This_is_War
+
+[Pottermore]: http://pottermore.com/
+
+[RNN1]: https://www.fanfiction.net/s/7144149
+
+[RNN2]: https://www.fanfiction.net/s/7144149
+
+[^210517-15]: See my notes on the [[Potter|Families/Potter]] family.
+
+[^211007-1]: Aaran St Vines.
+    _["Great Scott, Potter, This is War!"][GSP2]_
+    Posted: 2006-03-07. Updated: 2009-02-15. Last Viewed: 2021-10-07.
+
+[^211007-2]: Aaran St Vines.
+    _["Great Scott, Potter, This is War!"][GSP2]_
+    [Chapter 15 - The Three-Thirty-Three Families](https://aaran-st-vines.nsns.fanficauthors.net/Great_Scott_Potter_This_is_War/Chapter_Fifteen__The_ThreeThirtyThree_Families/)
+    Posted: 2007-04-29. Updated: 2009-02-15. Last Viewed: 2021-10-07.
 
 [^210329-11]: Mrs. J. K. Rowling. _Harry Potter and the Deathly Hallows_
     p. 146. Pottermore Publishing. American Kindle Edition. 
@@ -462,14 +513,14 @@ actually teaching those outside the family anything not taught at school.
 
 I think the use of parchment and quills is a an example of Wizarding culture
 being deliberately antiquarian.  There may also be an element of exclusivity -
-it takes practice to use a quill with any degree of skill that pureblood
+it takes practice to use a quill with any degree of skill that pure-blood
 children will have but that first generation children will utterly lack.  There
 may also be a sense of exclusivity in a second sense, parchment is *expensive*
 and the extensive use of parchment even stupid little notes and homework
 assignments will help keep poor families away from magical knowledge.  If you
 cannot afford parchment, your children cannot do as well at Hogwarts, and thus
 cannot do as well in later life. This came to me when I was reading a fanfiction
-that talked about not just [[Harry]] using a fountain pen, but that many pureblood
+that talked about not just [[Harry]] using a fountain pen, but that many pure-blood
 wives "secretly" did the same for their (extensive) correspondence.[^200816-3]
 For whatever reason, it occurred to me to look up the steel nibbed dip pens that
 predated fountain pens, wondering when in non-magical (actual) history pens
