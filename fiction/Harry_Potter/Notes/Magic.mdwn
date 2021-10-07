@@ -29,6 +29,7 @@ interact?
 
 We seem to have:
 
+* [[Magical Animals|animals]]
 * Spells - curses, hexes, jinks, charms, transfiguration
    * > The wand is a European invention, and while African witches and wizards
      > have adopted it as a useful tool in the last century, many spells are
