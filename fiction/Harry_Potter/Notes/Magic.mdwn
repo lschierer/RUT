@@ -82,6 +82,7 @@ We seem to have:
      > Potions book and the right ingredients. The answer, unfortunately, is no.
      > There is always some element of wandwork necessary to make a
      > potion[^20210702-4]
+   * I am compiling of [[list of these as well|potions]].
 * Runes
 * Divination - tea cups, horoscopes, star charts, crystal balls, so on.
 * Arithmancy - Per Google, this should be part of Divination, but is apparently
