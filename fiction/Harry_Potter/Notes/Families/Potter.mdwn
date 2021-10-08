@@ -1,6 +1,6 @@
 [[!tag "HP Notes"]] 
 [[!meta title="The Potter Family"]]
-[[!graph width=5, file="fiction/Harry_Potter/Notes/Potter_Family.dot"]]
+[[!graph width=5, file="fiction/Harry_Potter/Notes/Families/Potter_Family.dot"]]
 
 This tree is speculative based on the available information.  Charlus Potter is
 placed based on Dorea Potter's birthday, and Henry Potter's dates of service in
