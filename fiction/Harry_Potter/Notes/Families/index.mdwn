@@ -1,6 +1,10 @@
-[[!toc levels=2 startlevel=3]]
+* [[Peverell]]
+* [[Potter]]
+* [[Weasley]]
 
 ## Information about families that do not require a page to themselves.
+
+[[!toc levels=2 startlevel=3]]
 
 I generated a graph showing many of the characters and how they relate to each
 other, "centred" on [[Ginny]].  This was generated using Gramps, and while
@@ -85,8 +89,8 @@ not have been either, despite her marriage to Septimus Weasley.  If so, then the
 [[Weasleys|Weasley]] would be in line after the Longbottoms (assuming it is a
 different and now extinct branch of the Longbottom family that descends from
 Harfang).  We _know_ that [[Arthur|adults/Arthur]] [[Weasley]], minimally, lives
-to inherit, so there would be no need to go to the third son of Phineus Nigellus
-- Cygnus I, from whom Draco is descended.  Remember, even if girls cannot
+to inherit, so there would be no need to go to the third son of Phineus Nigellus - 
+Cygnus I, from whom Draco is descended.  Remember, even if girls cannot
 inherit, their sons can.   If the Black family is following an absolute male
 only primogeniture, then Draco would still be unable to inherit as he is in line
 via his mother, who would be disqualified by gender.  The dates for this line of
