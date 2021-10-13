@@ -47,23 +47,24 @@ potions?
 
 It is all well and good for a man with an eye effectively in the back of his
 head to spout "Constant Vigilance" all the time, but most of us have blind
-spots behind us.  Students start learning silent casting in sixth year, and it seems no one fails to make it into at least one NEWT level course at
-Hogwarts.  Silent casting is part of Defence, Charms, and Transfiguration.  Any
-one of the three classes and you have been exposed to the concept.  Assume you
-can remain in Hogwarts with as few as two or three NEWT level classes.  We know
-that Potions has a very low acceptance rate.  I believe we are told that
-Arithmancy and Ancient Runes are considered hard courses.  However, while the
-course work for Divination can be made up, note that Harry failed the OWL, the
-standardised exams seem to require that you actually succeed at using magic; that
-makes this a hard course.  Astronomy requires a lot of memorisation, but
-apparently nothing else, I imagine a Goyle might be coached through to an E
-there.  History of Magic requires studying outside of class, Slytherin house may
-consider it unacceptably disgraceful to fail that class, he might have an E
-there as well; that's two.  I do not know that we have ever seen a wand in
-Herbology, but as the plants get more dangerous, I expect that you use your wand
-in one way or another, and I expect that in sixth year you are expected to do so
-silently.  So if even three classes are required to stay in sixth year, then
-everyone is exposed to the idea of silent casting.
+spots behind us.  Students start learning silent casting in sixth year, and it
+seems no one fails to make it into at least one NEWT level course at Hogwarts.
+Silent casting is part of Defence, Charms, and Transfiguration.  Any one of the
+three classes and you have been exposed to the concept.  Assume you can remain
+in Hogwarts with as few as two or three NEWT level classes.  We know that
+Potions has a very low acceptance rate.  I believe we are told that Arithmancy
+and Ancient Runes are considered hard courses.  However, while the course work
+for Divination can be made up, note that Harry failed the OWL, the standardised
+exams seem to require that you actually succeed at using magic; that makes this
+a hard course.  Astronomy requires a lot of memorisation, but apparently nothing
+else, I imagine a Goyle might be coached through to an E there.  History of
+Magic requires studying outside of class, Slytherin house may consider it
+unacceptably disgraceful to fail that class, he might have an E there as well;
+that's two.  I do not know that we have ever seen a wand in Herbology, but as
+the plants get more dangerous, I expect that you use your wand in one way or
+another, and I expect that in sixth year you are expected to do so silently.  So
+if even three classes are required to stay in sixth year, then everyone is
+exposed to the idea of silent casting.
 
 Worse, while I need to look up the citations, for some of these spells, failing
 to cast them is worse for the victim than doing so successfully.  Bertha Jorkins
@@ -78,13 +79,14 @@ And no one has developed any defence at all except "Constant Vigilance?"  Bogus.
 
 So what might those defences look like?  Well, the best source of ideas is the
 way different fanfictions attempt to explain [[Occlumency.]]  These would not
-really be Occlumency, but they _might_ be other magical arts that replace,
+really be [[Occlumency]], but they _might_ be other magical arts that replace,
 supplement, or complement it.  Perhaps even ones that do not cause damage with
 long term use. 
 
 * [[Meditation and focus]]
 * [[Mental Shields]]
 * [[Mind Palace]]
+* [[Obfuscomency]]
 
 [^20200716-1]: Mrs. J. K. Rowling. _Harry Potter and the Prisoner of Azkaban_ 
     (pp. 69-70). Pottermore Limited. American Kindle Edition. 
