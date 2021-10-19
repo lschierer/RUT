@@ -699,15 +699,7 @@ fully freed.
   human), they are the most nearly human of all created beings.  They are
   capable of learning, loyalty and betrayal; they have memories equivalent to
   ours.  They closely mimic having true free will, just as some human scientists
-  speculate the highest animals do.  House elves were created with an innate
-  *need* for *disinterested work*.  An idle elf will get sick and die, but not
-  just any work will do.  Only work for work's sake, and work done
-  altruistically (work for the same of some other) will help the elf.  Work done
-  *for the elf* might as well be a hobby, and thus idleness.  Even levels of
-  self-interest that would be normal and healthily in a human is also sufficient
-  to cause a fatal illness in a house elf.  Thus while they need not be
-  magically bound to servitude as is traditional, they can at best be in an
-  underpaid servant's position.  When bound, and elf can "feed" on the bond,
+  speculate the highest animals do.  When bound, and elf can "feed" on the bond,
   using its master's magic to amplify its own.  This stronger magic also slows
   the elf's ageing process.  Any bond at all will slow an elf's ageing by a factor
   of 2 (age half a year for each year you live).  If the elf feels itself to be
@@ -717,13 +709,19 @@ fully freed.
   factor of 2.  If the elf feels that it is *fully utilised* (kept free from
   idleness), it gains a factor of *4*.  Where a human gets stressed by being
   overworked, an elf actually gets *healthier* if it cannot complete the work
-  necessary.  Since the elf's base average lifespan is only twenty years, not
-  counting idleness sickness, being unbound is a huge thing for elves.  Elves
-  become at risk of idleness sickness around age three, and reach full physical
-  maturity around age five, which is the earliest they can be bound.  They were
-  created by the ancestors of the giants, before they lost their magic, but
-  after they had already grown large enough to need helpers with more nimble
-  fingers. 
+  necessary.  However, not just any work will have this life extending effect,
+  only *disinterested* work does.  That is, only work done for work's sake, or
+  work done altruistically has the life-extending effect.  These effects,
+  including the limitation on types of work, was (cruelly) built into them to
+  ensure that elves would remain loyal. 
+
+  The effects of the bond have, by and large, had the desired effect.  Since the
+  elf's base average lifespan is only twenty years, being unbound is a huge
+  thing for elves.  Elves have grown/matured enough to start working by age
+  three, and reach full physical and mental maturity around age five, which is
+  the earliest they can be bound.  They were created by the ancestors of the
+  giants, before they lost their magic, but after they had already grown large
+  enough to need helpers with more nimble fingers. 
 * Leprechaun - created by the use of extreme magics on an unknown mammal, by an
   unknown being.  
   > More intelligent than the fairy and less malicious than the imp, the pixie
