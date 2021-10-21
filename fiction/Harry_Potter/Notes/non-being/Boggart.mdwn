@@ -9,7 +9,7 @@ mythology would normally imply.
 Like the [[Dementor]], this is fairly debatable.  Mrs. Rowling [tells][] us of
 several boggarts that have taken on the shape of humans for fairly long
 durations.[^211021-11]  What she does not tell us is enough detail to know if
-these boggarts could pass a [Turing Test][].  
+these boggarts could pass a [[!wikipedia Turing Test]].  
 
 ### Analysis
 
@@ -23,7 +23,6 @@ somewhat weakened facsimile, the fact that it can resurrect a suppressed memory
 and cause [[Harry]] to faint means that it is still a frighteningly over-powered
 creature.  
 
-[Turing Test]: [[!wikipedia Turing test]]
 
 [tells]: https://www.rowlingindex.org/work/pmbog/
 
