@@ -265,7 +265,7 @@ across, but it does convey what I am thinking fairly well.  Consider:
   leaving [[Harry]] with the [[Dursleys]]. 
 * Dumbledore seemingly does nothing about this for eleven years. 
 * Dumbledore not only does nothing about [[Riddle]], he allows
-  [[Malfoy|Families]] and others to be a continued influence on society. 
+  [[Malfoy|Families/Malfoy]] and others to be a continued influence on society. 
 * Dumbledore conveniently sets up a situation where [[Riddle]] will be at
   [[Hogwarts]] the same year [[Harry]] starts.[^210915-1]
 * Dumbledore learns of the Horcruxes no later than the end of the second book,

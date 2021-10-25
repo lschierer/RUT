@@ -68,11 +68,11 @@ wizards|Immigration]].
 I wrote an entire page on [[class and blood|Class_and_Blood]]. 
 
 Beyond those notes, I think it really interesting when Mrs. Rowling states that
-a [[Malfoy|Families]] ancestor argued against the ISWS, was active in "high-born
+a [[Malfoy|Families/Malfoy]] ancestor argued against the ISWS, was active in "high-born
 Muggle circles, and that much of the family wealth comes from the non-magical
 world.[^210420-12]  This provides an additional potential motivation for the
 dislike of the first generation "immigrants" and concordant emphasis on blood
-status, the [[Malfoys|Families]], and families like them, may well want the ISWS
+status, the [[Malfoys|Families/Malfoy]], and families like them, may well want the ISWS
 to fail.[^210420-13] They want the ISWS to fail not because they like
 non-magicals, but because they dislike the restrictions on making money off of
 the non-magicals. They may have successfully transitioned and found new sources
@@ -133,7 +133,7 @@ If you go with this theory, while the two governments might have been split at
 this time time, it was not in fact illegal for wizards to live among or do
 business with non-wizards by virtue of this treaty, and would not be until the
 ISWS came in the late 1600s.  However, with the advent of the ISWS, many things
-that some wizards, like the [[Malfoys|Families]], had been doing for years,
+that some wizards, like the [[Malfoys|Families/Malfoy]], had been doing for years,
 suddenly became illegal.  This prompted the British wizards to revisit their
 system of government and revamp it into the more centralised, more organised,
 and (theoretically) more effective Ministry of Magic.  
@@ -255,7 +255,7 @@ as an example of interesting world building time and time again, fall into the
 trap of assuming that the Wizengamot is populated by those who either do or did
 hold titles of nobility.  _[Not Normal][RNN2]_ attempts to reconcile how this
 might work, but it ultimately fails the consistency check.  Disregarding Mrs.
-Rowling's date for the [[Malfoy|Families]] family's introduction to England is
+Rowling's date for the [[Malfoy|Families/Malfoy]] family's introduction to England is
 relatively minor, but you also have to rewrite the [[Potter|Families/Potter]]
 and [[Black|Families]] histories.  You are essentially ignoring *all*
 genealogical information not just from secondary canonical sources like
@@ -274,7 +274,7 @@ author posited that while we may have *records* of the Potter family only as far
 back of as [[Linfred the Potterer|People/ppl/e/9/ed65c4983c814d5df333de2729e/]],
 the family itself is much older.[^211007-2]  The primary problems with this are
 that it contradicts the origin story for the [[Potter|Families/Potter]]s and
-possibly others, and that it gives the [[Malfoy|Families]] a seat in the "Full
+possibly others, and that it gives the [[Malfoy|Families/Malfoy]] a seat in the "Full
 Wizengamot" that, per the above, they do not seem to have.  A secondary problem
 with this is that it seems to ignore the [[Peverell|Families/Peverell]] family
 name, with the accompanying backstory for the Deathly Hallows.  Lastly, it does
