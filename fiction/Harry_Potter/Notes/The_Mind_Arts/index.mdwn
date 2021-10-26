@@ -2,7 +2,7 @@
 
 For lack of a better word, I am going to call [[Occlumency]] and [[Legilimency]]
 "the Mind Arts," and not "the Mental Arts" because these are magics dealing with
-the mind, whereas "mental arts" could be almost anything _using_ your mind.  I
+the mind, whereas "mental arts" could be almost anything *using* your mind.  I
 am trying to distinguish, however imperfectly, the mind as an object versus the
 mind as a means. 
 
@@ -69,7 +69,7 @@ exposed to the idea of silent casting.
 Worse, while I need to look up the citations, for some of these spells, failing
 to cast them is worse for the victim than doing so successfully.  Bertha Jorkins
 is damaged by a memory charm cast incorrectly.  Barty Crouch is damaged by
-_resisting_ an imperius curse.  Gilderoy is damaged by an _correctly_ cast, but
+*resisting* an imperius curse.  Gilderoy is damaged by an *correctly* cast, but
 overly strong, charm.  So an inexperienced or self-taught attacker might be more
 dangerous than an official government agent out to practice governmental mind
 control.  Everyone knows the incantations and and movements, everyone knows how
@@ -79,10 +79,11 @@ And no one has developed any defence at all except "Constant Vigilance?"  Bogus.
 
 So what might those defences look like?  Well, the best source of ideas is the
 way different fanfictions attempt to explain [[Occlumency.]]  These would not
-really be [[Occlumency]], but they _might_ be other magical arts that replace,
+really be [[Occlumency]], but they *might* be other magical arts that replace,
 supplement, or complement it.  Perhaps even ones that do not cause damage with
 long term use. 
 
+* [[Instant Death|Death_Defence]]
 * [[Meditation and focus]]
 * [[Mental Shields]]
 * [[Mind Palace]]
