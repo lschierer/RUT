@@ -27,7 +27,7 @@ represents my opinions and speculations.  It is something less than a fan
 fiction, but more open to me filling in the gaps than I am in the
 [[Notes|Harry_Potter/Notes]].  
 
-[[!inline pages=fiction/Harry_Potter/Nineteen_Missing_Years/* and !
+[[!inline pages="fiction/Harry_Potter/Nineteen_Missing_Years/* and !
 fiction/Harry_Potter/Nineteen_Missing_Years/*/*/*" archive=yes feeds=no quick=no
 limit=0 sort=title_natural]]
 
