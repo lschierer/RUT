@@ -3,7 +3,7 @@
 
 I think the case can be made that there are those who think wizarding
 traditions, culture, and probably even blood lines are important, but that not
-all of them are _evil._  Some of them object to Riddle's violence, bloodshed,
+all of them are *evil.*  Some of them object to Riddle's violence, bloodshed,
 and/or cruelty even if they would support the pure-blood supremacy he nominally
 espouses.  Of these people I think it would be well to remember that non-magical
 aristocracy had similar prejudices about bloodlines, giving English society a
@@ -12,24 +12,23 @@ distinctly caste-like look and feel for centuries.
 Inbreeding among the European aristocracy was prevalent enough that some
 recessive genetic conditions became problematic for them, most notably the
 clotting disorder that some of Europe's royals carried.  It is hardly surprising
-that the magical world would have adopted similar attitudes. If their
-lifespans are truly longer on average (Harry's OWLs are administered by an
-examiner who also administered the NEWT exams for Professor
-Dumbledore[^20210220-1]), then their isolation would make it an even bigger and
-longer lasting problem that could easily persist to Harry's time.  I suspect
-that pure-blood is actually an over simplification of the average pure-blood's
-world view.  I suspect that Mrs. Rowling, being focused on school kids, simply
-did not expose us to the class structure that _must_ have carried over from the
-non-magical world as the Statute of Secrecy gave a final divide to the two
-societies.  
+that the magical world would have adopted similar attitudes. If their lifespans
+are truly longer on average (Harry's OWLs are administered by an examiner who
+also administered the NEWT exams for Professor Dumbledore[^210220-1]), then
+their isolation would make it an even bigger and longer lasting problem that
+could easily persist to Harry's time.  I suspect that pure-blood is actually an
+over simplification of the average pure-blood's world view.  I suspect that Mrs.
+Rowling, being focused on school kids, simply did not expose us to the class
+structure that *must* have carried over from the non-magical world as the
+Statute of Secrecy gave a final divide to the two societies.  
 
 Thus while some may have been obsessive about blood, I'm going to bet the real
 reason the Crabbes or the Goyles are not part of the "Sacred Twenty-Eight" is
-that they are _servants._  It is not that I am ignoring or discounting Mrs.
+that they are *servants.*  It is not that I am ignoring or discounting Mrs.
 Rowling's [article][wwwbrpb] on the origin and development of the idea of
 pure-blood and half-blood status.  It is simply that while yes, I am an outsider
 looking in, I can see no way that any society based on English society in the
-late 1600s can _not_ have a strong caste component to it.  The counter balance
+late 1600s can *not* have a strong caste component to it.  The counter balance
 would be that all of them go to [[Hogwarts]], which forces a degree of social mixing
 that caste based societies rarely tolerate. That, combined with the overall lack
 of population, and doubtless a bias towards controlling magical power by
@@ -94,8 +93,8 @@ curry favour with them, re-enforcing the beliefs.  They will marry for money and
 power, re-enforcing these beliefs beyond school with social connections, and
 creating a feedback mechanism into the next generation. 
 
-Eventually there are too many of them for one house at [[Hogwarts]].  More than a
-quarter of the population strongly supports blood status.  More than a quarter
+Eventually there are too many of them for one house at [[Hogwarts]].  More than
+a quarter of the population strongly supports blood status.  More than a quarter
 of the population is associated by marriage or fealty to the Wizengamot Lords
 who protect it in the government.  Where will these children be sorted?
 Slytherin students despise Gryffindor's house.  The son or daughter of a
@@ -103,9 +102,9 @@ Slytherin family, their allies or dependants cannot afford to be sorted into
 Gryffindor.  The family members risk being disowned as traitors.  The allies and
 dependants risk being cut off and isolated.  They cannot go to Gryffindor.
 
-Hufflepuff house is famous for taking everyone.  While it is the house of
-hard work and loyalty, the Sorting Hat tells us that Hufflepuff said "I'll teach
-the lot, and treat them just the same."[^20200701-2]  It is safe to say that
+Hufflepuff house is famous for taking everyone.  While it is the house of hard
+work and loyalty, the Sorting Hat tells us that Hufflepuff said "I'll teach the
+lot, and treat them just the same."[^200701-2]  It is safe to say that
 Hufflepuff house has always had a disproportionate number of the school's first
 generation and second generation students.  A student who is essentially part of
 the Slytherin house overflow would not find that thought appealing.  In fact, a
@@ -140,7 +139,7 @@ refute my thesis.  Despite the prejudices against the first generation witches
 and wizards, I suspect that all but the most rabid of Slytherin's followers are
 willing to *use* someone.  On the surface you might think of Hufflepuffs as
 being candidates for being used, but I read about the Ravenclaws and I think
-about stories I have heard about how cutthroat pre-med programs can be, and how
+about stories I have heard about how cutthroat pre-med programs can be, and how 
 students will sabotage each other, or about the quintessential nerds and geeks,
 so focused on their studies that they do not really perceive the world around
 them.  The first would be nearly a Slytherin, the second would be someone that a
@@ -150,10 +149,10 @@ profitable patent-able discoveries…
 
 [wwwbrpb]: https://www.wizardingworld.com/writing-by-jk-rowling/pure-blood
 
-[^20200701-2]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_
+[^200701-2]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_
     Kindle Locations 3027-3028. Pottermore Limited. American Kindle Edition. 
 
-[^20210220-1]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_ 
+[^210220-1]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_ 
     Kindle Location 10438. Pottermore Limited. American Kindle Edition. 
 
 [[!tag "HP Notes"]]

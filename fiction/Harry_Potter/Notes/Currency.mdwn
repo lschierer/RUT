@@ -18,7 +18,7 @@ know the price of gold per gram, over time.  [BullionByPost][BBP1] provides a
 chart, in August of 1991, gold was approx £6.77/gram.[^20210617-3] 
 
 It is important to note that Mrs. Rowling said the exchange rate
-varies.[^20210617-4] Gold is _**much**_ more expensive per gram now, so we
+varies.[^20210617-4]  Gold is _**much**_ more expensive per gram now, so we
 would be looking at exchange rates of something more like 40:1 now, if not
 higher.[^20210617-5]  It is also important to know that her math is notoriously
 poor, and that 5:1 was an estimate.  

@@ -20,15 +20,15 @@ to social events without magical assistance, be it charms for their hair,
 magical replacements for make-up (either charms, potions, or both), charms for
 clothing (both for fit and to make the appearance more … magical), so on.  Some
 of this may be built into the fabric when it is purchased, but I am reminded of
-the descriptions of elfin women in _The Elvenbane_[^210329-20].  In that
-series, the women use their appearance and clothing to display their magical
-prowess, with the goal of making themselves more attractive as brides.  Sure no
-one talks much of that in Harry Potter, but I think it is only because it *is*
-largely a child's series, with little attention paid to marriage or the finding
-of a spouse. The hints of this are there.  Lily Evens' magical prowess is
-referenced over and over again, even by Hagrid[^210329-21] Neville comes from
-a good family, but is belittled for a supposed lack of power.[^210329-22]
-[[Ginny]]'s power is also remarked upon.[^210329-23]
+the descriptions of elfin women in _The Elvenbane_[^210329-20].  In that series,
+the women use their appearance and clothing to display their magical prowess,
+with the goal of making themselves more attractive as brides.  Sure no one talks
+much of that in Harry Potter, but I think it is only because it *is* largely a
+child's series, with little attention paid to marriage or the finding of a
+spouse. The hints of this are there.  Lily Evens' magical prowess is referenced
+over and over again, even by Hagrid[^210329-21] Neville comes from a good
+family, but is belittled for a supposed lack of power.[^210329-22] [[Ginny]]'s
+power is also remarked upon.[^210329-23]
 
 That aside, if [[Molly|adults/Molly]] is going to teach [[Ginny]] to cook, is
 she really going to teach her to do so entirely without magic?  Sure, [[Ginny]]
@@ -68,17 +68,17 @@ wizards|Immigration]].
 I wrote an entire page on [[class and blood|Class_and_Blood]]. 
 
 Beyond those notes, I think it really interesting when Mrs. Rowling states that
-a [[Malfoy|Families/Malfoy]] ancestor argued against the ISWS, was active in "high-born
-Muggle circles, and that much of the family wealth comes from the non-magical
-world.[^210420-12]  This provides an additional potential motivation for the
-dislike of the first generation "immigrants" and concordant emphasis on blood
-status, the [[Malfoys|Families/Malfoy]], and families like them, may well want the ISWS
-to fail.[^210420-13] They want the ISWS to fail not because they like
-non-magicals, but because they dislike the restrictions on making money off of
-the non-magicals. They may have successfully transitioned and found new sources
-of wealth, but interacting with the muggle economy will always be, in a sense,
-free money to those with the most ambition and the fewest moral scruples, those
-willing to "use any means to achieve their ends."[^210420-14] 
+a [[Malfoy|Families/Malfoy]] ancestor argued against the ISWS, was active in
+"high-born Muggle circles, and that much of the family wealth comes from the
+non-magical world.[^210420-12]  This provides an additional potential motivation
+for the dislike of the first generation "immigrants" and concordant emphasis on
+blood status, the [[Malfoys|Families/Malfoy]], and families like them, may well
+want the ISWS to fail.[^210420-13] They want the ISWS to fail not because they
+like non-magicals, but because they dislike the restrictions on making money off
+of the non-magicals. They may have successfully transitioned and found new
+sources of wealth, but interacting with the muggle economy will always be, in a
+sense, free money to those with the most ambition and the fewest moral scruples,
+those willing to "use any means to achieve their ends."[^210420-14] 
 
 [^210420-14]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_
     Pottermore Limited. American Kindle Edition.  Page 118.
@@ -94,11 +94,11 @@ willing to "use any means to achieve their ends."[^210420-14]
 
 ### Government
 
-We know that there is a Council of Magical Law,[^210510-1] Wizengamot acting
-as a High Court[^210329-1], an International Confederation of
-Wizards[^210329-2], and a Ministry of Magic.[^210329-3] The relationship
-between these and the powers of each is largely speculative, especially if you
-use only the seven original books as a reference.  
+We know that there is a Council of Magical Law,[^210510-1] Wizengamot acting as
+a High Court[^210329-1], an International Confederation of Wizards[^210329-2],
+and a Ministry of Magic.[^210329-3] The relationship between these and the
+powers of each is largely speculative, especially if you use only the seven
+original books as a reference.  
 
 [^210510-1]: Mrs. J. K. Rowling. _Harry Potter and the Goblet of Fire_
     Kindle Location 8849. Pottermore Limited. American Kindle Edition. 
@@ -121,11 +121,11 @@ ratified it on behalf of the British people is not. The popular theory is that,
 for one reason or another, the ruling class among the wizards (which may or may
 not have been a democratically elected body and thus all of them) convinced the
 Crown to sign a treaty granting them some level of autonomy in exchange for
-fealty and non-interference.  Stories like _Not Normal_[^210406-47], _A
-Military Man_[^210406-48], and _Mutant Storm_[^210406-49] all fall into this 
-category, though there are others.  Most seem to call this treaty "The Treaty of
-Kent" though there seams to be no true basis for this name.  While most authors
-have settled on that as a name, there is no similar consensus on a date for this
+fealty and non-interference.  Stories like _Not Normal_[^210406-47], _A Military
+Man_[^210406-48], and _Mutant Storm_[^210406-49] all fall into this  category,
+though there are others.  Most seem to call this treaty "The Treaty of Kent"
+though there seams to be no true basis for this name.  While most authors have
+settled on that as a name, there is no similar consensus on a date for this
 inferred treaty.  The one that makes the most sense to me is that from _Not
 Normal_, that it came out of the unrest from the War of the Roses.[^210406-50]
 
@@ -133,10 +133,10 @@ If you go with this theory, while the two governments might have been split at
 this time time, it was not in fact illegal for wizards to live among or do
 business with non-wizards by virtue of this treaty, and would not be until the
 ISWS came in the late 1600s.  However, with the advent of the ISWS, many things
-that some wizards, like the [[Malfoys|Families/Malfoy]], had been doing for years,
-suddenly became illegal.  This prompted the British wizards to revisit their
-system of government and revamp it into the more centralised, more organised,
-and (theoretically) more effective Ministry of Magic.  
+that some wizards, like the [[Malfoys|Families/Malfoy]], had been doing for
+years, suddenly became illegal.  This prompted the British wizards to revisit
+their system of government and revamp it into the more centralised, more
+organised, and (theoretically) more effective Ministry of Magic.  
 
 This theory fits the available cannon sources.  If the two societies had not
 *already* been largely split, then implementing the ISWS would not have been
@@ -274,13 +274,13 @@ author posited that while we may have *records* of the Potter family only as far
 back of as [[Linfred the Potterer|People/ppl/e/9/ed65c4983c814d5df333de2729e/]],
 the family itself is much older.[^211007-2]  The primary problems with this are
 that it contradicts the origin story for the [[Potter|Families/Potter]]s and
-possibly others, and that it gives the [[Malfoy|Families/Malfoy]] a seat in the "Full
-Wizengamot" that, per the above, they do not seem to have.  A secondary problem
-with this is that it seems to ignore the [[Peverell|Families/Peverell]] family
-name, with the accompanying backstory for the Deathly Hallows.  Lastly, it does
-not solve the problem of voting inheritance between the [[Black|Families]] and
-[[Potter|Families/Potter]] families (though this might be considered part of my
-statement that it contradicts the origin stories).  
+possibly others, and that it gives the [[Malfoy|Families/Malfoy]] a seat in the
+"Full Wizengamot" that, per the above, they do not seem to have.  A secondary
+problem with this is that it seems to ignore the [[Peverell|Families/Peverell]]
+family name, with the accompanying backstory for the Deathly Hallows.  Lastly,
+it does not solve the problem of voting inheritance between the
+[[Black|Families]] and [[Potter|Families/Potter]] families (though this might be
+considered part of my statement that it contradicts the origin stories).  
 
 [GSP1]: https://aaran-st-vines.nsns.fanficauthors.net/Great_Scott_Potter_This_is_War
 
@@ -363,7 +363,7 @@ they all view themselves as court scholars; surely some of them would have
 preferred a more lordly self-image, others a more martial self-image.  The styles
 of the century she cites allow for both.  She says that "Day to day, however,
 even those who detest Muggles wear a version of Muggle clothing, which is
-undeniably practical compared with robes."[^210420-11] This makes sense, the
+undeniably practical compared with robes."[^210420-11]  This makes sense, the
 working classes and farming families would have wanted something more practical,
 even if they did use magic in place of manual labour as much as possible and
 even when somewhat unreasonable.  Still, who seriously wears robes with little
@@ -371,7 +371,7 @@ or nothing under them to do such classic Wizarding things like flying a broom
 (Quidditch robes‽) or duelling?
 
 The real question then is how the girls dress.  Magic allows for greater gender
-equality, and the society described in the books _mostly_ supports that, though
+equality, and the society described in the books *mostly* supports that, though
 it hints that there may be some severe social limitations on married witches,
 and what is "proper" versus what is "allowed."  Do the girls consistently wear
 long dresses, or do they also adopt activity appropriate garb?  If only the
@@ -467,12 +467,13 @@ the magical world.  Thus I believe that while this view may not be universal,
 and that Ravenclaws in particular may dislike the view, that it is a common one.  
 
 This view would have the happy accident of explaining why in the cannon books it
-would not occur to the [[Weasleys|Families/Weasley]] to step in and ensure that [[Harry]] and
-[[Hermione]] know and understand more about the world and culture they are
-stepping into, leaving so many holes in our view and understanding of that
-culture.  A culture of knowledge hoarding and secrecy would mean that even well
-meaning people like the [[Weasleys|Families/Weasley]] would have an unconscious taboo surrounding
-actually teaching those outside the family anything not taught at school.  
+would not occur to the [[Weasleys|Families/Weasley]] to step in and ensure that
+[[Harry]] and [[Hermione]] know and understand more about the world and culture
+they are stepping into, leaving so many holes in our view and understanding of
+that culture.  A culture of knowledge hoarding and secrecy would mean that even
+well meaning people like the [[Weasleys|Families/Weasley]] would have an
+unconscious taboo surrounding actually teaching those outside the family
+anything not taught at school.  
 
 [tdgsm-1]: <https://www.fanfiction.net/s/13049901> 
 
@@ -542,13 +543,13 @@ much the same precision that writing calligraphy does.  The dip pen on the other
 hand, should show no marked difference from a quill for writing your runes.
 Both would be substandard to a brush - there is a reason that Chinese and
 Japanese languages are painted, not written when you look at the really fancy
-stuff. The dip pen could further be _engraved_ with runes.  In the books you see
+stuff. The dip pen could further be *engraved* with runes.  In the books you see
 spell correcting quills, and others with anti-cheating charms.  I can see both
 of these being done more reliably with runes.  You want a dicto-quill?  Again,
 you can see how this can be reproduced.  
 
 Moreover, magical users are clearly drawn to the aesthetic quality of a fancy
-feather.  Fountain pens _can_ be artistic, but are generally fairly utilitarian.
+feather.  Fountain pens *can* be artistic, but are generally fairly utilitarian.
 Your dip pen on the other hand could be a work of art.  I did a quick Google
 search on "steel nib feather" for example, and you can just imagine a wizard
 using many of those. 

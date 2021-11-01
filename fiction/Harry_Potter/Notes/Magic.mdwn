@@ -11,21 +11,21 @@ We are told that magic and non-magical technology does not get along.  Clocks
 are fairly high precision devices, yet watches seem to work, so I am going to
 assume only electronics are affected.  Interestingly, Mrs. Rowling writes that
 an early 1800s Minister for Magic thought that telegraph lines affected *magic*,
-not the other way around.[^20210810-5]  Why would magic and electricity
+not the other way around.[^210810-5]  Why would magic and electricity
 interact?  
 * One theory is that magical properties tend to be protected against
   specific kinds of things.  If one of these protections were to be against
   lightening, and if that protection were applied broadly, and not just to the
   roof (since lightening can strike through windows for example), that would
-  effect electronics.[^20210709-1]
+  effect electronics.[^210709-1]
 * One theory is that magic essentially an electromagnetic field. The source work
   does not clearly spell this out, but describes magic as a field that interacts
   with electrical fields, and thus powers, and sometimes over powers, electrical
-  devices.[^20210823-5] Per this theory, it was the poor understanding of
+  devices.[^210823-5] Per this theory, it was the poor understanding of
   electricity in the 1700s and 1800s that lead magicals to conclude that
   electrical things could not work, and their isolation that lead them to never
   revisit that "knowledge" even as the non-magical world advanced and made
-  electricity both more common and safer.[^20210823-6]
+  electricity both more common and safer.[^210823-6]
 
 We seem to have:
 
@@ -33,9 +33,9 @@ We seem to have:
 * Spells - curses, hexes, jinks, charms, transfiguration
    * > The wand is a European invention, and while African witches and wizards
      > have adopted it as a useful tool in the last century, many spells are
-     > cast simply by pointing the finger or through hand gestures.[^20210304-5]
+     > cast simply by pointing the finger or through hand gestures.[^210304-5]
    * Mrs. Rowling published a Book of Spells only available on
-     Playstation.[^20210406-44]  There seems to be a [transcript
+     Playstation.[^210406-44]  There seems to be a [transcript
      available][BoST], and mentions a fair number of [[spells]].
    * I am putting together my own book of spells [[here|spells]].  I am not
      trying to build a useful spell book, but rather a reference of names and
@@ -50,12 +50,12 @@ We seem to have:
      * When Hermione disapperates from the Ministry in book 7, bringing Yaxley
        along, she claims that since [[Dumbledore|adults/Dumbledore]] died, they
        are *each* secret keepers, and so she has effectively told Yaxley the
-       secret.[^20210902-3]
+       secret.[^210902-3]
      * Mrs. Rowling, writing in her web page FAQ, writes 
        > When a Secret-Keeper dies, their secret dies with them, or, to put it
        > another way, the status of their secret will remain as it was at the
        > moment of their death. Everybody in whom they confided will continue to
-       > know the hidden information, but nobody else.[^20210902-4]
+       > know the hidden information, but nobody else.[^210902-4]
      * The FAQ page exists *after* the publishing of book 7: 
        * Book Seven is copyright 2007
        * [Archive.org][AO1] shows the FAQ page up on 2012-02-04
@@ -71,7 +71,7 @@ We seem to have:
        after the death of the first secret keeper? What is the mechanism that
        makes untransmittable knowledge now something "stored in your soul"? 
    * [[Serpensortia]]
-   * turning vinegar into wine is taught in charms class.[^20210820-1]
+   * turning vinegar into wine is taught in charms class.[^210820-1]
      * some speculate that this only works with wine based vinegar, because the
        spell is reversing oxidation, not actually transfiguring.  Under this
        view, transfiguration changes form but not substance.  Since the
@@ -81,7 +81,7 @@ We seem to have:
    * > It is often asked whether a Muggle could create a magic potion, given a
      > Potions book and the right ingredients. The answer, unfortunately, is no.
      > There is always some element of wandwork necessary to make a
-     > potion[^20210702-4]
+     > potion[^210702-4]
    * I am compiling of [[list of these as well|potions]].
 * Runes
 * Divination - tea cups, horoscopes, star charts, crystal balls, so on.
@@ -97,66 +97,66 @@ We seem to have:
 
 [AO1]: https://web.archive.org/
 
-[^20210902-3]: Mrs. J. K. Rowling. 
+[^210902-3]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows)_
     p. 112. Pottermore Publishing. © 2007 American Kindle Edition. 
 
-[^20210902-4]: Mrs. J. K. Rowling.
+[^210902-4]: Mrs. J. K. Rowling.
     "[Result of F.A.Q. Poll](https://web.archive.org/web/20060224124124/http://www.jkrowling.com:80/textonly/en/faq_poll.cfm)"
     Same page through [2012-02-04](https://web.archive.org/web/20120204062053/http://www.jkrowling.com/textonly/en/faq_poll.cfm)
 
-[^20210823-6]: Kratos1989.
+[^210823-6]: Kratos1989.
     _[Head Start](https://www.fanfiction.net/s/13492410)_
     [Book 1, Chapter 10](https://www.fanfiction.net/s/13492410/11/Head-Start)
     Updated: 2021-08-23. Published: 2020-02-03. Last Viewed: 2021-08-23. 
 
-[^20210823-5]: Kratos1989.
+[^210823-5]: Kratos1989.
     _[Head Start](https://www.fanfiction.net/s/13492410)_
     [Book 1, Chapter 10](https://www.fanfiction.net/s/13492410/11/Head-Start)
     Updated: 2021-08-23. Published: 2020-02-03. Last Viewed: 2021-08-23. 
 
-[^20210820-1]: Mrs. J. K. Rowling. 
+[^210820-1]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Half-Blood Prince](https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince)_
     p. 428. Pottermore Publishing. American Kindle Edition. 
 
-[^20210810-5]: Mrs. J. K. Rowling. 
+[^210810-5]: Mrs. J. K. Rowling. 
      _[Short Stories from Hogwarts of Power, Politics and Pesky
      Poltergeists](https://www.goodreads.com/book/show/31538614-short-stories-from-hogwarts-of-power-politics-and-pesky-poltergeists)_
      p. 18. Pottermore Publishing. © 2016 American Kindle Edition. 
 
-[^20210709-1]: CmptrWz. 
+[^210709-1]: CmptrWz. 
     _[For Want of an Outfit](https://archiveofourown.org/works/28507302)_
     [Chapter 19](https://archiveofourown.org/works/28507302/chapters/76593785)
     [Archive of Our Own](https://archiveofourown.org)
     Published: 2021-01-02 Updated: 2021-07-05.
 
-[^20210702-4]: Mrs. J. K. Rowling. 
+[^210702-4]: Mrs. J. K. Rowling. 
      _[Short Stories from Hogwarts of Power, Politics and Pesky
      Poltergeists](https://www.goodreads.com/book/show/31538614-short-stories-from-hogwarts-of-power-politics-and-pesky-poltergeists)_
      p. 42. Pottermore Publishing. © 2016 American Kindle Edition. 
 
-[^20210630-5]: Mrs. J. K. Rowling. 
+[^210630-5]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Sorcerer's Stone](https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone)_
     p. 137. Pottermore Limited. American Kindle Edition. 
 
-[^20210406-44]: [magicscrapbook](https://magicscrapbook.tumblr.com/)
+[^210406-44]: [magicscrapbook](https://magicscrapbook.tumblr.com/)
     "[‘Book of Spells’ transcript](https://magicscrapbook.tumblr.com/post/162085200042/book-of-spells-transcript)"
     Last Viewed 2021-05-12.
 
 ### Animagus
 
-The common fanfiction idea is that you do not choose your animagus animal. I
-am not sure what basis if any this has in the Cannon books, much less the
-somewhat less canonical stuff that Mrs. Rowling has included in the various
-websites and interviews dedicated to the series.  However, we do have one quote
-that *suggests* otherwise:
+The common fanfiction idea is that you do not choose your animagus animal. I am
+not sure what basis if any this has in the Cannon books, much less the somewhat
+less canonical stuff that Mrs. Rowling has included in the various websites and
+interviews dedicated to the series.  However, we do have one quote that
+*suggests* otherwise:
 
 > At a recent International Symposium of Animagi, the Uagadou School Team
 > attracted a lot of press when their exhibition of synchronised transforming
 > caused a near riot. Many older and more experienced witches and wizards felt
 > threatened by fourteen-year-olds who could turn at will into elephants and
 > cheetahs, and a formal complaint was lodged with the International
-> Confederation of Wizards by Adrian Tutley (Animagus: gerbil).[^20210304-6]
+> Confederation of Wizards by Adrian Tutley (Animagus: gerbil).[^210304-6]
 
 If you do not chose your animal, a school team composed of people who are *all*
 dual animagi elephants and cheetahs is not really plausible.  My guess is that
@@ -171,14 +171,14 @@ reprehensible.
 
 Some writers have suggested that at least some versions of the animagus
 transformation result in changes to the human, just as there are identifying
-marks on the animal.[^20210514-9]  This would explain Madam Hooch's 
-eyes.[^20210618-9]
+marks on the animal.[^210514-9]  This would explain Madam Hooch's
+eyes.[^210618-9]
 
-[^20210618-9]: Mrs. J. K. Rowling. 
+[^210618-9]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Sorcerer's Stone](https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone)_
     p. 146. Pottermore Limited. American Kindle Edition. 
 
-[^20210514-9]: works that do this include:
+[^210514-9]: works that do this include:
     * CmptrWz. 
       _[For Want of an Outfit](https://archiveofourown.org/works/28507302)_
       [Archive of Our Own](https://archiveofourown.org/)
@@ -196,16 +196,16 @@ and transfiguration?) and potions for the actual healing.  Per Mrs. Rowling:
 > might die if bitten by a Venomous Tentacula. Similarly, bones broken in
 > non-magical accidents such as falls or fist fights can be mended by magic, but
 > the consequences of curses or backfiring magic could be serious, permanent or
-> life-threatening.[^20210302-1]
+> life-threatening.[^210302-1]
 
-Against this we have the fact that Percy wears horn-rimmed glasses[^20210302-2].
+Against this we have the fact that Percy wears horn-rimmed glasses[^210302-2].
 The question then becomes did the Weasleys not fix his eyesight because
 
 * it is too costly to do so 
   * I know of at least one where it is "extremely painful and very expensive, not to
-    mention very hard, to make"[^20210302-3] where "very expensive" means "a
-    couple of thousand Galleons."[^20210302-4]
-* it is painful to do[^20210923-1]
+    mention very hard, to make"[^210302-3] where "very expensive" means "a
+    couple of thousand Galleons."[^210302-4]
+* it is painful to do[^210923-1]
 * it is morally distasteful to do so (requires dark magic?)
 * it is not possible to do so (contradicts the above quote from the website)
   * from one fanfiction: 
@@ -214,7 +214,7 @@ The question then becomes did the Weasleys not fix his eyesight because
       eyesight would remain the same. You'd have to purposefully leave a scar
       to leave an impact, which would only happen with a cursed or highly
       magical injury. Imagine! Cursing your own eyes to heal them, muggles are
-      deranged\![^20210302-5]
+      deranged\![^210302-5]
 * it does not occur to British pureblood society to do so 
   * You could take the above quote, and assume that the shop owner is actually
     only partially right.  Perhaps *most* healing magic returns you to "normal"
@@ -230,24 +230,24 @@ This is not "healing" per-se, but it relates.  Wizards seem to have longer than
 non-magical lifespans.  While the exact age of most characters is ambiguous,
 and/or relies on secondary source material, we have one solid fact: Harry's OWL
 examinations are conducted by at least one examiner who also conducted
-[[Dumbledore|adults/Dumbledore]]'s NEWTs.[^20210702-1]
+[[Dumbledore|adults/Dumbledore]]'s NEWTs.[^210702-1]
 
-[^20210702-1]: Mrs. J. K. Rowling. 
+[^210702-1]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Order of the
     Phoenix](https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix)_ 
     Kindle Location 10438. Pottermore Limited. American Kindle Edition. 
 
-[^20210302-4]: kb0
+[^210302-4]: kb0
       _[Fate's Mistake](https://www.fanfiction.net/s/4084005)_
       [Chapter 1](https://www.fanfiction.net/s/4084005/1/Fate-s-Mistake)
       Published: 2008-02-19. Updated: 2008-03-02. 
 
-[^20210302-3]: kb0
+[^210302-3]: kb0
       _[Fate's Mistake](https://www.fanfiction.net/s/4084005)_
       [Chapter 1](https://www.fanfiction.net/s/4084005/1/Fate-s-Mistake)
       Published: 2008-02-19. Updated: 2008-03-02. 
 
-[^20210923-1]: 
+[^210923-1]: 
     * Hippothestrowl.
       _[Broken Utterly!](https://www.fanfiction.net/s/13507747)_
       [Chapter 2](https://www.fanfiction.net/s/13507747/2/Broken-Utterly)
@@ -271,11 +271,11 @@ tripping jinx, though that one requires that it be timed such that the person
 trip such that the fall is fatal.  Levitation, taught in charms, can be fatal,
 if the person is released from high enough, or if something heavy enough is
 first levitated then released.  Not to mention that if you can vanish a mammal,
-you can vanish a human.[^20210914-1]  A sufficiently creative mind can, no
+you can vanish a human.[^210914-1]  A sufficiently creative mind can, no
 doubt, find dozens of other spells from each of charms and transfiguration that
 can be used to kill someone.
 
-[^20210914-1]: Mrs. J. K. Rowling. 
+[^210914-1]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Order of the
     Phoenix](https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix)_
     Locations 4842-4843. Pottermore Limited. American Kindle Edition. 
@@ -294,14 +294,14 @@ there are a couple of key points.
 
 Fake professor Moody tells the class that the killing curse requires true hate
 as well as power.  He asserts that the class could cast it, but that he would be
-unlikely to get so much as a nose bleed.[^20200731-4]  You do not hate an animal
+unlikely to get so much as a nose bleed.[^200731-4]  You do not hate an animal
 you are trying to kill painlessly.  There is no obvious derivation from a spell
 used for animal slaughter to one that _requires_ this kind of hatred to work.
 The addition of emotion may make a spell stronger, perhaps harder to block, but
 the spell as described does not overpower shields, it goes right through them.  
 
 Bellatrix tells Harry much the same thing when he fails to cast the cruciatus
-curse on her.[^20200731-5]  There is no medical application for hating someone.
+curse on her.[^200731-5]  There is no medical application for hating someone.
 Sure you might envision medical applications for electrical stimulation (which
 might have similar effects as the curse), or otherwise shocking someone.
 However, your benign intent is the total inverse of that required for this
@@ -336,12 +336,12 @@ it certainly allows for a lot of flexibility.
 > those spells, the more proficient you become at them, the less human you
 > remain and the more you become that which you're fighting. But Harry is right.
 > Using those spells gives them an advantage in a fight one which can only be
-> countered by a degree of skill most never attain.[^20200731-6]
+> countered by a degree of skill most never attain.[^200731-6]
 
 This explains why the Death Eaters were so hard to fight, even though Aurors are
 supposedly some of the most skilled at magic that you could find, requiring five
 NEWTS with Exceeds Expectations including some of the harder
-disciplines.[^20200731-7]  I *strongly* suspect that not all inner circle Death
+disciplines.[^200731-7]  I *strongly* suspect that not all inner circle Death
 Eaters have the same Exceeds Expectations or better in Charms, Transfiguration
 and Defence.  If what they have instead is a type of magic that levels the
 playing field, or even tilts it the other way, a desperate Ministry losing the
@@ -353,25 +353,25 @@ to judge the cost.
 How much blood do you have to lose before you become a vampire? 
 
 In _Dracula_, any bite causes a lose of willpower, but only actually dying will
-cause you to become one.[^20210513-6]  Is that true here?  If so, is anything
+cause you to become one.[^210513-6]  Is that true here?  If so, is anything
 left of the original person when you change? 
 
 It seems to be implied that vampires may not be beings of pure
-evil.[^20210513-7] Is this a true or false impression? 
+evil.[^210513-7] Is this a true or false impression? 
 
 
 
-[^20210513-7]: Mrs. J. K. Rowling. _Harry Potter and the Half-Blood Prince_
+[^210513-7]: Mrs. J. K. Rowling. _Harry Potter and the Half-Blood Prince_
     Better citation needed. 
 
-[^20210513-6]: citation needed. 
+[^210513-6]: citation needed. 
 
 #### Werewolves
 
 Can a non-magical person get infected? If so, can they then use magic? 
 I have seen speculation that a non-magical person infected would die on the
-first change,[^20210513-4] and speculation that *most* werewolves are
-non-magical.[^20210513-5]
+first change,[^210513-4] and speculation that *most* werewolves are
+non-magical.[^210513-5]
 
 Overall, Werewolf-ism is a virus, it *might* cross the placental wall, but it
 would not be inherited from father to child.  It does seem clear that this virus
@@ -394,46 +394,46 @@ The moon is up during the day sometimes.  How would a solar eclipse affect a
 werewolf? 
 
 
-[^20210513-4]: citation needed
+[^210513-4]: citation needed
 
-[^20210513-5]: citation needed
+[^210513-5]: citation needed
 
 ### Wands
 
 * There is a fascinating article on [wand wood][20210126-1] and the
-  personality traits and skills that go along with each.[^20200723-1]
+  personality traits and skills that go along with each.[^200723-1]
 * Mr. Ollivander's notes in the above article are incomplete: 
-  * Umbridge has a birch wand,[^20210511-4] and is also
+  * Umbridge has a birch wand,[^210511-4] and is also
     on her original list of Celtic woods when she talks about
-    wands.[^20210511-7]
-  * [[James Potter|adults/James]] had a mahogany wand.[^20210511-5]
+    wands.[^210511-7]
+  * [[James Potter|adults/James]] had a mahogany wand.[^210511-5]
   * ivy is on the list of Celtic woods that Mrs. Rowling posted when she first
-    talked about wand woods.[^20210511-6] 
-  * Fleur had a rosewood wand.[^20210511-8] 
+    talked about wand woods.[^210511-6] 
+  * Fleur had a rosewood wand.[^210511-8] 
   * various other woods appear to be introduced by the Fantastic Beasts prequel
     stuff.  [WizardingWorld][ww] seems to mention some of them, and has been
     mined for information in [this article][20210511-9].
 * The one on [size and flexibility][20210126-2] is more abbreviated, but points 
-  out that you must not be too literal.[^20200723-2]
+  out that you must not be too literal.[^200723-2]
 * Mr. Ollivander has researched wand cores and will use only three of
-  them.[^20200723-3]  
+  them.[^200723-3]  
 * Others are possible, but [the article on cores][20210126-3]
   was, like the other two, written as if by him and so focuses on those three.
   * Most of Mrs. Rowling's own writing almost acts as if the current Mr.
     Ollivander is the only Mr. Ollivander despite the fact that the sign
     outside the shop door states that the family has been making wands since 382
-    B.C.[^20210512-1]  I am willing to accept that wizards live longer than
+    B.C.[^210512-1]  I am willing to accept that wizards live longer than
     non-magical persons, but not by that much.  For there to only be one Mr.
     Ollivander would require that he be approximately 2373 years old! If such
-    were true, then Nicholas Flamel's mere 665 years[^20210512-2] would not
+    were true, then Nicholas Flamel's mere 665 years[^210512-2] would not
     really be noteworthy at all, and the philosopher's stone entirely
     unnecessary.  
   * Indeed, [the article on cores][20210126-3] directly states that the current
-    Mr. Garrick Ollivander inherited the business from his father.[^20210512-4]
+    Mr. Garrick Ollivander inherited the business from his father.[^210512-4]
   * Given there have been an entire succession of Ollivanders making and selling
-    wands, which "Garrick Ollivander"[^20210512-3] actually did the research and
+    wands, which "Garrick Ollivander"[^210512-3] actually did the research and
     published the notes we are relying on? 
-  * Earlier Ollivanders were less fastidious about their wand cores.[^20210512-5]
+  * Earlier Ollivanders were less fastidious about their wand cores.[^210512-5]
     Does the shop still hold wands made by these earlier Ollivanders?  If so, is
     the current Mr. Ollivander willing to sell these wands, or only ones that
     meet his (higher) bar for quality? 
@@ -444,7 +444,7 @@ have a yew wand, but I am somewhat surprised that he would have a phoenix
 feather core.  While it does say it is the most capable, in a sense, it says
 dragon heartstring is the most powerful.  Would Riddle value range and or power
 more?  He would certainly dislike that the phoenix feather wand might sometimes
-act of its own accord.[^20200806-5]  Naturally eleven year old Riddle knows
+act of its own accord.[^200806-5]  Naturally eleven year old Riddle knows
 nothing of wand lore and so is not deciding this, yet still, the wand must sense
 something of the wizard it is bonding with…
 
@@ -463,54 +463,54 @@ something of the wizard it is bonding with…
 [20210511-9]: https://harrypotter.fandom.com/wiki/Wand_wood
     "Harry Potter wiki article on Wand Wood"
 
-[^20210512-1]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_
+[^210512-1]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_
     p. 82. Pottermore Limited. American Kindle Edition. 
 
-[^20210512-2]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_
+[^210512-2]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_
     p. 220. Pottermore Limited. American Kindle Edition. 
 
-[^20210512-3]: Garrick Ollivander is the purported author of all 3 Pottermore
+[^210512-3]: Garrick Ollivander is the purported author of all 3 Pottermore
     articles I have referenced here. 
 
-[^20210511-8]: Mrs. J. K. Rowling. _Harry Potter and the Goblet of Fire_
+[^210511-8]: Mrs. J. K. Rowling. _Harry Potter and the Goblet of Fire_
     Kindle Locations 4642-4643. Pottermore Limited. American Kindle Edition. 
 
-[^20210511-7]: Mrs. J. K. Rowling. 
+[^210511-7]: Mrs. J. K. Rowling. 
     "[Wands](https://web.archive.org/web/20060316221102/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=18)"
     Snapshot from 2006-03-16. Snapshot Viewed 2021-05-11.
 
-[^20210511-6]: Mrs. J. K. Rowling. 
+[^210511-6]: Mrs. J. K. Rowling. 
     "[Wands](https://web.archive.org/web/20060316221102/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=18)"
     Snapshot from 2006-03-16. Snapshot Viewed 2021-05-11.
 
-[^20210511-5]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_
+[^210511-5]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_
     p. 82. Pottermore Limited. American Kindle Edition. 
 
-[^20210511-4]: Mrs. J. K. Rowling. _Short Stories from Hogwarts of Power,
+[^210511-4]: Mrs. J. K. Rowling. _Short Stories from Hogwarts of Power,
     Politics, and Pesky Poltergeists_ Pottermore Publishing American Kindle
     Edition, © 2016. Page 7. 
 
-[^20200723-1]: Mrs. J. K. Rowling. 
+[^200723-1]: Mrs. J. K. Rowling. 
     "[Wand Woods](https://www.wizardingworld.com/writing-by-jk-rowling/wand-woods)"
     Originally published 2015-08-10.  Last Viewed 2020-07-23.
 
-[^20200723-2]: Mrs. J. K. Rowling. 
+[^200723-2]: Mrs. J. K. Rowling. 
     "[Wand Lengths & Flexibility](https://www.wizardingworld.com/writing-by-jk-rowling/wand-lengths-and-flexibility)"
     Originally published 2015-08-10.  Last Viewed 2020-07-23.
 
-[^20210512-5]: Mrs. J. K. Rowling. 
+[^210512-5]: Mrs. J. K. Rowling. 
     "[Wand Cores](https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores)"
     Originally published 2015-08-10.  Last Viewed 2021-05-12.
 
-[^20210512-4]: Mrs. J. K. Rowling. 
+[^210512-4]: Mrs. J. K. Rowling. 
     "[Wand Cores](https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores)"
     Originally published 2015-08-10.  Last Viewed 2021-05-12.
 
-[^20200723-3]: Mrs. J. K. Rowling. 
+[^200723-3]: Mrs. J. K. Rowling. 
     "[Wand Cores](https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores)"
     Originally published 2015-08-10.  Last Viewed 2020-07-23.
 
-[^20200806-5]: Mrs. J. K. Rowling. 
+[^200806-5]: Mrs. J. K. Rowling. 
     "[Wand Cores](https://www.wizardingworld.com/writing-by-jk-rowling/wand-cores)"
     Originally published 2015-08-10.  Last Viewed 2020-08-06.
 
@@ -534,14 +534,14 @@ In the cannon Harry Potter universe, the wards were set to fail when Harry turns
 17, becoming an adult.  This has lead some fanfiction authors to speculate that
 any event that causes Harry to be emancipated would also cause the wards to
 fail.  Per the books, the wards were stood up when Petunia took Harry into her
-home.[^20180709-2]  I have to deal with this in this in any story.  How exactly do the
+home.[^180709-2]  I have to deal with this in this in any story.  How exactly do the
 wards work, and what protection do they provide? I initially considered that the
 wards might not have activated, as this would both be a bit of ironic justice
 and make any story easier.  In *[[Family Inseparable|Family_Inseparable]]* I
 adopted a story in which Harry gets married at a young age.  What affect, if
 any, would such a marriage have on the wards?  In the non-magical world,
 [Wikipedia](https://en.wikipedia.org/) suggests that England does not have a
-concept of emancipation of minors.[^20210329-12] If that is true, his marriage
+concept of emancipation of minors.[^210329-12] If that is true, his marriage
 should have no effect on the wards (or on the Trace), particularly since, per
 the same article, this seems to be in line with older systems of law.  
 
@@ -554,17 +554,17 @@ exists in the magical world or not, because it would be a legal event and not a
 magical one, and so would not affect either the Trace or the wards.
 
 We are told that they stand "so long as he can call Privet Drive
-'home'"[^20210521-1]  In _the Philosopher's Stone_ we read "The castle felt
-more like home than Privet Drive ever had."[^20210521-2]  What does this mean
+'home'"[^210521-1]  In _the Philosopher's Stone_ we read "The castle felt
+more like home than Privet Drive ever had."[^210521-2]  What does this mean
 for the strength, or even the existence, of these wards?  Sure, Hogwarts is a
 boarding school, but Harry has at this point only lived there for about two
 months.  If it already feels more like home than the only other place he ever
 remembers living, that is a remarkable lack of attachment. 
 
-[^20210521-2]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_
+[^210521-2]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_
     p. 170. © 1998 Pottermore Limited. American Kindle Edition. 
 
-[^20210521-1]: Mrs. J. K. Rowling. paraphrased, but a citations is still needed.
+[^210521-1]: Mrs. J. K. Rowling. paraphrased, but a citations is still needed.
 
 #### The Trace
 
@@ -575,37 +575,37 @@ read number of different ideas about it.
 Things we know:
 
 * "small explosions from Fred and George’s bedroom were considered perfectly
-  normal."[^20210618-1] They are certainly doing under-aged magic of some sort
+  normal."[^210618-1] They are certainly doing under-aged magic of some sort
   (probably potions based). 
 * "they can detect magic, but not the perpetrator … They rely on witch and
   wizard parents to enforce their offspring’s obedience while within their
-  walls.”[^20210810-4]
-* Dobby's magic can trigger it.[^20210618-2]
+  walls.”[^210810-4]
+* Dobby's magic can trigger it.[^210618-2]
 * It is suggested that the Order is sneaking Harry out under the eyes of the
-  Ministry,[^20210618-3] and yet Tonks' magic does not set it off in book five.[^20210618-4]
+  Ministry,[^210618-3] and yet Tonks' magic does not set it off in book five.[^210618-4]
 
 Things we speculate: 
 
 * One author suggested that it gets added to wands that ride the Hogwarts
-  Express.[^20210329-13] The problem with this is that I believe it would effect
+  Express.[^210329-13] The problem with this is that I believe it would effect
   the wands of 7th year students, most if not all of whom are already 17. 
 * One author suggested it gets added (to either wands or students) as they ride
-  the boats on their way to Hogwarts for the first time.[^20210329-14]
+  the boats on their way to Hogwarts for the first time.[^210329-14]
 * One author suggested there is a network of rune-engraved ward-stones across
-  the country.[^20210329-15] 
+  the country.[^210329-15] 
 * One author suggests that monitoring devices are placed near the address of
-  witches and wizards known to be under-aged.[^20210329-16] The Trace then only
+  witches and wizards known to be under-aged.[^210329-16] The Trace then only
   works near such devices. 
 * A number of authors suggest that there is "equipment" at the Ministry that is used to
   detect magic.  Some think that equipment can distinguish between under-aged and
-  over aged magic.[^20210329-17] This would effectively be an example of 17 as a
+  over aged magic.[^210329-17] This would effectively be an example of 17 as a
   magical number that effects the way magic operates at a fundamental level.
   Some think that the equipment is "tuned" to detect certain magic, and could be
-  returned to detect different magic.[^20210329-18] I am not sure that really differs. 
+  returned to detect different magic.[^210329-18] I am not sure that really differs. 
 * One interesting idea suggested that the trace, regardless of which of the
   above, only worked for wands in which the person requesting the report had an
   owning interest in, and thus the Ministry subsidised wand sales to
-  minors.[^20210329-19] By paying for part of a child's wand, the Ministry has
+  minors.[^210329-19] By paying for part of a child's wand, the Ministry has
   partial ownership and could thus get magical reports on the wand's use. 
 
 In all of my stories, I need to figure out which approach I am going to take,
@@ -618,74 +618,74 @@ probably the latter.  The whole "do not use magic outside of school" thing is
 more for muggle born witches and wizards rather than any real restriction. See
 [[Culture]] for more on this. 
 
-[^20210810-4]: Mrs. J. K. Rowling. 
+[^210810-4]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Half-Blood Prince](https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince)_
     page 307. © 2005. American Kindle Edition. 
 
-[^20210618-1]: Mrs. J. K. Rowling. 
+[^210618-1]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets)_
     p. 42. Pottermore Limited. American Kindle Edition. 
 
-[^20210618-2]: Mrs. J. K. Rowling. 
+[^210618-2]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Chamber of Secrets](https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets)_
     p. 20. Pottermore Limited. American Kindle Edition. 
 
-[^20210618-3]: Mrs. J. K. Rowling.
+[^210618-3]: Mrs. J. K. Rowling.
     _[Harry Potter and the Order of the Phoenix](https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix)_
     Kindle Locations 821-823. Pottermore Limited. American Kindle Edition. 
 
-[^20210618-4]: Mrs. J. K. Rowling.
+[^210618-4]: Mrs. J. K. Rowling.
     _[Harry Potter and the Order of the Phoenix](https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix)_
     Kindle Locations 760,851. Pottermore Limited. American Kindle Edition. 
 
-[^20210329-13]: Need Citation
+[^210329-13]: Need Citation
 
-[^20210329-14]: Need Citation
+[^210329-14]: Need Citation
 
-[^20210329-15]: Need Citation
+[^210329-15]: Need Citation
 
-[^20210329-16]: Need Citation
+[^210329-16]: Need Citation
 
-[^20210329-17]: Need Citation
+[^210329-17]: Need Citation
 
-[^20210329-18]: Need Citation
+[^210329-18]: Need Citation
 
-[^20210329-19]: Need Citation
+[^210329-19]: Need Citation
 
-[^20210329-12]: [Wikipedia](https://en.wikipedia.org/) 
+[^210329-12]: [Wikipedia](https://en.wikipedia.org/) 
     "[Emancipation of minors](https://en.wikipedia.org/wiki/Emancipation_of_minors)
     Last Updated: 2021-03-27. Last Viewed: 2021-03-29.
 
-[^20180709-2]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_.  Chapter 37. Location 12236. 
+[^180709-2]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_.  Chapter 37. Location 12236. 
 
-[^20200731-4]: Mrs. J. K. Rowling.  _Harry Potter and the Goblet of Fire_ 
+[^200731-4]: Mrs. J. K. Rowling.  _Harry Potter and the Goblet of Fire_ 
 
-[^20200731-5]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_
+[^200731-5]: Mrs. J. K. Rowling. _Harry Potter and the Order of the Phoenix_
 
-[^20200731-6]: Radaslab.  
+[^200731-6]: Radaslab.  
     _[Not Normal](https://www.fanfiction.net/s/7144149)_
     [Fanfiction.net](https://www.fanfiction.net/) 
     [Chapter 59](https://www.fanfiction.net/s/7144149/59/Not-Normal)  Published 2011-07-04,
     Updated 2013-08-10, Last Viewed 2020-07-31.
 
-[^20200731-7]: Citation needed. 
+[^200731-7]: Citation needed. 
 
-[^20210302-1]: Mrs. J. K. Rowling. 
+[^210302-1]: Mrs. J. K. Rowling. 
     "[Illness and Disability](https://www.wizardingworld.com/writing-by-jk-rowling/illness-and-disability)"
     Originally published on Pottermore on 2015-08-10.  Last Viewed 2021-03-02. 
 
-[^20210304-5]: Mrs. J. K. Rowling.
+[^210304-5]: Mrs. J. K. Rowling.
     "[Uagadou](https://www.wizardingworld.com/writing-by-jk-rowling/uagadou)"
     Originally published on Pottermore on 2016-01-30. Last Viewed 2021-03-04.
 
-[^20210304-6]: Mrs. J. K. Rowling.
+[^210304-6]: Mrs. J. K. Rowling.
     "[Uagadou](https://www.wizardingworld.com/writing-by-jk-rowling/uagadou)"
     Originally published on Pottermore on 2016-01-30. Last Viewed 2021-03-04.
 
-[^20210302-2]: Mrs. J. K. Rowling. _Harry Potter and the Chamber of Secrets_
+[^210302-2]: Mrs. J. K. Rowling. _Harry Potter and the Chamber of Secrets_
     Pottermore Limited. American Kindle Edition. Approx Location 4405 of 4470.
 
-[^20210302-5]: Sunlesswarmth. _[BrokenProphecy](https://www.fanfiction.net/s/13712386)_
+[^210302-5]: Sunlesswarmth. _[BrokenProphecy](https://www.fanfiction.net/s/13712386)_
     [Chapter 3](https://www.fanfiction.net/s/13712386/3/Broken-Prophecy)
     Published 2020-10-04. Updated 2020-12-01. Last Viewed 2021-03-02.
 
