@@ -2,7 +2,9 @@
 [[!meta date="2021-01-28"]]
 [[!meta title="James Potter"]]
 
-James Potter is one of the more controversial figures in the Harry Potter series.  There is so little information about him, that both fanfiction authors and just opinion pieces and commentators are working with an almost blank slate. 
+James Potter is one of the more controversial figures in the Harry Potter
+series.  There is so little information about him, that both fanfiction authors
+and just opinion pieces and commentators are working with an almost blank slate. 
 
 ### From the books
 
@@ -157,13 +159,13 @@ that.
 > “This’ll liven you up, Padfoot,” said James quietly. “Look who it is ...”[^20210128-12] 
 
 I would have to find the citation, but I know I am not alone in wondering if
-this memory was tampered with.  The fact that Lupin and [[Sirius]] would not deny
-anything in the brief fireplace conversation suggests that it is at best based
-on something factual, but then so too are the best lies.  It would be a more
-cunning and effective plan to subtlety twist the memory to put James in a worse
-light, portray [[Snape]] as a more innocent victim, but leave the core events
-sufficiently in place so that when [[Harry]] describes what he sees, it rings true
-to those who witnessed it.  
+this memory was tampered with.  The fact that [[Lupin]] and [[Sirius]] would not
+deny anything in the brief fireplace conversation suggests that it is at best
+based on something factual, but then so too are the best lies.  It would be a
+more cunning and effective plan to subtlety twist the memory to put James in a
+worse light, portray [[Snape]] as a more innocent victim, but leave the core
+events sufficiently in place so that when [[Harry]] describes what he sees, it
+rings true to those who witnessed it.  
 
 ---
 
@@ -198,7 +200,7 @@ really tell us what is going on in *James'* head.
 > “You think you’re funny,” she said coldly. “But you’re just an arrogant, bullying toerag, Potter. Leave him alone.”[^20210128-13]
 
 See my comments above on possible subtle manipulations of the memory. Still, it
-is pretty much established that Lily and James did not get along until either
+is pretty much established that [[Lily]] and James did not get along until either
 the end of sixth year or, more likely, the beginning of seventh. 
 
 ---
@@ -280,9 +282,9 @@ woods.[^20210511-3]
 
 ### When did he get the Cloak
 
-In book three, Lupin refers to seeing James use the cloak many
+In book three, [[Lupin]] refers to seeing James use the cloak many
 times.[^20210318-4] At first I was inclined to disregard this, the fact that
-Lupin knows that you still show up on the Marauder's Map implies that it was at
+[[Lupin]] knows that you still show up on the Marauder's Map implies that it was at
 school, but does not prove that.  For all we know the two got curious when James
 inherited the cloak *after graduation* and tested the cloak against the charms
 they had used.  After all, while they had lost the map, as the creators, they
@@ -310,7 +312,7 @@ despite the fact that he supposedly has no cunning or intelligence.
 Consider some of the stuff [[Harry]] goes through in Books 1 and 2.  Given that,
 Ian Hycrest speculates that with [[Dumbledore]] and [[McGonagall]] even more
 distracted by the more active war that was then going on, and with [[Slughorn]]
-trying to avoid Riddle's notice,[^20210629-2] there were probably students
+trying to avoid [[Riddle]]'s notice,[^20210629-2] there were probably students
 openly planning on becoming Death Eaters, and openly preparing for their
 proposed careers, probably with no real repercussions.[^20210629-3] In such an
 environment, James Potter, who hated the dark arts,[^20210629-4] may have had
