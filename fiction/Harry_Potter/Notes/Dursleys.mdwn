@@ -32,6 +32,20 @@ her direction.
 [^210422-1]: Mrs. J. K. Rowling. _Harry Potter and the Sorcerer's Stone_.
     Better citation needed. 
 
+### Vernon
+
+Vernon is described as "*the* director of a firm called Grunnings," emphasis
+mine.[^211108-1]  As best I can tell, this is a board of directors type
+position, except that there is probably only one of them in this case,
+indicating that it is a smaller company.  The title has a few legal
+implications, as seen [here][ukglc].
+
+[ukglc]: https://www.gov.uk/running-a-limited-company
+
+[^211108-1]: Mrs. J. K. Rowling. 
+    _Harry Potter and the Sorcerer's Stone_
+    p. 1. Pottermore Limited. American Kindle Edition. 
+
 ### How abusive were they?
 
 * [[Harry]]'s cupboard is full of spiders
