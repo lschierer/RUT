@@ -14,7 +14,7 @@
   Hogwarts.[^211108-4]
 * He uses tea bags, not loose tea.[^211108-5]
 
-[^211108-2]: https://www.google.com/search?q=Remus+Lupin+tweed+coat&rlz=1C5GCEM_enUS958US958&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjx4YHjsIn0AhWjp3IEHSiaCTwQ_AUoAXoECAEQAw&biw=1433&bih=717&dpr=1
+[^211108-2]: <https://www.google.com/search?q=Remus+Lupin+tweed+coat&rlz=1C5GCEM_enUS958US958&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjx4YHjsIn0AhWjp3IEHSiaCTwQ_AUoAXoECAEQAw&biw=1433&bih=717&dpr=1>
 
 [^211108-5]: Mrs. J. K. Rowling.
     _Harry Potter and the Prisoner of Azkaban_
@@ -55,7 +55,7 @@ the [[Culture]] section.
 
 Of more concern here, I think the movie did much to cement the impression of
 Lupin as not just a bookworm, but as the brains of his group of
-friends.[^211108-5] As I note as I look at [[James Potter|James]], this view
+friends.[^211108-8] As I note as I look at [[James Potter|James]], this view
 *really* does not make sense.  Lupin is the one that feels the need to study,
 whereas [[James]] and [[Sirius]] (**_not_** Lupin or [[Lily]]) are the ones that
 [[McGonagall]] describes as the cleverest students in the school,[^211108-6] and
@@ -73,7 +73,7 @@ he worked for it, whereas his more intelligent friends found the material easy.
     _Harry Potter and the Prisoner of Azkaban_
     p. 204, Location 2551 of 5714. Pottermore Limited. American Kindle Edition.
 
-[^211108-5]: Any number of fan fiction works have this assumption.  These
+[^211108-8]: Any number of fan fiction works have this assumption.  These
     include, but noare not limited to:
     * asagi5. _[New Blood International Academy](https://www.fanfiction.net/s/11064921)_
       Published: 2015-02-21. Updated: 2021-06-28. Last Viewed: 2021-11-08. 
