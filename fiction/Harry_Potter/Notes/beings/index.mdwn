@@ -1,0 +1,26 @@
+[[!meta title="Sentient Species in Harry Potter"]]
+[[!meta author="Luke Schierer"]]
+[[!tag "HP Notes"]]
+
+[[!toc levels=3 startlevel=3]]
+
+The British Ministry of Magic classifies things as "Beings", "[[Non-Beings]],"
+"[[Animals]]" (magical and non-magical), and "[[Vegitation]]" (magical and
+non-magical).[^211111-2]  This last is really an implicet category, as most wizards think
+the difference between vegitation and non-vegitation much more clear than a
+non-magical scientist would.[^211111-1]
+
+While there are some political considerations in who is officially granted this
+status in the magical world, I am going to classify based on sentience.  While
+this is somewhat murky, as it is possible to both different kinds of inteligence
+and different possible ranges of inteligence and yet still be sentient, it is
+the *right* definition.
+
+[[!inline pages="fiction/Harry_Potter/Notes/beings/* and ! fiction/Harry_Potter/Notes/beings/*/*/*"
+    archive=yes feeds=no quick=no limit=0 sort=title_natural]] 
+
+[^211111-1]: document some animal/vegitable grey area
+
+[^211111-2]: [Harry Potter Wiki](https://harrypotter.fandom.com/wiki)
+    "[Being](https://harrypotter.fandom.com/wiki/Being)"
+    Last Edited: 2020-10-03. Last Viewed: 2021-11-11.
