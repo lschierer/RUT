@@ -283,6 +283,9 @@
 
 * 1889 - Cygnus Black I born.[^20210122-20]
 
+* 1889 - May 14 - Queen Victoria is patron of the organisation that becomes
+  (following a rename) the National Society for the Prevention of Cruelty to Children (NSPCC).[^211202-1]
+
 * 1901 Queen Victoria died.
 
 * 1901 - Arcturus Black ([[Sirius Orion's|adults/Sirius]] Paternal Grandfather) born.[^20210122-10]
@@ -444,6 +447,9 @@
 
 * 1988 - The Firearms (Amendment) Act 1988: no more pump action or other shotguns that have magazines.[^20210228-5]
 
+* 1989 - The NSPCC granted statutory powers under the Children Act 1989 to apply
+  for care and supervision orders for children at risk.[^211202-2]
+
 * 1990 - Cornelius Fudge elected Minister for Magic.[^20210330-42]
 
 * 1990 - Pollux Black ([[Sirius Orion's|adults/Sirius]] Maternal Grandfather) dies.[^20210122-8]
@@ -459,6 +465,14 @@
 * 1996 - Rufus Scrimgeour elected Minister for Magic.[^20210330-43]
 
 * 1997 - 1997 Firearms (Amendment) Acts: nearly all guns banned.[^20210228-6]
+
+[^211202-2]: [[!wikipedia National Society for the Prevention of Cruelty to
+    Children]] 
+    Last Edited: 2021-11-30. Last Viewed: 2021-12-02.
+
+[^211202-1]: [[!wikipedia National Society for the Prevention of Cruelty to
+    Children]] 
+    Last Edited: 2021-11-30. Last Viewed: 2021-12-02.
 
 [^20210823-4]: [Wikipedia](https://en.wikipedia.org/)
     "[Direct current](https://en.wikipedia.org/wiki/Direct_current)"
