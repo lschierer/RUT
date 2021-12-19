@@ -55,7 +55,7 @@ Some points of divergence from Harry Potter:
   receive forgiveness from their sins, they would also lose their access to
   magic.
 * Following from the origin of magic I'm using, magic will follow somewhat
-  different [[rules|potter-nephil-magic]] than the Harry Potter books.  This
+  different [[rules|appendix_a]] than the Harry Potter books.  This
   includes both the way the characters use magic and magical creatures. 
 * Modern day welders of magic, heavily influenced by paganism and by those who
   have given into temptation, have obscured the difference between those who

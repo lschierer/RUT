@@ -9,7 +9,7 @@
 
 Nephil can be rated on a scale of 1 (low) to 10 (high) for access to each class
 of angelic abilities. This naturally means that for many of the pivotal
-characters, I have [[mathematical notes on their power levels|power_chart]].  For the purposes of this work:
+characters, I have [[mathematical notes on their power levels|appendix_b]].  For the purposes of this work:
 
 | Power Level | Ability Estimate |
 | :---------: | :-------------- |
@@ -451,7 +451,7 @@ determine what happens to a given child.
   overriding compulsions to a nephil, and they are vulnerable to each other (and
   to others who can use similar powers) in ways that humans are not. 
 * nephil do get one straight up advantage over humans in addition to using
-  magic - they [[live longer|Life_Expectancy]].  This is *actually* a side
+  magic - they [[live longer|appendix_c]].  This is *actually* a side
   effect of their magic, which, regardless of type, will offer some protection
   against disease and against the effects of entropy (and thus old age).  It
   does not halt the decay of old age, but it does retard it.  The extend to
