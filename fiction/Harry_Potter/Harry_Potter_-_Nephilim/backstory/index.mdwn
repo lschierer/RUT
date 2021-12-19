@@ -1,7 +1,7 @@
 [[!meta title="Harry Potter - Nephilim: Backstory"]]
 [[!meta author="Luke Schierer"]]
 
-[[!inline pages="title(Harry Potter - Nephilim:*)" and
+[[!inline pages="title(Harry Potter - Nephilim:*) and
    fiction/Harry_Potter/Harry_Potter_-_Nephilim/backstory/*"
    archive=yes
    feeds=no

@@ -98,7 +98,7 @@ Some points of divergence from Harry Potter:
     [Chapter Six](https://www.fanfiction.net/s/5490079/7/The-Little-Veela-that-Could)
     Published: 2009-11-05. Updated: 2012-06-28. Last Viewed: 2021-04-12.
 
-[[!inline pages="title(Harry Potter - Nephilim:*)"
+[[!inline pages="title(Harry Potter - Nephilim:*) and ! fiction/Harry_Potter/Harry_Potter_-_Nephilim/backstory/*"
   archive=yes
   feedonly=yes
   reverse=yes
