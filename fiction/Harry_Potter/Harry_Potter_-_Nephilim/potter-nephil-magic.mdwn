@@ -478,21 +478,8 @@ determine what happens to a given child.
      This list is essentially ordered from most nearly equal to the nephilim to
      least nearly equal. 
    * mermen - These were once a magically powerful people who used inheritances
-     from the Dominions to transmute themselves to survive the great Flood.
-     Magic in this category is generally very short lived, so over the course of
-     the great Flood, they used an *incredible* amount of it.  As the flood
-     ended, a Screwtape event happened, and they found themselves unable to undo
-     their own spells: the effects were not only permanent, but inherited. They
-     have lost the use of most magics through successive generations of partial
-     inheritance despite the odds. In their quest to regain their human form,
-     some groups did make progress, hence non-magical peoples have mythology
-     about merfolk looking like a more literally half man half fish.  Between
-     wars between tribes and wars between merfolk and other peoples, only those
-     most capable of living fully submerged have survived. While mentally and
-     spiritually most nearly equal to the nephilim from whom they (distantly)
-     descend, their extreme physical changes, and near entire loss of magic
-     means that they have little ability to form more than the most rudimentary
-     societies in their fully aquatic environments. 
+     from the Dominions to transmute themselves to survive [[the great
+     Flood|backstory/The_Flood]].
    * dwarfs - I really dislike what Mrs. Rowling did with the dwarfs in _the
      Chamber of Secrets_.[^20210518-1]  Since she says that goblins of all
      things are expert craftsmen,[^20210518-2] my take is that nephil became
@@ -509,11 +496,9 @@ determine what happens to a given child.
      world as fiction.  Despite their flaws, these populations retained their
      intelligence and their magic.  They are particularly strong inheritors from
      the Virtues, Powers, and Archangels, with lesser inheritances from the
-     Principalities and angels.  It is suspected that the earliest goblins may
-     have been responsible for the creation of the trolls, however, the proof
-     (or disproof) of this has been lost to reliable history.  If so, this explains
-     why they were punished so harshly (as to have originally lost nearly all
-     free will - 90% impact).  
+     Principalities and angels.  Their creation of the trolls at the begining of
+     the [[goblin wars|backstory/The_Dwarfs]] explains why they were punished so
+     harshly (as to have originally lost nearly all free will - 90% impact).  
    * hags - a people who are consumed by envy and lust.  They have particularly
      strong inheritances from the Thrones, reasonable inheritances from the
      Virtues and Powers.  Some have partial inheritances of random other types.
@@ -631,24 +616,15 @@ determine what happens to a given child.
        of the "half-veela."[^20210916-2]  This is the punishment for giving in
        to the temptation of her locked powers. 
    * giants - the physical changes wrought on them by sin have become "mundane"
-     and are now governed by Mendelian inheritance.  Church records show that
-     the giants come from the creators of the house elves.  The family that
-     first created house elves were punished with these, for lack of a better
-     word, gigantic forms.  Just as house elves are the most successfully
-     mockery of man, so too was nearly everything taken from their creators -
-     their forms are too clumsy to use most tools, their intellects too clouded
-     to appreciate literature or indeed even much in the  way of rational
-     discourse.  Their magic was stripped from them except for that which is
-     required to keep these unnatural forms alive, and, to ensure that those who
-     profited from the house elves did not rescue them from their punishment, an
-     unconscious use of magic in their skins that acts as a shield protecting
-     them from all external magic - thus locking them in their new forms.  
-     Behold in them what man would be if left without his mind, the only hope
-     they have is that their intellects are so clouded that it is nearly
-     impossible for them to actually commit a mortal sin.  Should any be willing
-     to be missionary to the giants, the grace of baptism would be nearly
-     unopposed, because these beings have so little ability to freely choose to
-     do anything, and even less ability to understand something is gravely wrong.  
+     and are now governed by Mendelian inheritance.  Church
+     [[records|backstory/Giants]] show that the giants come from the creators of
+     the house elves. Behold in them what man would be if left without his mind,
+     the only hope they have is that their intellects are so clouded that it is
+     nearly impossible for them to actually commit a mortal sin.  Should any be
+     willing to be missionary to the giants, the grace of baptism would be
+     nearly unopposed, because these beings have so little ability to freely
+     choose to do anything, and even less ability to understand something is
+     gravely wrong.  
 
 [^20210916-1]: Like in _[Maskirovat][knffnm]_. 
 
