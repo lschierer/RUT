@@ -76,7 +76,7 @@ him.
 * [[Lily|adults/Lily]] turns cold when responding.  My inference is that
   [[Lily|adults/Lily]] disagrees with [[Snape|adults/Snape]]'s bias against
   werewolves.  I am unsure if [[Lily|adults/Lily]] is truly ignorant of
-  [[Lupin|adults/Lupin]]'s status, or if she is pretending to be. It probably
+  [[Lupin|adults/Lupin]]'s status, or if she is pretending to be.  It probably
   does not matter which. 
 * [[Lily|adults/Lily]] blushes under [[Snape|adults/Snape]]'s "intense" gaze.
   More is going on in this conversation than the surface words.  I am not
@@ -121,7 +121,8 @@ him.
 * [[Lily|adults/Lily]] is very cold at first towards [[James|adults/James]]
 * [[Snape|adults/Snape]] fires off something that draws blood.
 * [[James|adults/James]] reacts with a spell that leaves [[Snape|adults/Snape]]
-  hanging upside down with his underwear on display. 
+  hanging upside down with his underwear on display.  The humiliation is no
+  doubt worse because the spell used is one [[Snape|adults/Snape]] invented.
 * [[Lily|adults/Lily]]'s face twitches.  I think perhaps she considers this fair
   retribution for a spell that draws blood. She's hiding that fact from
   [[James|adults/James]] though. 
@@ -213,15 +214,24 @@ possibilities:
 In either case, [[Snape|adults/Snape]] has been insanely stupid, and
 [[James|adults/James]] has saved his life.  [[Snape|adults/Snape]] has been told
 to keep silent, and is trying to find ways to ensure that the secret he has
-promised to keep gets out.
+promised to keep gets out.  
+
+Sure, [[James|adults/James]] hates [[Snape|adults/Snape]] and vice versa.  I
+doubt the event would have changed things even if both were reasonable rational
+and mature real-world adults (if such a thing exists).  In such a case, however,
+we would expect [[Snape|adults/Snape]] to give credit where credit is due, and
+would call him on it when he fails to do so.  In other words, the rational,
+reasonable thing is to criticise [[Snape|adults/Snape]] for *blaming*
+[[James|adults/James]] for the incident.  
 
 We do not know what happened to Mary Macdonald, but [[Lily|adults/Lily]] insists
 that it is [[Dark Magic|Magic]] and *Evil* (her emphasis).  Somehow that is
 *funny* but [[James|adults/James]] actions are unforgivable.  Even if I entirely
 agreed with [[Snape|adults/Snape]]'s reading of events, I see only a difference
 in target.  Since I *don't* agree with [[Snape|adults/Snape]]'s reading, I see
-that any offence against' [[Snape|adults/Snape]] is unforgivable, but *anything*
-[[Snape|adults/Snape]] does is justifiable. 
+that any offence against [[Snape|adults/Snape]] is unforgivable, but *anything*
+[[Snape|adults/Snape]], or by extension is friends, does is justifiable.  We
+call such a person a hypocrite, and generally look down on him or her. 
 
 ### Looking at the memories
 
@@ -320,3 +330,73 @@ to paint much the same picture.
 [^210921-2]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows)_
     pp. 309-310.  Pottermore Publishing.  American Kindle Edition. 
+
+### Looking at the Fall-out
+
+#### Lily and Snape
+
+Some writers blame [[Lily|adults/Lily]] for the fact that [[Snape|adults/Snape]]
+became a Death Eater, pointing to this incident.  If she had forgiven him, her
+friendship would have given him the strength he needed to resist
+[[Riddle|adults/Riddle]]'s temptations.  I honestly disagree, and point to the
+first of [[Snape|adults/Snape]]'s memories as my proof.  If she had forgiven
+him, he would have remained in denial about the evil nature of the actions that
+Mulciber and his \([[Snape|adults/Snape]]'s\) other Death Eater friends were
+committing.  This would inevitably lead to facing the same temptations to
+joining [[Riddle|adults/Riddle]].  [[Snape|adults/Snape]] would then have rationalised things
+saying that by joining [[Riddle|adults/Riddle]], he would be in a *better*
+position to protect [[Lily|adults/Lily]].  He would figure that
+[[Riddle|adults/Riddle]] would spare a Death Eater's family even if she was a
+mudblood.  This would draw [[Snape|adults/Snape]] deeper and deeper into
+[[Riddle|adults/Riddle]] atrocities and soul corrupting influence.  You simply
+cannot be around such people without their evil rubbing off on you.  
+
+People criticising [[Lily|adults/Lily]] are essentially pushing her towards
+missionary dating.  It is not *precisely* the same situation, but it is close
+enough.  Sure you can find anecdotal evidence that missionary dating works, but
+in general, it is a bad idea.[^211220-2]
+
+Secondly, I remain unconvinced that [[Lily|adults/Lily]] was romantically
+inclined towards [[Snape|adults/Snape]] at all.  Certainly both
+[[Snape|adults/Snape]] and [[James|adults/James]] were both romantically
+interested in *her*, both aware of the other's interest in her, and both jealous
+of the other's perceived advantages.  It does not follow that just because
+[[Lily|adults/Lily]] was *friends* with someone who wanted that friendship to be
+more, that *she* **also** wanted that friendship to be more.  
+
+Lastly, [[!wikipedia Alan Rickman]] may be attractive (at least, I am told he
+is).  He is not however, the definitive rendition of [[Severus
+Snape|adults/Snape]].  Lets not read more into the text than is actually there
+just because you actually like the *actor* as opposed to the *character*.  
+
+[^211220-2]: The practice isn't condemned, you'll find only opinion articles on
+    the subject.  
+    * <https://marriagemissions.com/missionary-dating-lead-good-marriage/>
+    * <https://thosecatholicmen.com/articles/love-em-before-you-date-em/>
+    * <https://www.catholicsingles.com/blog/missionary-dating/> 
+    Note quite on topic, but related: 
+    * <https://bustedhalo.com/questionbox/what-does-the-catholic-church-have-to-say-about-a-catholic-dating-a-christian-of-another-denomination>
+    * <https://gulfcoastcatholic.org/what-does-church-teach-about-dating-someone-who-different-faith>
+
+#### Lily and James
+
+Certainly this event clears the way for Lily to begin dating James.  Earlier I
+speculated that there are two possibilities.  Either she is embarrassed about
+being unable to return [[Snape|adults/Snape]]'s feelings, or she is embarrassed
+about being called upon her own feelings for [[James|adults/James]].  If the
+latter, I would have expected [[Lily|adults/Lily]] and [[James|adults/James]] to
+get together during their sixth year.  We are told they did not do so until
+seventh year.  
+
+A third possibility is that it is some combination of *both* of the above
+scenarios.  If [[Lily|adults/Lily]] is attracted to but conflicted about
+[[James|adults/James]] then we have a rational story towards their relationship
+during seventh year.  Instead of a miraculous about face where she goes from
+hating him to head over heels in love, she has gradually watched him mature over
+sixth year, and finally become the man she has been pushing him to be as he
+embraces responsibility as Head Boy in seventh year.  In a sense, this is
+exactly my point about missionary dating.  [[Lily|adults/Lily]] agrees to date
+[[James|adults/James]] only after the man she has been attracted to all along
+makes that change to become someone she can see herself marrying *on his own*,
+**before she begins their relationship**.  Only then does she allow herself to
+act on that attraction by agreeing to go out with him. 
