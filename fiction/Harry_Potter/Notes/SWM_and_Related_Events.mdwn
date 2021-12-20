@@ -4,7 +4,7 @@
 
 Any attempt to understand [[Sirius|adults/Sirius]], [[Lily|adults/Lily]],
 [[James|adults/James]], [[Snape|adults/Snape]], the relationships (both positive
-and negative) between them, and yes, even to some extent
+and negative) between them, and yes, even to some extent even 
 [[McGonagall|adults/McGonagall]] and [[Dumbledore|adults/Dumbledore]] ends up
 pivoting on the events at the end of the 1975-1976 school year when
 [[Lily|adults/Lily]], [[James|adults/James]] and their friends (or enemies as
@@ -21,7 +21,7 @@ chunk of page 279 back in _Deathly Hallows_.  Overall there is just way too much
 of Mrs. Rowling's copyrighted text for me to feel comfortable even block quoting
 it.  So I will summarise what we know.  From these two books:
 
-### Evidence from The Shrieking Shack[^20210921-5]
+### Evidence from The Shrieking Shack[^210921-5]
 * “Severus was very interested in where I went every month,” 
 * [[Lupin|adults/Lupin]] says that [[Sirius|adults/Sirius]] alone is responsible
   for telling [[Snape|adults/Snape]] to go into the tunnel, and how.
@@ -33,7 +33,7 @@ it.  So I will summarise what we know.  From these two books:
 * [[Snape|adults/Snape]] confirms that belief as he reveals himself from under
   the invisibility cloak.
 
-[^20210921-5]: Mrs. J. K. Rowling. 
+[^210921-5]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban)_
     Page 357. © 2000 Pottermore Limited. American Kindle Edition.
 
@@ -43,7 +43,7 @@ Immediately following the events in the Shrieking Shack:
 
 > “Sirius Black showed he was capable of murder at the age of sixteen,” he
 > breathed. “You haven’t forgotten that, Headmaster? You haven’t forgotten that
-> he once tried to kill *me*?”[^20210921-6]
+> he once tried to kill *me*?”[^210921-6]
 
 The above quote is almost trivial, it is hard to blame [[Snape|adults/Snape]]
 for disliking someone who tried to kill him after all.  The reason I bring it up
@@ -55,11 +55,11 @@ if [[Dumbledore|adults/Dumbledore]] was not willing to give
 yet, he is not willing to allow for either in the case of those who have wronged
 him.  
 
-[^20210921-6]: Mrs. J. K. Rowling. 
+[^210921-6]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban)_
     p. 391. © 2000 Pottermore Limited. American Kindle Edition.
 
-### First relevant memory from Snape[^20210921-7]
+### First relevant memory from Snape[^210921-7]
 
 * [[Lily|adults/Lily]] and [[Snape|adults/Snape]] are an unknown amount older
   than when they were sorted.  We *infer* that this is fifth year. 
@@ -93,7 +93,7 @@ him.
 * Once [[Lily|adults/Lily]] states that [[James|adults/James]] is "an arrogant
   toerag," [[Snape|adults/Snape]] stops listening to anything she says.  
 
-### Snape's second relevant memory, Order of the Phoenix version[^20210921-8]
+### Snape's second relevant memory, Order of the Phoenix version[^210921-8]
 
 * It is the Defence Against the Dark Arts OWL written exam.
 * [[James|adults/James]] and [[Snape|adults/Snape]] (minimally) *leave the exam
@@ -138,11 +138,11 @@ him.
 * [[James|adults/James]] returns to tormenting [[Snape|adults/Snape]] when
   [[Lily|adults/Lily]] storms off. 
 
-[^20210921-8]: Mrs. J. K. Rowling. 
+[^210921-8]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Order of the Phoenix](https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix)_
     Kindle Locations 9426-9519. Pottermore Limited. American Kindle Edition. 
 
-### Snape's Third Relevant Memory[^20210921-9]
+### Snape's Third Relevant Memory[^210921-9]
 
 * [[Snape|adults/Snape]] apologies.
 * [[Lily|adults/Lily]] refuses to hear it. 
@@ -199,7 +199,7 @@ possibilities:
    [[Snape|adults/Snape]] went down into that tunnel to investigate a suspected
    werewolf on the night of a full moon, then blames [[James|adults/James]] and
    [[Sirius|adults/Sirius]] for the fact that he \([[Snape|adults/Snape]]\)
-   found *precisely what he expected*.[^20210921-10]  If this is true, then
+   found *precisely what he expected*.[^210921-10]  If this is true, then
    [[Snape|adults/Snape]] is both a hypocrite and insanely stupid. 
 1. [[Snape|adults/Snape]] had no clue what to expect.  He did, however, know
    that [[Sirius|adults/Sirius]] hates him.  He broke school rules because
@@ -233,11 +233,11 @@ Unfortunately our most detailed account of these events comes from the memories
 that [[Snape|adults/Snape]], a master [[Occlumens|The_Mind_Arts/Occlumency]].
 We know that when Slughorn tried to modify a memory to give to
 [[Dumbledore|adults/Dumbledore]], the result was painfully obvious in a
-pensieve.[^20210921-1]  What we do not know is if it was obvious *because it was
+pensieve.[^210921-1]  What we do not know is if it was obvious *because it was
 modified* or if it was obvious *because the modification was crudely
-done.*[^20210921-2]  Thus we do not know if it is possible that
+done.*[^210921-2]  Thus we do not know if it is possible that
 [[Snape|adults/Snape]] modified these memories or not; we do not know how
-reliable a witness these memories represent.[^20210921-3] 
+reliable a witness these memories represent.[^210921-3] 
 
 The second memory, the one with the most discrepancies (see below), has some
 partial validation in that neither [[Sirius|adults/Sirius]] nor
@@ -290,33 +290,33 @@ to paint much the same picture.
 
 [Toxic]: https://www.fanfiction.net/s/12795425/2/Toxic
 
-[^20210921-10]: I was not the first to think of this. Cite others if I refind
+[^210921-10]: I was not the first to think of this. Cite others if I refind
     them. 
 
-[^20210921-3]: Some have speculated that pensieves rely on time magic.  Mrs.
+[^210921-3]: Some have speculated that pensieves rely on time magic.  Mrs.
     Rowling, writing on the [Pottermore][RPM1] site, says it relies on not just
     conscious recall, but "every detail stored in the
-    subconscious."[^20210921-4]
+    subconscious."[^210921-4]
 
-[^20210921-4]: Mrs. J. K. Rowling. 
+[^210921-4]: Mrs. J. K. Rowling. 
     "[Pensieve](https://www.rowlingindex.org/work/pmpens/)"
     [The J. K. Rowling Index](https://www.rowlingindex.org/)
     2014-07-14. 
 
 [RPM1]: https://www.pottermore.com 
 
-[^20210921-9]: Mrs. J. K. Rowling. 
+[^210921-9]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows)_
     p. 279.  Pottermore Publishing.  American Kindle Edition. 
 
-[^20210921-7]: Mrs. J. K. Rowling. 
+[^210921-7]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows)_
     p. 278.  Pottermore Publishing.  American Kindle Edition. 
 
-[^20210921-1]: Mrs. J. K. Rowling. 
+[^210921-1]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows)_
     pp. 309-310.  Pottermore Publishing.  American Kindle Edition. 
 
-[^20210921-2]: Mrs. J. K. Rowling. 
+[^210921-2]: Mrs. J. K. Rowling. 
     _[Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows)_
     pp. 309-310.  Pottermore Publishing.  American Kindle Edition. 
