@@ -1,0 +1,1 @@
+[[!calendar type=year year=2024 pages="page(*) and !*/Discussion"]]
