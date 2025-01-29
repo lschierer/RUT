@@ -1,0 +1,8 @@
+---
+title: Trust the Science
+date: "2005-08-03 20:49:24"
+tags:
+  - ", "politics-law
+---
+<p>I would like to make a brief response to a recent article by Mr. Pat Buchanan.  While I do not intend to explain the details here, I have for some time now thought that the terms "Republican" and "Democratic" are nearly meaningless.  Both parties are more than willing to harbor candidates who lie to the electorate. Both represent such a diversity of interest that it is often hard to know what they stand for.  The only surety is that a "Democrat" is more likely to be a "liberal" and a "Republican" more likely to be a "conservative."  Actually I take that back.  A second surety is that the "Democrat" will vote on party lines almost all of the time, and that the Republican will back down and give in much of the time.</p>  <p>For this reason, I think a continuation of the current political climate can only lead to continued decline in American society and governance.  So when Mr. Buchanan says that passing Central American Free Trade Agreement(CAFTA) will cause "economic patriots" to "begin to look outside the GOP for leadership,"<a href="http://www.wnd.com/news/article.asp?ARTICLE_ID=45468">[1]</a> my gut reaction is that we can live with CAFTA just as we live with NAFTA, especially if it means that we see a strengthening of the third party movements.  For you can be sure that the people Mr. Buchanan sees as "economic patriots" will not turn to the Democratic party for leadership on this issue.</p>  <font size="-2"> [1] Buchanan, Patrick J. "CAFTA: Ideology vs. national interests" WorldNetDaily (online) 2005-07-27. http://www.wnd.com/news/article.asp?ARTICLE_ID=45468<br  /> </font>
+

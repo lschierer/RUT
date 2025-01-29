@@ -1,0 +1,30 @@
+---
+title: Trust the Science
+date: "2007-11-01 19:51:28"
+tags:
+  - ", "quizes
+---
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="tblBorderAll">
+   <tr>
+     <td><img src="http://quizfarm.com//images/1133592712Serenity.jpg" />
+     </td>
+   </tr>
+   <tr><td><br /><a href="http://quizfarm.com/test.php?q_id=11856N">Which sci-fi crew would you best fit in with?</a><br /><font face='Arial' size='1'>created with <a href="http://quizfarm.com">QuizFarm.com</a></font></td></tr>
+   <tr><td>You scored as <b>Serenity (Firefly)</b><p>You like to live your own way and don't enjoy when anyone but a friend tries to tell you should do different.  Now if only the Reavers would quit trying to skin you.<br /><br /></p>
+         <table width='50%'><tr><td><p><font face='Arial' size='1'>Serenity (Firefly)</font></p></td><td>
+         <table border='1' cellpadding='0' cellspacing='0' width='69' bgcolor='#dddddd'><tr><td></td></tr></table></td><td><font face='Arial' size='1'>69%</font></td></tr><tr><td><p><font face='Arial' size='1'>Galactica (Battlestar: Galactica)</font></p></td><td>
+         <table border='1' cellpadding='0' cellspacing='0' width='63' bgcolor='#dddddd'><tr><td></td></tr></table></td><td><font face='Arial' size='1'>63%</font></td></tr><tr><td><p><font face='Arial' size='1'>Nebuchadnezzar (The Matrix)</font></p></td><td>
+         <table border='1' cellpadding='0' cellspacing='0' width='63' bgcolor='#dddddd'><tr><td></td></tr></table></td><td><font face='Arial' size='1'>63%</font></td></tr><tr><td><p><font face='Arial' size='1'>Andromeda Ascendant (Andromeda)</font></p></td><td>
+         <table border='1' cellpadding='0' cellspacing='0' width='56' bgcolor='#dddddd'><tr><td></td></tr></table></td><td><font face='Arial' size='1'>56%</font></td></tr><tr><td><p><font face='Arial' size='1'>Babylon 5 (Babylon 5)</font></p></td><td>
+         <table border='1' cellpadding='0' cellspacing='0' width='56' bgcolor='#dddddd'><tr><td></td></tr></table></td><td><font face='Arial' size='1'>56%</font></td></tr><tr><td><p><font face='Arial' size='1'>Heart of Gold (Hitchhiker's Guide to the Galaxy)</font></p></td><td>
+         <table border='1' cellpadding='0' cellspacing='0' width='50' bgcolor='#dddddd'><tr><td></td></tr></table></td><td><font face='Arial' size='1'>50%</font></td></tr><tr><td><p><font face='Arial' size='1'>Millennium Falcon (Star Wars)</font></p></td><td>
+         <table border='1' cellpadding='0' cellspacing='0' width='50' bgcolor='#dddddd'><tr><td></td></tr></table></td><td><font face='Arial' size='1'>50%</font></td></tr><tr><td><p><font face='Arial' size='1'>Deep Space Nine (Star Trek)</font></p></td><td>
+         <table border='1' cellpadding='0' cellspacing='0' width='50' bgcolor='#dddddd'><tr><td></td></tr></table></td><td><font face='Arial' size='1'>50%</font></td></tr><tr><td><p><font face='Arial' size='1'>FBI's X-Files Division (The X-Files)</font></p></td><td>
+         <table border='1' cellpadding='0' cellspacing='0' width='44' bgcolor='#dddddd'><tr><td></td></tr></table></td><td><font face='Arial' size='1'>44%</font></td></tr><tr><td><p><font face='Arial' size='1'>Enterprise D (Star Trek)</font></p></td><td>
+         <table border='1' cellpadding='0' cellspacing='0' width='44' bgcolor='#dddddd'><tr><td></td></tr></table></td><td><font face='Arial' size='1'>44%</font></td></tr><tr><td><p><font face='Arial' size='1'>Bebop (Cowboy Bebop)</font></p></td><td>
+         <table border='1' cellpadding='0' cellspacing='0' width='31' bgcolor='#dddddd'><tr><td></td></tr></table></td><td><font face='Arial' size='1'>31%</font></td></tr><tr><td><p><font face='Arial' size='1'>SG-1 (Stargate)</font></p></td><td>
+         <table border='1' cellpadding='0' cellspacing='0' width='31' bgcolor='#dddddd'><tr><td></td></tr></table></td><td><font face='Arial' size='1'>31%</font></td></tr><tr><td><p><font face='Arial' size='1'>Moya (Farscape)</font></p></td><td>
+         <table border='1' cellpadding='0' cellspacing='0' width='31' bgcolor='#dddddd'><tr><td></td></tr></table></td><td><font face='Arial' size='1'>31%</font></td></tr></table>
+   </td></tr>
+</table>
+

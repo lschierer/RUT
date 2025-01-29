@@ -1,0 +1,23 @@
+---
+title: Trust the Science
+date: "2006-07-12 14:16:01"
+tags:
+  - ", "evolution
+---
+I am reminded, if any such reminder were necessary, that mathematics is skeptical of evolution.<sup><a href="http://www.evolutionnews.org/2006/07/mathematicians_and_evolution.html" title="Evolution News &amp; Views: Mathematicians and Evolution">[^200607121]</a></sup>  Evolutionary Biologists cannot legitimately bypass the problem of probability by simply stating that the math does not matter.&nbsp; For our existence here does not prove that we got here via evolution.&nbsp; Rather, evolution, as a theory, must demonstrate how it compensates for the massive improbability of our existence.<br  />
+<br  />
+In genetic algorithms, we do allow "random" mutation and we do have selection.&nbsp; But we have intelligent selection.&nbsp; We select for criteria that we have chosen.&nbsp; Thus our programming more closely resembles breading than it does nature;&nbsp; we intelligently select from random developments in algorithm just as the farmer intelligently selects from random developments in his stock or produce.&nbsp; <br  />
+<br  />
+Darwin posits that survival itself can provide a selection that can rival intelligent selection.&nbsp; That may be, if so demonstrate it.&nbsp; But even then, it still takes <em><strong>time</strong></em> for these random developments to occur.&nbsp; As a result, even if evolutionists can demonstrate the viability of natural section as a replacement for intelligent selection, they will still only have done half of the job.&nbsp; Beyond that, they must also prove that there exists sufficient time, that the mutations happen at a sufficient rate, for the complexity we see, and not only the complexity but the diversity (complexity must not develop just once, but many times), to have developed.<br  />
+<br  />
+Some have advocated the solution to this that given sufficient time and given sufficient attempts, an event, no matter improbable, is bound to happen.&nbsp; Perhaps, if so, demonstrate that we have sufficient time and sufficient attempts to override the improbability of each single attempt.<br  />
+<br  />
+But in doing so, you cannot escape from the fact that we have left the field of biology far behind us.&nbsp; We have entered into the fields of mathematics/statistics (probability), and of cosmology, physics, astronomy and geology (demonstrating that attempts at complex life have happened elsewhere).&nbsp; We have the SETI search moving from the fringe of science to its core and forefront. &nbsp; Evolution must be opened to critique and investigation outside of biology <em>or it cannot be substantiated.</em><br  />
+<br  />
+All of that being said, I will again stipulate that my objections here have nothing to do with my faith.&nbsp; Were evolution to be proved, my faith would be unchallenged.&nbsp; My difference from the secular evolutionist though would remain, for I would posit that evolution was yet still directed.&nbsp; I would assert that it was the hand of God, acting not through the massive violation of the laws of nature that are the miracles we discover in the lives of the saints, but in a careful, unnatural (and thus outside the realm of science), and undetectable manipulation of the laws of nature, and of the interaction of particles, that shaped the history that brings us to being.&nbsp; His intent need not operate in ways we can detect.<br  />
+<br  />
+My objection to evolution is that it does not make sense.&nbsp; It does not explain satisfactorily.&nbsp; My questions meet with inadequate answers.&nbsp; 
+
+[^200607121]: Casey Luskin.  "Mathematicians and Evolution" Evolution News &amp; Views 2006-07-11.  <http://www.evolutionnews.org/2006/07/mathematicians_and_evolution.html> 
+
+

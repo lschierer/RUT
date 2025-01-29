@@ -1,0 +1,14 @@
+---
+title: Trust the Science
+date: "2006-12-08 16:08:44"
+tags:
+  - ", "politics-law
+---
+But the real question is why, if Nationalized Health care is so good, so determined and obligated to provide for the health of all citizens, was [this<sup>\[1\]</sup>][ref1] ever in doubt?
+
+<div markdown="1" class="postrefs">
+1.  BBC News.  "NHS to fund girl's costly drugs" BBC News 2006-12-08 http://news.bbc.co.uk/2/hi/uk_news/scotland/glasgow_and_west/6161213.stm
+</div>
+
+[ref1]: http://news.bbc.co.uk/2/hi/uk_news/scotland/glasgow_and_west/6161213.stm "NHS to fund girl's costly drugs"
+

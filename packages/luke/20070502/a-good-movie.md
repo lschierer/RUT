@@ -1,0 +1,8 @@
+---
+title: Trust the Science
+date: "2007-05-02 02:15:48"
+tags:
+  - ", "personal
+---
+I watched part of [Bicentenial Man](http://www.imdb.com/title/tt0182789/) this evening.  It is amazing at times how much a good book or a good movie can brighten a day.  I figure since I am paying for cable, I might as well use it.  The commercials are annoying though, and I notice the missing bits of movie in places. 
+

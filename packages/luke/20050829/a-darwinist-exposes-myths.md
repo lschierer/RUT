@@ -1,0 +1,8 @@
+---
+title: Trust the Science
+date: "2005-08-29 14:25:29"
+tags:
+  - ", "evolution
+---
+<p>It is nice to see that even some who do not believe in Intelligent Design are coming to realize that the defense of Darwinism is anything but scientific.<a href="http://www.americanthinker.com/articles.php?article_id=4761">[1]</a> The misrepresentations of Intelligent Design and those who support it should be incredibly embarrassing to those who think Darwinism true. If they cannot debate Intelligent Design on the merits, how can they claim that it is persuasive?</p>  <font size="-2"> [1] Cohen, Jonah Avriel.  "Why intelligent design theory ought to be taught" The American Thinker (online).  2005-08-25 http://www.americanthinker.com/articles.php?article_id=4761 </font>
+

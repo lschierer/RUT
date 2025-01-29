@@ -1,0 +1,10 @@
+---
+title: Trust the Science
+date: updated="2005-10-21"]]
+"2005-10-21"
+tags:
+untagged
+---
+[[!meta updated="2005-10-21"]]
+[[!map pages="20051021/* and ! 20051021/*/*"]]
+* [[Politics_And_Law/second-amendment-factoids]]

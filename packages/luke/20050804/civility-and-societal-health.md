@@ -1,0 +1,8 @@
+---
+title: Trust the Science
+date: "2005-08-04 19:43:44"
+tags:
+  - ", "society
+---
+<p>No clue how long this will be up, but for now Mr. Matt Drudge has up a piece from the UK Daily Mail that neatly summarizes some of the ideas that have been running through my head, especially has I have been reading <i>The Cube and the Cathedral</i>.<a href="http://www.drudgereport.com/flash3.htm">[1]</a> While I think she over-simplifies, it is certainly true that Europe is ceasing to be recognizably the same as what we have called Europe throughout most of the last two thousand years of history.  It is safe to say that a "Muslim Europe" will not, in any meaningful sense, be the same as the Europe that launched the Crusades or liberated Spain in the Middle Ages.</p>  <p>Her argument that a civilization's concept of civility, respect and manners is a reflection of its overall health is an interesting one.  It does however bear further clarification as well.  For it is important to emphasize that the whole picture be looked at. Else you could see the civility among people of the same class in France before its revolution as a measure of strong health, when the incivility between classes caused that society to crash into revolt, anarchy, and the tyranny of the masses.  Which is not to imply that the French revolution was not justified, simply that it chose as its methods, and achieved in its results, horrors no less than those which it fought to replace.</p>  <p>Still, overall, I think this short article a worth-while read, and worthy of extended thought, more than I am giving it here.</p>  <font size="-2"> [1] Collins, Joan.  "BRITAIN DESTROYING ITSELF FROM WITHIN" Drudge Report, 2005-08-04. http://www.drudgereport.com/flash3.htm <br  /> </font>
+

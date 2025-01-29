@@ -1,0 +1,9 @@
+---
+title: Trust the Science
+date: "2007-05-17 20:28:17"
+tags:
+  - ", "morality-religion
+  - ", "politics-law
+  - ", "quotes
+---
+"[T]he temptation to use power to secure the faith has arisen again and again in various forms throughout the centuries, and again and again faith has risked being suffocated in the embrace of power. The struggle for the freedom of the Church, the struggle to avoid identifying Jesus' Kingdom with any political structure, is one that has to be fought century after century. For the fusion of faith and political power always comes at a price: faith becomes the servant of power and must bend to its criteria." &mdash;Pope Benedict XVI

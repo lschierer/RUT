@@ -1,0 +1,8 @@
+---
+title: Trust the Science
+date: "2005-08-11 17:26:19"
+tags:
+  - ", "politics-law
+---
+<p>The Pledge of Allegiance is back in court, and apparently doing fairly well.<a href="http://www.law.com/jsp/article.jsp?id=1123684515276&rss=newswire">[1]</a> As the 4Th Circuit has upheld its constitutionality, it appears that this issue might reach the Supreme Court again more quickly than I had suspected, as the new case in California is not this far along. The article, however, makes no mention of the ruling that I would <em>like</em> to see: that there is no wall of separation between church and state, but only a requirement of non-establishment.</p>  <font size="-2"> [1] O'Dell, Larry.  "4th Circuit Upholds Virginia Law Requiring Pledge of Allegiance in Schools" Law.com 2005-08-11 http://www.law.com/jsp/article.jsp?id=1123684515276&rss=newswire </font>
+

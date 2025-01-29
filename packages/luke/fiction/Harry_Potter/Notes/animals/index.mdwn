@@ -1,6 +1,0 @@
-[[!meta title="Magical Animals in Harry Potter"]]
-
-[[!inline pages="fiction/Harry_Potter/Notes/animals/* and ! fiction/Harry_Potter/Notes/animals/*/*/*" 
-   archive=yes feeds=no quick=no limit=0 sort=title_natural]] 
-
-[[!tag "HP Notes"]]

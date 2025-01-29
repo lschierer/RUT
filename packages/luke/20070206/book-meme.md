@@ -1,0 +1,38 @@
+---
+title: Trust the Science
+date: "2007-02-06 18:09:05"
+tags:
+  - ", "quizes
+---
+<blockquote markdown="1">Please:
+
+1. Grab the nearest book.
+2. Open the book to page 123.
+3. Find the fifth sentence.
+4. Post the text of the next 3 sentences on your blog along
+with these instructions.
+5. Tag 5 people.<sup>[\[1\]][ref1]</sup>
+
+</blockquote>
+
+I am skipping step 5.  One, because there aren't 5 people I could tag who will not already have seen this, two because its too chain letterish.  You will not that she did not tag anyone either.
+
+I have two books approximately equidistant from me, since I had two books in my bag today.
+
+1.  Ms. L. M. Montgomery.  <i>Anne of the Island</i>.  Page 123 of my edition, sentences 5-8: <blockquote>In fact, I daresay they're a good deal the worse.  But they've worn nice and easy. New shoes are smarter than old ones, but the old ones are the more comfortable.</blockquote>  Aunt Jamesina's introductory speach to the girls as they set up housekeeping at "Patty's Place" for their sophmore year at Redmond.
+2.  Mr. Peter Kreeft & Mr. Ronald K. Tacelli.  <i>Handbook of Christian Apologetics</i> Page 123 of my edition, sentences 5-8: <blockquote markdown="1">The heart of the problem is not found in words like ours, in a book, but in the words from the cross: "My God, my God, why have you forsaken me?"  It is a problem not on paper, but on wood.
+
+Three forms of the problem of evil must be distinguished:
+
+1. It may be claimed that *any* evil disproves an all-good God.
+2. Or it may be claimed that the *amount* of evil, the superfluity and needlessness and pointlessness of much evil, disproves God.
+3. Or it may be claimed that the *unjust distribution* of evil disproves God--not that bad things happen, or even that so many bad things happen, but that they happen to good people just as much as to bad people.
+
+</blockquote> Here we are looking at part of the introduction to what will be an entire chapter devoted to the question fairly well summed up in those bullets. 
+
+<div markdown="1" class="postrefs">
+1. Miss "Baranoouji."  "Book meme"  The Young Lady's Illustrated Primer.  2007-02-06 http://baranoouji.livejournal.com/317012.html
+</div>
+
+[ref1]: http://baranoouji.livejournal.com/317012.html "Book meme"
+

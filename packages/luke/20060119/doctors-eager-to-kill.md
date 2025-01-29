@@ -1,0 +1,9 @@
+---
+title: Trust the Science
+date: "2006-01-19 15:19:20"
+tags:
+  - ", "society
+---
+
+<p>One of these days doctors are going to become more wary about diagnosing people as being in a "persistent" or "irreversible" vegetative state.  Most recently, it almost, and might still, cost a young 11 year old her life.<sup><a href="http://news.bbc.co.uk/2/hi/americas/4627248.stm" title="US coma girl responds to stimuli">[1]</a></sup> Preferably, such a diagnosis would cease to be a death sentence, but considerable more reluctance would be a significant forward step.</p>  <ol><font size="-2"><li><font size="-2">BBC International News. "US coma girl responds to stimuli" BBC News. 2006-01-19 http://news.bbc.co.uk/2/hi/americas/4627248.stm </font></li></font></ol>
+

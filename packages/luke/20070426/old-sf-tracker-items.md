@@ -1,0 +1,20 @@
+---
+title: Trust the Science
+date: "2007-04-26 22:27:25"
+tags:
+  - ", "pidgin
+---
+It has come to my attention that when I changed the SF Bug, RFE, Support, gtk-bugs, and rejected patches trackers to be visible to project members only, SF stopped sending emails out to people who had commented on those items, but are not project members.
+
+I closed these trackers down shortly after our public release because it quickly became apparent that their existence was hindering the adoption of trac, and would continue to do so as long as they existed.  In some cases, when requested to submit at trac instead of SF, some people would *refuse*, siting the fact that it means registering again, or that trac is in some way confusing.  We (the project members) had decided that as good a home  as SF has been to us, that it was time for us to grow beyond it.  This combination of intransigence and our decision left me with very few options. 
+
+1. I could leave the SF trackers open, knowing that people would submit there, and knowing I intended to close every item there.  This would result in some items only days or hours old being closed with a canned message, just like those months and years old.  This would be confusing and frustrating for all involved. 
+
+2. I could close the trackers, and close the items in those trackers afterwards.  I thought that this would continue to send an email to the submitter and any who had commented on that item.  I have since been informed that this is not the case; only submitters and project members get emails.  If it had worked as I thought, it would have been an ideal way to clean out the tickets and yet give users the opportunity to reopen any they were still concerned about. 
+
+3. I could attempt to import several thousand open items into trac.  I rejected this because one of the flaws of the SF trackers is that the several thousand ticket size was too large for me to manage, and oppressively large for many other developers.  Many tickets went unclosed, not because the issue was unfixed, but because no developer had read that ticket in a very long time.  I decided that a clean sweep was the only way to get our ticketing back under control.  Hopefully with the new development processes that we are implementing in our new space, we will be able to prevent the new trac ticketing from reaching that state of bloat at all. 
+
+I am sorry that the flaws in SF's ticketing have caused this move to be a time of greater confusion than is strictly necessary.  I will continue to try to provide the best support to our users that my available time allows, and I hope that you all will forgive, or at least understand, the decisions I have made. 
+
+<strong><big>UPDATE:</big></strong> I have learned that my information was bad; SF has in fact been sending emails to commenters as well as submitters and project members.  This is a good thing. 
+

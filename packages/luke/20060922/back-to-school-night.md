@@ -1,0 +1,10 @@
+---
+title: Trust the Science
+date: "2006-09-22 03:13:22"
+tags:
+  - ", "personal
+---
+This year only one teacher mistook me for a parent.  Or at least, only one did so audibly.  Quite an improvement.  The teacher presentations are really boring, how is it that parents can be so interested?  Oh, yes, this is your sylabus, and oh, like every other teacher, you have a website with the sylabus on it.  So I really do not need to be here to get it, and I really do not need to to read/summarize it.  I can read perfectly well, thank you.  
+
+My other observation of the night is that parents <em>really</em> do not know how to walk through crowded hallways with a deadline.  Nor do they seem to care about being late.  Though they do seem to have <em>a little</em> embarrassment when they arrive late, for all that doesn't translate into minding the time in the halls.
+

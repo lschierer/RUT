@@ -1,0 +1,10 @@
+---
+title: Trust the Science
+date: "2006-02-17 15:45:17"
+tags:
+  - ", "politics-law
+  - ", "technical
+---
+
+<p>Personally, I am not much of a CD player.  I find that about the only time I want to listen to the contents of just one CD is when I am listening to classical music, where a single work may be multiple tracks.  Nor are the multi-disk changers an optimal solution.  There is a noticeable delay as the disk is changed. As a result, I prefer to rip my CDs, shuffle the songs up in <a href="http://www.musicpd.org/" title="Music Player Daemon Homepage">mpd</a>, and listen to them in that form.  Sure, I am aware that both mp3 and ogg formats are lossy, but I really cannot notice the difference, and it is worth it for the convenience.</p>  <p>Sounds reasonable right?  The RIAA does not think so.<sup><a href="http://arstechnica.com/news.ars/post/20060215-6190.html" title="RIAA et al. says CD ripping, backups not fair use">[1]</a><a href="http://www.eff.org/deeplinks/archives/004409.php" title="RIAA Says Ripping CDs to Your iPod is NOT Fair Use">[2]</a></sup> They have retreated from their statement that rip CDs you own for use on the computer or on an mp3 player.  Now, they do not even think you should be allowed to create a duplicate of the CD to save one as a backup in case the disc gets scratched.  They would rather you buy multiple copies of each song (one on CD and one as mp3), and listen to them only when and in ways they envision.</p>  <ol><font size="-2"><li><font size="-2">Mr. Ken "Caesar" Fisher.  "RIAA et al. says CD ripping, backups not fair use" ars technica 2006-02-15. http://arstechnica.com/news.ars/post/20060215-6190.html</font></li><li><font size="-2">Mr. Fred von Lohmann.  "RIAA Says Ripping CDs to Your iPod is NOT Fair Use" Deep Links 2006-02-15. http://www.eff.org/deeplinks/archives/004409.php </font></li></font></ol>
+

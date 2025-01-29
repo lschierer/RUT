@@ -1,8 +1,0 @@
-[[!meta  title="20050217-1237"]]
-[[!meta  date="2005-02-17 17:37:00"]]
-So LiveJournal is including HTML in its descriptions, and snownews
-appears to handle it.  But if I do that, which I currently am,
-though I originally had not been, snownews cannot handle it.
-I am perplexed.
-
-[[!tag  uncategorized]]

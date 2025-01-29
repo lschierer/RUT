@@ -1,0 +1,11 @@
+---
+title: Trust the Science
+date: "2008-12-19 13:22:32"
+tags:
+  - ", "morality-religion
+  - ", "personal
+---
+Dr. Mike Adams quotes Saint Jude's Epistle several times in his article, "St. Jude, Don't Make it Bad"[^200812191].  I need to read it.  I need to read more non-fiction in general. 
+
+[^200812191]: Dr. Mike Adams. "St. Jude, Don't Make it Bad" [TownHall.com](http://www.townhall.com) 2008-12-18. <http://townhall.com/columnists/MikeSAdams/2008/12/18/st_jude,_dont_make_it_bad?page=full&comments=true>
+

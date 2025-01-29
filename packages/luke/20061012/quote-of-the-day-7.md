@@ -1,0 +1,10 @@
+---
+title: Trust the Science
+date: "2006-10-12 14:21:07"
+tags:
+  - ", "morality-religion
+  - ", "politics-law
+  - ", "quotes
+---
+"This is the perfect drug for male predators, who will now be able to purchase that drug without question as long as they (not the girl) are 18." &mdash;Susan E. Wills, "<a href="http://ncregister.com/site/article/243/" >‘Plan B’ Pill: Winners and Losers</a>" National Catholic Register, Octover 15-21, 2006 Issue.
+

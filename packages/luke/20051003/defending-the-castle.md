@@ -1,0 +1,8 @@
+---
+title: Trust the Science
+date: "2005-10-03 15:37:12"
+tags:
+  - ", "politics-law
+---
+<p>Mrs. Michelle Malkin has an amusing piece up on the Florida law authorizing self defense.<sup><a href="http://michellemalkin.com/archives/003647.htm">[1]</a></sup> Apparently the reporting on both sides of this law have been somewhat less than accurate.  What is essentially going on here, according to Mrs. Malkin's source, is a restatement of the "Castle Doctrine" (the idea that a man's home is his castle, a place he is legally authorized to protect and can not be legally required to retreat from, with the usual exceptions for law enforcement), with a simplification/extension (it is, apparently, intended as some of both) to allow this idea (that you can defend yourself and yours) to apply wherever one has the legal right to be.  This is not really new law in Florida, but a return to the way things had been and still are in North Florida (again, according to Mrs. Malkin's source).  So much for the poor reporting on the side in favor.  The side against is worse: they are ignoring the legal requirement that lethal force be used only when there is a threat to life or severe harm.  This will not authorize minor fights to escalate into shooting matches.</p>  <p>The part that makes this amusing though is that Mrs. Malkin's source blames the confusion in south Florida that led to this law on "damned Yankees" who have moved to Florida as they retire and/or grow rich.</p>  <font size="-2"> <ol> <li>Mrs. Michelle Malkin.  "FLORIDA: LOCKED AND LOADED" MichelleMalkin.com 2005-10-01. http://michellemalkin.com/archives/003647.htm</li> </ol> </font>
+

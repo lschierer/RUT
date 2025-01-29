@@ -1,0 +1,8 @@
+---
+title: Trust the Science
+date: "2005-09-22 18:37:33"
+tags:
+  - ", "evolution
+---
+<p>More speculation that the "hobbit" find that I <a href="https://www.schierer.org/~luke/log/20050303-1507/20050303-1507">mentioned some time ago</a> in fact represents diseased humans.<sup><a href="http://news.bbc.co.uk/2/hi/science/nature/4268122.stm">[1]</a></sup> Naturally the idea of a new species is accepted uncritically while those scientists expressing skepticism are treated more critically. My question is as follows: does microephaly have a genetic component? That is, is it like dwarfism that runs in families?  If so, then it would seem to me that the new species argument is overthrown, as the only counter raised was that more than a single individual was found.  The same genetic forces that would have lead a new species to develop would cause a genetic disorder to become prevalent in an isolated population as well.</p>  <font size="-2"> [1] BBC News.  "New 'Hobbit' disease link claim" BBC News World Edition (online) 2005-09-22. http://news.bbc.co.uk/2/hi/science/nature/4268122.stm </font>
+

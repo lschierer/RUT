@@ -1,0 +1,14 @@
+---
+title: Trust the Science
+date: "2006-01-23 19:27:02"
+tags:
+  - ", "morality-religion
+  - ", "politics-law
+---
+<p>For all those who would tout the state as a check on the flaws in some parents, look at the sort of thing that can still happen after the state takes over.  After removing her from abuse in a prior home, they totally ignored reports of abuse in her new home.<sup><a href="http://michellemalkin.com/archives/004337.htm" title="Blogging for Haleigh">[1]</a></sup></p>
+
+<p>Admittedly, some parents go wrong.  The adoptive ones in this very case did afterall.  But I do not see why we should trust a flawed, human institution, made up of flawed human beings, to do a better job than the parents do.  I think this case rather emphasizes why.  Time and time again, various people in contact with this little girl contacted the State to ask for intervention.  Time and time again the State failed, but because these people trusted the State to determine and to act, nothing was done.</p>
+
+<ol><font size="-2"><li><font size="-2">Mrs. Michelle Malkin.  "Blogging for Haleigh" www.michellemalkin.com 2006-01-21 http://michellemalkin.com/archives/004337.htm  
+</font></li></font></ol>
+

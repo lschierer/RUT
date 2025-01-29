@@ -1,0 +1,10 @@
+---
+title: Trust the Science
+date: "2007-04-04 19:56:42"
+tags:
+  - ", "personal
+---
+I have had no luck using my airport express to connect shorty to the wireless network.  Hopefully that will change with the steps listed at [this page][ref1] that Vincas found. 
+
+[ref1]: http://www.macosxhints.com/article.php?story=20060609053254368 "Extend a Linksys WRT54G network via AirPort Express"
+

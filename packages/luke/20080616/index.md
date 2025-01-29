@@ -1,0 +1,9 @@
+---
+title: Trust the Science
+date: updated="2008-06-16"]]
+"2008-06-16"
+tags:
+untagged
+---
+[[!meta updated="2008-06-16"]]
+[[!map pages="20080616/* and ! 20080616/*/*"]]

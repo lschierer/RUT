@@ -1,0 +1,15 @@
+---
+title: Trust the Science
+date: "2005-10-21 15:08:30"
+tags:
+  - ", "politics-law
+---
+What do you want to bet that there will be no mention in the mainstream press of a black college professor who would like to see all white people killed?<sup><a href="http://www.johnlocke.org/lockerroom/lockerroom.html?id=5853" title="*Former* NC State visiting prof Kamau Kambon DID call for the extermination of white people">[1]</a><a href="http://www.townhall.com/opinion/columns/mikeadams/2005/10/21/172189.html" title="Exterminating Whitey">[2]</a><a href="http://michellemalkin.com/archives/003754.htm" title="'WE HAVE TO EXTERMINATE WHITE PEOPLE''">[3]</a></sup>  Surely they will be quick to denouce such blatent racism and hatred &#x2026; or not.   No, in the eyes of too many, racism is a crime that black people cannot commit.
+
+<font size="-2"><ol>
+	<li>Mr. Jon Sanders.  "*Former* NC State visiting prof Kamau Kambon DID call for the extermination of white people" The Locker Room 2005-10-20.  http://www.johnlocke.org/lockerroom/lockerroom.html?id=5853 </li>
+	<li>Dr. Mike Adams.  "Exterminating Whitey" Townhall.com 2005-10-21.  http://www.townhall.com/opinion/columns/mikeadams/2005/10/21/172189.html </li>
+	<li>Mrs. Michelle Malkin.  "'WE HAVE TO EXTERMINATE WHITE PEOPLE'"  MichelleMalkin.com 2005-10-21.  http://michellemalkin.com/archives/003754.htm </li>
+</ol>
+</font>
+

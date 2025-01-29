@@ -1,0 +1,22 @@
+---
+title: Trust the Science
+date: "2007-01-08 15:21:53"
+tags:
+  - ", "politics-law
+---
+As the Democrats take power in Congress, they, being Democrats, think first about our taxes.  Back in the early days of the Republican majority in the House, a rule was passed requiring a three-fifths majority to raise taxes.  Democrats elected not to repeal this rule: doing so would open them up to easy criticism.  Instead, they created a loophole; the rule can now be suspended by a simple majority.<sup>[\[1\]][ref1]</sup>  This makes it much easier for them to raise our taxes as time goes on.
+
+I am less sure what to make of the other rule change.  They also voted to put Congress under a "pay as you go" rule.  This rule appears to be miss-named, it does not require an end to deficit spending, or only spending money as it comes in.  Instead, it requires that any tax cut be either paired with a tax hike, a new tax, or a reduction in spending.  On one hand, we should not have *any* deficit spending, and this rule has, on the surface at least, some potential to help end that.   On the other hand, not all tax cuts reduce the available funds to congress.
+
+Taxes work on a sort of bell curve.  For very low tax rates, an increase in taxes increases funds.  At some point, the exact value of which economists differ, the tax rate starts to stifle the economy.  People buy less, businesses make less, they innovate less, grow less.  At this point, a tax hike would *reduce* funds.  Those in favor of tax cuts generally feel that we have already passed this point.  Democrats usually feel that either we have yet to reach it, or that we can avoid this effect by only taxing "the rich."
+
+In practice, it often feels like everyone who is not decidedly low income is part of "the rich" in the eyes of a Democratic congress-critter.  That is, however, a different discussion.
+
+The end result is that *if* the Republicans are right, that a tax cut would create an increase in revenue (by moving us back towards the peak of the bell curve above), then this new rule is senseless.  The hypothetical future Republican majority will be forced to undermine the effects of their tax cut by raising them elsewhere, *or* to cut spending.  I am all in favor of this latter, but *either* option will open them up to severe demagoguery.  The net result appears to be that it is now much easier to raise taxes, and much more difficult to cut them. 
+
+<div markdown="1" class="postrefs">
+1. Mr. Donald Lambro.  "House rules change clears way for tax increases" The Washington Times 2007-01-07.  http://www.washingtontimes.com/national/20070106-115506-5182r.htm
+</div>
+
+[ref1]: http://www.washingtontimes.com/national/20070106-115506-5182r.htm "House rules change clears way for tax increases"
+

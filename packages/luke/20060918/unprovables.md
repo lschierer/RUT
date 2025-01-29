@@ -1,0 +1,13 @@
+---
+title: Trust the Science
+date: "2006-09-18 19:43:29"
+tags:
+  - ", "evolution
+---
+Mr. George Gilder claims that Mr. (Dr.?) Kurt G&#xf6;del proved "in essence that every logical system, including mathematics, is dependent on premises that it cannot prove and that cannot be demonstrated within the system itself, or be reduced to it."<sup><a href="http://www.discovery.org/scripts/viewDB/index.php?command=view&id=3631" title="Evolution and Me">[1]</a>[2]</sup>  Does anyone know if that is in fact the case?  The proof is no doubt beyond me, but E.L. or J.D.  would likely be able to understand it, were they interested.  I am rather curious to know if this authors claims of the proof (that mathematics necessarily rests on unprovables) are true.
+
+<div class="postrefs"><ol>
+<li>Mr. George Gilder.  "Evolution and Me."  National Review 2006-07-17.  Viewed 2006-09-18 at http://www.discovery.org/scripts/viewDB/index.php?command=view&id=3631</li><li>
+</li><li>I have tagged this post as being "evolution."  Why I have done so will become clear if either you read the article referenced, or if I get around to posting _about_ the article, vs about a tiny bit of its content.</li>
+</ol></div>
+

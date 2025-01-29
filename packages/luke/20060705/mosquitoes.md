@@ -1,0 +1,12 @@
+---
+title: Trust the Science
+date: "2006-07-05 16:11:43"
+tags:
+  - ", "science
+---
+Air Pollution in Athens Greece has been blamed for a noteworthy development in mosquitoes.<sup><a href="http://news.yahoo.com/s/afp/20060704/hl_afp/greecehealthdisease" title="Air pollution, cramped living in Athens breeding 'super mosquitoes'">[1]</a></sup>  Apparently, the mosquitoes there are growing larger, with better vision and better smell.  They are also growing faster.  The end result is that they can detect you at 25-30 meters instead of only 15-20.  And the faster speed makes it more likely they will reach you.  This makes me want to go to Athens oh so much, how about you?
+
+<font size="-2"><ol><font size="-2">
+<li><font size="-2">AFP.  "Air pollution, cramped living in Athens breeding 'super mosquitoes'" Yahoo News 2006-07-05.  http://news.yahoo.com/s/afp/20060704/hl_afp/greecehealthdisease</font></li>
+</font></ol></font>
+

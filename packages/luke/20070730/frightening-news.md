@@ -1,0 +1,12 @@
+---
+title: Trust the Science
+date: "2007-07-30 18:09:52"
+tags:
+  - ", "politics-law
+---
+Mr. Edward Lucas of the Daily Mail in the United Kingdom brings us frightening news of a strong tendency back towards invasive and pervasive government.[^200707301]  Looking at the activities of a state sponsored youth group, the author makes comparisons to Hitler's rise to power and the Hitler youth.
+
+While the bulk of the article focuses on this comparison, the top few paragraphs talk about one of the odder aspects of the youth group.  Apparently, the Kremlin is very concerned about Russia's demographics and, unlike many other European countries, is trying to do something about it.  The summer camp features mass weddings and procreation is strongly encouraged, attempting to offset population losses projected to drop by a million a year in the next decade.  
+
+[^200707301]: Mr. Edward Lucas.  "Sex for the motherland: Russian youths encouraged to procreate at camp."  Daily Mail.  2007-07-29.  <http://www.dailymail.co.uk/pages/live/articles/news/news.html?in_article_id=471324&in_page_id=1770>
+

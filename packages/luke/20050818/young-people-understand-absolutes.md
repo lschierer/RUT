@@ -1,0 +1,8 @@
+---
+title: Trust the Science
+date: "2005-08-18 17:51:33"
+tags:
+  - ", "morality-religion
+---
+<p>In a report that would never make the news here in the United States, Reuters India has a story about how they have found that many "young people" (the vagueness of that demographic annoys me slightly) support the Church's teaching on sexuality, and understand the importance of <em>having</em> absolutes even when many fail to follow them.<a href="http://in.today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-18T195922Z_01_NOOTR_RTRJONC_0_India-213095-1.xml">[1]</a> This is an important story, and its a shame that its not being carried more widely.</p>  <font size="-2"> [1] Heneghan, Tom.  "Young Catholics want Pope to uphold Church sex stand" Reuters (India, online).  2005-08-18 http://in.today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-08-18T195922Z_01_NOOTR_RTRJONC_0_India-213095-1.xml </font>
+

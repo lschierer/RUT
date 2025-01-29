@@ -1,0 +1,12 @@
+---
+title: Trust the Science
+date: "2006-03-06 19:33:58"
+tags:
+  - ", "pidgin
+  - ", "technical
+---
+<p>Apparently I have been "entirely obstructive" with regards to gaim and autopackage.<sup><a href="http://plan99.net/~mike/blog/?p=30" title="on the future of autopackage">[1]</a></sup>  I consider this a complement, as I tend to agree more with (Mr.?) Josselin Mouette's <a href="http://np237.livejournal.com/7010.html" title="Making fun of people is bad...">post<sup>[2]</sup></a> than not.  Mr. Hearn is essentially just a troll, sometimes amusing, sometimes annoying, but always just a troll.</p>
+
+
+<ol><font size="-2"><li><font size="-2">Mr. Mike Hearn.  "on the future of autopackage."  "Mike's Journal" 2006-03-03.  http://plan99.net/~mike/blog/?p=30</font></li><li><font size="-2">Josselin Mouette.  "Making fun of people is bad..." "Joss's blog"  2006-03-04.  http://np237.livejournal.com/7010.html</font></li></font></ol>
+

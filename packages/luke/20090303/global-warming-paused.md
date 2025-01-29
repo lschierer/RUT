@@ -1,0 +1,18 @@
+---
+title: Trust the Science
+date: "2009-03-03 13:25:29"
+tags:
+  - ", "global-warming
+---
+While 2005-2007 were years of record warmth, the overall trend since 2001 averages out to a nice flat line.[^20090303-1]  But while we could see this flat line continue, or even drop down into a period of cooling, you should not doubt that global warming is real, and is caused by us.  It might take 30 years to show up again, but when it does, even though we do not know why things are cooling now, we are sure the warming will be "explosive."[^20090303-2]
+
+Or, we could accept that what we really had was not "global warming" but "solar warming," which affected Mars and Jupiter as well, and that as the sun's activity level has dropped, so too has our temperature.  Or we could accept that we really do not have all that much ability to influence our planet's climate yet, and that the correlation of green house gases the last few decades did not equal causation.  We could be honest and admit that we do not know all that much about climatology, not much more than we know about the weather next week.
+
+But then we would have to admit that all this hype and all this worry, and all of the billions of dollars going into trying to stave off what is, under global warming theory, irreversible, is wrong headed. 
+
+We cannot do that.  Why, some people make careers out of scaring the rest of us with how evil we are, and how much we are hurting the planet!  They would be out of a job!
+
+[^20090303-1]: Mr. Michael Reilly "Global Warming: On Hold?" Discovery Channel. Viewed 2009-03-03.  <http://dsc.discovery.com/news/2009/03/02/global-warming-pause.html>
+
+[^20090303-2]: Ibid. <http://dsc.discovery.com/news/2009/03/02/global-warming-pause-02.html>
+

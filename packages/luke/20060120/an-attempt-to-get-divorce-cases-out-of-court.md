@@ -1,0 +1,10 @@
+---
+title: Trust the Science
+date: "2006-01-20 17:38:44"
+tags:
+  - ", "morality-religion
+  - ", "politics-law
+---
+
+<p><a href="www.catholicnewsagency.com" title="Catholic News Agency">Catholic News Agency</a> is reporting that Ave Maria School of Law professor Mr. (Dr.?) Stephen Safranek has filed an appeal on the divorce and custody decision against Mrs. Macfarlane.<sup><a href="http://www.catholicnewsagency.com/new.php?n=5792" title="Legal appeal challenges civil no-fault divorce unconstitutional">[1]</a></sup> Though I do not seem to have written about this case before, I am aware of it.  Mrs. Macfarlane lost custody of her children when her husband filed for a no fault divorce, because the judge ruled that her refusal to accept the normalcy and faultlessness of the divorce is grounds to question her parenting.  I am pretty sure he went further, that he questioned her sanity, but I cannot find documentation of that now.</p>  <p>Either way, I hope her appeal works, it would create precedent to remove proceedings from a court system that is highly biased in favor of divorce.</p>  <ol><font size="-2"><li><font size="-2">Catholic News Agency.  "Legal appeal challenges civil no-fault divorce unconstitutional" www.catholicnewsagency.com. 2006-01-20 http://www.catholicnewsagency.com/new.php?n=5792 </font></li></font></ol>
+

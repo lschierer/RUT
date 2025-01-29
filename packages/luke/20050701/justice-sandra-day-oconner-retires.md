@@ -1,0 +1,8 @@
+---
+title: Trust the Science
+date: "2005-07-01 15:11:33"
+tags:
+  - ", "politics-law
+---
+<p>I heard from a debian developer's web log that Justice Sandra Day O'Conner has announced her retirement.<a href="http://adam.rosi-kessel.org/weblog/the_law/oconnor_resigning.html">[1]</a> The BBC simply lists her as a Justice who has often cast the deciding vote in cases,<a href="http://news.bbc.co.uk/2/hi/americas/4642059.stm">[2]</a> while CNN goes a little further, making clear that she is significant in the decisions related to elections and, far more importantly, abortion.<a href="http://www.cnn.com/2005/LAW/07/01/oconnor.resigns.ap/index.html">[3]</a>.</p>  <p>I <strong><em>hope</em></strong> that President Bush nominates a good originalist, not someone like Attorney General Gonzales. We need someone who will help put a halt to the judicial tyranny that we are currently living under, where the nine men and women of the Supreme Court effectively legislating from the bench.</p>  <p><strong><big>Update 20050701-1122:</big></strong>  Mrs. Michelle Malkin apparently agrees with my take that Mr. Gonzales would be a poor choice.</p><font size="-2"> [1] http://adam.rosi-kessel.org/weblog/the_law/oconnor_resigning.html <br  /> [2] http://news.bbc.co.uk/2/hi/americas/4642059.stm <br  /> [3] http://www.cnn.com/2005/LAW/07/01/oconnor.resigns.ap/index.html <br  /> </font>
+

@@ -1,9 +1,0 @@
-[[!meta  title="20050414-1419"]]
-[[!meta  date="2005-04-14 19:19:00"]]
-<p> "<a href="http://www.physorg.com/news3679.html">Optical computer
-made from frozen light</a>" talks about a Harvard (of all places)
-lab that has slowed light down to insanely slow speeds and thinks
-they can build a light-based (instead of electrical based) computer.
-Some very cool research.</p>
-
-[[!tag  uncategorized]]

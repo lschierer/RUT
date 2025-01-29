@@ -1,9 +1,0 @@
-[[!meta  title="20050216-1459"]]
-[[!meta  date="2005-02-16 19:59:00"]]
-Anyone interested in cryptography will be interested in "<a href="http://www.schneier.com/blog/archives/2005/02/sha1_broken.html">SHA-1
-Broken</a>" from Bruce Schneier's "<a href="http://www.schneier.com/blog/">Schneier on Security</a>" blog.
-The related research paper is not out yet apparently.  I really do
-need to get "the code book," a book on quantum ciphers that Chris
-Ruark recommended.
-
-[[!tag  uncategorized]]

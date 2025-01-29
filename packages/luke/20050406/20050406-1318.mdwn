@@ -1,8 +1,0 @@
-[[!meta  title="20050406-1318"]]
-[[!meta  date="2005-04-06 18:18:00"]]
-<p> <a href="http://arstechnica.com">Someone else</a> has noticed and
-<a href="http://arstechnica.com/news.ars/post/20050406-4782.html">is
-writing</a> about the concerns inherent in putting GPS systems
-in cars.</p>
-
-[[!tag  uncategorized]]
