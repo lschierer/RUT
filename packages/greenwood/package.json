@@ -1,0 +1,25 @@
+{
+  "name": "random-unfinished-thoughts",
+  "version": "3.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx --import @greenwood/cli/register ./node_modules/@greenwood/cli/src/index.js develop",
+    "start": "tsx --import @greenwood/cli/register ./node_modules/@greenwood/cli/src/index.js develop",
+    "build": "tsx --import @greenwood/cli/register ./node_modules/@greenwood/cli/src/index.js build",
+    "serve": "tsx --import @greenwood/cli/register ./node_modules/@greenwood/cli/src/index.js serve"
+  },
+  "devDependencies": {
+    "@greenwood/cli": "0.31.0",
+    "@greenwood/plugin-google-analytics": "0.31.0",
+    "@greenwood/plugin-postcss": "0.31.0",
+    "@greenwood/plugin-typescript": "0.31.0",
+    "ts-lit-plugin": "^2.0.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3",
+    "typescript-plugin-css-modules": "^5.1.0",
+    "unified": "^11.0.5"
+  },
+  "license": "ISC",
+  "packageManager": "pnpm@9.14.4"
+}
