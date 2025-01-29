@@ -1,8 +1,0 @@
----
-title: Trust the Science
-date: "2005-10-31 18:35:44"
-tags:
-  - ", "science
----
-<p>So not only do salmon shark have to keep swimming so as to avoid sinking, they need to do so to avoid freezing as well.<sup><a href="http://www.nsf.gov/news/news_summ.jsp?cntn_id=104543&org=NSF&from=news" title="How Hot Tuna (and Some Sharks) Stay Warm">[1]</a></sup> Apparently doing so (swimming) helps it maintain its temperature. Very cool.</p>  <font size="-2"><ol><li>The National Science Foundation.  "How Hot Tuna (and Some Sharks) Stay Warm" Press Release 05-187, 2005-10-27. http://www.nsf.gov/news/news_summ.jsp?cntn_id=104543&org=NSF&from=news</li></ol></font>
-

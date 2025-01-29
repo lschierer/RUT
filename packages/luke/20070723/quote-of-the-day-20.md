@@ -1,7 +1,0 @@
----
-title: Trust the Science
-date: "2007-07-23 14:55:21"
-tags:
-  - ", "quotes
----
-"The problem with science is not that the naturalistic approach might occasionally be inadequate. The problem is that science would never know any better. This is science's blind spot. When problems are encountered, theological naturalism assumes that the correct naturalistic solution has not been found. Non-natural phenomena will be interpreted as natural, regardless of how implausible the story becomes…." &mdash;Cornelius G. Hunter, Science's Blind Spot: Unseen Religion of Scientific Naturalism, Brazos Press, 2007, pg. 44-45

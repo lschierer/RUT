@@ -1,0 +1,32 @@
+[[!meta  title="20050301-1027"]]
+[[!meta  date="2005-03-01 15:27:00"]]
+<p> Has it really been 3 days since my last post? I guess it has,
+a weekend and then a snowy trip to the FDA's Twinbrook MD facility
+will do that I guess.  I did spend some time over the weekend on a
+semi-blog related topic, I set up <a href="./privacyupdate.php">a
+page on privacy related laws and regulations</a> which may or may
+not stay right where it is now, but will be updated as I remember to.
+</p>
+
+<p> I am very glad the snow did not significantly stick to the
+roads yesterday.  As stated above, I found myself headed out to
+visit the FDA to update their cluster.  When I left the office,
+it was just starting to snow significantly, and was not sticking.
+I was expecting to go out there, update a single box, and head home.
+Two, maybe 3 hours tops.  I was wrong.  They hadn't finished backups
+when I arrived, and they wanted me to go go ahead and reconfigure the
+cluster from the three cluster testing setup (One scyld which I was
+making a clustermatic, One oscar, One clustermatic) into one large
+cluster, all clustermatic.  Problem: they have 65 nodes, half-rack
+units, with units mounted on each side of the rack.  And oscar
+nodes boot from the hard disk while clustermatic nodes boot from
+the network.  So I had to reach <em>between</em> the nodes to plug
+in a monitor and keyboard to change the boot order in the bios.
+Oh and these are labeled <em>on the front but not on the side</em>.
+And did I mention that they are not fully sequential and that order
+does matter?  You begin to see why I was there till somewhat after
+5pm now.  By which point significant snow <em>had</em> accumulated,
+but fortunately not much on the roads, so I was able to get home
+without too much trouble.  Quite an adventure.  </p>
+
+[[!tag  uncategorized]]

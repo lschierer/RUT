@@ -1,8 +1,0 @@
----
-title: Trust the Science
-date: "2005-06-24 17:46:13"
-tags:
-  - ", "science
----
-<p>Even though I have read a number of different articles on robotic limbs now, mostly legs, I am still amazed when I read about it.  A Chicago news station is talking about a man who has now been given two robotic arms &mdash; that he can control just as he would a normal arm, by thinking about it.<a href="http://www.local6.com/news/4643968/detail.html">[1]</a></p>  <font size="-2"> [1] http://www.local6.com/news/4643968/detail.html </font>
-

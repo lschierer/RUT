@@ -1,8 +1,0 @@
----
-title: Trust the Science
-date: "2005-09-21 13:55:31"
-tags:
-  - ", "society
----
-<p>A school playing "MmmBop" over the PA system until their fund raising goal was met provides an amusing story.<sup><a href="http://www.theomahachannel.com/entertainment/4996200/detail.html">[1]</a></sup> I am glad to note that "Hanson," who is apparently the group whose song it is, has taken this well. <font size="+2">&#x263a;</font></p>  <font size="-2"> [1] The Associated Press.  "Katrina Campaign Goal Puts Stop To 'MmmBop'" The Omaha Channel (online) 2005-09-20. http://www.theomahachannel.com/entertainment/4996200/detail.html </font>
-

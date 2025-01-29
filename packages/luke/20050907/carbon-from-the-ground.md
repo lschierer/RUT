@@ -1,8 +1,0 @@
----
-title: Trust the Science
-date: "2005-09-07 20:44:40"
-tags:
-  - ", "global-warming
----
-<p>Reports that "Global Warming" can cause soil to release carbon, accelerating and increasing the amount of warming appears to cause Europe to push for even stronger measures and wider acceptance of the Kyoto protocol.<a href="http://www.breitbart.com/news/2005/09/07/MTFH63428_2005-09-07_17-49-21_MOL764095.html">[1]</a> They now even go so far as to say that Kyoto might be insufficient, and even more harmful cutbacks are necessary. My own take on this differs.  If the carbon released from English soil overshadows all of the cuts England has made, why should it be different here?  My prediction <a href="http://www.schierer.org/~luke/log/20050615-1352/20050615-1352">remains</a> that we will find that it is too late to stop global warming, and that our efforts are better spent learning how to cope with its inevitable effects.</p>  <font size="-2"> [1] Mr. Peter Graff.  "Global warming causes soil to release carbon" Reuters via www.breitbart.com 2005-09-07. http://www.breitbart.com/news/2005/09/07/MTFH63428_2005-09-07_17-49-21_MOL764095.html </font>
-

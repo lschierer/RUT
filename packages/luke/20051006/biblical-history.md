@@ -1,8 +1,0 @@
----
-title: Trust the Science
-date: "2005-10-06 16:13:05"
-tags:
-  - ", "morality-religion
----
-<p>Is the <i>Times Online</i> accurate, a matter in which I have much doubt, it appears that the Bishops of England, Wales and Scotland have considerably exceeded the scope of "Dei Verbum," which they attempt to explain in their recently published "The Gift of Scripture."<sup><a href="http://www.timesonline.co.uk/article/0,,13509-1811332,00.html">[1]</a><a href="http://www.cliftondiocese.com/Articles/497/">[2]</a><a href="http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html">[3]</a></sup> They go so far as to decide that certain parts of Genesis, Matthew, and Revelations are not intended literally, something that "Dei Verbum" does not attempt.  I wish I could read the original (of "The Gift of Scripture"), but it does not appear to be available online.</p>  <font size="-2"> <ol> <li> Ms. Ruth Gledhill.  "Catholic Church no longer swears by truth of the Bible" Times Online 2005-10-05. http://www.timesonline.co.uk/article/0,,13509-1811332,00.html </li> <li>Mr. Greg Watts.  "The Gift of Scripture - a new teaching document from the Bishops of England, Wales and Scotland" Clifton Diocese Website viewed 2005-10-06. http://www.cliftondiocese.com/Articles/497/ </li> <li>Pope Paul VI (promulgator).  "Dei Verbum" Second Vatican Council 1965-11-18. http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html</li> </ol> </font>
-

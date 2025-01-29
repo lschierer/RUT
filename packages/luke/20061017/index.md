@@ -1,9 +1,0 @@
----
-title: Trust the Science
-date: updated="2006-10-17"]]
-"2006-10-17"
-tags:
-untagged
----
-[[!meta updated="2006-10-17"]]
-[[!map pages="20061017/* and ! 20061017/*/*"]]

@@ -1,0 +1,13 @@
+[[!meta  title="20050331-0801"]]
+[[!meta  date="2005-03-31 13:01:00"]]
+<p> I find it rather ironic that I posted
+about cyborgs only yesterday considering <a href="http://news.bbc.co.uk/2/hi/health/4396387.stm">this
+BBC article</a>.  Scientists have now developed a way to
+implant a computer chip such that the brain can control it,
+it can read some "brain waves," and let you control electrical
+devices.  Examples include TV power, channel, and volume.
+They hope to extend this to allow paralyzed to move again.  "<a href="http://www.guardian.co.uk/life/feature/story/0,13026,1448140,00.html">Meet
+the mind readers</a>" goes into further details on this idea,
+apparently there have been some successes along these lines.</p>
+
+[[!tag  uncategorized]]

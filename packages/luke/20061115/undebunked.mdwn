@@ -1,0 +1,16 @@
+[[!meta  title="undebunked"]]
+[[!meta  date="2006-11-15 16:11:00"]]
+Mr. George Monbiot publishes an article<sup>[\[1\]][ref1]</sup> in rival paper "The Guardian," addressing some of Mr. Christopher Monckton's claims.<sup>[\[2\]][ref3]</sup>  His refutation is much less referenced.  He also falls into the fallacy of assuming that anything that comes from a peer reviewed journal is necessarily more authoritative than anything that does not.  Considering some of the utter garbage claiming to refute Intelligent Design that I have seen coming from peer reviewed journals, my own perspective is to take both the news paper article and the journal article at face value, and give neither greater credence.
+
+Still, it may be that Mr. Monckton has overstated his claims and/or been misleading himself.  I think the refutation insufficient, but then I am hardly objective.
+
+<div markdown="1" class="postrefs">
+1.  Mr. George Monbiot.  "This is a dazzling debunking of climate change science. It is also wildly wrong"  The Guardian.  2006-11-14.  http://www.guardian.co.uk/commentisfree/story/0,,1947248,00.html
+2.  Mr. Christopher Monckton. “Apocalypse Canceled” 2006-11-05. http://www.telegraph.co.uk/news/graphics/2006/11/05/warm-refs.pdf;jsessionid=MO00JBZY2HSBDQFIQMGSFFWAVCBQWIV0
+</div>
+
+[ref3]: http://www.telegraph.co.uk/news/graphics/2006/11/05/warm-refs.pdf "Apocalypse Canceled"
+[ref1]: http://www.guardian.co.uk/commentisfree/story/0,,1947248,00.html "This is a dazzling debunking of climate change science. It is also wildly wrong"
+
+
+[[!tag  global-warming]]

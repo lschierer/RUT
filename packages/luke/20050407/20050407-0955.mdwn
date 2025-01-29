@@ -1,0 +1,18 @@
+[[!meta  title="20050407-0955"]]
+[[!meta  date="2005-04-07 14:55:00"]]
+<p> <a href="./view.php?date=<?php
+print(htmlentities("20050218-1203"));?>">Several</a>
+<a href="./view.php?date=<?php
+print(htmlentities("20050309-1124"));?>">times</a> now
+I have expressed concerns about how realistic the movie "Gatica" can
+look.  "<a href="http://www.msnbc.msn.com/id/7410891/">Labs selling
+DNA assessments</a>" is perhaps the most compelling example of this
+yet.  It is a short step from offering this sort of genetic testing
+to insurance companies requiring it and basing rates off of it.
+While the Senate ban on genetic discrimination (logged <a href="./view.php?date=
+<?php print(htmlentities("20050218-1203"));?>">here</a>
+but apparently no longer available on findlaw <font size="+2">&#x2639;</font>) might help prevent, or at least slow,
+this, I think it likely that we will see it in other places and
+slowly introduced here as well.</p>
+
+[[!tag  uncategorized]]

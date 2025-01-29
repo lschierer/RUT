@@ -1,0 +1,402 @@
+[[!meta title="Snape's Worst Memory and Related Events"]]
+[[!meta author="Luke Schierer"]]
+[[!toc levels=3 startlevel=2]]
+
+Any attempt to understand [[Sirius|adults/Sirius]], [[Lily|adults/Lily]],
+[[James|adults/James]], [[Snape|adults/Snape]], the relationships (both positive
+and negative) between them, and yes, even to some extent even 
+[[McGonagall|adults/McGonagall]] and [[Dumbledore|adults/Dumbledore]] ends up
+pivoting on the events at the end of the 1975-1976 school year when
+[[Lily|adults/Lily]], [[James|adults/James]] and their friends (or enemies as
+the case may be) were in their fifth year. We do not know the exact chronology,
+what follows is my best reconstruction. 
+
+## What Happened
+
+My first instinct is to quote it, the first scene is most of page 278 in the
+American Kindle Edition, the second scene has key details from kindle location
+9426-9519 in the American Edition of the *fifth* book (it is skimmed over in the
+seventh, though we are told Harry re-watches it), and the third scene takes up a
+chunk of page 279 back in _Deathly Hallows_.  Overall there is just way too much
+of Mrs. Rowling's copyrighted text for me to feel comfortable even block quoting
+it.  So I will summarise what we know.  From these two books:
+
+### Evidence from The Shrieking Shack[^210921-5]
+* “Severus was very interested in where I went every month,” 
+* [[Lupin|adults/Lupin]] says that [[Sirius|adults/Sirius]] alone is responsible
+  for telling [[Snape|adults/Snape]] to go into the tunnel, and how.
+* Per [[Lupin|adults/Lupin]], [[James|adults/James]] found out only later what
+  [[Sirius|adults/Sirius]] had done. 
+* Per [[Lupin|adults/Lupin]], [[Snape|adults/Snape]] believed that
+  [[James|adults/James]] and [[Lupin|adults/Lupin]] were in on
+  [[Sirius|adults/Sirius]]' actions.
+* [[Snape|adults/Snape]] confirms that belief as he reveals himself from under
+  the invisibility cloak.
+
+[^210921-5]: Mrs. J. K. Rowling. 
+    _[Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban)_
+    Page 357. © 2000 Pottermore Limited. American Kindle Edition.
+
+### Snape in the Hospital Wing 
+
+Immediately following the events in the Shrieking Shack:
+
+> “Sirius Black showed he was capable of murder at the age of sixteen,” he
+> breathed. “You haven’t forgotten that, Headmaster? You haven’t forgotten that
+> he once tried to kill *me*?”[^210921-6]
+
+The above quote is almost trivial, it is hard to blame [[Snape|adults/Snape]]
+for disliking someone who tried to kill him after all.  The reason I bring it up
+is that [[Snape|adults/Snape]] of all people must know that things are not
+always as they seem - his entire life since the prophesy has been subterfuge.
+He of all people must understand the value of forgiveness and second chances -
+if [[Dumbledore|adults/Dumbledore]] was not willing to give
+[[Snape|adults/Snape]] a chance, then he would not be there to complain.  And
+yet, he is not willing to allow for either in the case of those who have wronged
+him.  
+
+[^210921-6]: Mrs. J. K. Rowling. 
+    _[Harry Potter and the Prisoner of Azkaban](https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban)_
+    p. 391. © 2000 Pottermore Limited. American Kindle Edition.
+
+### First relevant memory from Snape[^210921-7]
+
+* [[Lily|adults/Lily]] and [[Snape|adults/Snape]] are an unknown amount older
+  than when they were sorted.  We *infer* that this is fifth year. 
+* Mulciber has tried to do something to Mary Macdonald "the other day" that
+  [[Lily|adults/Lily]] considers proof-positive that Mulciber is "creepy."
+  Whatever he tried to do involved [[Dark Magic|Magic]].  
+* [[Snape|adults/Snape]] dismisses [[Lily|adults/Lily]]'s concerns saying that
+  Mulciber's actions are funny. 
+* When dismissing her concerns does not work, [[Snape|adults/Snape]] tries to
+  redirect the conversation to the failings of [[James|adults/James]] and
+  company.  
+* [[Snape|adults/Snape]] immediately focuses in on [[Lupin|adults/Lupin]]'s
+  status as a werewolf. 
+* [[Lily|adults/Lily]] turns cold when responding.  My inference is that
+  [[Lily|adults/Lily]] disagrees with [[Snape|adults/Snape]]'s bias against
+  werewolves.  I am unsure if [[Lily|adults/Lily]] is truly ignorant of
+  [[Lupin|adults/Lupin]]'s status, or if she is pretending to be.  It probably
+  does not matter which. 
+* [[Lily|adults/Lily]] blushes under [[Snape|adults/Snape]]'s "intense" gaze.
+  More is going on in this conversation than the surface words.  I am not
+  incredible at this people reading thing.  Is Lily reacting to
+  [[Snape|adults/Snape]] being attracted to her, or is [[Lily|adults/Lily]]
+  reacting to the fact that she *is* attracted to [[James|adults/James]] and
+  [[Snape|adults/Snape]] has accurately called her on the fact?
+* [[Lily|adults/Lily]] defends [[James|adults/James]] and Co saying "They don't
+  use Dark Magic."  
+* [[Lily|adults/Lily]] calls [[Snape|adults/Snape]] ungrateful, because
+  [[James|adults/James]] saved [[Snape|adults/Snape]]'s life.
+* [[Snape|adults/Snape]] claims that [[James|adults/James]] was saving himself,
+  that saving [[Snape|adults/Snape]] was essentially a selfish act. 
+* Once [[Lily|adults/Lily]] states that [[James|adults/James]] is "an arrogant
+  toerag," [[Snape|adults/Snape]] stops listening to anything she says.  
+
+### Snape's second relevant memory, Order of the Phoenix version[^210921-8]
+
+* It is the Defence Against the Dark Arts OWL written exam.
+* [[James|adults/James]] and [[Snape|adults/Snape]] (minimally) *leave the exam
+  with the exam question  paper.*  
+* [[James|adults/James]] and [[Lupin|adults/Lupin]] are talking very openly
+  about [[Lupin|adults/Lupin]]'s status as a werewolf, yet
+  [[Lupin|adults/Lupin]] after himself saying "His name's Remus Lupin" as a
+  joke answer to "signs that identify a werewolf" tells [[James|adults/James]]
+  to keep his voice down two lines later.  
+* They settle outside under a tree, and [[Snape|adults/Snape]] *just happens* to
+  settle down within hearing distance of his worst enemies. 
+* [[James|adults/James]] is showing off with a snitch, well aware that there are
+  girls in the area (even if they are not watching, they might see him).  
+* [[Sirius|adults/Sirius]] is bored.
+* [[Sirius|adults/Sirius]] claims he does not need to consult a book to quiz
+  [[Lupin|adults/Lupin]].
+* [[James|adults/James]] spots [[Snape|adults/Snape]], who is about to leave the
+  area. 
+* "Snape reacted so fast it was as though he had been expecting an attack"
+* [[James|adults/James]] is faster. He uses two fairly harmless spells.  He's
+  still watching to see the girls' reaction.  
+* [[James|adults/James]] uses a spell to wash [[Snape|adults/Snape]]'s mouth out
+  for bad language.  This is undoubtedly fairly cruel. 
+* [[Lily|adults/Lily]] to the rescue.
+* [[Lily|adults/Lily]] is very cold at first towards [[James|adults/James]]
+* [[Snape|adults/Snape]] fires off something that draws blood.
+* [[James|adults/James]] reacts with a spell that leaves [[Snape|adults/Snape]]
+  hanging upside down with his underwear on display.  The humiliation is no
+  doubt worse because the spell used is one [[Snape|adults/Snape]] invented.
+* [[Lily|adults/Lily]]'s face twitches.  I think perhaps she considers this fair
+  retribution for a spell that draws blood. She's hiding that fact from
+  [[James|adults/James]] though. 
+* [[Lily|adults/Lily]] insists that [[James|adults/James]] and
+  [[Sirius|adults/Sirius]] end the torment.
+* [[Snape|adults/Snape]] calls [[Lily|adults/Lily]] a Mudblood.
+* [[Lily|adults/Lily]] turns cold towards [[Snape|adults/Snape]] and calls him
+  "Snivellus" for the first time, knowing that will hurt him.
+* [[Lily|adults/Lily]] says that [[James|adults/James]] is as bad as
+  [[Snape|adults/Snape]]. Her reasoning is partly that he tries to make himself
+  look cool, and partly that he hexes people just because he can.  
+* [[Sirius|adults/Sirius]] interprets [[Lily|adults/Lily]]'s comments as
+  essentially boiling down to [[James|adults/James]] being arrogant.  
+* [[James|adults/James]] returns to tormenting [[Snape|adults/Snape]] when
+  [[Lily|adults/Lily]] storms off. 
+
+[^210921-8]: Mrs. J. K. Rowling. 
+    _[Harry Potter and the Order of the Phoenix](https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix)_
+    Kindle Locations 9426-9519. Pottermore Limited. American Kindle Edition. 
+
+### Snape's Third Relevant Memory[^210921-9]
+
+* [[Snape|adults/Snape]] apologies.
+* [[Lily|adults/Lily]] refuses to hear it. 
+* [[Snape|adults/Snape]] says he did not mean to call her Mudblood.
+* [[Lily|adults/Lily]] calls him out for his friends who all want to be Death Eaters.  She
+  further claims that [[Snape|adults/Snape]] wants to be one. 
+* [[Snape|adults/Snape]] opens his mouth to deny this, but then closes it without saying
+  anything. 
+* [[Snape|adults/Snape]] again tries to protest he did not mean to call her names.
+* [[Lily|adults/Lily]] is having none of it, because he calls other people by the same
+  names.
+* [[Snape|adults/Snape]] has no response. 
+
+## What does this mean
+
+### Looking at the events themselves
+
+I do not doubt that [[James|adults/James]] was in fact fairly arrogant, and that
+was a barrier to any friendship between himself and [[Lily|adults/Lily]].  That
+being said, I do *not* think that [[Lily|adults/Lily]] disliked him as much as
+it sounds.  I am not the best at reading people, but I think [[Harry]] is worse,
+and, unfortunately, everything we know is filtered through his perceptions (or
+in this case lack thereof).  [[Snape|adults/Snape]] is inordinately focused on
+making sure that [[Lily|adults/Lily]] sees [[James|adults/James]] in a bad
+light.  *Some* of that is because *[[Snape|adults/Snape]]* is aware that
+[[James|adults/James]] is a rival for her affections.  
+
+There are, however, only two real possibilities here.  
+
+1. [[Snape|adults/Snape]] is irrationally jealous of the mere *possibility* that
+   [[Lily|adults/Lily]] *might* like [[James|adults/James]] merely because he
+   \([[James|adults/James]]\) is popular.  [[Snape|adults/Snape]] is so
+   irrational about [[Lily|adults/Lily]] that he actually undermines his own
+   position to reassure himself on this point. 
+1. To bastardise an overused quote, [[Lily|adults/Lily]] doth protest too much.
+   In other words, she *does* show signs of being attracted to
+   [[James|adults/James]], and [[Snape|adults/Snape]], being both jealous and
+   perceptive, picks up on these signs.  He does not know how to deal with the
+   fact, and undermines his own position trying to undo something he sees going
+   on. 
+
+[[Snape|adults/Snape]] *is* ungrateful, though if he *truly* believes that
+[[James|adults/James]] was motivated by selfishness, *then and only then* is
+that attitude justified.  Assume [[Lupin|adults/Lupin]]'s account is accurate -
+[[James|adults/James]] neither knew about nor condoned [[Sirius|adults/Sirius]]'
+extremely poor idea of a "joke."  [[James|adults/James]] then himself risked the
+fully grown werewolf to save [[Snape|adults/Snape]].  There are a couple of
+possibilities:
+
+1. It has been suggested that [[Snape|adults/Snape]] had been speculating that
+   [[Lupin|adults/Lupin]] was a werewolf for some time prior to the incident.
+   Not only that, but that [[Sirius|adults/Sirius]] was aware that
+   [[Snape|adults/Snape]] had so speculated.  If this is true,
+   [[Snape|adults/Snape]] went down into that tunnel to investigate a suspected
+   werewolf on the night of a full moon, then blames [[James|adults/James]] and
+   [[Sirius|adults/Sirius]] for the fact that he \([[Snape|adults/Snape]]\)
+   found *precisely what he expected*.[^210921-10]  If this is true, then
+   [[Snape|adults/Snape]] is both a hypocrite and insanely stupid. 
+1. [[Snape|adults/Snape]] had no clue what to expect.  He did, however, know
+   that [[Sirius|adults/Sirius]] hates him.  He broke school rules because
+   [[Sirius|adults/Sirius]], who hates him, gave him a clue on how to get
+   [[Sirius|adults/Sirius]]' friend in trouble.  Because that does not sound at
+   all like a trap.  Whether or not you believe that [[James|adults/James]] was
+   in on it, [[Snape|adults/Snape]]'s behaviour is still insanely stupid.
+   Honestly though, we have no reason other than [[Snape|adults/Snape]]'s
+   irrational hatred to doubt [[James|adults/James]] innocence.  
+
+In either case, [[Snape|adults/Snape]] has been insanely stupid, and
+[[James|adults/James]] has saved his life.  [[Snape|adults/Snape]] has been told
+to keep silent, and is trying to find ways to ensure that the secret he has
+promised to keep gets out.  
+
+Sure, [[James|adults/James]] hates [[Snape|adults/Snape]] and vice versa.  I
+doubt the event would have changed things even if both were reasonable rational
+and mature real-world adults (if such a thing exists).  In such a case, however,
+we would expect [[Snape|adults/Snape]] to give credit where credit is due, and
+would call him on it when he fails to do so.  In other words, the rational,
+reasonable thing is to criticise [[Snape|adults/Snape]] for *blaming*
+[[James|adults/James]] for the incident.  
+
+We do not know what happened to Mary Macdonald, but [[Lily|adults/Lily]] insists
+that it is [[Dark Magic|Magic]] and *Evil* (her emphasis).  Somehow that is
+*funny* but [[James|adults/James]] actions are unforgivable.  Even if I entirely
+agreed with [[Snape|adults/Snape]]'s reading of events, I see only a difference
+in target.  Since I *don't* agree with [[Snape|adults/Snape]]'s reading, I see
+that any offence against [[Snape|adults/Snape]] is unforgivable, but *anything*
+[[Snape|adults/Snape]], or by extension is friends, does is justifiable.  We
+call such a person a hypocrite, and generally look down on him or her. 
+
+### Looking at the memories
+
+I have some questions about the memories, in both books.
+
+#### The presentation
+
+Unfortunately our most detailed account of these events comes from the memories
+that [[Snape|adults/Snape]], a master [[Occlumens|The_Mind_Arts/Occlumency]].
+We know that when Slughorn tried to modify a memory to give to
+[[Dumbledore|adults/Dumbledore]], the result was painfully obvious in a
+pensieve.[^210921-1]  What we do not know is if it was obvious *because it was
+modified* or if it was obvious *because the modification was crudely
+done.*[^210921-2]  Thus we do not know if it is possible that
+[[Snape|adults/Snape]] modified these memories or not; we do not know how
+reliable a witness these memories represent.[^210921-3] 
+
+The second memory, the one with the most discrepancies (see below), has some
+partial validation in that neither [[Sirius|adults/Sirius]] nor
+[[Lupin|adults/Lupin]] deny what happened, on the other hand, [[Harry]] only
+describes what he saw, they did not see the memory themselves.  If
+[[Snape|adults/Snape]] was smart enough to craft his lies on versions of the
+truth, if he distorted true memories rather than than inventing things out of
+whole cloth, [[Harry]] may not have included the details that would allow either
+listener to notice the discrepancies.  
+
+#### The content
+
+There are a few details that raise red flags.  Unfortunately, some of them *may*
+be a cultural thing, the difference between American schools and British ones.  
+
+The first is, as I note above, that the students take the exam paper with them
+when they leave the OWL exam.  Based on my experience of standardised exams,
+this seems incredibly odd.  I know that all of the *[[Hogwarts]]* students take
+the OWLS at the same time, but we also know that not everyone goes to
+[[Hogwarts]].  As corrupt as that culture is, surely the Wizarding Examinations
+Authority has had to deal with people buying copies of a test before.
+Controlling access to the exact exam questions used should carry over to the
+magical world as well. 
+
+Second, as everyone is leaving the exam, we overhear [[James|adults/James]],
+[[Lupin|adults/Lupin]], Pettigrew and [[Sirius|adults/Sirius]] talking.  Keep in
+mind two things, this is *[[Snape|adults/Snape]]'s* memory.  He was close enough
+to at least subconsciously hear them. The book attempts to account for this by
+saying that [[Harry]] has to strain to hear them, but, the passage describes a
+"gang" of girls as having just left the boys' group, and then, when they start
+picking on [[Snape|adults/Snape]], we see that a number of students are able to
+quickly gather.  Why are they discussing [[Lupin|adults/Lupin]]'s status so
+openly at all?  Why does *[[Lupin|adults/Lupin]]* joke about answering that
+question in that way?  We see no indication of what volume most of the comments
+were said at, but it is still very odd that so much was said before
+[[Lupin|adults/Lupin]] became uncomfortable. 
+
+Third, [[Snape|adults/Snape]] settles down in fairly close range to
+[[James|adults/James]] and [[Sirius|adults/Sirius]] *at all.*  If this were
+anything other than a necessary plot device in fiction, this right here would be
+the single strongest indicator that the memories are fabricated.  As someone who
+has had trouble with school yard bullies, you simply do *not* relax around them.
+[[Snape|adults/Snape]] would have picked *anywhere* else on the grounds.  He
+would have *stayed inside* rather than willingly putting himself at risk that
+way.  
+
+On a side note, in his work _[Toxic][]_, WitandAmbition makes very similar
+points, but focuses more on [[Lily]] and [[Snape]] starting further back in time
+to paint much the same picture.
+
+[Toxic]: https://www.fanfiction.net/s/12795425/2/Toxic
+
+[^210921-10]: I was not the first to think of this. Cite others if I refind
+    them. 
+
+[^210921-3]: Some have speculated that pensieves rely on time magic.  Mrs.
+    Rowling, writing on the [Pottermore][RPM1] site, says it relies on not just
+    conscious recall, but "every detail stored in the
+    subconscious."[^210921-4]
+
+[^210921-4]: Mrs. J. K. Rowling. 
+    "[Pensieve](https://www.rowlingindex.org/work/pmpens/)"
+    [The J. K. Rowling Index](https://www.rowlingindex.org/)
+    2014-07-14. 
+
+[RPM1]: https://www.pottermore.com 
+
+[^210921-9]: Mrs. J. K. Rowling. 
+    _[Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows)_
+    p. 279.  Pottermore Publishing.  American Kindle Edition. 
+
+[^210921-7]: Mrs. J. K. Rowling. 
+    _[Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows)_
+    p. 278.  Pottermore Publishing.  American Kindle Edition. 
+
+[^210921-1]: Mrs. J. K. Rowling. 
+    _[Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows)_
+    pp. 309-310.  Pottermore Publishing.  American Kindle Edition. 
+
+[^210921-2]: Mrs. J. K. Rowling. 
+    _[Harry Potter and the Deathly Hallows](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows)_
+    pp. 309-310.  Pottermore Publishing.  American Kindle Edition. 
+
+### Looking at the Fall-out
+
+#### Lily and Snape
+
+Some writers blame [[Lily|adults/Lily]] for the fact that [[Snape|adults/Snape]]
+became a Death Eater, pointing to this incident.  If she had forgiven him, her
+friendship would have given him the strength he needed to resist
+[[Riddle|adults/Riddle]]'s temptations.  I honestly disagree, and point to the
+first of [[Snape|adults/Snape]]'s memories as my proof.  If she had forgiven
+him, he would have remained in denial about the evil nature of the actions that
+Mulciber and his \([[Snape|adults/Snape]]'s\) other Death Eater friends were
+committing.  This would inevitably lead to facing the same temptations to
+joining [[Riddle|adults/Riddle]].  [[Snape|adults/Snape]] would then have rationalised things
+saying that by joining [[Riddle|adults/Riddle]], he would be in a *better*
+position to protect [[Lily|adults/Lily]].  He would figure that
+[[Riddle|adults/Riddle]] would spare a Death Eater's family even if she was a
+mudblood.  This would draw [[Snape|adults/Snape]] deeper and deeper into
+[[Riddle|adults/Riddle]] atrocities and soul corrupting influence.  You simply
+cannot be around such people without their evil rubbing off on you.  
+
+People criticising [[Lily|adults/Lily]] are essentially pushing her towards
+missionary dating.  It is not *precisely* the same situation, but it is close
+enough.  Sure you can find anecdotal evidence that missionary dating works, but
+in general, it is a bad idea.[^211220-2]
+
+Secondly, I remain unconvinced that [[Lily|adults/Lily]] was romantically
+inclined towards [[Snape|adults/Snape]] at all.  Certainly both
+[[Snape|adults/Snape]] and [[James|adults/James]] were both romantically
+interested in *her*, both aware of the other's interest in her, and both jealous
+of the other's perceived advantages.  It does not follow that just because
+[[Lily|adults/Lily]] was *friends* with someone who wanted that friendship to be
+more, that *she* **also** wanted that friendship to be more.  
+
+Lastly, [[!wikipedia Alan Rickman]] may be attractive (at least, I am told he
+is).  He is not however, the definitive rendition of [[Severus
+Snape|adults/Snape]].  Lets not read more into the text than is actually there
+just because you actually like the *actor* as opposed to the *character*.  
+
+[^211220-2]: The practice isn't condemned, you'll find only opinion articles on
+    the subject.  
+    * <https://marriagemissions.com/missionary-dating-lead-good-marriage/>
+    * <https://thosecatholicmen.com/articles/love-em-before-you-date-em/>
+    * <https://www.catholicsingles.com/blog/missionary-dating/> 
+    Note quite on topic, but related: 
+    * <https://bustedhalo.com/questionbox/what-does-the-catholic-church-have-to-say-about-a-catholic-dating-a-christian-of-another-denomination>
+    * <https://gulfcoastcatholic.org/what-does-church-teach-about-dating-someone-who-different-faith>
+
+#### Lily and James
+
+Certainly this event clears the way for Lily to begin dating James.  Earlier I
+speculated that there are two possibilities.  Either she is embarrassed about
+being unable to return [[Snape|adults/Snape]]'s feelings, or she is embarrassed
+about being called upon her own feelings for [[James|adults/James]].  If the
+latter, I would have expected [[Lily|adults/Lily]] and [[James|adults/James]] to
+get together during their sixth year.  We are told they did not do so until
+seventh year.  
+
+A third possibility is that it is some combination of *both* of the above
+scenarios.  If [[Lily|adults/Lily]] is attracted to but conflicted about
+[[James|adults/James]] then we have a rational story towards their relationship
+during seventh year.  Instead of a miraculous about face where she goes from
+hating him to head over heels in love, she has gradually watched him mature over
+sixth year, and finally become the man she has been pushing him to be as he
+embraces responsibility as Head Boy in seventh year.  In a sense, this is
+exactly my point about missionary dating.  [[Lily|adults/Lily]] agrees to date
+[[James|adults/James]] only after the man she has been attracted to all along
+makes that change to become someone she can see herself marrying *on his own*,
+**before she begins their relationship**.  Only then does she allow herself to
+act on that attraction by agreeing to go out with him. 

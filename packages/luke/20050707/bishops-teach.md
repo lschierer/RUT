@@ -1,8 +1,0 @@
----
-title: Trust the Science
-date: "2005-07-07 15:01:32"
-tags:
-  - ", "morality-religion
----
-<p>It is nice to see our Church leaders standing up to defend the faith.  In Canada, Kingston, Ontario Archbishop Anthony Meagher is warning his flock that the mock ordination of women would result in the same automatic excommunication that it did in France.<a href="http://www.catholicnewsagency.com/new.php?n=4319">[1]</a> In Columbia, Bishop Fabian Marlanda defends the right of each child to a father and a mother.<a href="http://www.catholicnewsagency.com/new.php?n=4320">[2]</a> In Spain, Sigüenza-Guadalajar Bishop Jose Sanchez Gonzalez explains that the Church's stance on homosexual "marriage" is not a reflection of discrimination, but of the inherent nature of marriage.<a href="http://www.catholicnewsagency.com/new.php?n=4322">[3]</a> He also reiterates that marriage builds society and thus predates the state, and so the state should not be attempting to redefine marriage.[3]</p>  <font size="-2"> [1] Catholic News Agency. "Canadian Archbishop warns against impending female-ordination ceremony" 2005-07-07 http://www.catholicnewsagency.com/new.php?n=4319 <br  /> [2] Catholic News Agency. "Colombian bishops: child's right to a father and a mother supersede homosexual demands" 2005-07-07 http://www.catholicnewsagency.com/new.php?n=4320 <br  /> [3] Catholic News Agency. "Opposition to same-sex 'marriage' is not discrimination against homosexuals" 2005-07-07 http://www.catholicnewsagency.com/new.php?n=4322 </font>
-

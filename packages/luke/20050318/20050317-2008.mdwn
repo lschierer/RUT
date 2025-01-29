@@ -1,0 +1,8 @@
+[[!meta  title="20050317-2008"]]
+[[!meta  date="2005-03-18 00:08:00"]]
+<p> U+263A has joined U+2026 and U+203D has one of my favorite
+Unicode glyphs.  So you will all now be treated to
+<big>&#x263a;</big> in my posts when I am pleased with myself,
+and <big>&#x2639;</big> when I'm not. <big>&#x263a;</big></p>
+
+[[!tag  uncategorized]]

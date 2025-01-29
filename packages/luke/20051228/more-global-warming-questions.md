@@ -1,8 +1,0 @@
----
-title: Trust the Science
-date: "2005-12-28 22:45:21"
-tags:
-  - ", "global-warming
----
-<p>Along the same lines as <a href="https://www.schierer.org/~luke/log/20051228-0959/the-health-benefits-of-the-sun" title="The Health Benefits of the Sun">my previous post<sup>[1]</sup></a>, all sorts of people bemoan deforestation as a prime cause of global warming.  They do this despite the fact that I have heard some studies suggest that there are actually <em>more</em> trees now than there were in the days of unchecked wildfires before the colonial period.  Be that as it may, it turns out to still be too simplistic a view.<sup><a href="http://www.wired.com/news/technology/0,69914-0.html" title="Careful Where You Put That Tree">[2]</a></sup> It appears that northern forests have a higher cost in albedo change than they provide benefit in carbon absorption.  This result reminds me of some of the other speculations I have made regarding albedo, I wonder anew what else they have failed to consider.</p>  <font size="-2"><ol><li> Mr. Luke Schierer.  "The Health Benefits of the Sun" Random Unfinished Thoughts.  2005-12-28 https://www.schierer.org/~luke/log/20051228-0959/the-health-benefits-of-the-sun</li> <li>Ms. Elizabeth Svoboda.  "Careful Where You Put That Tree" Wired News. 2005-12 http://www.wired.com/news/technology/0,69914-0.html</li> </ol></font>
-

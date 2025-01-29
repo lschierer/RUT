@@ -1,9 +1,0 @@
----
-title: Trust the Science
-date: "2006-01-24 16:20:25"
-tags:
-  - ", "politics-law
----
-
-<p>I find it interesting that Mr. Richard Stallman is hesitant to believe that the president of Iran might be a fanatic, when he never hesitates to believe the worst of the United States, particularly the republican party thereof.<sup><a href="http://www.stallman.org/archives/2005-nov-feb.html#23%20January%202006%20%28Oil%20on%20Euros%29" title="Oil on Euros">[1]</a></sup> It is, from what I gather, sadly typical of the political left.</p>  <ol><font size="-2"><li><font size="-2">Mr. Richard Stallman.  "Oil on Euros" "Political notes from 2005: November - February" 2006-01-23 http://www.stallman.org/archives/2005-nov-feb.html#23%20January%202006%20%28Oil%20on%20Euros%29 </font></li></font></ol>
-

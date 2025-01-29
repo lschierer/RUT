@@ -1,8 +1,0 @@
----
-title: Trust the Science
-date: "2005-11-14 17:55:38"
-tags:
-  - ", "personal
----
-<p>This was rather amusing:</p>  <center><img src="http://images.quizilla.com/D/dphenreckson/1049378297_Hmiddleearthrohirrim.jpg" border="0" alt="Rohirrim" /><br  />Rohirrim <br  /><br  /><a href="http://quizilla.com/users/dphenreckson/quizzes/To%20which%20race%20of%20Middle%20Earth%20do%20you%20belong%3F/"> To which race of Middle Earth do you belong?</a><br  /> <font size="-2">brought to you by <a href="http://quizilla.com">Quizilla</a></font> </center>
-
