@@ -1,4 +1,0 @@
-[[!meta title="pages tagged plate-tectonics"]]
-
-[[!inline pages="tagged(plate-tectonics)" actions="no" archive="yes"
-feedshow=10]]

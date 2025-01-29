@@ -1,4 +1,0 @@
-[[!meta title="pages tagged HP Notes"]]
-
-[[!inline pages="tagged(HP_Notes)" actions="no" archive="yes"
-feedshow=10]]
