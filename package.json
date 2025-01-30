@@ -4,7 +4,7 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0",
+    "test": "echo \"Error: no test specified (but husky wants this target)\" && exit 0",
     "dev": "just dev",
     "prepare": "husky"
   },
