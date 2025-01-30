@@ -1,0 +1,76 @@
+body {
+  text: #3399ff;
+  background-color: #3c454b;
+  margin: 0px;
+  width: auto;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  width: 100%;
+  & img.toplogo {
+    width: max(100%, 100vw);
+  }
+  min-height: fit-content;
+  flex: 1 1 auto;
+}
+
+img.Greenwood {
+  height: 3rem;
+}
+
+main {
+  margin-top: 8px;
+  min-height: 60vh;
+  flex: 3 1 auto;
+}
+
+footer {
+  flex-grow: 0;
+  flex-shrink: 1;
+  margin-top: auto;
+  left: 0;
+  width: 100%;
+}
+
+a:link {
+  color: #0b24bc;
+}
+
+a:visited {
+  color: #c42d2b;
+}
+
+a:active {
+  color: #eec900;
+}
+
+div.linklist {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+
+  & ul {
+    list-style: none;
+
+    & li {
+      margin-top: 0.25rem;
+      font-size: large;
+    }
+  }
+}
+
+div.pagecopyright {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  align-content: center;
+}
+
+img.cc-image {
+  height: 22px !important;
+  margin-left: 3px;
+  vertical-align: text-bottom;
+}
