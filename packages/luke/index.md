@@ -1,12 +1,22 @@
 ---
-
-title: Random Unfinished Thoughts
-date:
-layout: rut
+title: Luke Schierer
+author: Luke Schierer
+layout: luke
 imports:
-  - /components/RecentChanges.ts type="module"
+  - "./gpg.txt"
 ---
 
-<recent-changes></recent-changes>
-
-[[All Posts and Pages|posts]]
+<div class="linklist">
+  <ul>
+    <li>
+      <a href="./log/who-am-i-and-what-is-going-on-here/">Who am I?</a>
+    </li>
+    <li>
+      <a href="./resume/">My Resume</a>
+    </li>
+    <li>
+      <a href="./log/">Random Unfinished Thoughts</a>
+    </li>
+    <a href="/gpg/">My GPG Key</a>
+  </ul>
+</div>

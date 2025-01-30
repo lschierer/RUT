@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 FINAL='../greenwood/src/lib/commitHistory.ts'
 
 OUTPATH=`mktemp`
@@ -14,16 +13,21 @@ head -n 20 | cut -d ' ' -f 1 |\
 while read -r log; do
   echo "{" >> $OUTPATH
   echo -n '"id":' >> $OUTPATH
-  echo "\"$log\"," >> $OUTPATH
+  git log --format=%H -n 1 $log | gsed -E -e 's/(.*)/"\1",/' >> $OUTPATH
   #git show --oneline --color=never --stat $log >
   echo "\"message\": [" >>$OUTPATH
   git log --format=%B -n 1 $log | gsed -E -e 's/(.*)/"\1",/' >> $OUTPATH
-  echo "]" >> $OUTPATH
+  echo "]," >> $OUTPATH
+  echo -n "\"date\": " >> $OUTPATH
+  git log --format=%at -n 1 $log  | gsed -E -e 's/(.*)/"\1",/' >> $OUTPATH
+  echo "\"files\": [" >> $OUTPATH
+  git show  --pretty=reference --color=never --stat=1000  $log | tail -n +3 | ghead -n -1 | cut -d '|' -f 1 | cut -d ' ' -f 2 | gsed -E -e 's/^(.*)$/"\1",/' >> $OUTPATH
+  echo "]," >> $OUTPATH
   echo "}," >> $OUTPATH
 done
 echo "]" >> $OUTPATH
 
-pnpm exec rjson $OUTPATH | jq "." >> $FINAL || echo $OUTPATH
+pnpm exec json5 $OUTPATH | jq "." >> $FINAL || echo $OUTPATH
 
 echo "" >> $FINAL
 echo "export default commits;" >> $FINAL

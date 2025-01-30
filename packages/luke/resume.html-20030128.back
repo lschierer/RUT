@@ -1,0 +1,176 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Luke Schierer's Resume</title>
+</head>
+
+<body text="#000000" link="#0000ff" vlink="#551a8b" alink="#ff0000" bgcolor="#ffffff">
+<center><font size="+2"><strong>Luke Schierer</strong></font><br/>
+
+<font size="-1"><em>3110 Hannahs Pond Lane <br/>Oak
+Hill, VA 20171-2253 <br/>703-391-0922<br/>email address:  <a
+href="mailto:lschierer-resume@tamos.net?subject=Resume">lschierer-resume at tamos dot net</a></em></font>
+</center>
+<br/><br/>
+<br/><br/>
+<strong>Objective:</strong><br/>
+
+<blockquote>
+<font size="-1">
+To increase my knowledge of networking,
+programming in and administration of various Unix
+operating systems.
+</font>
+</blockquote>
+
+<strong>Skills:</strong>
+
+<ul>
+<li><font size="-1">C/C++.</font></li>
+
+<li>
+<font size="-1">
+GUI interface with the GTK toolkit in C.</font></li>
+
+<li><font size="-1">XHTML and php.</font></li>
+
+<li><font size="-1">Software and network installation/troubleshooting. </font></li>
+
+<li><font size="-1">Digital Unix and Irix.</font></li>
+
+<li>
+	<font size="-1">Linux.
+		<ul>
+			<li>Set up home network.</li>
+			<li>Set up and administer alternate email, file, and print server for NINDS-LNLC.</li>
+			<li>Install and configure software via apt, rpm, and by compiling.</li>
+		</ul>
+	</font>
+</li>
+
+<li><font size="-1">X86 and PowerPC hardware installation.</font></li>
+
+<li><font size="-1">Assembly Language programming on the MIPS/RISC
+architecture.</font></li>
+
+<li><font size="-1">Java, php, lisp, prolog, sql, pro*c.</font></li>
+
+<li><font size="-1">Proficiency with Microsoft product family.</font></li>
+</ul>
+
+
+
+<strong><p>Employment:</p></strong>
+
+<ul>
+
+<li>
+<font size="-1"><strong>Data Center Operations Technician/Head Data Center Operations Technician</strong><br/>
+February 2003 - Present<br/>
+<em>Rackspace Managed Hosting, Herndon, VA</em><br/>
+	<ul>
+		<li>Document ServerBeach policies and procedures, and generally faciliate Herndon aspects of the merge.</li>
+		<li>Cross train DCOps Technicians on ServerBeach ticketing system and customer database.</li>
+	<li>General technical support for server issues.</li>
+		<li>Trouble shoot and repair issues that prevent remote connectivity to servers in a time-sensitive environment.</li>
+		<li>Set up and maintain physical data center, including but not limited to:
+		<uL>
+			<li>Running Cat5 and fiber optics cable</li>
+			<li>Assembling and leveling Dell and Quadra racks</li>
+			<li>Assembling bread racks for white boxes.</li>
+		</ul></li>
+		<li>Build, configure, and install Linux, FreeBSD, Win2k and Win2k3 servers.</li>
+	</ul>
+</font>
+</li>
+
+<li>
+<font size="-1"><strong>System Administrator/Tech Support</strong><br/>
+May 2000 - December 2002<br/>
+<em>Laboratory of Neural Control Room, National Institutes of Health, Bethesda, MD</em><br/>
+<ul>
+<li>General tech support for a 30 person lab, in which each scientist has between 2 and 5 computers.</li>
+<li>Diagnose and repair:
+<ul>
+<li>PowerPc's running MacOs 8.6-9.2, and Mac OS X</li>
+<li> Intel and AMD-based IBM compatible machines running Windows 95,98,ME,XP and 2000</li>
+<li> Redhat Linux, Debian Linux and RTLinux machines</li>
+<li>Maintenance of an Irix machine.</li>
+</ul>
+</li>
+<li>Set up and maintain alternate email server using Qmail and Linux.</li>
+<li>Set up and maintain a print server using samba, netatalk, and cups on Linux.</li>
+<li>Network Administration:
+<ul>
+<li>Track and assign IP addresses for the LAN</li>
+<li>Diagnose and repair network issues from the device to the switch</li>
+<li>Oversee the migration to a DHCP-based network.</li>
+</ul>
+</li>
+<li>Order and configure new computers.</li>
+<li>Oversee backup of data.</li>
+</ul>
+</font>
+</li>
+
+<li>
+<font size="-1"><strong>Lab Technician</strong><br/>
+September 1999 - September 2000</font><br/>
+<font size="-1"><em>University Computing &amp; Information Systems (UCIS),
+Fairfax, VA
+</em></font>
+<br/><font size="-1">
+<ul>
+<li>Monitor student and teaching labs with 30+ computers.</li>
+<li>Work with students and professors to resolve user software problems.</li>
+<li>Tutor individual students and faculty in various software packages.</li>
+<li>Perform troubleshooting of hardware and logistical problems for the labs and Distance Learning classrooms.</li>
+<li>Perform repairs and installations on desktop computers, notebook computers, printers and networking.</li>
+</ul>
+ </font> 
+</li>
+
+
+</ul>
+
+<strong><p>Education:</p></strong>
+<ul>
+<li><font size="-1"><a href="http://www.gmu.edu">George Mason
+University</a>,
+Fairfax,
+VA<br/> 
+Degree:  B.S. in Computer Science<br/>
+Graduated:  January 11, 2003<br/></font></li>
+</ul>
+
+<strong>Honors/Activities:</strong>
+<ul>
+
+<li><font size="-1">Gaim (Instant Messaging System) Support Manager
+<ul>
+<li>Maintain documentation</li>
+<li>Provide support in the #gaim chat channel on the freenode IRC network.</li>
+<li>Evaluate, and merge or reject patches from volunteers without CVS access.</li>
+<li>Write and commit my own enhancements to the user interface and core functionality of the program.</li>
+</ul>
+</font></li>
+
+<li><font size="-1">George Mason University Honors Program
+<ul><li>An invitation-only interdisciplinary program for the top 
+150    
+applicants to accept fulfilling their general education
+requirements.</li></ul></font></li>
+
+</ul>
+<strong>Clearance:</strong><br>
+<ul>
+<li>United States Citizen.</li>
+</ul>
+
+<br/><br/>
+<center><font size="-1">Updated resume available at <a
+href="http://www.tamos.net/~lschierer/resume.html">http://www.tamos.net/~lschierer/resume.html</a></center>
+</body>
+</html>

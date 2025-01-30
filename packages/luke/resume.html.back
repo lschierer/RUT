@@ -1,0 +1,277 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Luke Schierer's Resume</title>
+</head>
+
+<body text="#000000" link="#0000ff" vlink="#551a8b" alink="#ff0000" bgcolor="#ffffff">
+<center><font size="+2"><strong>Luke Schierer</strong></font><br/>
+
+<font size="-1"><em>3110 Hannahs Pond Lane <br/>Oak
+Hill, VA 20171-2253 <br/>703-391-0922<br/><a
+href="mailto:lschierer-resume@tamos.net?subject=Resume">lschierer-resume at tamos.net</a></em></font>
+</center>
+<br/><br/>
+<br/><br/>
+<strong>Objective:</strong><br/>
+
+<blockquote>
+<font size="-1">
+To increase my knowledge of networking,
+programming in and administration of various Unix
+operating systems.
+</font>
+</blockquote>
+
+<strong>Skills</strong>
+
+<ul>
+<li><font size="-1">C/C++ programming</font></li>
+
+<li>
+<font size="-1">
+GUI interface programming with the GTK toolkit in C</font></li>
+
+<li><font size="-1">XHTML and php experience</font></li>
+
+<li><font size="-1">Software and network installation/troubleshooting. </font></li>
+
+<li><font size="-1">Digital Unix and Irix.</font></li>
+
+<li>
+	<font size="-1">Experience with Linux.
+		<ul>
+			<li>Set up home network.</li>
+			<li>Set up and administer alternate email, file, and print server for NINDS-LNLC.</li>
+			<li>Install and configure software via apt, rpm, and by compiling.</li>
+		</ul>
+	</font>
+</li>
+
+<li><font size="-1">X86 and PowerPC hardware installation.</font></li>
+
+<li><font size="-1">Two semester Assembly Language programming on the MIPS/RISC
+architecture using the SPIM emulator.</font></li>
+
+<li><font size="-1">Java, php, lisp, and prolog, sql, pro*c.</font></li>
+
+<li><font size="-1">Proficiency with Microsoft product family.</font></li>
+</ul>
+
+
+
+<strong><p>Employment</p></strong>
+
+<ul>
+
+<li>
+<font size="-1"><strong>Data Center Operations Technician</strong><br/>
+Employed December 2003 - Present<br/>
+<em>Rackspace Managed Hosting 524 Van Buren Road, Herndon Va, 20170</em><br/>
+	<ul>
+		<li>Document ServerBeach policies and proceedures.</li>
+		<li>Cross train DCOps Technicians on ServerBeach ticketing system and customer database.</li>
+		<li>Normal DCOps responsibilities as listed below.</li>
+	</ul>
+</font><br/><br/>
+</li>
+
+<li>
+<font size="-1"><strong>Head Data Center Operations Technician</strong><br/> 
+Employed August 2003 - December 2003 <br/>
+<em>ServerBeach 524 Van Buren Road, Herndon VA, 20170</em><br/>
+	<ul>
+		<li>Set up and maintain physical data center, including but not limited to:
+		<ul>
+			<li>Running Cat5 cable</li>
+			<li>Assembling bread racks for white boxes</li>
+			<li>Build and configure servers</li>
+		</ul></li>
+		<li>Trouble shoot and repair customer servers</li>
+		<li>Trouble shoot and repair issues that affect customer connectivity</li>
+	</ul>
+</font><br/><br/>
+</li>
+
+<li>
+<font size="-1"><strong>Data Center Operations Technician</strong><br/>
+Employed February 2003 - August 2003<br/>
+<em>Rackspace Managed Hosting 524 Van Buren Road, Herndon Va, 20170</em><br/>
+<ul>
+<li>Set up and maintain physical data center, including but not limited to:
+<uL>
+<li>Running Cat5 and fiber optics cable</li>
+<li>Assembling and leveling Dell and Quadra racks</li>
+<li>Assembling bread racks for white boxes</li>
+</ul></li>
+<li>Build, configure, and install Linux, FreeBSD, and Win2k servers</li>
+<li>Trouble shoot and repair issues that prevent remote connectivity to servers in a time-sensitive environment.</li>
+</ul>
+</font><br/><br/>
+</li>
+
+<li>
+<font size="-1"><strong>System Administrator/Tech Support</strong><br/>
+Employed May 2000 - December 2002t<br/>
+<em>Laboratory of Neural Control Room, National Institutes of Health 3A50 Building 49, 49 Convent Drive Bethesda, MD 20892</em><br/>
+<ul>
+<li>General tech support for a 30 person lab, in which each scientist has between 2 and 5 computers.</li>
+<li>Diagnose and repair:
+<ul>
+<li>PowerPc's running MacOs 8.6-9.2, and Mac OS X</li>
+<li> Intel and AMD-based IBM compatible machines running Windows 95,98,ME,XP and 2000</li>
+<li> Redhat Linux, Debian Linux and RTLinux machines</li>
+<li>Maintenance of an Irix machine</li>
+</ul>
+</li>
+<li>Set up and maintain alternate email server using Qmail and Linux.</li>
+<li>Set up and maintain a print server using samba, netatalk, and cups on Linux.</li>
+<li>Network Administration:
+<ul>
+<li>Track and assign IP addresses for the LAN</li>
+<li>Diagnose and repair network issues from the device to the switch.</li>
+<li>Oversaw the migration to a DHCP-based network.</li>
+</ul>
+</li>
+<li>Order and configure new computers.</li>
+<li>Oversee backup of data.</li>
+</ul>
+</font><br/><br/>
+</li>
+
+<li>
+<font size="-1"><strong>Lab Technician</strong><br/>
+Employed September 1999 - September 2000</font><br/>
+<font size="-1"><em>University Computing &amp; Information Systems (UCIS) 4400 University Drive
+Fairfax, VA 22030 Mail Stop 
+4F6</em></font>
+<br/><font size="-1">
+<ul>
+<li>Monitored student and teaching labs with 30+ computers.</li>
+<li>Worked with students and professors to resolve user software problems.</li>
+<li>Tutored individual students and faculty in various software packages.</li>
+<li>Performed troubleshooting of hardware and logistical problems for the labs and Distance Learning classrooms.</li>
+<li>Performed repairs and installations on desktop computers, notebook computers, printers and networking.</li>
+</ul>
+ </font> <br/><br/>
+</li>
+
+<li>
+<font size="-1"><strong>Baggage Handler/Ramp Agent</strong><br/>
+Employed June 14, 1999 - August 29, 1999</font><br/>
+<font size="-1"><em>Atlantic Coast Airlines 515A Shaw Road Dulles, VA 20166</em></font><br/>
+<font size="-1">
+<ul>
+<li>Sorted baggage, putting each piece on the appropriate cart based on destination code and flight number.</li>
+<li>Drove carts to the appropriate planes, and unload the bags.</li>
+<li>Helped ramp agents load the baggage.</li>
+</ul>
+</font>
+<br/><br/>
+</li>
+
+<li>
+<font size="-1"><strong>Installation Engineer</strong><br/>  Employed
+May, 1999 - August, 1999</font><br/>
+<font size="-1"><em>ITEQ 1300 Spring Street Suite 320 Silver Spring MD 20910 Contact Mr. Dennis Clausen 301-589-4666 extension 276</em></font>
+<br/><font size="-1">
+<ul>
+<li>Moved and installed Windows and Macintosh computers. 
+<li>Installed and tested software packages.</li>
+<li>Configured and tested network connection on desktops.</li>
+</ul>
+</font>
+<br/><br/>
+</li>
+
+<li>
+<font size="-1"><strong>Pool Operator/Life Guard</strong><br/> 
+Employed May 1998 - September 1998</font><br/>
+<font size="-1"><em>Community Pool Service 7917-k Cessna Avenue Gaithersburg, MD 20879 301-948-2400</em></font><br/>
+<font size="-1">
+<ul>
+<li>Ran a one guard pool (was the only guard on duty).</li>
+<li>Responsible for:
+<ul>
+<li>The safety of patrons</li>
+<li>Chemical levels in the pool</li> 
+<li>Ordering new chemicals, and supplies</li>
+<li>Cleaning</li>
+</ul>
+</li>
+</ul>
+</font>
+<br/><br/>
+</li>
+
+<li>
+<font size="-1"><strong>Life Guard</strong><br/> Employed May
+August 1996 - September 1996, August 1997 - September 1997 </font><br/>
+<font size="-1"><em>NVPools 14121 Parke Long Ct. Suite 101 Chantilly VA 20151-1647 703-968-8800</em></font><br/>
+
+<ul>
+<li><font size="-1">Ran a one guard pool (was the only guard on duty).</font></li>
+<li><font size="-1">Responsible for:
+<ul>
+<li><font size="-1">The safety of patrons</font></li>
+<li><font size="-1">Chemical levels in the pool</font></li> 
+<li><font size="-1">Cleaning</font></li>
+</ul>
+</font></li>
+</ul>
+</li>
+
+</ul>
+
+
+<strong>Honors/Activities</strong>
+<ul>
+
+<li><font size="-1">Gaim (Instant Messaging System) Support Manager
+<ul>
+<li>Maintain documentation</li>
+<li>Provide support in the #gaim chat channel on the freenode IRC network.</li>
+<li>Wrote and submitted patches to add buddy list sorting and an option to disable animated images.</li>
+<li>Implementing a redesign of the buddy list interface to support more display controls.</li>
+</ul>
+</font></li>
+
+<li><font size="-1">Knights of Columbus 
+<ul>
+<li>Recorder 2002-2003 School year.</li>
+<li>Treasurer 2000-2001 and 2001-2002 School years.</li>
+<li>Warden 1999-2000 School year.</li>
+<li>Webmaster of the George Mason Council website:  <a href="http://www.tamos.net/~kofcgmu/">http://www.tamos.net/~kofcgmu/</a></li>
+<li>Maintain council mailing list</li>
+</ul>
+</font></li>
+
+<li><font size="-1">George Mason University Honors Program
+<ul><li>An invitation-only interdisciplinary program for the top 
+150    
+applicants to accept fulfilling their general education
+requirements.</li></ul></font></li>
+
+</ul>
+
+<strong><p>Education</p></strong>
+<ul>
+<li><font size="-1"><a href="http://www.gmu.edu">George Mason
+University</a>,
+Fairfax,
+VA<br/> 
+Degree:  Bachelor of Science in Computer Science<br/>
+Graduated:  January 11, 2003<br/></font></li>
+        
+<li><font size="-1">Paul VI High School, Fairfax, VA June 1998</font></li>
+</ul>
+
+
+
+<br/><br/>
+<center><font size="-1">Updated resume available at <a
+href="http://www.tamos.net/~lschierer/resume.html">http://www.tamos.net/~lschierer/resume.html</a></center>
+</body>
+</html>

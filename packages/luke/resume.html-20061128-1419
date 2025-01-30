@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Luke Schierer's Resume</title><base href="http://www.schierer.org/%7Eluke/resume"></head>
+
+<body text="#000000" link="#0000ff" vlink="#551a8b" alink="#ff0000" bgcolor="#ffffff">
+<center><font size="+2"><strong>Luke Schierer</strong></font><br>
+
+<a href="mailto:lschierer-resume@tamos.net?subject=Resume">lschierer-resume at tamos dot net</a>
+</center>
+<br><br>
+<br><br>
+<strong>Objective:</strong><br>
+
+<blockquote>
+<font size="-1">
+A talented and hardworking professional with four years of experience
+in the field of computer science. Seeks to apply knowledge a position as a software engineer and/or system administrator.
+</font>
+</blockquote>
+
+<strong>Summary of Skills:</strong>
+
+<ul>
+<li><font size="-1">C/C++.</font></li>
+
+<li><font size="-1">Designs and constructs GUIs using the GTK toolkit in C.</font></li>
+
+<li><font size="-1">Construct dynamic and static web pages using XHTML and php.</font></li>
+
+<li><font size="-1">Assembly Language programming on the MIPS/RISC architecture.</font></li>
+
+<li><font size="-1">Experience with Java, lisp, prolog, sql, pro*c.</font></li>
+
+<li><font size="-1">Software and network installation/troubleshooting. </font></li>
+
+<li><font size="-1">Digital Unix, Solaris and Irix.</font></li>
+
+<li>
+	<font size="-1">Linux.
+		<ul>
+			<li>Install and configure clustermatic, oscar, and warewulf based Linux clusters.</li>
+			<li>Set up home network.</li>
+			<li>Set up and administer alternate email, file, and print server for NINDS-LNLC.</li>
+			<li>Install and configure software via apt, rpm, and by compiling.</li>
+		</ul>
+	</font>
+</li>
+
+<li><font size="-1">X86 and PowerPC hardware installation.</font></li>
+</ul>
+
+
+
+<strong><p>Employment:</p></strong>
+
+<ul>
+<li>
+<font size="-1"><strong>Computer Technician</strong><br/>
+August 2004-present<br/>
+<em>Accelerated Servers, Reston, VA</em><br/>
+</font><ul>
+<li>Install Linux, Windows 2000, or MacOSX on client machines.</li>
+<li>Install and configure clustering software such as Clustermatic, Oscar, or warewulf.</li>
+<li>Install and configure cluster tools such as the c3 suite and OpenMPI.</li>
+<li>Test and debug cluster configurations based on Clustermatic, Oscar, and warewulf.</li>
+<li>Install and configure XGrid and other cluster tools on Mac OSX Server.</li>
+<li>Command line administration of OSX Server.</li>
+<li>Install and configure pxelinux for disk-less booting and network installs.</li>
+<li>Setup and maintain local Debian, Fedora, and Gentoo mirrors.</li>
+<li>Setup and maintain office firewall.</li>
+<li>Setup and maintain office mail server.</li>
+<li>Work with clients, teaching them how to make efficient use of their clusters, and helping them to debug problems in them.</li>
+<li>Convert BProc based programs to use MPI.</li>
+</ul>
+</li>
+
+<!--
+<li>
+<font size="-1"><strong>Software Engineer</strong><br>
+June 2004<br>
+<em>Titan Systems</em><br>
+</font><ul>
+	<li>Design and Construct Web based system monitoring using the Sun Management Center SNMP tools, perl, and html.</li>
+</ul>
+</li>
+-->
+<li>
+<font size="-1"><strong>Data Center Operations Technician/Head Data Center Operations Technician</strong><br>
+February 2003 - May 2004<br>
+<em>Rackspace Managed Hosting, Herndon, VA</em><br>
+	</font><ul>
+<font size="-1">		<li>Documents ServerBeach policies and procedures, and generally facilitate Herndon aspects of the merge.</li>
+		<li>Provides cross training to Data-center Operations Technicians on ServerBeach ticketing system and customer database.</li>
+	<li>Provides general technical support for server issues.</li>
+		<li>Trouble-shoots and repair issues that prevent remote connectivity to servers in a time-sensitive environment.</li>
+		<li>Constructs, configures, and maintains physical data center, duties include but not limited to:
+		<ul>
+			<li>Installation of Cat5 and fiber optics cable</li>
+			<li>Assembly and leveling of Dell and Quadra racks</li>
+			<li>Assembly of bread racks for white boxes.</li>
+		</ul></li>
+		<li>Installs and configures both hardware and software associated with servers operating  Linux, FreeBSD, Win2k and Win2k3.</li>
+	</font></ul>
+
+</li>
+
+<li>
+<font size="-1"><strong>System Administrator/Tech Support</strong><br>
+May 2000 - December 2002<br>
+<em>Laboratory of Neural Control Room, National Institutes of Health, Bethesda, MD</em><br>
+<ul>
+
+<li>By providing general technical support and alternative email and
+printing solutions to a 30 person Laboratory in which each scientist
+was assigned between two and 5 computers, I gained experience in
+gathering needs requirements, writing orders to fulfill those needs,
+configuring, maintaining, trouble-shooting, and repairing a wide
+variety of x86, Mac, and sparc hardware running such diverse operating
+systems as Linux (Redhat, Debian, and RTLinux), Irix, MacOS 8.6-9.2,
+MacOSX, and Windows 95,98,ME,XP and 2000.</li>
+<li>Won the respect of the official NINDS technical support and IT
+staff by consistent excellence in maintaining a secure, virus free
+laboratory, and consistently accurate advice in fixing and/or working
+around computer problems.</li>
+<li>Worked with NINDS IT and oversaw a migration from a static
+allocation of entire Class C subnets per lab to a DHCP based IP
+allocation for the approximately 5 labs located in my building</li>
+
+</ul>
+</font>
+</li>
+
+<li>
+<font size="-1"><strong>Lab Technician</strong><br>
+September 1999 - September 2000</font><br>
+<font size="-1"><em>University Computing &amp; Information Systems (UCIS),
+Fairfax, VA
+</em></font>
+<br><font size="-1">
+<ul>
+<li>Monitored student and teaching laboratories consisting of more than thirty computers each.</li>
+<li>Trained university staff and students users on usage of software new to them.</li>
+<li>Performed trouble-shooting of hardware and logistical problems for the on-campus laboratories and Distance Learning classrooms.</li>
+<li>Repaired and installed desktop computers, notebook computers, printers and networking.</li>
+</ul>
+ </font>
+</li>
+
+
+</ul>
+
+<strong><p>Education:</p></strong>
+<ul>
+<li><font size="-1"><a href="http://www.gmu.edu">George Mason
+University</a>,
+Fairfax,
+VA<br>
+Degree:  B.S. in Computer Science<br>
+Graduated:  January 11, 2003<br></font></li>
+</ul>
+
+<strong>Honors/Activities:</strong>
+<ul>
+
+<li><font size="-1">Gaim (Instant Messaging System) Support Manager and Administrator
+<ul>
+<li>Maintains documentation</li>
+<li>Provides support to nearly one million users in the #gaim chat
+channel on the freenode IRC network, the gaim-devel mailing list, and
+the support and bug trackers provided by SourceForge</li>
+<li>Evaluates, and merges (or rejects) patches from volunteers without CVS access.</li>
+<li>Writes and commits self-designed enhancements to the user interface and core functionality of the program.</li>
+<li>Moderates Gaim related mailing lists.</li>
+<li>Co-ordinates with vendors regarding security vulnerabilities and other important patches.</li>
+<li>Co-ordinates release dates and package building with other developers.</li>
+<li>Manages developer access levels to the trackers and mailing lists.</li>
+<li>
+</ul>
+</font></li>
+<li><font size="-1">Schierer.org and twocrazyguys.net<br>
+Setup and administer small (10-15 users) email and web servers.
+<ul>
+<li>Postfix and Qmail for mail.</li>
+<li>SpamAssassin and SpamProbe for spam control.</li>
+<li>Security monitoring using logwatch, logcheck, fail2ban, denyhosts, samhain, portsentry and other tools.</li>
+<li>Apache, Apache2, and php for web serving.</li>
+</ul>
+</li>
+
+
+<li><font size="-1">George Mason University Honors Program
+<ul><li>Participated in an invitation-only interdisciplinary program
+limited to 150 top-level applicants seeking to fulfill their general
+education requirements.</li></ul></font></li>
+
+</ul>
+<strong>Clearance:</strong><br>
+<ul>
+<li>United States Citizen.</li>
+</ul>
+
+<br><br>
+<center><font size="-1">Updated resume available at <a href="http://www.schierer.org/~luke/resume.html">http://www.schierer.org/~luke/resume.html</a></font></center>
+</body></html>
