@@ -2,6 +2,9 @@
 
 find . -d -iname '*.mdwn' -print0 | while IFS= read -r -d '' mdwn;
 do
+  if [ mdwn == "index.mdwn" ]; then
+    continue;
+  fi
     # initialize variables to empty strings to ensure no carry over from previous runs.
     thisdir=""
     base=""
