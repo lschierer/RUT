@@ -2,3 +2,4 @@
 node = "22"
 pnpm = "latest"
 just = "latest"
+python = "latest"
