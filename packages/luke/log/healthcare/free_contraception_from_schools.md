@@ -1,7 +1,7 @@
 ---
 
 title: "NYC Schools Put Ideology First"
-date: 
+date: Sun Sep 23 20:37:02 2012 -0400
 tags:
   - politics-law
 layout: rut

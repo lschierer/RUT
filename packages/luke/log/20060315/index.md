@@ -1,6 +1,6 @@
 ---
 
-title: "index"
+title: "20060315"
 date: 2006-03-15
 layout: rut
 ---

@@ -1,7 +1,7 @@
 ---
 
-title: "index"
-date: 
+title: "science"
+date: Mon Oct 29 16:13:35 2012 -0400
 layout: rut
 ---
 

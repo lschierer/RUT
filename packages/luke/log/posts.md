@@ -1,7 +1,7 @@
 ---
 
 title: "posts"
-date: 
+date: Thu Aug 23 19:52:05 2012 -0400
 layout: rut
 ---
 

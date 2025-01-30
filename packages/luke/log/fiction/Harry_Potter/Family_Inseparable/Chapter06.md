@@ -1,7 +1,7 @@
 ---
 
 title: "Chapter06"
-date: 
+date: Mon Jul 2 03:47:48 2018 -0400
 layout: rut
 ---
 

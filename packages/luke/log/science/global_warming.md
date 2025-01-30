@@ -1,7 +1,7 @@
 ---
 
 title: "Global Warming"
-date: 
+date: Thu Nov 15 21:12:58 2012 -0500
 tags:
   - global-warming
   - science

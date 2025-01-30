@@ -1,7 +1,7 @@
 ---
 
 title: "Wind Farms"
-date: 
+date: Thu Feb 27 20:35:00 2014 -0500
 tags:
   - science
   - global-warming

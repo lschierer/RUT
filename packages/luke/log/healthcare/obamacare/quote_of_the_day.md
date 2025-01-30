@@ -1,7 +1,7 @@
 ---
 
 title: "Quote of the Day"
-date: 
+date: Fri Sep 21 16:50:39 2012 -0400
 tags:
   - politics-law
   - quotes

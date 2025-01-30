@@ -1,7 +1,7 @@
 ---
 
 title: "Harry and the Addams"
-date: 
+date: Fri Oct 22 18:30:59 2021 -0400
 layout: rut
 ---
 

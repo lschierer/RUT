@@ -1,7 +1,7 @@
 ---
 
 title: "contra Utilitarianism"
-date: 
+date: Mon Sep 13 17:59:35 2021 -0400
 tags:
   - morality-religion 
   - society

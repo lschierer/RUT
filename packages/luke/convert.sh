@@ -1,8 +1,8 @@
-#!/bin/bash
+#!/bin/bash -x
 
-find . -d -iname '*.mdwn' -print0 | while IFS= read -r -d '' mdwn;
+find log -d -iname '*.mdwn' | sort | while read -r mdwn;
 do
-  if [ $mdwn == "./index.mdwn" ]; then
+  if [ $mdwn == "log/index.mdwn" ]; then
     continue;
   fi
     # initialize variables to empty strings to ensure no carry over from previous runs.
@@ -19,18 +19,31 @@ do
     md=$base.md
 
     # Get the title, date, and tags in the new formats
-    title=$(grep '\[\[\!meta' $mdwn | grep title | tr -s '[:blank:]' | cut -d ' ' -f 2- | gsed -e 's/title="\(.*\)"\]\]/\1/;');
-    tags=$(grep '\[\[\!tag' $mdwn | gsed -e 's/\[\[!tag \(.*\)\]\]/\1/; s/\(\S+\) /"\1, "/g; /uncategorized/d; s/^/  - /; ')
+    title=$(grep '\[\[\!meta' $mdwn | grep title | tr -s [:blank:] | cut -d ' ' -f 2- | \
+      gsed -E -e 's|^(\s)*title="(.*)".*$|\2|' \
+    );
+    tags=$(grep '\[\[\!tag' $mdwn | \
+      gsed -e 's/\[\[!tag \(.*\)\]\]/\1/; s/\(\S+\) /"\1, "/g; /uncategorized/d; s/^/  - /; '
+      );
 
     if [[ -z "$title" ]]; then
       title=$(echo $base | tr '_' ' ')
     fi
+    if [[ "$title" == "index" ]]; then
+      title=$(echo $thisdir | rev | cut -d '/' -f 1 | rev)
+    fi
 
-    date=$(grep '\[\[\!meta' $mdwn | grep 'update=' | tr -s '[:blank:]' | cut -d ' ' -f 2- | gsed -e 's/date="\(.*\)"\]\]$/\1/;')
+
+    date=$(grep '\[\[\!meta' $mdwn | grep 'updated=' | tr -s '[:blank:]' | cut -d ' ' -f 2- |\
+      gsed -E -e 's|^(\s)*updated="(.*)"\]\](\s)*$|\2|' \
+    )
 
     if [[ -z "$date" ]]; then
-      date=$(grep '\[\[\!meta' $mdwn | grep 'date=' | tr -s '[:blank:]' | cut -d ' ' -f 2- | gsed -e 's/date="\(.*\)"\]\]$/\1/;')
-    else
+      date=$(grep '\[\[\!meta' $mdwn | grep 'date=' | tr -s '[:blank:]' | cut -d ' ' -f 2- |
+        gsed -E -e 's|^(\s)*date="(.*)"\]\](\s)*$|\2|' \
+      )
+    fi
+    if [[ -z "$date" ]]; then
       date=$( git log --diff-filter=A --follow --format=%cd -- $mdwn | tail -1 )
     fi
 

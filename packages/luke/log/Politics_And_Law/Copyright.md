@@ -1,7 +1,7 @@
 ---
 
 title: "Copyright"
-date: 
+date: Wed Jul 31 20:02:54 2013 -0400
 tags:
   - politics-law
   - society

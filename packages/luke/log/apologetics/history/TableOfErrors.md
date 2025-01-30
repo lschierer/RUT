@@ -1,7 +1,7 @@
 ---
 
 title: "Errors and Heresies"
-date: 
+date: Tue Jun 28 15:47:15 2016 -0400
 tags:
   - morality-religion
   - history

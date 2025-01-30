@@ -1,7 +1,7 @@
 ---
 
-title: "index"
-date: 
+title: "Politics_And_Law"
+date: Sun Sep 23 12:09:24 2012 -0400
 layout: rut
 ---
 

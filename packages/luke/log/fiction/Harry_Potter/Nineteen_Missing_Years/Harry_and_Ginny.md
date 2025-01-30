@@ -1,7 +1,7 @@
 ---
 
 title: "Harry and Ginny Between the Battle and the Epilogue"
-date: 
+date: Tue Nov 2 01:25:07 2021 -0400
 layout: rut
 ---
 

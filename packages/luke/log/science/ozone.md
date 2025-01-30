@@ -1,7 +1,7 @@
 ---
 
 title: "The Ozone Layer"
-date: 
+date: Mon Oct 29 16:12:22 2012 -0400
 tags:
   - science
 layout: rut

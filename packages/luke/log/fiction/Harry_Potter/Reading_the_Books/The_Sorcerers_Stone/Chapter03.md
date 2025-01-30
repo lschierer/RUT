@@ -1,7 +1,7 @@
 ---
 
 title: "The Sorcerer's Stone: Chapter 3"
-date: 
+date: Mon Feb 15 18:12:18 2021 -0500
 layout: rut
 ---
 

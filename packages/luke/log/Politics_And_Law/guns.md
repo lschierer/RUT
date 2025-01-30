@@ -1,7 +1,7 @@
 ---
 
 title: "The Right to Bear Arms"
-date: 
+date: Sun Mar 17 22:25:52 2013 -0400
 tags:
   - politics-law
 layout: rut

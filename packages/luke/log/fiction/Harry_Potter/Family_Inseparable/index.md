@@ -1,7 +1,7 @@
 ---
 
-title: "index"
-date: 
+title: "Family_Inseparable"
+date: Fri Aug 23 14:55:40 2019 -0400
 layout: rut
 ---
 

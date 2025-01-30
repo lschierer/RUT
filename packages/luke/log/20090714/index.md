@@ -1,7 +1,7 @@
 ---
 
-title: "index"
-date: updated="2009-07-14" 2009-07-14
+title: "20090714"
+date: 2009-07-14" date="2009-07-14
 layout: rut
 ---
 

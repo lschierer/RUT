@@ -1,7 +1,7 @@
 ---
 
 title: "Notes"
-date: 
+date: Mon Jul 2 10:53:08 2018 -0400
 layout: rut
 ---
 

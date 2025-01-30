@@ -1,7 +1,7 @@
 ---
 
-title: "title="Section 7: The Holy Catholic Church Key Points" ]]"
-date: 
+title: "Section 7: The Holy Catholic Church Key Points"
+date: Wed Nov 23 00:29:40 2022 -0500
 layout: rut
 ---
 

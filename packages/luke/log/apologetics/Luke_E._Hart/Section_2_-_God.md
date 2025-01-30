@@ -1,7 +1,7 @@
 ---
 
-title: "title="Section 2: God Key Points" ]]"
-date: 
+title: "Section 2: God Key Points"
+date: Sat Oct 29 16:42:10 2022 -0400
 layout: rut
 ---
 

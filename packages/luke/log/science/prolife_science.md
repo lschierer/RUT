@@ -1,7 +1,7 @@
 ---
 
 title: "Science supporting the pro life cause"
-date: 
+date: Fri Nov 23 08:20:56 2012 -0500
 tags:
   - politics-law
   - science
