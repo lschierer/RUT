@@ -1,54 +1,12 @@
 ---
 
 title: Random Unfinished Thoughts
-date: 
+date:
 layout: rut
+imports:
+  - /components/RecentChanges.ts type="module"
 ---
 
-[[!if test="enabled(sidebar)" then="""
-[[!sidebar]]
-""" else="""
-[[!inline pages=sidebar raw=yes]]
-"""]]
-
-[[!inline  pages="* and 
-	!archives and !archives/* and 
-	!*/Discussion and 
-	!ikiwiki and 
-	!ikiwiki/* and 
-  !fiction/Harry_Potter/Notes/People/* and
-	!recentchanges and 
-	!posts and 
-	!sandbox and 
-	!shortcuts and 
-	!sidebar and 
-	!smileys and 
-	!tags and !tags/* and 
-	!templates and !templates/* and 
-	!wikiicons and
-	!*.css and 
-	!*.gif and 
-	!*.ico and 
-	!*.png" sort="mtime" archive="yes" actions="no" show=10 feeds=no atom=no]]
-
-[[!inline  pages="page(*) and 
-	(creation_year(2020) or
-	 creation_year(2021) ) and
-	!archives and !archives/* and 
-	!*/Discussion and 
-	!ikiwiki and !ikiwiki/* and 
-  !fiction/Harry_Potter/Notes/People/* and
-	!recentchanges and 
-	!posts and 
-	!sandbox and 
-	!shortcuts and 
-	!sidebar and 
-	!smileys and 
-	!tags and !tags/* and 
-	!templates and !templates/* and 
-	!wikiicons
-	" sort="-meta(date) age" feedonly=yes actions="no" feeds=yes atom=yes feedshow=20]]
+<recent-changes></recent-changes>
 
 [[All Posts and Pages|posts]]
-
-[[!meta HTML_LANG_CODE="en_US"]]

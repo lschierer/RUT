@@ -25,5 +25,5 @@ echo "]" >> $OUTPATH
 
 pnpm exec rjson $OUTPATH | jq "." >> $FINAL || echo $OUTPATH
 
-echo "\n" >> $FINAL
+echo "" >> $FINAL
 echo "export default commits;" >> $FINAL

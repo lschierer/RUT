@@ -51,6 +51,7 @@ do
     gsed -E -e "/^\[\[!meta\s+title.*$/d" \
         -e "/^\[\[!meta\s+date.*$/d" \
         -e "/^\[\[!meta guid.*$/d" \
+        -e "/^\[\[!meta\s+HTML_LANG_CODE.*$/d" \
         -e "/^\[\[!tag.*$/d" \
         -e s'/\[\[\!img\s+(\S*) .* alt=(".*")]]/![\2](\1)/g' \
         $mdwn \
