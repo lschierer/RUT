@@ -1,6 +1,6 @@
 ---
 
-title: Rather than solve water shortages, lets just kill people
+title: "Rather than solve water shortages, lets just kill people"
 date: 2005-11-14 20:08:27
 tags:
   -  politics-law

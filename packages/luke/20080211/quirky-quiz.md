@@ -1,6 +1,6 @@
 ---
 
-title: quirky quiz
+title: "quirky quiz"
 date: 2008-02-11 18:54:40
 tags:
   -  quizes

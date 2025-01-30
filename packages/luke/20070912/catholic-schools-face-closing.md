@@ -1,6 +1,6 @@
 ---
 
-title: Catholic schools face closing
+title: "Catholic schools face closing"
 date: 2007-09-12 18:29:56
 tags:
   -  morality-religion

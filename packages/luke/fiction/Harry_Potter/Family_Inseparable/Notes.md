@@ -1,6 +1,6 @@
 ---
 
-title: Notes
+title: "Notes"
 date: 
 layout: rut
 ---

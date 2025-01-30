@@ -1,6 +1,6 @@
 ---
 
-title: Timeline of Errors
+title: "Timeline of Errors"
 date: 
 tags:
   - morality-religion

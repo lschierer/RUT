@@ -1,6 +1,6 @@
 ---
 
-title: Faithful people are more joyful
+title: "Faithful people are more joyful"
 date: 2007-09-07 15:19:18
 tags:
   -  morality-religion

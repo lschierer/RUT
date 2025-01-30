@@ -1,6 +1,6 @@
 ---
 
-title: What is the role of the Supreme Court?
+title: "What is the role of the Supreme Court?"
 date: 2005-09-01 16:15:48
 tags:
   -  politics-law

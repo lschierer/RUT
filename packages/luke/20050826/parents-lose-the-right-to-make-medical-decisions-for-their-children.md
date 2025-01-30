@@ -1,6 +1,6 @@
 ---
 
-title: Parents lose the right to make medical decisions for their children
+title: "Parents lose the right to make medical decisions for their children"
 date: 2005-08-26 15:48:24
 tags:
   -  morality-religion

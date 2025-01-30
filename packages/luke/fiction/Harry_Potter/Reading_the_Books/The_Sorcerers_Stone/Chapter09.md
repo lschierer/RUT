@@ -1,6 +1,7 @@
 ---
 
-title: Chapter09
+title: "Chapter09"
+date: 
 layout: rut
 ---
 

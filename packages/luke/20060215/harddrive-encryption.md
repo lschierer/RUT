@@ -1,6 +1,6 @@
 ---
 
-title: Harddrive encryption
+title: "Harddrive encryption"
 date: 2006-02-15 20:01:54
 tags:
   -  politics-law

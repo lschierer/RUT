@@ -1,6 +1,6 @@
 ---
 
-title: Catholic Hospitals need money too
+title: "Catholic Hospitals need money too"
 date: 2006-02-15 18:15:24
 tags:
   -  morality-religion

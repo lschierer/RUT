@@ -1,6 +1,6 @@
 ---
 
-title: Yay!
+title: "Yay!"
 date: 2005-06-18 04:19:45
 tags:
   -  personal

@@ -1,6 +1,6 @@
 ---
 
-title: Optical Illusion
+title: "Optical Illusion"
 date: 2007-08-02 02:58:47
 tags:
   -  science

@@ -1,6 +1,6 @@
 ---
 
-title: Faster than light?
+title: "Faster than light?"
 date: 2005-08-19 23:34:02
 tags:
   -  science

@@ -1,6 +1,6 @@
 ---
 
-title: Movie Update
+title: "Movie Update"
 date: 2008-06-16 02:10:08
 tags:
   -  personal

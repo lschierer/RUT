@@ -1,6 +1,7 @@
 ---
 
-title: "Section 3: Creation Key Points" 
+title: "title="Section 3: Creation Key Points" ]]"
+date: 
 layout: rut
 ---
 

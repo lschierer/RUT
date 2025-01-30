@@ -1,6 +1,6 @@
 ---
 
-title: Global Warming
+title: "Global Warming"
 date: 
 tags:
   - global-warming

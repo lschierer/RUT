@@ -1,6 +1,6 @@
 ---
 
-title: Congress looks at fetal pain
+title: "Congress looks at fetal pain"
 date: 2006-11-28 18:41:56
 tags:
   -  morality-religion

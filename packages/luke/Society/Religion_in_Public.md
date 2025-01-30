@@ -1,6 +1,6 @@
 ---
 
-title: Religion in Public
+title: "Religion in Public"
 date: 2005-01-24 20:07:00
 tags:
   -  politics-law

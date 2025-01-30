@@ -1,6 +1,6 @@
 ---
 
-title: Astoria
+title: "Astoria"
 date: 
 layout: rut
 ---

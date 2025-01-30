@@ -1,6 +1,6 @@
 ---
 
-title: Stronger families reduce poverty
+title: "Stronger families reduce poverty"
 date: 2005-10-26 19:23:05
 tags:
   -  society

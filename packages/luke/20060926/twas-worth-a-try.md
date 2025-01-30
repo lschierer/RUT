@@ -1,6 +1,6 @@
 ---
 
-title: &#039;twas worth a try
+title: "&#039;twas worth a try"
 date: 2006-09-26 21:54:33
 tags:
   -  pidgin

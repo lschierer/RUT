@@ -1,6 +1,6 @@
 ---
 
-title: Spam 
+title: "Spam "
 date: 2007-04-23 19:16:28
 tags:
   -  personal

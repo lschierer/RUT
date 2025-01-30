@@ -1,6 +1,6 @@
 ---
 
-title: Human regeneration
+title: "Human regeneration"
 date: 2007-02-12 18:30:45
 tags:
   -  morality-religion

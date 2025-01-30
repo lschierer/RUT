@@ -1,6 +1,6 @@
 ---
 
-title: giving up on gnucash
+title: "giving up on gnucash"
 date: 2007-07-19 18:12:11
 tags:
   -  personal

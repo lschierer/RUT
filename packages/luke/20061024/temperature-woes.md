@@ -1,6 +1,6 @@
 ---
 
-title: temperature woes
+title: "temperature woes"
 date: 2006-10-24 17:10:36
 tags:
   -  personal

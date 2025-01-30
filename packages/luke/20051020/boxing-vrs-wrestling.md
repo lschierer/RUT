@@ -1,6 +1,6 @@
 ---
 
-title: Boxing vrs Wrestling
+title: "Boxing vrs Wrestling"
 date: 2005-10-20 18:58:22
 tags:
   -  morality-religion

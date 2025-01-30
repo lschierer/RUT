@@ -1,6 +1,6 @@
 ---
 
-title: A format for content
+title: "A format for content"
 date: 2005-08-26 14:16:05
 tags:
   -  personal

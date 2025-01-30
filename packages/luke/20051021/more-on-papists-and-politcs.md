@@ -1,6 +1,6 @@
 ---
 
-title: more on Papists and politcs
+title: "more on Papists and politcs"
 date: 2005-10-21 16:26:31
 tags:
   -  politics-law

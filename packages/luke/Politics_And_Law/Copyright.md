@@ -1,6 +1,6 @@
 ---
 
-title: Copyright
+title: "Copyright"
 date: 
 tags:
   - politics-law

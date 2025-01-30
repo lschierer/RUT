@@ -1,6 +1,6 @@
 ---
 
-title: Distribution of Prime Numbers
+title: "Distribution of Prime Numbers"
 date: 
 tags:
   - mathematics

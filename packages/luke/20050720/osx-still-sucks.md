@@ -1,6 +1,6 @@
 ---
 
-title: OSX still sucks
+title: "OSX still sucks"
 date: 2005-07-20 14:00:10
 tags:
   -  personal

@@ -1,6 +1,6 @@
 ---
 
-title: an unfortunate irony
+title: "an unfortunate irony"
 date: 2006-09-25 16:21:29
 tags:
   -  morality-religion

@@ -1,6 +1,6 @@
 ---
 
-title: Finding balence
+title: "Finding balence"
 date: 2005-06-21 14:09:29
 tags:
   -  morality-religion

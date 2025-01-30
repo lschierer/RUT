@@ -1,6 +1,6 @@
 ---
 
-title: Errors and Heresies
+title: "Errors and Heresies"
 date: 
 tags:
   - morality-religion

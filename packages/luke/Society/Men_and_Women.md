@@ -1,6 +1,6 @@
 ---
 
-title: Men and Women Are Different
+title: "Men and Women Are Different"
 date: 2005-06-01 16:14:00
 tags:
   - society

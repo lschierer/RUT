@@ -1,6 +1,6 @@
 ---
 
-title: the powers of freon
+title: "the powers of freon"
 date: 2007-09-19 14:27:13
 tags:
   -  personal

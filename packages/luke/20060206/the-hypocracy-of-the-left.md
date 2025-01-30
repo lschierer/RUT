@@ -1,6 +1,6 @@
 ---
 
-title: The hypocracy of the left
+title: "The hypocracy of the left"
 date: 2006-02-06 16:22:32
 tags:
   -  politics-law

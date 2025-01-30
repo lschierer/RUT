@@ -1,6 +1,6 @@
 ---
 
-title: Evolution takes a hit in print media
+title: "Evolution takes a hit in print media"
 date: 2005-08-05 21:35:38
 tags:
   -  evolution

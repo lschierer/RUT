@@ -1,6 +1,6 @@
 ---
 
-title: the illogical left
+title: "the illogical left"
 date: 2006-02-13 20:39:32
 tags:
   -  politics-law

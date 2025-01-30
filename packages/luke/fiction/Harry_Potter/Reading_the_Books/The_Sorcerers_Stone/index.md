@@ -1,6 +1,7 @@
 ---
 
-title: "Harry Potter and the Request for Help: Book 1"
+title: "title="Harry Potter and the Request for Help: Book 1""
+date: 
 layout: rut
 ---
 

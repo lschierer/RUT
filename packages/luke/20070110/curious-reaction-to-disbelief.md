@@ -1,6 +1,6 @@
 ---
 
-title: Curious reaction to disbelief
+title: "Curious reaction to disbelief"
 date: 2007-01-10 16:24:40
 tags:
   -  global-warming

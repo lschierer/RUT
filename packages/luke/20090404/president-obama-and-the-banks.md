@@ -1,6 +1,6 @@
 ---
 
-title: President Obama and the banks
+title: "President Obama and the banks"
 date: 2009-04-04 23:36:25
 tags:
   -  politics-law

@@ -1,6 +1,6 @@
 ---
 
-title: No Shortage there
+title: "No Shortage there"
 date: 2005-10-26 16:11:30
 tags:
   -  morality-religion

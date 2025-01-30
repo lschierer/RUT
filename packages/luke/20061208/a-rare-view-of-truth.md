@@ -1,6 +1,6 @@
 ---
 
-title: a rare view of truth
+title: "a rare view of truth"
 date: 2006-12-08 16:38:38
 tags:
   -  society

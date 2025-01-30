@@ -1,6 +1,6 @@
 ---
 
-title: Too soon to tell
+title: "Too soon to tell"
 date: 2006-02-03 16:23:45
 tags:
   -  morality-religion

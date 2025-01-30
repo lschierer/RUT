@@ -1,6 +1,6 @@
 ---
 
-title: McCain-Feingold and the Supreme Court
+title: "McCain-Feingold and the Supreme Court"
 date: 2006-01-18 19:00:27
 tags:
   -  politics-law

@@ -1,6 +1,6 @@
 ---
 
-title: An attempt to get divorce cases out of court
+title: "An attempt to get divorce cases out of court"
 date: 2006-01-20 17:38:44
 tags:
   -  morality-religion

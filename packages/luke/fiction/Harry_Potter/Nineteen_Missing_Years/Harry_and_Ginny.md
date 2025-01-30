@@ -1,6 +1,6 @@
 ---
 
-title: Harry and Ginny Between the Battle and the Epilogue
+title: "Harry and Ginny Between the Battle and the Epilogue"
 date: 
 layout: rut
 ---

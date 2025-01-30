@@ -1,6 +1,6 @@
 ---
 
-title: more on liquification
+title: "more on liquification"
 date: 2005-09-21 21:30:13
 tags:
   -  morality-religion

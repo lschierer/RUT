@@ -1,6 +1,6 @@
 ---
 
-title: quote of the day
+title: "quote of the day"
 date: 2006-10-12 14:21:07
 tags:
   -  morality-religion

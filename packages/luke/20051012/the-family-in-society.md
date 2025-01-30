@@ -1,6 +1,6 @@
 ---
 
-title: The family in society
+title: "The family in society"
 date: 2005-10-12 13:38:46
 tags:
   -  morality-religion

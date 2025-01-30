@@ -1,6 +1,6 @@
 ---
 
-title: Quote of the Day
+title: "Quote of the Day"
 date: 
 tags:
   - politics-law

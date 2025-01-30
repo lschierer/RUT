@@ -1,6 +1,6 @@
 ---
 
-title: A pro-life Democrat
+title: "A pro-life Democrat"
 date: 2006-02-23 16:36:53
 tags:
   -  morality-religion

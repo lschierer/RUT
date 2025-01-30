@@ -1,6 +1,6 @@
 ---
 
-title: mp3s and the Grokster decision
+title: "mp3s and the Grokster decision"
 date: 2005-06-29 21:45:14
 tags:
   -  morality-religion

@@ -1,6 +1,6 @@
 ---
 
-title: France Riots
+title: "France Riots"
 date: 2005-11-08 15:36:47
 tags:
   -  politics-law

@@ -1,6 +1,6 @@
 ---
 
-title: Verizon
+title: "Verizon"
 date: 2007-04-25 12:30:08
 tags:
   -  pidgin

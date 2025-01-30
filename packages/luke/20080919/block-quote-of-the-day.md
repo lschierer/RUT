@@ -1,6 +1,6 @@
 ---
 
-title: Block quote of the day
+title: "Block quote of the day"
 date: 2008-09-19 11:57:10
 tags:
   -  morality-religion

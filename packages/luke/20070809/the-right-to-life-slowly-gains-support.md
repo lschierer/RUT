@@ -1,6 +1,6 @@
 ---
 
-title: The right to life slowly gains support
+title: "The right to life slowly gains support"
 date: 2007-08-09 14:35:50
 tags:
   -  morality-religion

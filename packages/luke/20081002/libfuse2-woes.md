@@ -1,6 +1,6 @@
 ---
 
-title: libfuse2 woes
+title: "libfuse2 woes"
 date: 2008-10-02 03:44:31
 tags:
   -  technical

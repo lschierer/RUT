@@ -1,6 +1,6 @@
 ---
 
-title: Trusted Networking, but by whom?
+title: "Trusted Networking, but by whom?"
 date: 2006-02-17 15:21:42
 tags:
   -  technical

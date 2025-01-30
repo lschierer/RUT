@@ -1,6 +1,6 @@
 ---
 
-title: Hardware issues
+title: "Hardware issues"
 date: 2007-05-29 16:00:39
 tags:
   -  personal

@@ -1,6 +1,6 @@
 ---
 
-title: NYC Schools Put Ideology First
+title: "NYC Schools Put Ideology First"
 date: 
 tags:
   - politics-law

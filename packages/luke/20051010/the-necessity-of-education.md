@@ -1,6 +1,6 @@
 ---
 
-title: The necessity of education
+title: "The necessity of education"
 date: 2005-10-10 14:34:24
 tags:
   -  society

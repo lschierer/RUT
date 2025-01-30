@@ -1,6 +1,6 @@
 ---
 
-title: Killing babies to treat burns
+title: "Killing babies to treat burns"
 date: 2005-08-18 14:51:53
 tags:
   -  morality-religion

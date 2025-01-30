@@ -1,6 +1,6 @@
 ---
 
-title: The DMCA covers simply deleting files&#x203d;
+title: "The DMCA covers simply deleting files&#x203d;"
 date: 2007-08-21 13:48:06
 tags:
   -  politics-law

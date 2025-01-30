@@ -1,6 +1,6 @@
 ---
 
-title: Burqas in public
+title: "Burqas in public"
 date: 2006-11-17 16:50:26
 tags:
   -  morality-religion

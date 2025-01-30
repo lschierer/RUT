@@ -1,6 +1,6 @@
 ---
 
-title: myers briggs
+title: "myers briggs"
 date: 2007-06-27 18:51:18
 tags:
   -  quizes

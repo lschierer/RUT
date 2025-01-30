@@ -1,6 +1,6 @@
 ---
 
-title: Quotas for the Courts.
+title: "Quotas for the Courts."
 date: 2005-08-23 14:54:19
 tags:
   -  politics-law

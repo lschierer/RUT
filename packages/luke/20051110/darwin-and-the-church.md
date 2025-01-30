@@ -1,6 +1,6 @@
 ---
 
-title: Darwin and the Church
+title: "Darwin and the Church"
 date: 2005-11-10 04:14:13
 tags:
   -  evolution

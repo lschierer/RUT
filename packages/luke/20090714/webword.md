@@ -1,6 +1,6 @@
 ---
 
-title: WebWord!
+title: "WebWord!"
 date: 2009-07-14 12:12:40
 tags:
   -  technical

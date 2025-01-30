@@ -1,6 +1,6 @@
 ---
 
-title: Pope Paul VI was right
+title: "Pope Paul VI was right"
 date: 2005-06-20 18:44:22
 tags:
   -  morality-religion

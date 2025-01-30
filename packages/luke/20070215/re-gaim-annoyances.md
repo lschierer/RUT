@@ -1,6 +1,6 @@
 ---
 
-title: 're: gaim annoyances'
+title: "re: gaim annoyances"
 date: 2007-02-15 17:52:14
 tags:
   -  pidgin

@@ -1,6 +1,6 @@
 ---
 
-title: a place to live, step 1
+title: "a place to live, step 1"
 date: 2007-09-18 19:00:20
 tags:
   -  personal

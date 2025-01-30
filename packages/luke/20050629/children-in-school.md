@@ -1,6 +1,6 @@
 ---
 
-title: Children in School
+title: "Children in School"
 date: 2005-06-29 20:56:32
 tags:
   -  morality-religion

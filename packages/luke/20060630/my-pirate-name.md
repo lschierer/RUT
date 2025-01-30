@@ -1,6 +1,6 @@
 ---
 
-title: My Pirate Name
+title: "My Pirate Name"
 date: 2006-06-30 15:00:09
 tags:
   -  personal

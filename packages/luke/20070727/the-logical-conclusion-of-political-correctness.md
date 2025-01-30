@@ -1,6 +1,6 @@
 ---
 
-title: The logical conclusion of political correctness
+title: "The logical conclusion of political correctness"
 date: 2007-07-27 19:47:38
 tags:
   -  morality-religion

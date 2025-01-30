@@ -1,6 +1,6 @@
 ---
 
-title: pine + maildir
+title: "pine + maildir"
 date: 2007-01-02 20:19:30
 tags:
   -  personal

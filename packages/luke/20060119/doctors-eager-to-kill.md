@@ -1,6 +1,6 @@
 ---
 
-title: Doctors eager to kill
+title: "Doctors eager to kill"
 date: 2006-01-19 15:19:20
 tags:
   -  society

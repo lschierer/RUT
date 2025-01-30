@@ -1,6 +1,6 @@
 ---
 
-title: The Church and evolution
+title: "The Church and evolution"
 date: 2005-07-14 23:43:22
 tags:
   -  evolution

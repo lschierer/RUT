@@ -1,6 +1,6 @@
 ---
 
-title: How much can you stuff into a usb stick?
+title: "How much can you stuff into a usb stick?"
 date: 2005-08-12 14:25:41
 tags:
   - technical

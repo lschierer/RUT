@@ -1,6 +1,6 @@
 ---
 
-title: DumbleDore
+title: "DumbleDore"
 date: 
 layout: rut
 ---

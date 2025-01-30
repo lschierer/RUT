@@ -1,6 +1,6 @@
 ---
 
-title: Russia, Abortion, and Babies
+title: "Russia, Abortion, and Babies"
 date: 2006-05-16 14:46:30
 tags:
   - politics-law

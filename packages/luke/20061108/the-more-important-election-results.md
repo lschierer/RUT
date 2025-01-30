@@ -1,6 +1,6 @@
 ---
 
-title: The more important election results
+title: "The more important election results"
 date: 2006-11-08 12:49:58
 tags:
   -  morality-religion

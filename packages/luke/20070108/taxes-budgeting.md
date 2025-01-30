@@ -1,6 +1,6 @@
 ---
 
-title: taxes &amp; budgeting
+title: "taxes &amp; budgeting"
 date: 2007-01-08 15:21:53
 tags:
   -  politics-law

@@ -26,17 +26,17 @@ do
       title=$(echo $base | tr '_' ' ')
     fi
 
-    date=$(grep '\[\[\!meta' $mdwn | grep update | tr -s '[:blank:]' | cut -d ' ' -f 2- | gsed -e 's/date="\(.*\)"\]\]/\1/;')
+    date=$(grep '\[\[\!meta' $mdwn | grep 'update=' | tr -s '[:blank:]' | cut -d ' ' -f 2- | gsed -e 's/date="\(.*\)"\]\]$/\1/;')
 
     if [[ -z "$date" ]]; then
-      date=$(grep '\[\[\!meta' $mdwn | grep date | tr -s '[:blank:]' | cut -d ' ' -f 2- | gsed -e 's/date="\(.*\)"\]\]/\1/;')
+      date=$(grep '\[\[\!meta' $mdwn | grep 'date=' | tr -s '[:blank:]' | cut -d ' ' -f 2- | gsed -e 's/date="\(.*\)"\]\]$/\1/;')
     else
       date=$( git log --diff-filter=A --follow --format=%cd -- $mdwn | tail -1 )
     fi
 
     # Insert the new tags into the new .md files
     echo -e "---\n" > $thisdir/$md
-    echo -e "title: $title" >> $thisdir/$md
+    echo -e "title: \"$title\"" >> $thisdir/$md
     echo -e "date: $date" >> $thisdir/$md
 
     if [[ ! -z $tags ]]; then

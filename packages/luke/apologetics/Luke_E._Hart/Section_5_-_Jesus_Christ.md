@@ -1,6 +1,7 @@
 ---
 
-title: "Section 5: Jesus Christ Points" 
+title: "title="Section 5: Jesus Christ Points" ]]"
+date: 
 layout: rut
 ---
 

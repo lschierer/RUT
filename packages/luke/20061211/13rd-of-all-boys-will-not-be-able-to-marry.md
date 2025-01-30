@@ -1,6 +1,6 @@
 ---
 
-title: 1/3rd of all boys will not be able to marry
+title: "1/3rd of all boys will not be able to marry"
 date: 2006-12-11 16:01:56
 tags:
   -  morality-religion

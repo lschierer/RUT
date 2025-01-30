@@ -1,6 +1,6 @@
 ---
 
-title: Polygyny coming to Canada?
+title: "Polygyny coming to Canada?"
 date: 2007-08-30 15:22:34
 tags:
   -  morality-religion

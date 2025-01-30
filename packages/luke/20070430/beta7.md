@@ -1,6 +1,6 @@
 ---
 
-title: beta7 
+title: "beta7 "
 date: 2007-04-30 18:49:06
 tags:
   -  pidgin

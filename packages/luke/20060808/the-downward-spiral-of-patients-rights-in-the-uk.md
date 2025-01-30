@@ -1,6 +1,6 @@
 ---
 
-title: The downward spiral of patient&#039;s rights in the UK
+title: "The downward spiral of patient&#039;s rights in the UK"
 date: 2006-08-08 16:47:48
 tags:
   -  morality-religion

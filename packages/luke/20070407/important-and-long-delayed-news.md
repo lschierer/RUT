@@ -1,6 +1,6 @@
 ---
 
-title: Important and Long Delayed News
+title: "Important and Long Delayed News"
 date: 2007-04-07 23:27:12
 tags:
   -  pidgin

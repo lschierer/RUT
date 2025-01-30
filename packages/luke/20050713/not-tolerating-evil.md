@@ -1,6 +1,6 @@
 ---
 
-title: Not tolerating evil
+title: "Not tolerating evil"
 date: 2005-07-13 15:31:43
 tags:
   -  morality-religion

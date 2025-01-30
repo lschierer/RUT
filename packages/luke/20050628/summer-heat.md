@@ -1,6 +1,6 @@
 ---
 
-title: Summer Heat
+title: "Summer Heat"
 date: 2005-06-28 15:16:41
 tags:
   -  society

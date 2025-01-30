@@ -1,6 +1,6 @@
 ---
 
-title: Stem Cell News
+title: "Stem Cell News"
 date: 2005-10-20 18:29:00
 tags:
   -  morality-religion

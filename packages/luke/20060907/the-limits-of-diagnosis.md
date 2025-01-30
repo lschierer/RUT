@@ -1,6 +1,6 @@
 ---
 
-title: The limits of diagnosis
+title: "The limits of diagnosis"
 date: 2006-09-07 21:14:17
 tags:
   -  science

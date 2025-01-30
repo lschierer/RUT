@@ -1,6 +1,6 @@
 ---
 
-title: New Red Spots
+title: "New Red Spots"
 date: 2008-05-24 13:40:41
 tags:
   -  global-warming

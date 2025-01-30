@@ -1,6 +1,6 @@
 ---
 
-title: Utter insanity
+title: "Utter insanity"
 date: 2005-07-07 15:11:54
 tags:
   -  society

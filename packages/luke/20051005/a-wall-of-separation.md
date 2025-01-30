@@ -1,6 +1,6 @@
 ---
 
-title: a wall of separation
+title: "a wall of separation"
 date: 2005-10-05 14:57:51
 tags:
   -  evolution

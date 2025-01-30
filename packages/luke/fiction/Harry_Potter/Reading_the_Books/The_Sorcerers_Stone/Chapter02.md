@@ -1,6 +1,7 @@
 ---
 
 title: "The Sorcerer's Stone: Chapter 2"
+date: 
 layout: rut
 ---
 

@@ -1,6 +1,6 @@
 ---
 
-title: Left versus Right Brained
+title: "Left versus Right Brained"
 date: 2007-12-17 18:39:59
 tags:
   - quizes

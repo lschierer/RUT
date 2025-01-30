@@ -1,6 +1,6 @@
 ---
 
-title: 'Your Social Dysfunction: Schizotypal'
+title: "Your Social Dysfunction: Schizotypal"
 date: 2006-01-10 17:22:59
 tags:
   -  personal

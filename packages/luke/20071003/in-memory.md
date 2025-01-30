@@ -1,6 +1,6 @@
 ---
 
-title: In memory
+title: "In memory"
 date: 2007-10-03 14:40:16
 tags:
   -  personal

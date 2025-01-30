@@ -1,6 +1,6 @@
 ---
 
-title: The Crusades Continue
+title: "The Crusades Continue"
 date: 2006-09-14 16:04:04
 tags:
   -  morality-religion

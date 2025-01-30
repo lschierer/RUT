@@ -1,6 +1,7 @@
 ---
 
-title: "Section 1: Faith Key Points" 
+title: "title="Section 1: Faith Key Points" ]]"
+date: 
 layout: rut
 ---
 

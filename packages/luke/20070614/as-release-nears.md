@@ -1,6 +1,6 @@
 ---
 
-title: as release nears
+title: "as release nears"
 date: 2007-06-14 16:34:33
 tags:
   -  pidgin

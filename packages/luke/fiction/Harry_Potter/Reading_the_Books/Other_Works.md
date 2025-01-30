@@ -1,6 +1,7 @@
 ---
 
-title: "Harry Potter and the Request for Help: Works Cited"
+title: "title="Harry Potter and the Request for Help: Works Cited""
+date: 
 layout: rut
 ---
 

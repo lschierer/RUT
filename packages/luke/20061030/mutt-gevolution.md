@@ -1,6 +1,6 @@
 ---
 
-title: Mutt &amp; gevolution
+title: "Mutt &amp; gevolution"
 date: 2006-10-30 18:09:28
 tags:
   -  pidgin

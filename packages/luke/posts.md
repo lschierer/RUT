@@ -1,6 +1,6 @@
 ---
 
-title: posts
+title: "posts"
 date: 
 layout: rut
 ---

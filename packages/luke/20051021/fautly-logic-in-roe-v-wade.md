@@ -1,6 +1,6 @@
 ---
 
-title: fautly logic in Roe v. Wade
+title: "fautly logic in Roe v. Wade"
 date: 2005-10-21 15:54:06
 tags:
   -  morality-religion

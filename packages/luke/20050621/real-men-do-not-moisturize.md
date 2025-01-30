@@ -1,6 +1,6 @@
 ---
 
-title: Real Men Do not Moisturize
+title: "Real Men Do not Moisturize"
 date: 2005-06-21 14:53:42
 tags:
   -  society

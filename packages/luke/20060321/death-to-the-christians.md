@@ -1,6 +1,6 @@
 ---
 
-title: Death to the Christians
+title: "Death to the Christians"
 date: 2006-03-21 19:11:17
 tags:
   -  morality-religion

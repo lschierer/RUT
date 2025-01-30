@@ -1,6 +1,6 @@
 ---
 
-title: Bishops teach
+title: "Bishops teach"
 date: 2005-07-07 15:01:32
 tags:
   -  morality-religion

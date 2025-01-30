@@ -1,6 +1,6 @@
 ---
 
-title: Homo Sapiens changes over time
+title: "Homo Sapiens changes over time"
 date: 2006-01-25 19:39:30
 tags:
   -  evolution

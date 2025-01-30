@@ -1,6 +1,6 @@
 ---
 
-title: God Sent Me
+title: "God Sent Me"
 date: 2005-11-15 18:19:06
 tags:
   -  society

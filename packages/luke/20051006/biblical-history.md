@@ -1,6 +1,6 @@
 ---
 
-title: Biblical history
+title: "Biblical history"
 date: 2005-10-06 16:13:05
 tags:
   -  morality-religion

@@ -1,6 +1,6 @@
 ---
 
-title: hufflepuff
+title: "hufflepuff"
 date: 
 layout: rut
 ---

@@ -1,6 +1,6 @@
 ---
 
-title: Single-Sex Schools
+title: "Single-Sex Schools"
 date: 2006-08-30 16:17:27
 tags:
   -  society

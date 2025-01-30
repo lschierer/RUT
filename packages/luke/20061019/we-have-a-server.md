@@ -1,6 +1,6 @@
 ---
 
-title: We have a server!
+title: "We have a server!"
 date: 2006-10-19 17:21:16
 tags:
   -  pidgin

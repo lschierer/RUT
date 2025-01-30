@@ -1,6 +1,6 @@
 ---
 
-title: Secularization in Uruguay
+title: "Secularization in Uruguay"
 date: 2005-10-10 18:06:47
 tags:
   -  society

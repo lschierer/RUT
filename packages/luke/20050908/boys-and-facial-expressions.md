@@ -1,6 +1,6 @@
 ---
 
-title: boys and facial expressions
+title: "boys and facial expressions"
 date: 2005-09-08 20:19:09
 tags:
   -  science

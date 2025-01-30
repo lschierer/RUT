@@ -1,6 +1,6 @@
 ---
 
-title: Abstinence vrs. safe sex
+title: "Abstinence vrs. safe sex"
 date: 2006-04-18 17:19:43
 tags:
   -  morality-religion

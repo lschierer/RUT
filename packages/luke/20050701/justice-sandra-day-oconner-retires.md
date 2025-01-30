@@ -1,6 +1,6 @@
 ---
 
-title: Justice Sandra Day O&#039;Conner Retires
+title: "Justice Sandra Day O&#039;Conner Retires"
 date: 2005-07-01 15:11:33
 tags:
   -  politics-law

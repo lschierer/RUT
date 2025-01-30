@@ -1,6 +1,6 @@
 ---
 
-title: The Sun is perhaps better than we thought
+title: "The Sun is perhaps better than we thought"
 date: 2005-07-05 14:54:13
 tags:
   -  science

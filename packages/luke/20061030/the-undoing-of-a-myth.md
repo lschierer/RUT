@@ -1,6 +1,6 @@
 ---
 
-title: the undoing of a myth
+title: "the undoing of a myth"
 date: 2006-10-30 15:34:47
 tags:
   -  morality-religion

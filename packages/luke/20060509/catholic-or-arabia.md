@@ -1,6 +1,6 @@
 ---
 
-title: Catholic, or Arabia?
+title: "Catholic, or Arabia?"
 date: 2006-05-09 20:30:48
 tags:
   -  morality-religion

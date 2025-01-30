@@ -1,6 +1,6 @@
 ---
 
-title: Oil costs
+title: "Oil costs"
 date: 2005-06-28 20:52:20
 tags:
   -  society

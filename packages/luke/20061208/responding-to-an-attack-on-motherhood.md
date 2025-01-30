@@ -1,6 +1,6 @@
 ---
 
-title: Responding to an attack on motherhood
+title: "Responding to an attack on motherhood"
 date: 2006-12-08 22:22:42
 tags:
   -  morality-religion

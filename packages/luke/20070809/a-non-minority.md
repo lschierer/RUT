@@ -1,6 +1,6 @@
 ---
 
-title: a non-minority
+title: "a non-minority"
 date: 2007-08-09 02:19:39
 tags:
   -  society

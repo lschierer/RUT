@@ -1,6 +1,6 @@
 ---
 
-title: God help the aborted
+title: "God help the aborted"
 date: 2005-10-20 19:14:45
 tags:
   -  morality-religion

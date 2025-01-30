@@ -1,6 +1,6 @@
 ---
 
-title: The thoughts of a physicist
+title: "The thoughts of a physicist"
 date: 2005-08-17 16:06:26
 tags:
   -  evolution

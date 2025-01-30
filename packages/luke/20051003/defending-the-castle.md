@@ -1,6 +1,6 @@
 ---
 
-title: defending the Castle
+title: "defending the Castle"
 date: 2005-10-03 15:37:12
 tags:
   -  politics-law

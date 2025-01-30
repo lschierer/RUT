@@ -1,6 +1,6 @@
 ---
 
-title: Quotes
+title: "Quotes"
 date: 2006-08-30 12:18:40
 tags:
   -  quotes

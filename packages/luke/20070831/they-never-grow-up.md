@@ -1,6 +1,6 @@
 ---
 
-title: They never grow up
+title: "They never grow up"
 date: 2007-08-31 20:12:48
 tags:
   -  society

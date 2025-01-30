@@ -1,6 +1,6 @@
 ---
 
-title: A Y2k bug in climatology
+title: "A Y2k bug in climatology"
 date: 2007-08-13 15:35:35
 tags:
   -  global-warming

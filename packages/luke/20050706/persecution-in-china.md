@@ -1,6 +1,6 @@
 ---
 
-title: Persecution in China
+title: "Persecution in China"
 date: 2005-07-06 13:55:49
 tags:
   -  morality-religion

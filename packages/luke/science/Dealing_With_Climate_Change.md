@@ -1,6 +1,6 @@
 ---
 
-title: Dealing With Climate Change
+title: "Dealing With Climate Change"
 date: 
 tags:
   - global-warming

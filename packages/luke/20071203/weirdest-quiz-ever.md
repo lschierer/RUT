@@ -1,6 +1,6 @@
 ---
 
-title: Weirdest Quiz Ever
+title: "Weirdest Quiz Ever"
 date: 2007-12-03 17:15:02
 tags:
   -  quizes

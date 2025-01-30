@@ -1,6 +1,6 @@
 ---
 
-title: A Good movie
+title: "A Good movie"
 date: 2007-11-26 04:16:26
 tags:
   -  personal

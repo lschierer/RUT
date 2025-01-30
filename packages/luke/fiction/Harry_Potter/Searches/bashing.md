@@ -1,6 +1,6 @@
 ---
 
-title: bashing
+title: "bashing"
 date: 
 layout: rut
 ---

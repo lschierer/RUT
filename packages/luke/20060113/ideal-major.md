@@ -1,6 +1,6 @@
 ---
 
-title: &quot;Ideal&quot; Major
+title: "&quot;Ideal&quot; Major"
 date: 2006-01-13 17:59:13
 tags:
   -  personal

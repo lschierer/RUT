@@ -1,6 +1,6 @@
 ---
 
-title: a surprise from the media
+title: "a surprise from the media"
 date: 2007-01-18 19:05:45
 tags:
   -  morality-religion

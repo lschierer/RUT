@@ -1,6 +1,6 @@
 ---
 
-title: unscientific linguistic quiz
+title: "unscientific linguistic quiz"
 date: 2006-09-11 14:11:04
 tags:
   - personal

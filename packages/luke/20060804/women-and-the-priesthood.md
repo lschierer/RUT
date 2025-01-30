@@ -1,6 +1,6 @@
 ---
 
-title: Women and the Priesthood
+title: "Women and the Priesthood"
 date: 2006-08-04 16:43:24
 tags:
   -  morality-religion

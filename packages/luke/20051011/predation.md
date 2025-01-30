@@ -1,6 +1,6 @@
 ---
 
-title: predation
+title: "predation"
 date: 2005-10-11 16:39:23
 tags:
   -  morality-religion

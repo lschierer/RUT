@@ -1,6 +1,6 @@
 ---
 
-title: personality test
+title: "personality test"
 date: 2005-10-28 19:09:09
 tags:
   -  personal

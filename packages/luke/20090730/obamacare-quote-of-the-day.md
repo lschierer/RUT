@@ -1,6 +1,6 @@
 ---
 
-title: Obamacare quote of the day
+title: "Obamacare quote of the day"
 date: 2009-07-30 11:27:30
 tags:
   -  politics-law

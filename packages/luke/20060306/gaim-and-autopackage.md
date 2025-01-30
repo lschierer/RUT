@@ -1,6 +1,6 @@
 ---
 
-title: gaim and autopackage
+title: "gaim and autopackage"
 date: 2006-03-06 19:33:58
 tags:
   -  pidgin

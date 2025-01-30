@@ -1,6 +1,6 @@
 ---
 
-title: Sci-Fi personality
+title: "Sci-Fi personality"
 date: 2006-03-10 15:54:21
 tags:
   -  personal

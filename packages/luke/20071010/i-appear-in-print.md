@@ -1,6 +1,6 @@
 ---
 
-title: I appear in print
+title: "I appear in print"
 date: 2007-10-10 16:25:29
 tags:
   -  personal

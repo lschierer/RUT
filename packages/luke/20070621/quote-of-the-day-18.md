@@ -1,6 +1,6 @@
 ---
 
-title: Quote of the day
+title: "Quote of the day"
 date: 2007-06-21 16:40:01
 tags:
   -  evolution

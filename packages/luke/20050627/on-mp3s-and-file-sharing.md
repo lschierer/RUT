@@ -1,6 +1,6 @@
 ---
 
-title: On mp3s and file sharing
+title: "On mp3s and file sharing"
 date: 2005-06-27 15:11:18
 tags:
   -  politics-law

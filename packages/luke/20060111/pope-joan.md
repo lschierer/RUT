@@ -1,6 +1,6 @@
 ---
 
-title: &quot;Pope Joan&quot;
+title: "&quot;Pope Joan&quot;"
 date: 2006-01-11 17:36:55
 tags:
   -  morality-religion

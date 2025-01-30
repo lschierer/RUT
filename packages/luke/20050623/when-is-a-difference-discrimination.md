@@ -1,6 +1,6 @@
 ---
 
-title: When is a difference discrimination?
+title: "When is a difference discrimination?"
 date: 2005-06-23 15:44:50
 tags:
   -  morality-religion

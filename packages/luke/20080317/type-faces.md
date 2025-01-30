@@ -1,6 +1,6 @@
 ---
 
-title: type faces
+title: "type faces"
 date: 2008-03-17 13:36:07
 tags:
   -  quizes

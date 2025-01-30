@@ -1,6 +1,6 @@
 ---
 
-title: St. Jude
+title: "St. Jude"
 date: 2008-12-19 13:22:32
 tags:
   -  morality-religion

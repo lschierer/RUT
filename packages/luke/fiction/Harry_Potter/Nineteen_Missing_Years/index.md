@@ -1,6 +1,6 @@
 ---
 
-title: Nineteen Missing Years, 
+title: "Nineteen Missing Years, "
 date: 
 layout: rut
 ---

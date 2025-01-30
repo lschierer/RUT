@@ -1,6 +1,6 @@
 ---
 
-title: The Great Scare debunked
+title: "The Great Scare debunked"
 date: 2006-11-06 21:13:15
 tags:
   -  global-warming

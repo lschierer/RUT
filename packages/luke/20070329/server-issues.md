@@ -1,6 +1,6 @@
 ---
 
-title: Server issues
+title: "Server issues"
 date: 2007-03-29 15:33:15
 tags:
   -  personal

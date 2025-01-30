@@ -1,6 +1,6 @@
 ---
 
-title: Usury
+title: "Usury"
 date: 
 tags:
   - politics-law 

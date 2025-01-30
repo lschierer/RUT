@@ -1,6 +1,6 @@
 ---
 
-title: &quot;Young People&quot; understand absolutes
+title: "&quot;Young People&quot; understand absolutes"
 date: 2005-08-18 17:51:33
 tags:
   -  morality-religion

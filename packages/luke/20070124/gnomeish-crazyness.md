@@ -1,6 +1,6 @@
 ---
 
-title: GNOMEish crazyness
+title: "GNOMEish crazyness"
 date: 2007-01-24 19:07:17
 tags:
   -  pidgin

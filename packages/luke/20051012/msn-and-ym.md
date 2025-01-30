@@ -1,6 +1,6 @@
 ---
 
-title: MSN and Y!M
+title: "MSN and Y!M"
 date: 2005-10-12 14:06:48
 tags:
   -  personal

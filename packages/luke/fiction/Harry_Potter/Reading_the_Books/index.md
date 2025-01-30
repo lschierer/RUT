@@ -1,6 +1,7 @@
 ---
 
-title: index
+title: "index"
+date: 
 layout: rut
 ---
 

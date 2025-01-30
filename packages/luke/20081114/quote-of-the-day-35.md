@@ -1,6 +1,6 @@
 ---
 
-title: Quote of the Day
+title: "Quote of the Day"
 date: 2008-11-14 12:22:56
 tags:
   -  quotes

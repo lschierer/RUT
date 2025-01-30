@@ -1,6 +1,6 @@
 ---
 
-title: Religions descrimination and a look at Retail
+title: "Religions descrimination and a look at Retail"
 date: 2005-08-09 15:01:10
 tags:
   -  morality-religion

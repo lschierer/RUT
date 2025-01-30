@@ -1,6 +1,6 @@
 ---
 
-title: Parts of the whole
+title: "Parts of the whole"
 date: 2006-11-09 17:31:34
 tags:
   -  morality-religion

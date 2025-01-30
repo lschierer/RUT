@@ -1,6 +1,6 @@
 ---
 
-title: Translations
+title: "Translations"
 date: 2007-06-25 16:03:39
 tags:
   -  morality-religion

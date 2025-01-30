@@ -1,6 +1,6 @@
 ---
 
-title: More on Cardinal Sch&#xf6;nborn
+title: "More on Cardinal Sch&#xf6;nborn"
 date: 2005-11-22 16:50:22
 tags:
   -  evolution

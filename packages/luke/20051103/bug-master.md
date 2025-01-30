@@ -1,6 +1,6 @@
 ---
 
-title: Bug Master
+title: "Bug Master"
 date: 2005-11-03 21:41:57
 tags:
   -  pidgin

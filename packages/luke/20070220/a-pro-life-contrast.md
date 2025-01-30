@@ -1,6 +1,6 @@
 ---
 
-title: A Pro-life contrast
+title: "A Pro-life contrast"
 date: 2007-02-20 15:16:52
 tags:
   -  morality-religion

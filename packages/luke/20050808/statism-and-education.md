@@ -1,6 +1,6 @@
 ---
 
-title: Statism and education
+title: "Statism and education"
 date: 2005-08-08 21:12:41
 tags:
   -  morality-religion

@@ -1,6 +1,6 @@
 ---
 
-title: Can I vote for Romney
+title: "Can I vote for Romney"
 date: 
 tags:
   - morality-religion

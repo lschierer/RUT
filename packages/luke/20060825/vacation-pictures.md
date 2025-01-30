@@ -1,6 +1,6 @@
 ---
 
-title: Vacation Pictures
+title: "Vacation Pictures"
 date: 2006-08-25 02:15:39
 tags:
   -  personal

@@ -1,6 +1,6 @@
 ---
 
-title: Lamarck wins
+title: "Lamarck wins"
 date: 2009-02-16 14:10:31
 tags:
   -  evolution

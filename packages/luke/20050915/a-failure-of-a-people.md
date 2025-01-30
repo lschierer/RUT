@@ -1,6 +1,6 @@
 ---
 
-title: A failure of a people
+title: "A failure of a people"
 date: 2005-09-15 14:11:16
 tags:
   -  morality-religion

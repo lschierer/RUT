@@ -1,6 +1,7 @@
 ---
 
-title: "Section 4: The Human Person Key Points" 
+title: "title="Section 4: The Human Person Key Points" ]]"
+date: 
 layout: rut
 ---
 

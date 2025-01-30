@@ -1,6 +1,6 @@
 ---
 
-title: Perl is evil
+title: "Perl is evil"
 date: 2005-11-23 17:01:36
 tags:
   -  personal

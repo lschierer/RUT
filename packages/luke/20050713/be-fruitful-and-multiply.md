@@ -1,6 +1,6 @@
 ---
 
-title: Be Fruitful and multiply
+title: "Be Fruitful and multiply"
 date: 2005-07-13 19:57:14
 tags:
   -  morality-religion

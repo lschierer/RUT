@@ -1,6 +1,6 @@
 ---
 
-title: Repairing mistakes
+title: "Repairing mistakes"
 date: 2005-08-09 17:51:42
 tags:
   -  morality-religion

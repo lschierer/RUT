@@ -1,6 +1,6 @@
 ---
 
-title: another one bites the dust
+title: "another one bites the dust"
 date: 2007-11-07 23:05:41
 tags:
   -  morality-religion

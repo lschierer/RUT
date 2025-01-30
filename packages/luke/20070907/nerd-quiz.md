@@ -1,6 +1,6 @@
 ---
 
-title: Nerd Quiz
+title: "Nerd Quiz"
 date: 2007-09-07 15:32:51
 tags:
   -  quizes

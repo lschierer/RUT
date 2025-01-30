@@ -1,6 +1,6 @@
 ---
 
-title: genetic testing
+title: "genetic testing"
 date: 2005-08-10 18:49:48
 tags:
   -  society

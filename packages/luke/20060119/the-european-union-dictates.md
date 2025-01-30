@@ -1,6 +1,6 @@
 ---
 
-title: The European Union dictates
+title: "The European Union dictates"
 date: 2006-01-19 19:15:40
 tags:
   -  politics-law

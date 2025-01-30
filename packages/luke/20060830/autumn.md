@@ -1,6 +1,6 @@
 ---
 
-title: Autumn
+title: "Autumn"
 date: 2006-08-30 23:32:34
 tags:
   -  personal

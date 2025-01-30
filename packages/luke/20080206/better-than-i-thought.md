@@ -1,6 +1,6 @@
 ---
 
-title: Better than I thought
+title: "Better than I thought"
 date: 2008-02-06 21:58:24
 tags:
   -  politics-law

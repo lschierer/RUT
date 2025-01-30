@@ -1,6 +1,6 @@
 ---
 
-title: A look at women&#039;s &quot;ordination&quot;
+title: "A look at women&#039;s &quot;ordination&quot;"
 date: 2005-08-12 16:19:20
 tags:
   -  morality-religion

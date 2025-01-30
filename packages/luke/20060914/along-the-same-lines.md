@@ -1,6 +1,6 @@
 ---
 
-title: Along the same lines
+title: "Along the same lines"
 date: 2006-09-14 16:56:07
 tags:
   -  morality-religion

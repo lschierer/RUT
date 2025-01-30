@@ -1,6 +1,6 @@
 ---
 
-title: The side benefits of a stay at home mom
+title: "The side benefits of a stay at home mom"
 date: 2006-03-22 18:48:00
 tags:
   -  society

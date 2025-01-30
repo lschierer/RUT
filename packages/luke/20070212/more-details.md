@@ -1,6 +1,6 @@
 ---
 
-title: more details
+title: "more details"
 date: 2007-02-12 15:50:16
 tags:
   -  global-warming

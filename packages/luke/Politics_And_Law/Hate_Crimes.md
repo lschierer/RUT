@@ -1,6 +1,6 @@
 ---
 
-title: Hate Crimes
+title: "Hate Crimes"
 date: 2005-01-25 22:02:00
 tags:
   - politics-law

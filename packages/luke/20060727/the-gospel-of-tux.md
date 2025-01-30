@@ -1,6 +1,6 @@
 ---
 
-title: The Gospel of Tux
+title: "The Gospel of Tux"
 date: 2006-07-27 16:02:25
 tags:
   -  technical

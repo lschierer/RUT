@@ -1,6 +1,6 @@
 ---
 
-title: &quot;Strongest Dad in the World&quot;
+title: "&quot;Strongest Dad in the World&quot;"
 date: 2006-09-06 18:18:05
 tags:
   -  society

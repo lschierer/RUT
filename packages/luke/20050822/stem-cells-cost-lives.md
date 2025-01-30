@@ -1,6 +1,6 @@
 ---
 
-title: Stem cells cost lives
+title: "Stem cells cost lives"
 date: 2005-08-22 18:36:38
 tags:
   -  morality-religion

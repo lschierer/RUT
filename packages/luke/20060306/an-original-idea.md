@@ -1,6 +1,6 @@
 ---
 
-title: An Original Idea
+title: "An Original Idea"
 date: 2006-03-06 18:08:19
 tags:
   -  society

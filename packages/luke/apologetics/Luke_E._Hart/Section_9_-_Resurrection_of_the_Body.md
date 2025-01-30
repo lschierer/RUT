@@ -1,6 +1,7 @@
 ---
 
-title: "Section 9: The Resurrection of the Body Key Points" 
+title: "title="Section 9: The Resurrection of the Body Key Points" ]]"
+date: 
 layout: rut
 ---
 

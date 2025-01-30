@@ -1,6 +1,6 @@
 ---
 
-title: Which Peanut?
+title: "Which Peanut?"
 date: 2005-11-06 18:31:50
 tags:
   -  personal

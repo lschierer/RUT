@@ -1,6 +1,6 @@
 ---
 
-title: Harry and the Addams
+title: "Harry and the Addams"
 date: 
 layout: rut
 ---

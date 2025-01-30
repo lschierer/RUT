@@ -1,6 +1,6 @@
 ---
 
-title: Lots of fossils, but why?
+title: "Lots of fossils, but why?"
 date: 2006-10-05 17:21:47
 tags:
   -  plate-tectonics

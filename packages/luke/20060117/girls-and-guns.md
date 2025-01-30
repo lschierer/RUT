@@ -1,6 +1,6 @@
 ---
 
-title: Girls and Guns
+title: "Girls and Guns"
 date: 2006-01-17 22:06:52
 tags:
   -  politics-law

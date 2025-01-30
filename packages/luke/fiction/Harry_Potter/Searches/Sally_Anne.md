@@ -1,6 +1,6 @@
 ---
 
-title: Sally Anne
+title: "Sally Anne"
 date: 
 layout: rut
 ---

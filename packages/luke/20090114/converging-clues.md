@@ -1,6 +1,6 @@
 ---
 
-title: Converging clues
+title: "Converging clues"
 date: 2009-01-14 12:45:44
 tags:
   -  morality-religion

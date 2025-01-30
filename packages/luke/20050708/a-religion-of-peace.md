@@ -1,6 +1,6 @@
 ---
 
-title: A religion of peace?
+title: "A religion of peace?"
 date: 2005-07-08 21:19:52
 tags:
   -  morality-religion

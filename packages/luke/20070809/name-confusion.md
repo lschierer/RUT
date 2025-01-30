@@ -1,6 +1,6 @@
 ---
 
-title: Name confusion
+title: "Name confusion"
 date: 2007-08-09 02:48:52
 tags:
   -  pidgin

@@ -1,6 +1,6 @@
 ---
 
-title: Listening to music my way
+title: "Listening to music my way"
 date: 2006-02-17 15:45:17
 tags:
   -  politics-law

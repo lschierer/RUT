@@ -1,6 +1,6 @@
 ---
 
-title: The Earth&#039;s core spins independently
+title: "The Earth&#039;s core spins independently"
 date: 2005-08-26 15:21:59
 tags:
   -  plate-tectonics

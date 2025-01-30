@@ -1,6 +1,6 @@
 ---
 
-title: There is no choice
+title: "There is no choice"
 date: 2005-06-23 16:26:18
 tags:
   -  morality-religion

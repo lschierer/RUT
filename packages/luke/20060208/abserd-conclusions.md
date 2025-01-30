@@ -1,6 +1,6 @@
 ---
 
-title: Absurd conclusions
+title: "Absurd conclusions"
 date: 2006-02-08 21:40:36
 tags:
   -  society

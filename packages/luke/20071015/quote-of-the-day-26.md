@@ -1,6 +1,6 @@
 ---
 
-title: quote of the day
+title: "quote of the day"
 date: 2007-10-15 15:25:46
 tags:
   -  quotes

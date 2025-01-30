@@ -1,6 +1,6 @@
 ---
 
-title: The Danger of Hate Speach Laws
+title: "The Danger of Hate Speach Laws"
 date: 2005-06-30 16:41:29
 tags:
   -  morality-religion

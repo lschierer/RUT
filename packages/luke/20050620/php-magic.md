@@ -1,6 +1,6 @@
 ---
 
-title: PHP magic
+title: "PHP magic"
 date: 2005-06-20 21:20:28
 tags:
   -  personal

@@ -1,6 +1,6 @@
 ---
 
-title: The inconsistency of the European Union
+title: "The inconsistency of the European Union"
 date: 2006-08-25 13:35:05
 tags:
   -  politics-law

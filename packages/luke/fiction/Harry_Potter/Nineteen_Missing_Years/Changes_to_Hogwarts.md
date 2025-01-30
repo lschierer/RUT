@@ -1,6 +1,6 @@
 ---
 
-title: Changes to Hogwarts After the War
+title: "Changes to Hogwarts After the War"
 date: 
 layout: rut
 ---

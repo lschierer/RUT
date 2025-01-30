@@ -1,6 +1,6 @@
 ---
 
-title: Voting to Minimize Harm in 2016
+title: "Voting to Minimize Harm in 2016"
 date: 
 layout: rut
 ---

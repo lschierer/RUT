@@ -1,6 +1,6 @@
 ---
 
-title: Religions persecution
+title: "Religions persecution"
 date: 2005-08-05 21:26:30
 tags:
   -  morality-religion

@@ -1,6 +1,6 @@
 ---
 
-title: April Fools
+title: "April Fools"
 date: 2007-04-02 20:45:59
 tags:
   -  personal

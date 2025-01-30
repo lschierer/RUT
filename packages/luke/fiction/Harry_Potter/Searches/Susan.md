@@ -1,6 +1,6 @@
 ---
 
-title: Susan
+title: "Susan"
 date: 
 layout: rut
 ---

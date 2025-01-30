@@ -1,6 +1,7 @@
 ---
 
-title: "Harry Potter and the Request for Help: Prologue"
+title: "title="Harry Potter and the Request for Help: Prologue""
+date: 
 layout: rut
 ---
 

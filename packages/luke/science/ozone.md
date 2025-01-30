@@ -1,6 +1,6 @@
 ---
 
-title: The Ozone Layer
+title: "The Ozone Layer"
 date: 
 tags:
   - science

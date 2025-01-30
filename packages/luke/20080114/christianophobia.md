@@ -1,6 +1,6 @@
 ---
 
-title: Christianophobia
+title: "Christianophobia"
 date: 2008-01-14 19:08:25
 tags:
   -  morality-religion

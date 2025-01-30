@@ -1,6 +1,6 @@
 ---
 
-title: What Kind of Reader Are You?
+title: "What Kind of Reader Are You?"
 date: 2008-02-01 18:33:34
 tags:
   -  quizes

@@ -1,6 +1,6 @@
 ---
 
-title: Persecution in Sudan
+title: "Persecution in Sudan"
 date: 2005-07-06 14:02:02
 tags:
   -  morality-religion

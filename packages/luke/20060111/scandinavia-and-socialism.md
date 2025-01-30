@@ -1,6 +1,6 @@
 ---
 
-title: Scandinavia and socialism
+title: "Scandinavia and socialism"
 date: 2006-01-11 17:56:59
 tags:
   -  politics-law

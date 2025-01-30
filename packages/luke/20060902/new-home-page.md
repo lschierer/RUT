@@ -1,6 +1,6 @@
 ---
 
-title: new home page
+title: "new home page"
 date: 2006-09-02 04:38:21
 tags:
   -  personal

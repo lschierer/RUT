@@ -1,6 +1,6 @@
 ---
 
-title: Tribes
+title: "Tribes"
 date: 2005-09-06 21:12:44
 tags:
   -  politics-law

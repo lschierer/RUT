@@ -1,6 +1,7 @@
 ---
 
-title: "Section 6: The Holy Spirit Key Points"
+title: "title="Section 6: The Holy Spirit Key Points" ]]"
+date: 
 layout: rut
 ---
 

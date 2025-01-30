@@ -1,6 +1,6 @@
 ---
 
-title: Just a second, let me ssh to my robot&#x2026;
+title: "Just a second, let me ssh to my robot&#x2026;"
 date: 2006-07-21 17:44:39
 tags:
   -  science

@@ -1,6 +1,6 @@
 ---
 
-title: Google Talk
+title: "Google Talk"
 date: 2006-03-03 13:24:27
 tags:
   -  pidgin

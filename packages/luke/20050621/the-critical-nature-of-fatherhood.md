@@ -1,6 +1,6 @@
 ---
 
-title: The Critical Nature of Fatherhood
+title: "The Critical Nature of Fatherhood"
 date: 2005-06-21 14:46:43
 tags:
   -  society

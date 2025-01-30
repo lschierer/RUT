@@ -1,6 +1,6 @@
 ---
 
-title: On men&#039;s grooming
+title: "On men&#039;s grooming"
 date: 2005-06-23 15:22:33
 tags:
   -  politics-law

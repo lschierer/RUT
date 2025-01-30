@@ -1,6 +1,6 @@
 ---
 
-title: Separate Magisteria
+title: "Separate Magisteria"
 date: 2005-10-05 21:10:52
 tags:
   -  evolution

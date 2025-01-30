@@ -1,6 +1,6 @@
 ---
 
-title: Amusement value
+title: "Amusement value"
 date: 2008-09-10 11:24:22
 tags:
   -  evolution

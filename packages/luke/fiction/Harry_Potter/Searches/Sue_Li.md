@@ -1,6 +1,6 @@
 ---
 
-title: Sue Li
+title: "Sue Li"
 date: 
 layout: rut
 ---

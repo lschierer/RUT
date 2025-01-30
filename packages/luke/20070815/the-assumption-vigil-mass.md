@@ -1,6 +1,6 @@
 ---
 
-title: The Assumption Vigil Mass
+title: "The Assumption Vigil Mass"
 date: 2007-08-15 14:42:04
 tags:
   -  morality-religion

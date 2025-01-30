@@ -1,6 +1,6 @@
 ---
 
-title: Another failure for Newton
+title: "Another failure for Newton"
 date: 2005-10-10 19:33:01
 tags:
   -  science

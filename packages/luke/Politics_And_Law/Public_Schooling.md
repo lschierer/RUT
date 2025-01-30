@@ -1,6 +1,6 @@
 ---
 
-title: Public Schooling
+title: "Public Schooling"
 date: 2005-06-15 18:38:00
 tags:
   - society

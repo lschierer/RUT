@@ -1,6 +1,6 @@
 ---
 
-title: Latin
+title: "Latin"
 date: 2006-06-30 21:01:42
 tags:
   -  society

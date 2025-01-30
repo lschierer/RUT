@@ -1,6 +1,6 @@
 ---
 
-title: Duty and Heroics
+title: "Duty and Heroics"
 date: 2005-06-29 17:27:54
 tags:
   -  morality-religion

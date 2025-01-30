@@ -1,6 +1,6 @@
 ---
 
-title: Congress and Iraq
+title: "Congress and Iraq"
 date: 2007-08-02 02:54:23
 tags:
   -  politics-law

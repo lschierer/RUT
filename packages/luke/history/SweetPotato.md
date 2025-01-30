@@ -1,6 +1,6 @@
 ---
 
-title: Evidence from a Sweet Potato
+title: "Evidence from a Sweet Potato"
 date: 
 tags:
   - science

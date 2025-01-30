@@ -1,7 +1,7 @@
 ---
 
-title: index
-date: Mon Aug 27 03:35:01 2012 -0400
+title: "index"
+date: 2005-05-04
 layout: rut
 ---
 

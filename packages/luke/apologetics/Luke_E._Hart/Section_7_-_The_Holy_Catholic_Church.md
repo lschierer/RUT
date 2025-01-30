@@ -1,6 +1,7 @@
 ---
 
-title: "Section 7: The Holy Catholic Church Key Points" 
+title: "title="Section 7: The Holy Catholic Church Key Points" ]]"
+date: 
 layout: rut
 ---
 

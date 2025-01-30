@@ -1,6 +1,6 @@
 ---
 
-title: Freud, Marx and Darwin
+title: "Freud, Marx and Darwin"
 date: 2006-01-05 23:21:34
 tags:
   -  evolution

@@ -1,6 +1,6 @@
 ---
 
-title: The Right to Bear Arms
+title: "The Right to Bear Arms"
 date: 
 tags:
   - politics-law

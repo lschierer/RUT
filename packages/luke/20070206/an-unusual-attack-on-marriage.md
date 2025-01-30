@@ -1,6 +1,6 @@
 ---
 
-title: An &#x2026; unusual attack on marriage
+title: "An &#x2026; unusual attack on marriage"
 date: 2007-02-06 17:43:12
 tags:
   -  morality-religion

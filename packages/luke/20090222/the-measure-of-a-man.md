@@ -1,6 +1,6 @@
 ---
 
-title: The Measure of a Man
+title: "The Measure of a Man"
 date: 2009-02-22 14:36:48
 tags:
   -  quizes

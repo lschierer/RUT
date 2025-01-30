@@ -1,6 +1,6 @@
 ---
 
-title: homosexuality
+title: "homosexuality"
 date: 2005-06-03 19:24:00
 tags:
   - morality-religion

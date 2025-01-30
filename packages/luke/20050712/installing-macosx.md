@@ -1,6 +1,6 @@
 ---
 
-title: Installing MacOSX
+title: "Installing MacOSX"
 date: 2005-07-12 19:34:56
 tags:
   -  personal

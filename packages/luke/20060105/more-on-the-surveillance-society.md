@@ -1,6 +1,6 @@
 ---
 
-title: More on the Surveillance Society
+title: "More on the Surveillance Society"
 date: 2006-01-05 23:12:54
 tags:
   -  politics-law

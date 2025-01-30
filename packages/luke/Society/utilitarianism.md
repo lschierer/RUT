@@ -1,6 +1,6 @@
 ---
 
-title: contra Utilitarianism
+title: "contra Utilitarianism"
 date: 
 tags:
   - morality-religion 

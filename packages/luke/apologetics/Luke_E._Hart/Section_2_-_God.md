@@ -1,6 +1,7 @@
 ---
 
-title: "Section 2: God Key Points" 
+title: "title="Section 2: God Key Points" ]]"
+date: 
 layout: rut
 ---
 

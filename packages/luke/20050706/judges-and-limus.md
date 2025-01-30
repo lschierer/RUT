@@ -1,6 +1,6 @@
 ---
 
-title: Judges and litmus
+title: "Judges and litmus"
 date: 2005-07-06 14:53:57
 tags:
   -  morality-religion

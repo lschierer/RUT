@@ -1,6 +1,6 @@
 ---
 
-title: Sonar Generated Piano
+title: "Sonar Generated Piano"
 date: 2006-08-10 17:34:22
 tags:
   -  plate-tectonics

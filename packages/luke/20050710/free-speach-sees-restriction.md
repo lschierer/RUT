@@ -1,6 +1,6 @@
 ---
 
-title: Free Speach sees restriction
+title: "Free Speach sees restriction"
 date: 2005-07-10 02:46:38
 tags:
   -  politics-law

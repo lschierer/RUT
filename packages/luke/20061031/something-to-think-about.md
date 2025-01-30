@@ -1,6 +1,6 @@
 ---
 
-title: Something to think about
+title: "Something to think about"
 date: 2006-10-31 15:46:03
 tags:
   -  morality-religion

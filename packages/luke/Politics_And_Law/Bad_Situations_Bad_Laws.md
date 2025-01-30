@@ -1,6 +1,6 @@
 ---
 
-title: Bad Situations Make for Bad Laws
+title: "Bad Situations Make for Bad Laws"
 date: 2005-05-24 22:33:00
 tags:
   - politics-law

@@ -1,6 +1,6 @@
 ---
 
-title: attacking straw men
+title: "attacking straw men"
 date: 2005-11-16 20:23:06
 tags:
   -  evolution

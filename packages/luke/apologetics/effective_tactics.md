@@ -1,6 +1,6 @@
 ---
 
-title: Effective Tactics
+title: "Effective Tactics"
 date: 2006-02-10 16:02:12
 tags:
   -  morality-religion

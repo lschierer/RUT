@@ -1,6 +1,6 @@
 ---
 
-title: Drugs
+title: "Drugs"
 date: 2005-01-25 15:35:00
 tags:
   - society

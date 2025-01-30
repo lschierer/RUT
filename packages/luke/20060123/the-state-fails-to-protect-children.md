@@ -1,6 +1,6 @@
 ---
 
-title: The State fails to protect children
+title: "The State fails to protect children"
 date: 2006-01-23 19:27:02
 tags:
   -  morality-religion

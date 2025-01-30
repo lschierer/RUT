@@ -1,6 +1,6 @@
 ---
 
-title: on bugs
+title: "on bugs"
 date: 2005-10-03 19:22:12
 tags:
   -  personal

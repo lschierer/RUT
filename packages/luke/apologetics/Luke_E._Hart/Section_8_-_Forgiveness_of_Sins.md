@@ -1,6 +1,7 @@
 ---
 
-title: "Section 8: The Forgiveness of Sins Key Points" 
+title: "title="Section 8: The Forgiveness of Sins Key Points" ]]"
+date: 
 layout: rut
 ---
 

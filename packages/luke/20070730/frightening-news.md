@@ -1,6 +1,6 @@
 ---
 
-title: Frightening news
+title: "Frightening news"
 date: 2007-07-30 18:09:52
 tags:
   -  politics-law

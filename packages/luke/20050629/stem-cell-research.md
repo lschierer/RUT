@@ -1,6 +1,6 @@
 ---
 
-title: Stem Cell research
+title: "Stem Cell research"
 date: 2005-06-29 21:11:00
 tags:
   -  morality-religion

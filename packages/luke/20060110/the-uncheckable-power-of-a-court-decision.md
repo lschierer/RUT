@@ -1,6 +1,6 @@
 ---
 
-title: The uncheckable power of a court decision
+title: "The uncheckable power of a court decision"
 date: 2006-01-10 20:12:40
 tags:
   -  politics-law

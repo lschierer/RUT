@@ -1,6 +1,6 @@
 ---
 
-title: Altar Servers
+title: "Altar Servers"
 date: 2006-08-03 15:43:43
 tags:
   -  morality-religion

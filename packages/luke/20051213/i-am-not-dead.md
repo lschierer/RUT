@@ -1,6 +1,6 @@
 ---
 
-title: I am not dead
+title: "I am not dead"
 date: 2005-12-13 22:11:40
 tags:
   -  personal

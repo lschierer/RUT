@@ -1,6 +1,6 @@
 ---
 
-title: The Health Benefits of the Sun
+title: "The Health Benefits of the Sun"
 date: 2005-12-28 14:59:32
 tags:
   -  science

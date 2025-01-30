@@ -1,6 +1,6 @@
 ---
 
-title: The critical nature of good judges
+title: "The critical nature of good judges"
 date: 2005-07-06 14:09:16
 tags:
   -  politics-law

@@ -1,6 +1,6 @@
 ---
 
-title: oddness
+title: "oddness"
 date: 2005-07-08 19:20:57
 tags:
   -  personal

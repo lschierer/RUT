@@ -1,6 +1,6 @@
 ---
 
-title: Political Spectrum Quiz
+title: "Political Spectrum Quiz"
 date: 2009-08-29 21:09:48
 tags:
   -  politics-law

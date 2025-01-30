@@ -1,6 +1,6 @@
 ---
 
-title: Do we even know the *current* temperature?
+title: "Do we even know the *current* temperature?"
 date: 2007-06-18 14:52:18
 tags:
   -  global-warming

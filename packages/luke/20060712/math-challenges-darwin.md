@@ -1,6 +1,6 @@
 ---
 
-title: Math challenges Darwin
+title: "Math challenges Darwin"
 date: 2006-07-12 14:16:01
 tags:
   -  evolution
