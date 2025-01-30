@@ -14,3 +14,7 @@ dev: content-setup
 clean:
   rm -rf packages/greenwood/src/pages
   git restore packages/greenwood/src/pages
+
+[working-directory: 'packages/luke']
+history:
+  ./bin/history.sh
