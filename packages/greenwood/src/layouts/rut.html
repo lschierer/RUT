@@ -11,7 +11,16 @@
     />
     <link rel="stylesheet" href="../styles/global.css" type="text/css" />
     <link rel="stylesheet" href="../styles/luke.css" type="text/css" />
-    <script src="/components/license.ts" type="module"></script>
+    <script
+      src="/components/license.ts"
+      type="module"
+      data-gwd-opt="static"
+    ></script>
+    <script
+      src="/components/tags.ts"
+      type="module"
+      data-gwd-opt="static"
+    ></script>
     <script
       async
       src="https://www.googletagmanager.com/gtag/js?id=G-Y3WJYW9RQ1"
@@ -49,7 +58,7 @@
     <footer id="footer" class="pagefooter" role="contentinfo">
       <div id="pageinfo">
         <div class="tags">
-          <span>Tags: </span><tags-component></tags-component>
+          <page-tags>${globalThis.page.data.tags}</page-tags>
         </div>
         <div id="backlinks">
           <span>Links: </span><backlinks-component></backlinks-component>

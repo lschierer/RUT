@@ -74,3 +74,7 @@ img.cc-image {
   margin-left: 3px;
   vertical-align: text-bottom;
 }
+
+ul.tags {
+  margin-block-start: 0px;
+}
