@@ -1,0 +1,11 @@
+---
+
+title: Vacation Pictures
+date: 2006-08-25 02:15:39
+tags:
+  - ", "personal
+layout: rut
+---
+
+Pictures, in a rough form, are up <a href="http://www.schierer.org/~luke/photos/photos.html" title="Vacation 2006 Photos">here</a>.  Some of them came out really well, some of them came out not so well.  About half the under water pictures were taken on a day where the water was relatively cloudy, but some of the earlier ones are really nice.  Unfortunately the photos are nearly unsorted.
+

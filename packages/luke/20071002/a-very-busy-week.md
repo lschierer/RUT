@@ -1,0 +1,22 @@
+---
+
+title: a very busy week
+date: 2007-10-02 15:52:55
+tags:
+  - ", "personal
+layout: rut
+---
+
+In no particular order:
+<ul>
+<li>The seller agreed to do the repairs.</li>
+<li>Andy got all the paper work he needs for our loan application.  No word back yet.</li>
+<li>Notified the land lady that I will be moving the last weekend in October.</li>
+<li>Worked late four nights out of the last 10-11 business days, only one of which was to make up for time.</li>
+<li>Took Mom to her discogram (resulting in the time I had to make up the most recent of those four late days)</li>
+<li>Went down to Richmond for a good birthday weekend #1 with Lauren</li>
+<li>Just barely started packing</li>
+<li>Started over on a work project many times as the requirements changed underneath me.</li>
+<li>Changed contexts even more times on work projects as due dates changed without notice.</li>
+</ul>
+

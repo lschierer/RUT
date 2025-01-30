@@ -1,0 +1,14 @@
+---
+
+title: Do we even know the *current* temperature?
+date: 2007-06-18 14:52:18
+tags:
+  - ", "global-warming
+layout: rut
+---
+
+The Pittsburgh Tribute-Review reports that there is reason to doubt the temperature recordings from NOAA.[^noaa1]  According to the article, a former meteorologist is spot-checking the quality of the NOAA weather stations across the country.  So far only a few of the 1,221 stations have been checked, so much work remains to be done.  Still, at least some disturbing news has been found.  At least a few of these stations are no longer in isolated rural areas.   Though they are intended to "be 100 feet from buildings, not placed on hot concrete, etc,"[^noaa2] some are in close proximity to air conditioning exhaust vents, cell phone towers, and parking lots.  This would seriously compromise the data, because of the highly localized nature of the temperature in such areas.  It does not take a rocket scientist to realize that the air around an exhaust vent might be experiencing a warming trend after all. 
+
+[^noaa1]: Mr. Bill Steigerwald.  "Helping along global warming"  Pittsburgh Tribune-Review.  2007-06-17. <http://www.pittsburghlive.com/x/pittsburghtrib/opinion/columnists/steigerwald/s_513013.html>
+[^noaa2]: Ibid.
+

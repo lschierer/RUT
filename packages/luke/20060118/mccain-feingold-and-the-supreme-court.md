@@ -1,0 +1,12 @@
+---
+
+title: McCain-Feingold and the Supreme Court
+date: 2006-01-18 19:00:27
+tags:
+  - ", "politics-law
+layout: rut
+---
+
+
+<p>Chief Justice Roberts appears to harbor doubts about the McCain-Feingold Campaign Restrictions, but with only four votes against it, it may not matter.<sup><a href="http://www.law.com/jsp/article.jsp?id=1137492311973&amp;rss=newswire" title="Chief Justice Roberts Questions McCain-Feingold Campaign Restrictions">[1]</a></sup> This is rather unfortunate, as I think the wrong decision was made when last this came up.</p>  <p>The problem, as I see it, is not that some ads are aimed at influencing voters and others at influencing elected officials, but <em>who</em> is doing the influencing.  The problem is that we have given companies some of the rights of people, and so now are stuck with either restricting everyone's speech, or allowing companies to unduly influence elections by throwing more money at them than any group of individuals could match.  The McCain-Feingold Act pleases no one by failing to address this.</p>  <ol><font size="-2"><li><font size="-2">Mr. Frederic J. Frommer. "Chief Justice Roberts Questions McCain-Feingold Campaign Restrictions" The Associated Press, Law.com.  2006-01-18 http://www.law.com/jsp/article.jsp?id=1137492311973&amp;rss=newswire </font></li></font></ol>
+

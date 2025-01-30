@@ -1,0 +1,17 @@
+---
+
+title: quote of the day
+date: 2007-11-27 19:08:41
+tags:
+  - ", "global-warming
+  - ", "morality-religion
+  - ", "quotes
+layout: rut
+---
+
+[[quote=108]][^200711271]
+
+The "This" above refers to Christ's command that we be not afraid. 
+
+[^200711271]: Ms. Melinda Sylmys. "Faith in a Climate of Fear"  National Catholic Register.  November 25 - December 1, 2007 Issue.  2007-11-27 <http://ncregister.com/site/article/7341 />
+

@@ -1,0 +1,12 @@
+---
+
+title: mp3s and the Grokster decision
+date: 2005-06-29 21:45:14
+tags:
+  - ", "morality-religion
+  - ", "politics-law
+layout: rut
+---
+
+<p>Mr. Jon Pareles has written an interesting article in the New York Times today.<a href="http://www.nytimes.com/2005/06/29/arts/music/29pare.html?ex=1277697600&en=a4e8e4fbcc0fbd23&ei=5088&partner=rssnyt&emc=rss">[1]</a> I am not sure if he has essentially insured that the music industry will target bit torrent and the like next, or if that was inevitable anyway, but either way, I am sure bit torrent <em>will</em> be targeted by the music association.  Indeed, I am fairly sure that they will continue to press forward with law suits against companies and individuals until they start to lose law suits. They will blame any sort of boycott on the prevalence of mp3s; indeed, a boycott would be a dream come true, as a real loss of revenue would substantiate their claims that mp3s are harmful to business.  Nor will they care how much ill will they generate, so long as it does <em>not</em> affect their profits.  So those wishing to download music for free are caught in a catch-22.</p>  <p><em>Personally</em>, I find the comparison of gnutella and bit torrent to radio to be compelling.  I have purchased very few CDs, the few I have purchased were mostly gifts for others, and the few I own are mostly gifts from others.  I previously listened to quite a bit of radio, I now listen to it substantially less.  Were I to download several thousand of the latest songs in mp3 form, would it have changed my purchasing habits then?  Clearly not.  I would have purchased none of them before the mp3 availability, I would purchase none of them now.  No loss on the music industry's part would have occurred.  Where then is the theft?  Ethan suggested the theft is in the difference in quality and cost between cassette tape distribution and mp3 distribution.  This argument holds some weight, as there is a noticeable difference in both.  But there is not between <em>radio</em> and mp3, which is the comparison that would hold true for me.  Where then is the theft?  Why then is it wrong?</p>  <font size="-2"> [1] Pareles, Jon. "The Court Has Ruled So Enter the Geeks" New York Times http://www.nytimes.com/2005/06/29/arts/music/29pare.html?ex=1277697600&en=a4e8e4fbcc0fbd23&ei=5088&partner=rssnyt&emc=rss </font>
+

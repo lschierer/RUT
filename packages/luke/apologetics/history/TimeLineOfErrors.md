@@ -1,0 +1,347 @@
+---
+
+title: Timeline of Errors
+date: Tue Jun 28 15:47:15 2016 -0400
+tags:
+  - morality-religion
+  - history
+layout: rut
+---
+
+
+Please note that the dates in this graph are approximate, not precise. 
+
+[[!graph src="""
+Adoptionism [ href=[[apologetics/history/TableOfErrors]] ]
+Antinomianism [ href=[[apologetics/Antinomianism]] ]
+Arianism [ href=[[apologetics/Arianism]] ]
+Catholic [ href=[[apologetics/Catholic_Church|CatholicChurch]] ]
+Docetism [ href=[[apologetics/Docetism]] ]
+Donatism [ href=[[apologetics/Donatism]] ]
+Ebionites [ href=[[apologetics/Judaizers]] ]
+Gnosticism [ href=[[apologetics/Gnosticism]] ]
+Judaizers [ href=[[apologetics/Judaizers]] ]
+Manichaeism [ href=[[apologetics/Gnosticism/Manichaeism]] ]
+Marcionism [ href=[[apologetics/Judaizers]] ]
+Modalism [ href=[[apologetics/Modalism]] ]
+Monarchianism [ href=[[apologetics/Monarchianism]] ]
+Monophysitism [ href=[[apologetics/Monophysitism]] ]
+Nestorianism [ href=[[apologetics/Nestorianism]] ]
+Paulicianism [ href=[[apologetics/Gnosticism/Paulicianism]] ]
+Ophites [ href=[[apologetics/Gnosticism/Ophites]] ]
+OrientalOrthodox [ href=[[apologetics/OrientalOrthodox]] ]
+Sethian [ href=[[apologetics/Gnosticism/Sethian]] ]
+Naassenes [ href=[[apologetics/Gnosticism/Naassenes]] ]
+Psilanthropism [ href=[[apologetics/Adoptionism]] ]
+Sabellianism [ href=[[apologetics/Modalism]] ]
+
+rankdir=LR;
+fontsize=10;
+
+Adoptionism -> Bogomils;
+Adoptionism -> Psilanthropism;
+Adoptionism [shape=polygon,sides=5,color=tomato,style=filled];
+Adventist -> BibleStudent;
+Adventist -> Seventh;
+Adventist [color=darkorange,style=filled];
+Albanenses -> Catharism;
+Americanism [shape=polygon,sides=5,color=tomato,style=filled];
+Amish [color=darkorange,style=filled];
+Anabaptism -> Amish;
+Anabaptism -> Mennonite;
+Anabaptism -> Hutterites;
+Anabaptism [color=darkorange,style=filled];
+Anglican -> AnglicanOrdinate;
+Anglican -> Episcopalians;
+Anglican -> Evangelicalism;
+Anglican -> Methodism;
+Anglican -> Puritans;
+Anglican [color=darkorange,style=filled];
+AnglicanOrdinate [color=darkorange,fillcolor=green,style=filled];
+Antinomianism -> Ophites;
+Antinomianism [shape=polygon,sides=5,color=tomato,style=filled];
+ArmenianApostolicChurch [label="Armenian Apostolic Church "];
+Baptist -> Adventist;
+Baptist -> PrimitiveBaptist;
+Baptist [color=darkorange,style=filled];
+BibleStudent -> JehovahsWitnesses;
+BibleStudent [label="Bible Student Movement",color=darkorange,style=filled];
+BIC [label="Brethren in Christ",color=darkorange,style=filled];
+Bogomils -> Catharism;
+Calvinist -> Anglican;
+Calvinist -> Huguenot;
+Calvinist -> Independents;
+Calvinist -> Puritans;
+Calvinist -> Reformed;
+Calvinist -> Separatists;
+Calvinist [color=darkorange,style=filled];
+Catholic -> Americanism;
+Catholic -> Anglican;
+Catholic -> Antinomianism;
+Catholic -> Arianism;
+Catholic -> Calvinist;
+Catholic -> Docetism;
+Catholic -> Donatism;
+Catholic -> Hussites;
+Catholic -> Jansenism;
+Catholic -> Judaizers;
+Catholic -> Liberation;
+Catholic -> Lutheranism;
+Catholic -> Modernism;
+Catholic -> Monarchianism;
+Catholic -> Monophysitism;
+Catholic -> Monothelitism;
+Catholic -> Montanism;
+Catholic -> Nestorianism;
+Catholic -> Pelagianism;
+Catholic -> PNCC;
+Catholic -> Traditionalists;
+Catholic -> Waldensians;
+Catholic [color=green,fillcolor=gold,style=filled];
+FSSP [label="Priestly Fraternity of St Peter",color=green,fillcolor=gold,style=filled];
+Traditionalists -> FSSP;
+Congregationalism -> ChristianScience;
+Congregationalism -> Evangelicalism;
+Congregationalism [color=darkorange,style=filled];
+Coptic -> Ethiopian;
+Coptic [label="Coptic Orthodox"];
+ChristianScience [label="Christian Science",color=darkorange,fillcolor=crimson,style=filled];
+Davidians [label="Branch Davidians",color=darkorange,style=filled];
+Docetism -> Gnosticism;
+Docetism [shape=polygon,sides=5,color=tomato,style=filled];
+Episcopalians [color=darkorange,style=filled];
+Eritrean [label="Eritrean Orthodox Tewahedo"];
+Ethiopian -> Eritrean;
+Ethiopian [label="Ethiopian Orthodox Tewahedo"];
+Evangelicalism -> Methodism;
+Evangelicalism -> Pentecostalism;
+Evangelicalism [shape=polygon,sides=5,color=tomato,style=filled];
+Gnosticism -> Manichaeism;
+Gnosticism -> Ophites;
+Gnosticism [shape=polygon,sides=5,color=tomato,style=filled];
+Huguenot [color=darkorange,style=filled];
+Hussites -> Moravian;
+Hussites -> Anabaptism;
+Hussites -> UnityBrethren;
+Hussites -> Utraquism;
+Hussites [color=darkorange];
+Hutterites [color=darkorange,style=filled];
+Iconoclasm -> Puritans;
+Iconoclasm [shape=polygon,sides=5,color=tomato,style=filled];
+Independents -> Congregationalism;
+Independents [color=darkorange,style=filled];
+Jansenism [shape=polygon,sides=5,color=tomato,style=filled];
+JehovahsWitnesses [label="Jehovah's Witnesses",color=darkorange,style=filled];
+Judaizers -> Ebionites;
+Judaizers -> Iconoclasm;
+Judaizers -> Marcionism;
+Judaizers [shape=polygon,sides=5,color=tomato,style=filled];
+Liberation [label="Liberation Theology",color=green,fillcolor=yellow1,style=filled];
+Lutheranism -> Anabaptism;
+Lutheranism -> Evangelicalism;
+Lutheranism [color=darkorange,style=filled];
+Malankara [label="Malankara Orthodox Syrian"];
+Manichaeism -> Albanenses;
+Manichaeism -> Bogomils;
+Manichaeism -> Naassenes;
+Manichaeism -> Paulicianism;
+Manichaeism -> Priscillianism;
+Methodism -> SalvationArmy;
+Methodism [color=darkorange,style=filled];
+Mennonite -> BIC;
+Mennonite [color=darkorange,style=filled];
+Modalism -> Sabellianism;
+Modernism [shape=polygon,sides=5,color=tomato,style=filled];
+Monarchianism -> Adoptionism;
+Monarchianism -> Modalism;
+Monarchianism [shape=polygon,sides=5,color=tomato,style=filled];
+Monophysitism -> OrientalOrthodox;
+Monothelitism [shape=polygon,sides=5,color=tomato,style=filled];
+Moravian [color=darkorange,style=filled];
+Nestorianism -> Iconoclasm;
+Ophites -> Sethian;
+OrientalOrthodox -> ArmenianApostolicChurch;
+OrientalOrthodox -> Coptic;
+OrientalOrthodox -> Malankara;
+OrientalOrthodox -> Monothelitism;
+OrientalOrthodox -> SyriacOrthodox;
+OrientalOrthodox [label="Oriental Orthodox"];
+Paulicianism -> Catharism;
+PNCC [label="Polish National Catholic",color=yellowgreen,style=filled];
+Pentecostalism [color=darkorange,style=filled];
+Presbyterian -> Anglican;
+Presbyterian -> Unificationism;
+Presbyterian [color=darkorange,style=filled];
+PrimitiveBaptist [label="Primitive Baptists",color=darkorange,style=filled];
+Psilanthropism -> Unificationism;
+Psilanthropism [shape=polygon,sides=5,color=tomato,style=filled];
+Puritans -> Anglican [constraint=false];
+Puritans -> Congregationalism;
+Puritans -> Quakers;
+Puritans [color=darkorange,style=filled];
+Quakers -> Shakers;
+Quakers [color=darkorange,style=filled];
+Reformed -> Anabaptism;
+Reformed -> Presbyterian;
+Reformed [color=darkorange,style=filled];
+SalvationArmy [label="Salvation Army",color=darkorange,style=filled];
+Separatists -> Baptist;
+Separatists -> Congregationalism;
+Separatists [color=darkorange,style=filled];
+Seventh -> Davidians;
+Seventh [label="Seventh-day Adventist",color=darkorange,style=filled];
+Shakers [color=darkorange,style=filled];
+SyriacOrthodox [label="Syriac Orthodox"];
+Traditionalists [shape=polygon,sides=5,color=tomato,style=filled];
+Unificationism [color=darkorange,fillcolor=crimson,style=filled];
+UnityBrethren [label="Unity of the Brethren",color=darkorange,style=filled];
+Utraquism [color=darkorange,fillcolor=green,style=filled];
+Waldensians [color=darkorange];
+
+Catholic -> Eastern;
+Eastern -> Albanian;
+Eastern -> Belarusian;
+Eastern -> Bulgarian;
+Eastern -> Croatian;
+Eastern -> Serbian;
+Eastern -> Greek;
+Eastern -> Hungarian;
+Eastern -> ItaloAlbanian;
+Eastern -> Macedonian;
+Eastern -> Melkite;
+Eastern -> Romanian;
+Eastern -> Russian;
+Eastern -> Ruthenian;
+Eastern -> Slovak;
+Eastern -> Ukrainian;
+Eastern -> Alexandria;
+Eastern -> Antioch;
+Eastern -> Jerusalem;
+Eastern -> Moscow;
+Eastern -> Serbia;
+Eastern -> Romania;
+Eastern -> Bulgaria;
+Eastern -> Georgia;
+Eastern -> Cyprus;
+Eastern -> Greece;
+Eastern -> Poland;
+Eastern -> Albania;
+Eastern -> Czech;
+
+Constantinople [label="Ecumenical Patriarchate of Constantinople",color=green,fillcolor=yellow1,style=filled];
+Eastern -> Constantinople;
+
+Alexandria [label="Patriarchate of Alexandria",color=green,fillcolor=yellow1,style=filled];
+Antioch [label="Patriarchate of Antioch",color=green,fillcolor=yellow1,style=filled];
+Jerusalem [label="Patriarchate of Jerusalem",color=green,fillcolor=yellow1,style=filled];
+Moscow [label="Patriarchate of Moscow",color=green,fillcolor=yellow1,style=filled];
+Serbia [label="Patriarchate of Serbia",color=green,fillcolor=yellow1,style=filled];
+Romania [label="Patriarchate of Romania",color=green,fillcolor=yellow1,style=filled];
+Bulgaria [label="Patriarchate of Bulgaria",color=green,fillcolor=yellow1,style=filled];
+Georgia [label="Patriarchate of Georgia",color=green,fillcolor=yellow1,style=filled];
+Cyprus [label="Church of Cyprus",color=green,fillcolor=yellow1,style=filled];
+Poland [label="Church of Poland",color=green,fillcolor=yellow1,style=filled];
+Greece [label="Church of Greece",color=green,fillcolor=yellow1,style=filled];
+Albania [label="Church of Albania",color=green,fillcolor=yellow1,style=filled];
+Czech [label="Church of the Czech Lands and Slovakia",color=green,fillcolor=yellow1,style=filled];
+
+
+Eastern [label="Eastern Churches",shape=polygon,sides=5,color=tomato,style=filled];
+Albanian [label="Albanian Catholic",color=green,fillcolor=gold,style=filled];
+Belarusian [label="Belarusian Catholic",color=green,fillcolor=gold,style=filled];
+Bulgarian [label="Bulgarian Catholic",color=green,fillcolor=gold,style=filled];
+Croatian [label="Croatian Catholic",color=green,fillcolor=gold,style=filled];
+Serbian [label="Serbian Catholic",color=green,fillcolor=gold,style=filled];
+Greek [label="Greek Catholic",color=green,fillcolor=gold,style=filled];
+Hungarian [label="Hungarian Catholic",color=green,fillcolor=gold,style=filled];
+ItaloAlbanian [label="Italo-Albanian Catholic",color=green,fillcolor=gold,style=filled];
+Macedonian [label="Macedonian Catholic",color=green,fillcolor=gold,style=filled];
+Melkite [label="Melkite Catholic",color=green,fillcolor=gold,style=filled];
+Romanian [label="Romanian Catholic",color=green,fillcolor=gold,style=filled];
+Russian [label="Russian Catholic",color=green,fillcolor=gold,style=filled];
+Ruthenian [label="Ruthenian Catholic",color=green,fillcolor=gold,style=filled];
+Slovak [label="Slovak Catholic",color=green,fillcolor=gold,style=filled];
+Ukrainian [label="Ukrainian Catholic",color=green,fillcolor=gold,style=filled];
+
+{rank=same 33 Catholic Judaizers }
+{rank=same 34 Antinomianism Docetism }
+{rank=same 100 Gnosticism Sabellianism Ophites Sethian }
+{rank=same 150 Marcionism Montanism }
+{rank=same 199 Adoptionism }
+{rank=same 200 Manichaeism }
+{rank=same 300 Arianism Donatism Ebionites Priscillianism }
+{rank=same 400 Monophysitism Nestorianism Pelagianism }
+{rank=same 450 OrientalOrthodox }
+{rank=same 600 Monothelitism }
+{rank=same 700 Iconoclasm }
+{rank=same 800 Albanenses Paulicianism }
+{rank=same 900 Bogomils }
+{rank=same 1050 Eastern }
+{rank=same 1150 Catharism Waldensians }
+{rank=same 1400 Hussites Utraquism }
+{rank=same 1450 Moravian UnityBrethren }
+{rank=same 1500 Calvinist Lutheranism }
+{rank=same 1530 Huguenot Anglican Anabaptism Mennonite }
+{rank=same 1550 Presbyterian }
+{rank=same 1600 Independents Baptist}
+{rank=same 1650 Jansenism Congregationalism Quakers }
+{rank=same 1700 Amish }
+{rank=same 1730 Evangelicalism }
+{rank=same 1750 Shakers }
+{rank=same 1775 BIC Methodism }
+{rank=same 1800 PrimitiveBaptist }
+{rank=same 1850 Modernism Adventist Pentecostalism }
+{rank=same 1860 SalvationArmy }
+{rank=same 1870 Americanism BibleStudent ChristianScience }
+{rank=same 1900 PNCC }
+{rank=same 1931 JehovahsWitnesses }
+{rank=same 1950 Davidians Ethiopian Unificationism Liberation Traditionalists }
+{rank=same 2000 AnglicanOrdinate }
+{rank=same Coptic SyriacOrthodox ArmenianApostolicChurch }
+
+33 -> 100 -> 200 -> 300 -> 400 -> 500 -> 600 -> 700 -> 800 -> 900 -> 1000 -> 1100 -> 1200 -> 1300 -> 1400 -> 1500 -> 1600 -> 1700 -> 1800 -> 1900 -> 2000 [weight=1000,len=2];
+33 -> 50 -> 100 -> 150 -> 200 -> 250 -> 300 -> 350 -> 400 -> 450 -> 500 -> 550 -> 600 -> 650 -> 700 -> 750 -> 800 -> 850 -> 900 -> 950 -> 1000 -> 1050 -> 1100 -> 1150 -> 1200 -> 1250 -> 1300 -> 1350 -> 1400 -> 1450 -> 1500 -> 1550 -> 1600 -> 1650 -> 1700 -> 1750 -> 1800 -> 1850 -> 1900 -> 1950 -> 2000 [weight=50,len=1,style=invis];
+33 -> 34 [style=invis,weight=100,len=0.2];
+34 -> 50 [style=invis];
+199 -> 200 [style=invis,weight=100,len=0.2];
+150 -> 199 [style=invis,weight=50,len=1];
+1500 -> 1530 -> 1550 [style=invis,len=0.5];
+1700 -> 1730 -> 1750 -> 1775 -> 1800 [style=invis,len=0.5];
+1850 -> 1860 -> 1870 -> 1880 -> 1890 -> 1900 [style=invis,len=0.1,weight=200];
+1900 -> 1931 -> 1950 [style=invis,len=0.5];
+
+550 -> Monothelitism [style=invis];
+
+34 [shape=point,style=invis];
+50 [shape=point,style=invis];
+150 [shape=point,style=invis];
+199 [shape=point,style=invis];
+250 [shape=point,style=invis];
+350 [shape=point,style=invis];
+450 [shape=point,style=invis];
+550 [shape=point,style=invis];
+650 [shape=point,style=invis];
+750 [shape=point,style=invis];
+850 [shape=point,style=invis];
+950 [shape=point,style=invis];
+1050 [shape=point,style=invis];
+1150 [shape=point,style=invis];
+1250 [shape=point,style=invis];
+1350 [shape=point,style=invis];
+1450 [shape=point,style=invis];
+1530 [shape=point,style=invis];
+1550 [shape=point,style=invis];
+1650 [shape=point,style=invis];
+1730 [shape=point,style=invis];
+1750 [shape=point,style=invis];
+1775 [shape=point,style=invis];
+1850 [shape=point,style=invis];
+1860 [shape=point,style=invis];
+1870 [shape=point,style=invis];
+1880 [shape=point,style=invis];
+1890 [shape=point,style=invis];
+1931 [shape=point,style=invis];
+1950 [shape=point,style=invis];
+
+"""]]
+

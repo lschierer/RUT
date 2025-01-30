@@ -1,0 +1,27 @@
+---
+
+title: Drugs
+date: 2005-01-25 15:35:00
+tags:
+  - society
+  - politics-law
+layout: rut
+---
+
+According to [this story][wral1], Weyco Inc. has a policy that prohibits its
+employees from smoking, not only on company time, but at all.  Basically
+treating it like an illegal drug.  To me this seems like the right approach for
+*State* and *Local* governments to be taking; why in the
+world are we trying to end smoking by making it prohibitively
+expensive and difficult (restricting where you can smoke)?
+This seems really misguided.  On the other hand though, banning
+drugs hasn't exactly worked now has it?  Much like the prohibition
+didn't work.  I don't know what the right approach is.
+
+
+[wral1]: https://web.archive.org/web/20050127011436/http://www.wral.com/news/4126577/detail.html
+
+[^20210601-4]: Distributed by Internet Broadcasting Systems, Inc. The Associated
+    Press contributed to this report. "[Company Fires All Employees Who
+    Smoke](https://web.archive.org/web/20050127011436/http://www.wral.com/news/4126577/detail.html)"
+    [WRAL](http://www.wral.com) 2005-01-25. 

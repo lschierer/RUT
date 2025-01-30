@@ -1,0 +1,11 @@
+---
+
+title: The Earth&#039;s core spins independently
+date: 2005-08-26 15:21:59
+tags:
+  - ", "plate-tectonics
+layout: rut
+---
+
+<p>I need to read <i>Deep Hot Biosphere</i><a href="http://www.amazon.com/exec/obidos/tg/detail/-/0387985468/103-6989850-1954223?v=glance">[1]</a> again.  I no longer remember his ideas well enough to know how they would mesh with seismic evidence that the Earth's core is rotating faster than the surface is.<a href="http://www.livescience.com/forcesofnature/050825_earthcore.html">[2]</a> This, and related research that shows that the mantle is also spinning faster, provides at least some proof for the plate tectonics theory that I dislike.  It at very least demonstrates that there <em>are</em> three layers to the Earth's structure, which is a prerequisite of plate tectonics.  It does <em>not</em>, however, demonstrate that the crust is split into segments that move independently or semi-independently.  It would, in fact, seem rather hard to make a categorical statement that the crust is rotating at <em>any</em> single speed, if different segments of it are in fact moving in different directions.  This would, however, be dismissed as simply an average speed that averages out, necessarily, to a speed in the same direction the Earth rotates.  Earthquakes and mid-plate faults remain the strongest flaw in plate tectonics.</p>  <font size="-2"> [1] Gold, Thomas.  <i>Deep Hot Biosphere</i> (Springer, 1998 ISBN: 038798546) Some information on this scientist can be found at <a href="http://en.wikipedia.org/wiki/Thomas_Gold">the Wikipedia entry</a>. The Web Archive fortunately preserves his home page <a href="http://web.archive.org/web/20041124092432/http://people.cornell.edu/pages/tg21/">here</a>.<br  /> [2] Than, Ker.  "Earth's Core Rotates Faster than Surface, Study Confirms" Live Science (online).  2005-08-25 http://www.livescience.com/forcesofnature/050825_earthcore.html </font>
+

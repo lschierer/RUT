@@ -1,0 +1,118 @@
+---
+
+title: Public Schooling
+date: 2005-06-15 18:38:00
+tags:
+  - society
+  - politics-law
+layout: rut
+---
+
+Mr. Jeff Jacoby is an idealist.  He thinks that the states might
+be persuaded to give up their right to indoctrinate the majority
+of children for the first thirteen years of their education.[^1] He
+is absolutely right, the public school model is not the only model
+that would ensure the education of our children.  If we privatized
+the public school systems and repealed the taxes that pay for
+them (primarily the property tax), we would all have enough money
+to pay for their schooling.  If someone worries that this might
+not be enough, we can provide further tax credits for it as well.
+And of course religious schools *could* provide scholarships,
+and so on.  
+
+Alternately, we could use school vouchers.  This is an every popular that seems,
+on the surface, to have the best of both worlds.  The state still controls the
+budget; this money has to be spent on education.  There is a class of people out
+there that do not trust you to make your own decisions about how you spend your
+money.  You might not spend it wisely afterall.  School vouchers do not have
+that trouble.  I dislike, fear, the idea though. The Florida Supreme Court is
+now looking at a Florida bill that represents the first statewide school voucher
+program.[^3] Opponents charge that this bill causes public money to be spent on
+religious education. And in many senses, they are absolutely right. Because even
+if you cause the school to track where each dollar goes, spending this money on
+science and math frees up other funds for religion, and so the argument can be
+made that it is in essence funding religion. This may or may not win, it really
+does not matter.
+
+What concerns me is that the use of public funds, in any way or form, opens the
+door to regulation. Just as many charities are now regulated, needing to conform
+to costly health laws that a restaurants would need to for example, so too our
+schools will be increasingly exposed to education laws. And this is not good,
+because it will expose them to the type of science standards that have put
+evolution debates in the court systems time and time again. It will expose them
+to history standards that can be used to push a secular interpretation of
+history. It will expose them to requirements for sex ed, and a host of other
+regulations. Because as long as you take government dollars, you are subject to
+their rules on how you spend them.
+
+So if we are not going to use vouchers, let us return to the idea that people
+might be free to spend their own money. The public schools currently get several
+times the amount of money per student that the Catholic schools do, and
+yet no one can seriously say that the Catholic school systems do
+worse at providing education.  In fact, many parents say they do a
+*better* job.  This leads to an interesting line of thought:
+where does all that extra money go?  Well, some of it goes to higher
+salaries for teachers, the fact that you take a pay cut choosing to
+work in a Catholic school is well known.  But some of it also goes
+to the higher levels of bureaucracy in the public school system,
+the teachers' union, so on.  All fat that could be cut from their
+budget to make the schools more competitive.  This is the sort of
+thing that has led to the success of so called "charter schools"
+in some school districts, where a private firm gets a contract to
+run a school as long as they can improve the results the school
+gets on the SOLs (I might be somewhat inaccurate here defining
+charter schools.  I do not know too much about them).
+
+Another important point to remember is that universal public
+schooling is a relatively recent invention.  One of the reasons
+that you see the use of public funds to provide bus service to
+Catholic schools in some north eastern states is because these
+schools *were* the "public" school system for a long time,
+until the states had the political pressure to build their own.
+In the South on the other hand, you did not see this development
+of schools.  The richer families home schooled, and the poorer
+simply did not learn much.  As a result you had the rise of the
+white cracker subculture in the south, that closely mirrors the
+black culture today.[^2]  Going into the Civil War then, you see
+that the illiteracy rate in the south was very high, much higher
+than in the north, though neither had what we would understand
+today as public schooling.
+
+But the failure of the south to educate really does not argue
+for the existence of public schooling.  Rather, it speaks to the
+simple fact that education was widely believed to be unnecessary
+in the society constructed in the south.  The sustenance farmers
+certainly did not need it, and the plantations needed only a few
+who could read and write.  Similarly, in the small town, one's word
+was either good or not, regardless of the form an agreement took,
+and everyone knew it.
+
+On the other hand, the failure of the public school system
+*to* adequately educate *is* pertinent.  Illiteracy
+is still higher than it should be, especially among inner city
+students.  Even where literacy exists, understanding of history,
+math, and science often lags.  Critical thinking is nearly
+universally unknown.  We have gone from a culture that nearly
+requires a high school diploma to succeed, to one that nearly
+requires a college diploma to succeed.  From men being ready to
+take on responsibility at 18 and 20, to men still in some sort of
+extended adolescence nearly till 30, assuming they ever grow up and
+embrace responsibility.  Clearly we are failing.  It should then
+be just as clear that the system does not work, and simply throwing
+more money at it, to do the same thing, will not work.
+
+Still, common sense tells us that this will not happen.
+The teachers' union is one of the more effective lobbying efforts
+on the left, and it would be political suicide to try to privatize
+education.  Further, even were a state to try to do so, the federal
+laws would likely "preempt" and require state spending on it anyway.
+The political cost then, in terms of careers burned, for something
+with no grassroots pressure, is prohibitively high, and this post,
+like  Mr. Jacoby's column, is very nearly a waste of space.
+
+[^1]: http://www.townhall.com/columnists/jeffjacoby/jj20050613.shtml
+
+[^2]: http://www.townhall.com/columnists/monacharen/mc20050610.shtml
+
+[^3]: http://news.findlaw.com/ap/o/632/06-08-2005/f637001aa85826c9.html
+

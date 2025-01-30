@@ -1,0 +1,11 @@
+---
+
+title: IQ quiz
+date: 2007-07-10 17:24:24
+tags:
+  - ", "quizes
+layout: rut
+---
+
+<a href="http://www.am-i-dumb.com" title="How smart am I?"><img src="http://www.am-i-dumb.com/images/stamps/95-7.gif" width=200 height=100 border=0 alt="How smart are you?"  /></a>
+

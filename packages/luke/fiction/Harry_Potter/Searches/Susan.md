@@ -1,0 +1,11 @@
+---
+
+title: Susan
+date: Mon Nov 15 12:33:44 2021 -0500
+layout: rut
+---
+
+[AO3 Harry/Susan](
+https://archiveofourown.org/works?utf8=%E2%9C%93&commit=Sort+and+Filter&work_search%5Bsort_column%5D=revised_at&work_search%5Bother_tag_names%5D=&exclude_work_search%5Bcategory_ids%5D%5B%5D=23&work_search%5Bexcluded_tag_names%5D=Female+Harry+Potter%2CTrans+Male+Character%2CTrans+Character%2CTrans%2CFutanari%2CSlash%2CPre-Slash%2CMale+Slash%2CGen+or+Pre-Slash%2CLGBTQ+Themes%2CLGBTQ+Character%2CLGBTQ+Character+of+Color%2CCommunity%3A+lgbtfest%2CIncest%2CSibling+Incest%2CTwincest%2CGood+Voldemort+%28Harry+Potter%29%2CSomewhat+Good+Voldemort+%28Harry+Potter%29%2CGood+Tom+Riddle%2CGood+Lucius+Malfoy%2CGood+Vernon+Dursley%2CGood+Dudley+Dursley%2CSane+Tom+Riddle%2CSane+Voldemort+%28Harry+Potter%29%2CSeveritus+%7C+Severus+Snape+is+Harry+Potter%27s+Parent%2CNice+Severus+Snape%2CMentor+Severus+Snape%2CAlbus+Severus+Potter%2CScorpius+Malfoy%2FAlbus+Severus+Potter%2CLily+Evans+Potter%2FSeverus+Snape%2CHarry+Potter%2FSeverus+Snape%2CDraco+Malfoy%2FHarry+Potter%2CHermione+Granger%2FDraco+Malfoy%2CHermione+Granger%2FHarry+Potter%2CHermione+Granger%2FHarry+Potter%2FRon+Weasley%2CHermione+Granger%2FHarry+Potter%2FGinny+Weasley%2CHermione+Granger%2FDraco+Malfoy%2FHarry+Potter%2CHermione+Granger%2FDraco+Malfoy%2FTheodore+Nott%2CHermione+Granger%2FDraco+Malfoy%2FBlaise+Zabini%2CHermione+Granger%2FLucius+Malfoy%2CHermione+Granger%2FRemus+Lupin%2CSirius+Black%2FHermione+Granger%2CHermione+Granger%2FBellatrix+Black+Lestrange%2CBellatrix+Black+Lestrange%2FHarry+Potter%2CHarry+Potter%2FAndromeda+Black+Tonks%2CFleur+Delacour%2FHarry+Potter%2CFleur+Delacour%2FHermione+Granger%2CGinny+Weasley+Bashing%2CGood+Draco+Malfoy%2CGood+Slytherins%2CHermione+Granger%2FSeverus+Snape%2CHermione+Granger%2FNarcissa+Black+Malfoy%2CNarcissa+Black+Malfoy%2FHarry+Potter&work_search%5Bcrossover%5D=&work_search%5Bcomplete%5D=&work_search%5Bwords_from%5D=&work_search%5Bwords_to%5D=&work_search%5Bdate_from%5D=&work_search%5Bdate_to%5D=&work_search%5Bquery%5D=&work_search%5Blanguage_id%5D=&tag_id=Susan+Bones*s*Harry+Potter
+) - No Ginny Bashing, but unless I add a trillion tags, this filter seems to
+also snag a ton of extra stories that feature extra pairings. 

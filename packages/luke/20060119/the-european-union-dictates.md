@@ -1,0 +1,12 @@
+---
+
+title: The European Union dictates
+date: 2006-01-19 19:15:40
+tags:
+  - ", "politics-law
+layout: rut
+---
+
+
+<p>I wonder if a recent move to have the European Union will push proposals to punish and perhaps expel member nations that do not approve of homosexual "marriages."<sup><a href="http://www.catholicnewsagency.com/new.php?n=5781" title="European parliament to punish countries that do not approve homosexual 'marriage'">[1]</a></sup> If they do, I wonder if they will fragment over it.  How many countries will have the guts to stand up to it?</p>  <ol><font size="-2"><li><font size="-2">Catholic News Agency. "European parliament to punish countries that do not approve homosexual 'marriage'" www.catholicnewsagency.com. 2006-01-19 http://www.catholicnewsagency.com/new.php?n=5781 </font></li></font></ol>
+

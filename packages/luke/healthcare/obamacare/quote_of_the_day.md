@@ -1,0 +1,15 @@
+---
+
+title: Quote of the Day
+date: Fri Sep 21 16:50:39 2012 -0400
+tags:
+  - politics-law
+  - quotes
+layout: rut
+---
+
+
+The government, however, has interpreted the anti-hacking provisions to include activities such as violating a website's terms of service or a company's computer usage policy, a position a federal appeals court in April said means "millions of unsuspecting individuals would find that they are engaging in criminal conduct." The 9th U.S. Circuit Court of Appeals, in limiting reach of the CFAA, said that violations of employee contract agreements and websites' terms of service were better left to civil lawsuits.[^20120921-2]
+
+[^20120921-2]: Unknown Doctor.  Quoted in "Obamacare: In One Sentence." <http://CatholicVote.org> last viewed 2012-09-21.  <http://www.catholicvote.org/discuss/index.php?p=36374>
+

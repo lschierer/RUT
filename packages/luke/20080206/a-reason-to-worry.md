@@ -1,0 +1,17 @@
+---
+
+title: A reason to worry
+date: 2008-02-06 23:41:09
+tags:
+  - ", "politics-law
+layout: rut
+---
+
+> Despite his pro-life stand, Senator John McCain is now the favored candidate
+> of the Republicans for Choice Action Committee following Rudy Giuliani’s exit
+> from the presidential race, Cybercast News Service reports.[^200802062]
+
+CNA did not provide a link to the original article.
+
+[^200802062]: [Catholic News Agency](http://www.catholicnewsagency.com).  "McCain endorsed by pro-abortion Republican group"  2008-02-06.  <http://www.catholicnewsagency.com/new.php?n=11710>
+

@@ -1,0 +1,11 @@
+---
+
+title: Alone
+date: 2006-10-03 17:10:52
+tags:
+  - ", "personal
+layout: rut
+---
+
+I am feeling very down and alone today.  I wish so very much that my father were still here with me physically, and not just spiritually. 
+

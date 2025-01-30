@@ -1,0 +1,13 @@
+---
+
+title: pollen?
+date: 2006-10-09 18:36:15
+tags:
+  - ", "personal
+layout: rut
+---
+
+Something is different about the atmosphere today, as opposed to yesterday.  Yesterday I was fine; today I am somewhat stuffy, rather runny, and blowing my nose nearly incessantly. 
+
+<p align="center"><font size="+6">&#x2639;</font></p>
+

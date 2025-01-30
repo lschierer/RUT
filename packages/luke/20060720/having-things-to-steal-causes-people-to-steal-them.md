@@ -1,0 +1,23 @@
+---
+
+title: Having things to steal causes people to steal them
+date: 2006-07-20 15:00:11
+tags:
+  - ", "politics-law
+layout: rut
+---
+
+<blockquote>"I share the concerns of many people that the numbers of violent offences recorded by the police have increased,'' [British Home Secretary John] Reid said in an e-mail yesterday.  "This is largely driven by a rise in the numbers of young people carrying expensive goods such as mobile phones and MP3 players."<sup><a title="Bloomberg.com: U.K. : U.K. Crime Rises as Muggers Prey on People With Music Players" href="http://www.bloomberg.com/apps/news?pid=20601102&sid=a30TnIyFoVJI&refer=uk">[1]</a></sup></blockquote>
+I nearly missed the full significance of this quote the first time I read it, I in fact would have missed it if Mr. Ethan (Paco-Paco) Blanton had not drawn my attention to it.  This goes well beyond the stupidity that caused Britan to ban guns.  To follow this statement to its only possible conclusion, we should clearly embrace full fledged communism.  This sounds like an extreme statement, but follow me here a minute and you will realize that it really is not.
+
+One less extreme solution would be to provide everyone in Britan with an Ipod.  Such a solution, however, would utterly fail.  For the money now spent on the Ipod would then be free for use on some other item of value, which would in turn be the new target of theft.  So the real cause of the theft here, (since we are not allowing personal autonomy to be considered) is the social inequity, as evidenced by the desirablilty of Ipods.  Since removing that measure of social inequity would merely change its measure, the problem must clearly be solved at a different level.
+
+One approach would be to provide everyone with everything.  Making everything free, however, would not significantly differ from communism, nor would it be particularly effective, for in the absense of other changes to the society, wealth would be used in <em>some</em> manner.  So it then follows that private property, private wealth (in tangible form such as Ipods, or intangible form such as the ability to buy an Ipod), must be eliminated.  From this a trivial glance will see that communism is the solution.
+
+Alternately, one could embrace the concept of personal autonomy.  Rather than saying that the increasing number of Ipods causes the increase in crime, we could say that there is an increasing sense of lawlessness in the populace.  We would (or at least could) then combat that without targeting the institution of private property.  Instead, we would be able to target that sense of lawlessness.  We could do so in a number of ways, by increasing the ability of the average citizen to defend him or her self, by increasing the penalty for lawlessness, or by addressing the underlying failure of morality that leads an individual to consider an illegal act as an acceptable course.   Naturally this last is both the hardest and the most effective solution.  Either of the first two are subject to differing forms of abuse, escalation, and, in short, failure, if attempted without this third approach.
+
+Nor is this third approach any less drastic than the embrace of communism.  It would in fact, for a social welfare state such as Britan, be perhaps represent an even <em>greater</em> societal change.  I believe, however, that it would be a change that far more people would find tolerable initially, and is undoubtedly one that is better for society (and the individuals who make up that society) in the long term.
+<ol><font size="-2">
+	<li><font size="-2">Ms. Amy Wilson.  "U.K. Crime Rises as Muggers Prey on People With Music Players"  Bloomberg U.K. 2006-07-20.  http://www.bloomberg.com/apps/news?pid=20601102&sid=a30TnIyFoVJI&refer=uk</font></li>
+</font></ol>
+

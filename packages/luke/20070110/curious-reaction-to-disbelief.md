@@ -1,0 +1,23 @@
+---
+
+title: Curious reaction to disbelief
+date: 2007-01-10 16:24:40
+tags:
+  - ", "global-warming
+layout: rut
+---
+
+It must be really very comforting to be able to dismiss everyone who disagrees with you as uneducated.  "Oh, he must be *ignorant*, or stupid, not to believe in global warming."  It is certainly far easier than actually questioning your assumptions.  Today I read that the chief economist for Chrysler thinks that Europeans are being a little bit hysterical in their approach to global warming.<sup>[\[1\]][ref1]
+
+The article starts with a brief summery of where Mr. Jolissaint (the Chrysler employee in question) was speaking, and what he said.  It concludes that summary with "Mr Jolissant's remarks illustrate the yawning gap between mainstream opinion on climate change among the educated elites of Europe and America."<sup>[\[2\]][ref2]</sup>  The implication here is clear: Mr. Jolissant, and the rest of the United States, is either not as smart or not as educated as those who believe in global warming.
+
+The rest of the article, roughly half its length, is on an entirely unrelated set of topics.  It is talking about the track record of economists from the General Motors, Ford and DaimlerChrysler in *economy*.  Apparently, if you failed to predict the extent of the rise in gas prices, or the slow down in the United States economy, you *must* be wrong when you say that Europeans are being hysterical.  This sort of ad-hominem attack *always* makes a logically invalid argument, and if that is the support that Mr. Schifferes thinks best to offer as a refutation of Mr. Jolissant's claims, we must consider that perhaps it is because Europeans *are* being "quasi-hysterical." 
+
+<div markdown="1" class="postrefs">
+1. Mr. Steve Schifferes.  "Chrysler questions climate change" BBC News.  2007-01-10.  http://news.bbc.co.uk/2/hi/business/6247371.stm
+2. Ibid.
+</div>
+
+[ref1]: http://news.bbc.co.uk/2/hi/business/6247371.stm "BBC NEWS | Business | Chrysler questions climate change"
+[ref2]: http://news.bbc.co.uk/2/hi/business/6247371.stm "BBC NEWS | Business | Chrysler questions climate change"
+

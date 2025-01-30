@@ -1,0 +1,19 @@
+---
+
+title: To split or not to split, that is the question
+date: 2005-06-22 14:35:13
+tags:
+  - ", "morality-religion
+layout: rut
+---
+
+It appears the Anglican church is still struggling with the decision of the
+American and Canadian branch(es) to have an openly gay bishop and to bless
+homosexual unions.[^1]  It is interesting that even the "traditionalists" are
+speaking of this in terms of "practice and discipline" when it really comes down
+to a matter of doctrine.   But the Anglican church *would* have trouble
+with that one, after all, they split over a matter of doctrine, the primacy of
+the Pope.  ;-)
+
+[^1]: <http://news.bbc.co.uk/2/hi/uk_news/4112954.stm>
+

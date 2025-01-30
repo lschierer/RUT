@@ -1,0 +1,138 @@
+---
+
+title: Harry Potter - Nephilim: Introduction
+date: Wed Dec 9 11:56:59 2020 -0500
+layout: rut
+---
+
+[[!meta author="Luke Schierer"]]
+[[!trailoptions sort="title_natural meta(title)" circular="yes"]]
+[[!trailitem main/Prologue]]
+
+I recently read _[Many Waters][MW]_ by Madeleine L'Engle.  Her theology in that
+book is *really really* sketchy, but like many distortions of true Catholic
+thought, makes for interesting fiction.  It occurred to me that while I have no
+real interest in doing a true crossover with her works, that it would be fun to
+cross over some of the (fake) theology from this book with the Harry Potter
+series.  L'Engle, in her book, extends one of the two theories for understanding
+the term *nephilim[^20201209-1]* from the Old Testament. Specifically, she
+takes the view that the those angels that rebelled against God had intercourse
+with human women.  A lot of authors will try to do almost all their world
+building within the narrative.  I realise this is technically better, but it is
+also harder to do.  Since I am doing essentially a 3 way cross over between
+Harry Potter, Many Waters, and actual Catholic theology, I am going to set the
+stage here in this introduction.  These world building notes are useful to
+understand the story, but are hopefully not truly necessary.  That being said, I
+am not going to go out of my way to explain in depth the way some authors do, I
+will just include it either here, or in an appendix. 
+
+Some points of divergence from her ideas:
+
+* she calls the fallen angels the nephilim.  I'm using more orthodox theology
+  and calling the progeny of the union of an angel and a human a nephil (I'm
+  using seraph - seraphim, cherub - cherubim, nephil - nephilim).[^211201-1] 
+* she has all such end with the great flood.  Later passages in the Old
+  Testament suggest that nephilim continue to exist after the flood.  I am
+  positing that fallen angels continued to seduce women during the Old Testament
+  times. 
+* Because she does not fully flesh out nephil, and because it fit the story I
+  wanted to tell, I am pulling in *yet another* element to this story: One
+  section of the _The Screwtape Letters_ describes the effect of sin on the
+  fallen angels.[^20210408-1]  At various places I talk about "bizarre" things
+  happening to nephil.  This is more or less what I envision.  Essentially these
+  represent instances of Divine Justice. 
+
+Some ideas I am specifically pulling:
+
+* being seduced by a fallen angel is not just a matter of falling in love with
+  the wrong person, the fallen angel also seduces you into an evil ritual that
+  corrupts your soul. I am going to extend this and call such a person a witch.
+  See below for deviations from Harry Potter.
+* the fallen angels directly interact with humanity and have visible
+  manifestations of the powers they retain from their angelic nature.  I'm
+  extending this to say that some of these are inherited.
+
+Some points of divergence from Harry Potter:
+
+* I am breaking my own rules with [[Harry|Harry_Potter/Notes/Harry]]'s
+  character, he will be noticeably out of character in this story. 
+* Witches are those corrupted by union with fallen angels.  They do gain power
+  (magic) from this union, but are corrupted by it.  Should they repent and
+  receive forgiveness from their sins, they would also lose their access to
+  magic.
+* Following from the origin of magic I'm using, magic will follow somewhat
+  different [[rules|appendix_a]] than the Harry Potter books.  This
+  includes both the way the characters use magic and magical creatures. 
+* Modern day welders of magic, heavily influenced by paganism and by those who
+  have given into temptation, have obscured the difference between those who
+  inherit magic and those who have gained it through sin. They call all female
+  welders of magic witches, this is part denial, part self delusion, and part
+  ignorance. Exactly how much of which differs from person to person. 
+* The Old Testament references to witches refer to those corrupted by union with
+  fallen angels, not to the children of such unions (This is almost certainly
+  bogus and entirely fictional theology, but it is necessary for world
+  building).
+* The Statue of Secrecy was imperfectly implemented.  At one point, knowledge of
+  the a-fore bullet points was commonly taught to most clergy.  With the
+  disruptions to the education of clergy wrought by the enlightenment, and
+  worse, by the modern era, now only a few priests and bishops know this
+  history. 
+* Per the above, I am asserting a historical fiction: witch hunting was a
+  product of ignorance (sometimes poorly educated priests yes) and even more so
+  of Protestantism.  The rejection of those parts of Sacred Tradition not
+  contained in the Bible by Protestants caused them to reject the true
+  understanding of the interactions between the fallen angels and humanity.
+* Magic users *are not human.*  Just like a hippogriff is a blend of the
+  incompatible horse and eagle that is not fully one nor the other, the person
+  who can use magic is a nephil, not a human.  
+   * As a distortion of God's creation, nephilim do not, cannot fit cleanly into
+     either creation or Divine Law. [Soteriology][WP1], [Missiology][WP2], and
+     [Ecclesiology][WP3] get interesting (and fictional) curlicues and footnotes
+     trying to deal with the chaotic fallout of the interaction between the
+     angelic and the human in a nephil's nature.  This lets me do things to/with
+     the characters that would not otherwise be at all moral. 
+   * Just as a hippogriff is impossible by normal genetics, and cannot be
+     explained by Mendelian inheritance patterns, children of either two nephil
+     or one human and one nephil do not follow purely Mendelian inheritance
+     patterns.
+* I intended this long before I read this in any other work, but I intend that
+  faith, prayer, the Sacraments, and sacramentals will all have actual
+  effects.[^20210412-5]
+
+[^20210412-5]: Darth Drafter. 
+    _[The Little Veela that Could](https://www.fanfiction.net/s/5490079)_
+    [Chapter Six](https://www.fanfiction.net/s/5490079/7/The-Little-Veela-that-Could)
+    Published: 2009-11-05. Updated: 2012-06-28. Last Viewed: 2021-04-12.
+
+[[!inline pages="title(Harry Potter - Nephilim:*) and (
+   fiction/Harry_Potter/Harry_Potter_-_Nephilim/main/* or
+   (fiction/Harry_Potter/Harry_Potter_-_Nephilim and 
+    ! fiction/Harry_Potter/Harry_Potter_-_Nephilim/backstory/* and
+    ! fiction/Harry_Potter/Harry_Potter_-_Nephilim/*
+   )
+   )"
+  archive=yes
+  feedonly=yes
+  reverse=yes
+  sort="title_natural path_natural"
+  trail=yes
+]]
+
+[WP1]: https://en.wikipedia.org/
+
+[WP2]: https://en.wikipedia.org/
+
+[WP3]: https://en.wikipedia.org/
+
+[MW]: https://en.wikipedia.org/wiki/Many_Waters
+
+[^20201209-1]: [Wikipedia](https://en.wikipedia.org/).  [Nephilim](https://en.wikipedia.org/wiki/Nephilim) Last edited 2020-12-06.  
+
+[^20201209-2]: [wikipedia](https://en.wikipedia.org/).  [Heterosis](https://en.wikipedia.org/wiki/Heterosis) Last edited 2020-12-01. 
+
+[^20210408-1]: Mr. C. S. Lewis. _The Screwtape Letters_. pp. 120-121. Copyright 1942. HarperOne. Kindle Edition.  
+
+[^211201-1]: In _[Error of Soul](https://www.fanfiction.net/s/8490518)_
+    Materia-Blade has a line referring to magical folk as Nephilim.  I came up with
+    this idea well before I found that work.  Just goes to show that there is
+    nothing possible that *someone* else hasn't also thought of. 

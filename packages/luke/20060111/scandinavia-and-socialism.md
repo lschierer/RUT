@@ -1,0 +1,12 @@
+---
+
+title: Scandinavia and socialism
+date: 2006-01-11 17:56:59
+tags:
+  - ", "politics-law
+layout: rut
+---
+
+
+<p>Mr. Dan Mitchell reports on a hard look taken at Scandinavian economies, often touted as a triumph of socialism.<sup><a href="http://www.townhall.com/blogs/c-log/Dan Mitchell/story/2005/11/28/177018.html" title="The collapse of the Scandinavian welfare state">[1]</a></sup> The study he reports on is from a Belgian think tank, making this a little more significant to my eyes at least.  Europe tends to be more socialist than Americans do.</p>  <p>From the surface, I would tend to guess that what this study documents is that Scandinavian economies simply did not suffer from World War II as significantly as the rest of Europe, and then did not suffer the second blow of the loss of colonies that the European powers suffered.  As time passed, the rest of Europe recovered, while the socialism dragged Scandinavia down.  That is, however, just a rather superficial guess.</p>  <ol><font size="-2"><li>Mr. Dan Mitchell.  "The collapse of the Scandinavian welfare state" Townhall.com Blocks:: C-Log.  2005-11-28 http://www.townhall.com/blogs/c-log/Dan Mitchell/story/2005/11/28/177018.html </li></font></ol>
+

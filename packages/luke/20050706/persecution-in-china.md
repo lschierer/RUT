@@ -1,0 +1,11 @@
+---
+
+title: Persecution in China
+date: 2005-07-06 13:55:49
+tags:
+  - ", "morality-religion
+layout: rut
+---
+
+<p>The Catholic News Agency is reporting that one of the Bishops in China loyal to the Pope has been arrested <i>again</i>.<a href="http://www.catholicnewsagency.com/new.php?n=4301">[1]</a> Apparently this is the sixth time in eighteen months.</p>  <p>In better news, they claim there are <em>twelve million</em> Catholics (not fake "Patriotic Catholics") in China!!</p>  <font size="-2"> [1] Catholic News Agency.  "Chinese Government arrests Vatican faithful bishop for the 6th time" 2005-07-06 http://www.catholicnewsagency.com/new.php?n=4301 </font>
+

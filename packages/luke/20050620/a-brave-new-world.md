@@ -1,0 +1,22 @@
+---
+
+title: A Brave New World
+date: 2005-06-20 19:25:30
+tags:
+  - ", "morality-religion
+  - ", "science
+layout: rut
+---
+
+<p>I was originally going to talk about this along with the previous set of articles, but today's news caused me to re-think that.  In retrospect, it is just as well I held off posting Friday, for while I would have handed the previous post better, I would not have done as well covering this topic.</p>
+
+<p>Reading Ms. Kathleen Parker's column,[1] my first thought was quite evidently not the same as hers.  She relates the drive towards an artificial womb to the concept of a metrosexual (which is, according to her, quite common in France), and with the whole Michael Jackson mess.  My first thought was that this is a critical piece of Mr. Aldous Huxley's <em>Brave New World</em>.  We now live in a world where cloning happens, and that reality must inform our view of this sort of research.  In the movie previews I have seen recently, is one for "The Island"[2] in which a group of people are kept isolated and alive for the sole purpose of someday killing them and harvesting their organs to keep others alive.  The scary thing is that with this research, the technology to do this would nearly be here.[3]</p>
+
+<p>Compounding this is the fact that you have Belgian scientists cloning embryos from egg cells,[4] and British scientists developing sperm and egg cells from stem cells.[5] We really do have all the pieces necessary to mass produce fatherless and motherless people.  This is a horror that scientists will not stop, they <em>will</em> do this type of research, morally unacceptable as it is, unless stopped.  <em>Science is not self-regulating</em>, else I would not be here writing about this.</p>
+
+[1] http://www.townhall.com/columnists/kathleenparker/kp20050615.shtml 
+[2] http://imdb.com/title/tt0399201/ 
+[3] The missing piece would be solving the sort of problems that plagued Dolly the cloned sheep.  I do not know if this has been done or not, but given there is a firm that will clone a pet for you, I imagine it might well have been.
+[4] http://news.yahoo.com/news?tmpl=story&u=/nm/20050620/sc_nm/health_fertility_dc_4
+[5] http://www.eurekalert.org/pub_releases/2005-06/esfh-hes061705.php
+

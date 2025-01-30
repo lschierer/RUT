@@ -1,0 +1,12 @@
+---
+
+title: OpenAFS
+date: 2008-02-08 19:24:16
+tags:
+  - ", "personal
+  - ", "technical
+layout: rut
+---
+
+Apparently OpenAFS does not really use unix accounts, and some chicanery is required to get the two to work together, and for all to be kosher.  I am not a fan. 
+

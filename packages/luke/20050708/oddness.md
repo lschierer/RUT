@@ -1,0 +1,11 @@
+---
+
+title: oddness
+date: 2005-07-08 19:20:57
+tags:
+  - ", "personal
+layout: rut
+---
+
+So today I got interested in trackbacks and comments.  And low and behold, I discovered that you couldn't enter them anywhere, or find the trackback uri!  much fiddling later, I discovered the reason for this somewhat accidentally, clued in by a comment at http://wordpress.org/support/topic/38459 (asking if the user there had edited the permalink structure).   Apparently my permalink structure choice was subtly unacceptable, resulting in the posts *showing* but without the extra html displaying comments and trackbacks and allowing you to find the trackback uri and post comments (if you are registered and logged in).  So adding a /%post_id% to the permalink structure (which rather defeats the purpose of permalinks, doesn't it?) solves that, and it now displays correctly. 
+

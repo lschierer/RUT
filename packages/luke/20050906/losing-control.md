@@ -1,0 +1,11 @@
+---
+
+title: losing control
+date: 2005-09-06 22:09:23
+tags:
+  - ", "politics-law
+layout: rut
+---
+
+<p>Learning that there is a legal possibility of some stranger, a "professional guardian" taking control of your life as you grow older is decidedly scary.<a href="http://www.catholicherald.com/articles/05articles/guardians.htm">[1]</a> Anyone can initiate a court action wherein you will be tested for mental competency by people you do not know, and who, as we saw in the trials surrounding Mrs. Terri Schiavo, come to questionable results.  Then control over your life is taken away from you, and you are at the mercy of your "guardian."  Does that make you feel all warm inside?  It scares me.</p>  <font size="-2"> [1] Mr. Ken Concannon.  "Protecting the Elderly from 'Guardians'" Arlington Catholic Herald (online) 2005-09-01. http://www.catholicherald.com/articles/05articles/guardians.htm  </font>
+

@@ -1,0 +1,12 @@
+---
+
+title: the deplorable state of China
+date: 2005-09-14 19:17:51
+tags:
+  - ", "morality-religion
+  - ", "politics-law
+layout: rut
+---
+
+<p><a href="http://www.catholicnewsagency.com">CNA</a> has a chilling article today on the deplorable state of human rights in China.<sup><a href="http://www.catholicnewsagency.com/new.php?n=4883">[1]</a></sup> It describes China's policy of forced abortions and forced sterilizations in support of its inhumane policy of one child per couple.  It goes on to talk about China having executed thousands of people in the last year, and then using their bodies for commercial gain.  Truly an example of the evils of communism, that it has reduced human dignity to the point that even the remains of those whose humanity, in life, was undenied, gets bought and sold. It is a disgrace.</p>  <p>But lest I get distracted, it pales in evil in comparison to the deaths themselves.  We have a so-called civilized society finding need to execute thousands of people is unacceptable.  Surely some other means can be developed to defend the populace.  But the communist, the individual has no value; it is only Christianity that defends the value of life in all states and in all men. The evil of the forced sterilizations is also great, going against the very nature of marriage, and against the God-given command that the married couple be "fruitful."  It is for humanity to use its capacity to invent, to think, and to plan to manage the needs of its growth, and to sustain that growth, not to artifically and violently enforce a loss of population.</p>  <font size="-2"> [1] Catholic News Agency.  "Mass sterilizations taking place in China" Catholic News Agency 2005-09-14. http://www.catholicnewsagency.com/new.php?n=4883 </font>
+

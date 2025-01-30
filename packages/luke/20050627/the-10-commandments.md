@@ -1,0 +1,12 @@
+---
+
+title: The 10 Commandments
+date: 2005-06-27 14:58:02
+tags:
+  - ", "morality-religion
+  - ", "politics-law
+layout: rut
+---
+
+<p>In a decision that <em>should</em> not have surprised me, but somewhat did after a series of more hopeful articles, the United States Supreme Court voted 5-4 to ban the display of the 10 Commandments in courtrooms. Somehow, their own frieze is "neutral" and thus allowable.<a href="http://www.washingtonpost.com/wp-dyn/content/article/2005/06/27/AR2005062700416_pf.html">[1]</a> I am not really sure how that logic works.</p>  <p>Particularly puzzling to me is how, given the decidedly religious bent of our founding documents, from the Declaration of Independence with its references to a Creator, to the letters of all the founding fathers, Justice Souter found that the Constitution mandates neutrality not just between religions, but between religion and "nonreligion."<a href="http://www.washingtonpost.com/wp-dyn/content/article/2005/06/27/AR2005062700416_pf.html">[1]</a> It is thus at all surprising that there was a dissent from Justices Scalia and Thomas (and obviously others, 5-4 after all), who take different views on originalism, but both come down as originalists.</p>  <font size="-2"> [1] http://www.washingtonpost.com/wp-dyn/content/article/2005/06/27/AR2005062700416_pf.html </font>
+

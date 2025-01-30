@@ -1,0 +1,10 @@
+---
+
+title: index
+date: updated="2005-03-03"]]
+2005-03-03
+layout: rut
+---
+
+[[!meta updated="2005-03-03"]]
+[[!map pages="20050303/* and ! 20050303/*/*"]]

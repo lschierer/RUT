@@ -1,0 +1,13 @@
+---
+
+title: Explaining glacier melt without carbon dioxide
+date: 2007-08-02 20:50:32
+tags:
+  - ", "global-warming
+layout: rut
+---
+
+Looking at the effect of brown clouds over the Indian Ocean, a group of United States researchers have managed to explain the fact that glaciers in the Himalayas are melting without resorting to blaming any and all warming on carbon dioxide and greenhouse gases.[^200708021]  They claim the warming is caused by the pollution put out from burning wood and fossil fuels.  The answer to both of these problems is to improve the power generation in Asia, and the general standard of living.  
+
+[^200708021]:  BBC News.  "Asia's brown clouds 'warm planet'"  World News Summary 2007-08-01.  <http://news.bbc.co.uk/2/hi/science/nature/6926597.stm>
+
