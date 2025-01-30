@@ -3,7 +3,7 @@
 title: Only to get bad news
 date: 2006-10-16 18:17:09
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

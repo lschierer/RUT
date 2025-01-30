@@ -3,7 +3,7 @@
 title: Global Warming debunker partially reaffirmed
 date: 2006-12-07 16:38:57
 tags:
-  - ", "global-warming
+  -  global-warming
 layout: rut
 ---
 

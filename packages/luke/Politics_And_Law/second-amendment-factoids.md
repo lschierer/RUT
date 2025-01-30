@@ -3,7 +3,7 @@
 title: Second Amendment factoids
 date: 2005-10-21 21:15:29
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

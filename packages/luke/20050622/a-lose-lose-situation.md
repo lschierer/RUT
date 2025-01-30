@@ -3,7 +3,7 @@
 title: A lose-lose situation
 date: 2005-06-22 14:52:24
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

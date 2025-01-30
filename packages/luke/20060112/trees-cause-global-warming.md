@@ -3,7 +3,7 @@
 title: Trees cause global warming
 date: 2006-01-12 20:12:00
 tags:
-  - ", "global-warming
+  -  global-warming
 layout: rut
 ---
 

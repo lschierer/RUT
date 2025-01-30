@@ -3,7 +3,7 @@
 title: federal charity
 date: 2005-09-21 15:05:19
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

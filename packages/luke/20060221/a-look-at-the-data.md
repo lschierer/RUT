@@ -3,7 +3,7 @@
 title: A look at the data
 date: 2006-02-21 21:11:49
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

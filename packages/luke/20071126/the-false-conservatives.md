@@ -3,8 +3,8 @@
 title: The false conservatives
 date: 2007-11-26 16:14:36
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

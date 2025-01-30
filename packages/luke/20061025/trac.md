@@ -3,7 +3,7 @@
 title: trac
 date: 2006-10-25 20:23:53
 tags:
-  - ", "pidgin
+  -  pidgin
 layout: rut
 ---
 

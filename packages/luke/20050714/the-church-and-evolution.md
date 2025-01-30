@@ -3,8 +3,8 @@
 title: The Church and evolution
 date: 2005-07-14 23:43:22
 tags:
-  - ", "evolution
-  - ", "morality-religion
+  -  evolution
+  -  morality-religion
 layout: rut
 ---
 

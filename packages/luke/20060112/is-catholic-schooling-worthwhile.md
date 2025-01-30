@@ -3,7 +3,7 @@
 title: Is Catholic Schooling Worthwhile?
 date: 2006-01-12 16:51:44
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

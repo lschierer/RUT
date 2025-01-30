@@ -1,10 +1,9 @@
 ---
 
 title: Movie Update
-date: title="Movie Update"]]
-2008-06-16 02:10:08
+date: 2008-06-16 02:10:08
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

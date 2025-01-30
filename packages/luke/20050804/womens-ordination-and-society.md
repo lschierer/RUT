@@ -3,7 +3,7 @@
 title: Women&#039;s ordination and society
 date: 2005-08-04 20:05:04
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

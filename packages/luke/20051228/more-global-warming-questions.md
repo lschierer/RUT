@@ -3,7 +3,7 @@
 title: More Global Warming questions
 date: 2005-12-28 22:45:21
 tags:
-  - ", "global-warming
+  -  global-warming
 layout: rut
 ---
 

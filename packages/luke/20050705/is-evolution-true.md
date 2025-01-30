@@ -3,7 +3,7 @@
 title: Is Evolution True?
 date: 2005-07-05 16:11:11
 tags:
-  - ", "evolution
+  -  evolution
 layout: rut
 ---
 

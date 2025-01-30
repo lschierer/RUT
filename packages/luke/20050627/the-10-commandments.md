@@ -3,8 +3,8 @@
 title: The 10 Commandments
 date: 2005-06-27 14:58:02
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

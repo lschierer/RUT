@@ -3,8 +3,8 @@
 title: Quote of the Day
 date: 2006-09-27 18:26:57
 tags:
-  - ", "morality-religion
-  - ", "quotes
+  -  morality-religion
+  -  quotes
 layout: rut
 ---
 

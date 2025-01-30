@@ -3,8 +3,8 @@
 title: Still free to read the Bible
 date: 2007-07-24 16:23:24
 tags:
-  - ", "morality-religion
-  - ", "plate-tectonics
+  -  morality-religion
+  -  plate-tectonics
 layout: rut
 ---
 

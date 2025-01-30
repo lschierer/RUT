@@ -3,7 +3,7 @@
 title: The State Department has some guts
 date: 2005-10-10 14:11:30
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

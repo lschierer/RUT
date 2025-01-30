@@ -3,7 +3,7 @@
 title: extended quote of the day
 date: 2007-10-08 03:48:18
 tags:
-  - ", "evolution
+  -  evolution
 layout: rut
 ---
 

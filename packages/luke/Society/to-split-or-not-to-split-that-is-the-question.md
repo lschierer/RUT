@@ -3,7 +3,7 @@
 title: To split or not to split, that is the question
 date: 2005-06-22 14:35:13
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

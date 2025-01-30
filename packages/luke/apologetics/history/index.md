@@ -1,7 +1,7 @@
 ---
 
 title: index
-date: Tue Jun 28 15:48:34 2016 -0400
+date: 
 layout: rut
 ---
 

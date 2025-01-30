@@ -3,8 +3,8 @@
 title: Historically accurate
 date: 2005-08-09 14:25:24
 tags:
-  - ", "morality-religion
-  - ", "science
+  -  morality-religion
+  -  science
 layout: rut
 ---
 

@@ -3,9 +3,9 @@
 title: A thought to remember
 date: 2005-07-15 19:26:23
 tags:
-  - ", "morality-religion
-  - ", "personal
-  - ", "society
+  -  morality-religion
+  -  personal
+  -  society
 layout: rut
 ---
 

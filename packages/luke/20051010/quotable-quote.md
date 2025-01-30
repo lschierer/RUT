@@ -3,7 +3,7 @@
 title: Quotable Quote
 date: 2005-10-10 16:31:00
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

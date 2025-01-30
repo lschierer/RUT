@@ -3,8 +3,8 @@
 title: Dawkins stumbles
 date: 2009-03-01 14:36:31
 tags:
-  - ", "evolution
-  - ", "morality-religion
+  -  evolution
+  -  morality-religion
 layout: rut
 ---
 

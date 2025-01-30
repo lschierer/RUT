@@ -3,7 +3,7 @@
 title: Mormons and polygamy
 date: 2005-11-03 18:53:12
 tags:
-  - ", "society
+  -  society
 layout: rut
 ---
 

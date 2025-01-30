@@ -3,7 +3,7 @@
 title: Global Warming &quot;Paused&quot;
 date: 2009-03-03 13:25:29
 tags:
-  - ", "global-warming
+  -  global-warming
 layout: rut
 ---
 

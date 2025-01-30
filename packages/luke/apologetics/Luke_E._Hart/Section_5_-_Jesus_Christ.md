@@ -1,7 +1,6 @@
 ---
 
-title: title="Section 5: Jesus Christ Points" ]]
-date: Sat Oct 29 21:45:03 2022 -0400
+title: "Section 5: Jesus Christ Points" 
 layout: rut
 ---
 

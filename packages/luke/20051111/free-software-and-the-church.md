@@ -3,7 +3,7 @@
 title: Free software and the Church
 date: 2005-11-11 17:19:04
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

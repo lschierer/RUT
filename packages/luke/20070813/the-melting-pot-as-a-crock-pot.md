@@ -3,7 +3,7 @@
 title: The melting pot as a crock pot
 date: 2007-08-13 14:56:35
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

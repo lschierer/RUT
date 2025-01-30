@@ -3,7 +3,7 @@
 title: The Bible in the classroom 
 date: 2005-08-02 20:29:48 
 tags:
-  - ", "society
+  -  society
 layout: rut
 ---
 

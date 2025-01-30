@@ -3,7 +3,7 @@
 title: See just how human
 date: 2007-01-16 19:42:57
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

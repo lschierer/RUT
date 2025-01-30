@@ -3,8 +3,8 @@
 title: Back to life
 date: 2005-06-27 22:01:39
 tags:
-  - ", "morality-religion
-  - ", "science
+  -  morality-religion
+  -  science
 layout: rut
 ---
 

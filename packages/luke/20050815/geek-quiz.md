@@ -3,7 +3,7 @@
 title: Geek quiz
 date: 2005-08-15 14:29:46
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

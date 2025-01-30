@@ -3,8 +3,8 @@
 title: We do not need embrionic stem cells
 date: 2006-10-31 15:03:04
 tags:
-  - ", "morality-religion
-  - ", "science
+  -  morality-religion
+  -  science
 layout: rut
 ---
 

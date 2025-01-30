@@ -3,8 +3,8 @@
 title: Contra Tolerance
 date: 2006-07-27 14:54:43
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: Alone
 date: 2006-10-03 17:10:52
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

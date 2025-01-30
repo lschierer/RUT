@@ -3,7 +3,7 @@
 title: Fighting AIDS
 date: 2007-02-15 15:23:58
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

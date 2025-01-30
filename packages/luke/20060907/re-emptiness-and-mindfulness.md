@@ -1,9 +1,9 @@
 ---
 
-title: re: Emptiness and Mindfulness
+title: 're: Emptiness and Mindfulness'
 date: 2006-09-07 19:21:51
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

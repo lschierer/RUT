@@ -3,7 +3,7 @@
 title: What Flavor Margarita are you?
 date: 2006-09-05 16:44:54
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

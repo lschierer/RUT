@@ -3,8 +3,8 @@
 title: No man is an island
 date: 2005-06-22 15:44:44
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

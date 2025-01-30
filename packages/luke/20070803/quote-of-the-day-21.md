@@ -3,7 +3,7 @@
 title: quote of the day
 date: 2007-08-03 17:41:49
 tags:
-  - ", "quotes
+  -  quotes
 layout: rut
 ---
 

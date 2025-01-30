@@ -3,7 +3,7 @@
 title: Why?
 date: 2007-10-03 14:38:13
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

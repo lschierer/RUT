@@ -3,7 +3,7 @@
 title: earthquakes and sulfur
 date: 2006-03-15 15:45:17
 tags:
-  - ", "plate-tectonics
+  -  plate-tectonics
 layout: rut
 ---
 

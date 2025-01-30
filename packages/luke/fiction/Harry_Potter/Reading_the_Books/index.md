@@ -1,7 +1,6 @@
 ---
 
 title: index
-date: Wed Jun 17 14:45:52 2020 -0400
 layout: rut
 ---
 

@@ -1,7 +1,7 @@
 ---
 
 title: Sue Li
-date: Mon Nov 15 13:36:01 2021 -0500
+date: 
 layout: rut
 ---
 

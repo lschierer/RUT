@@ -3,7 +3,7 @@
 title: SciFi to reality
 date: 2006-02-17 16:03:02
 tags:
-  - ", "technical
+  -  technical
 layout: rut
 ---
 

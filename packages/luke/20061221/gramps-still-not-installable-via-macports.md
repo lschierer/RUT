@@ -3,8 +3,8 @@
 title: gramps still not installable via macports
 date: 2006-12-21 17:19:24
 tags:
-  - ", "pidgin
-  - ", "technical
+  -  pidgin
+  -  technical
 layout: rut
 ---
 

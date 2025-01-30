@@ -3,8 +3,8 @@
 title: I knew it
 date: 2008-01-22 16:18:18
 tags:
-  - ", "personal
-  - ", "technical
+  -  personal
+  -  technical
 layout: rut
 ---
 

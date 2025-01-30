@@ -3,8 +3,8 @@
 title: Megafauna in the US
 date: 2005-08-18 14:13:04
 tags:
-  - ", "science
-  - ", "society
+  -  science
+  -  society
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: Sir Thomas More
 date: 2006-09-12 18:41:29
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

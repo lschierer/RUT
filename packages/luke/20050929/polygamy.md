@@ -3,8 +3,8 @@
 title: polygamy
 date: 2005-09-29 18:53:50
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

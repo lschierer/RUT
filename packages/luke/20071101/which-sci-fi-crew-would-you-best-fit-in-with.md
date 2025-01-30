@@ -3,7 +3,7 @@
 title: Which sci-fi crew would you best fit in with?
 date: 2007-11-01 19:51:28
 tags:
-  - ", "quizes
+  -  quizes
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: The end of a series
 date: 2007-07-26 03:43:33
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

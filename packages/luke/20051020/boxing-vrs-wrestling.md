@@ -3,8 +3,8 @@
 title: Boxing vrs Wrestling
 date: 2005-10-20 18:58:22
 tags:
-  - ", "morality-religion
-  - ", "personal
+  -  morality-religion
+  -  personal
 layout: rut
 ---
 

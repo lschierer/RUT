@@ -3,7 +3,7 @@
 title: Another reason to raise a family early
 date: 2006-09-05 16:10:49
 tags:
-  - ", "society
+  -  society
 layout: rut
 ---
 

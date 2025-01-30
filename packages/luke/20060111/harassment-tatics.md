@@ -3,7 +3,7 @@
 title: Harassment tatics
 date: 2006-01-11 15:56:32
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

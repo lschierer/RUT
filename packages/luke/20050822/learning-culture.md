@@ -3,7 +3,7 @@
 title: Learning == Culture
 date: 2005-08-22 19:14:27
 tags:
-  - ", "science
+  -  science
 layout: rut
 ---
 

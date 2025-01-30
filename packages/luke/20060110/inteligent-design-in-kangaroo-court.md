@@ -3,7 +3,7 @@
 title: Inteligent Design in kangaroo court
 date: 2006-01-10 20:06:04
 tags:
-  - ", "evolution
+  -  evolution
 layout: rut
 ---
 

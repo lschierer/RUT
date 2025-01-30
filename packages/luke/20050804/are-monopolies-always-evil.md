@@ -3,7 +3,7 @@
 title: Are monopolies always evil?
 date: 2005-08-04 21:50:33
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

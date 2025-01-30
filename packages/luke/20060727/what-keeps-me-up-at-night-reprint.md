@@ -3,8 +3,8 @@
 title: &quot;What Keeps Me Up at Night&quot; (reprint)
 date: 2006-07-27 13:59:25
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

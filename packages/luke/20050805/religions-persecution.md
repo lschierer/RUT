@@ -3,8 +3,8 @@
 title: Religions persecution
 date: 2005-08-05 21:26:30
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

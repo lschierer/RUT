@@ -3,9 +3,9 @@
 title: homosexuality as a disease to be cured
 date: 2007-09-19 17:24:00
 tags:
-  - ", "morality-religion
-  - ", "science
-  - ", "society
+  -  morality-religion
+  -  science
+  -  society
 layout: rut
 ---
 

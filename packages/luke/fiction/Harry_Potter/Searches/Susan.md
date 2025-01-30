@@ -1,7 +1,7 @@
 ---
 
 title: Susan
-date: Mon Nov 15 12:33:44 2021 -0500
+date: 
 layout: rut
 ---
 

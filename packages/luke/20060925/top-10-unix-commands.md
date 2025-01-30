@@ -3,8 +3,8 @@
 title: top 10 unix commands
 date: 2006-09-25 21:24:47
 tags:
-  - ", "personal
-  - ", "technical
+  -  personal
+  -  technical
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: What we do not know about the Sun and global warming
 date: 2005-11-21 15:35:10
 tags:
-  - ", "global-warming
+  -  global-warming
 layout: rut
 ---
 

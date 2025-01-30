@@ -3,7 +3,7 @@
 title: No Snow
 date: 2008-02-22 20:17:52
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

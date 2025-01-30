@@ -1,10 +1,10 @@
 ---
 
 title: Usury
-date: Wed Jan 2 12:12:52 2013 -0500
+date: 
 tags:
-  - politics-law", "
-  - society", "
+  - politics-law 
+  - society 
 layout: rut
 ---
 

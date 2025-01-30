@@ -3,7 +3,7 @@
 title: openid
 date: 2007-07-12 21:14:54
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

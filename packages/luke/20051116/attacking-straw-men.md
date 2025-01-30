@@ -3,7 +3,7 @@
 title: attacking straw men
 date: 2005-11-16 20:23:06
 tags:
-  - ", "evolution
+  -  evolution
 layout: rut
 ---
 

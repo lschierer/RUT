@@ -3,7 +3,7 @@
 title: Solar Radiation &amp; Climate
 date: 2007-02-12 15:37:01
 tags:
-  - ", "global-warming
+  -  global-warming
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: Onelshy.com personality test
 date: 2006-02-27 17:45:54
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

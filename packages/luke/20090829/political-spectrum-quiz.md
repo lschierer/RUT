@@ -3,9 +3,9 @@
 title: Political Spectrum Quiz
 date: 2009-08-29 21:09:48
 tags:
-  - ", "politics-law
-  - ", "quizes
-  - ", "society
+  -  politics-law
+  -  quizes
+  -  society
 layout: rut
 ---
 

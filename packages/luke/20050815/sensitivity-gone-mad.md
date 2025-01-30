@@ -3,7 +3,7 @@
 title: sensitivity gone mad
 date: 2005-08-15 20:37:49
 tags:
-  - ", "society
+  -  society
 layout: rut
 ---
 

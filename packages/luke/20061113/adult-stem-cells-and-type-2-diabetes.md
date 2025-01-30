@@ -3,8 +3,8 @@
 title: Adult Stem Cells and Type 2 Diabetes
 date: 2006-11-13 16:33:16
 tags:
-  - ", "morality-religion
-  - ", "science
+  -  morality-religion
+  -  science
 layout: rut
 ---
 

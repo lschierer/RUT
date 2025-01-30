@@ -3,9 +3,9 @@
 title: Email Privacy
 date: 2006-12-28 21:27:54
 tags:
-  - ", "personal
-  - ", "politics-law
-  - ", "technical
+  -  personal
+  -  politics-law
+  -  technical
 layout: rut
 ---
 

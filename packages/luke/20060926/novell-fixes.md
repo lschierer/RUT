@@ -3,7 +3,7 @@
 title: Novell Fixes
 date: 2006-09-26 20:09:03
 tags:
-  - ", "pidgin
+  -  pidgin
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: Private Property
 date: 2005-06-24 19:16:26
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

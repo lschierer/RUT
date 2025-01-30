@@ -3,8 +3,8 @@
 title: RFID Passports == Bad
 date: 2006-08-03 16:15:58
 tags:
-  - ", "politics-law
-  - ", "technical
+  -  politics-law
+  -  technical
 layout: rut
 ---
 

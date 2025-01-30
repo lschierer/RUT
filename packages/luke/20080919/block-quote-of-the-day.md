@@ -3,9 +3,9 @@
 title: Block quote of the day
 date: 2008-09-19 11:57:10
 tags:
-  - ", "morality-religion
-  - ", "politics-law
-  - ", "quotes
+  -  morality-religion
+  -  politics-law
+  -  quotes
 layout: rut
 ---
 

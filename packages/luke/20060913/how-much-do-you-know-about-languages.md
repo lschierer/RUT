@@ -3,7 +3,7 @@
 title: How much do you know about Languages?
 date: 2006-09-13 17:55:38
 tags:
-  - ", "quizes
+  -  quizes
 layout: rut
 ---
 

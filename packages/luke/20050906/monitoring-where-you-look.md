@@ -3,8 +3,8 @@
 title: monitoring where you look
 date: 2005-09-06 21:52:32
 tags:
-  - ", "science
-  - ", "society
+  -  science
+  -  society
 layout: rut
 ---
 

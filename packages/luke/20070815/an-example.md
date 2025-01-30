@@ -3,7 +3,7 @@
 title: An example
 date: 2007-08-15 18:03:26
 tags:
-  - ", "society
+  -  society
 layout: rut
 ---
 

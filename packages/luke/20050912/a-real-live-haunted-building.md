@@ -3,8 +3,8 @@
 title: A real, live haunted building?
 date: 2005-09-12 14:21:38
 tags:
-  - ", "politics-law
-  - ", "science
+  -  politics-law
+  -  science
 layout: rut
 ---
 

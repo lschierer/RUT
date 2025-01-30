@@ -3,8 +3,8 @@
 title: The cost of negative population growth
 date: 2006-01-23 15:26:38
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

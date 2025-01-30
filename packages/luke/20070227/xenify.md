@@ -3,8 +3,8 @@
 title: xenify!
 date: 2007-02-27 19:48:26
 tags:
-  - ", "personal
-  - ", "technical
+  -  personal
+  -  technical
 layout: rut
 ---
 

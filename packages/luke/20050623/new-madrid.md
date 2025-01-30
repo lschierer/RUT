@@ -3,7 +3,7 @@
 title: New Madrid
 date: 2005-06-23 18:53:31
 tags:
-  - ", "plate-tectonics
+  -  plate-tectonics
 layout: rut
 ---
 

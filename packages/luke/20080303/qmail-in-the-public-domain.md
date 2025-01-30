@@ -3,8 +3,8 @@
 title: Qmail in the public domain!
 date: 2008-03-03 16:29:58
 tags:
-  - ", "personal
-  - ", "technical
+  -  personal
+  -  technical
 layout: rut
 ---
 

@@ -1,10 +1,10 @@
 ---
 
-title: Scary numbers:
+title: Scary numbers
 date: 2008-03-31 17:48:46
 tags:
-  - ", "morality-religion
-  - ", "society
+  -  morality-religion
+  -  society
 layout: rut
 ---
 

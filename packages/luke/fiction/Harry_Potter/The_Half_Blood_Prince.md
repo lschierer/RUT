@@ -3,7 +3,7 @@
 title: The Half Blood Prince
 date: 2005-07-19 02:31:57
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

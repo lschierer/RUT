@@ -3,7 +3,7 @@
 title: Having things to steal causes people to steal them
 date: 2006-07-20 15:00:11
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

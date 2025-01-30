@@ -3,7 +3,7 @@
 title: Saint Stephen
 date: 2007-04-24 16:14:49
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

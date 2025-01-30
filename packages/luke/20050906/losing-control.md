@@ -3,7 +3,7 @@
 title: losing control
 date: 2005-09-06 22:09:23
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

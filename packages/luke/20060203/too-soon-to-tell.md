@@ -3,8 +3,8 @@
 title: Too soon to tell
 date: 2006-02-03 16:23:45
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

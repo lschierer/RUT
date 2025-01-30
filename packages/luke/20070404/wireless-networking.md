@@ -3,7 +3,7 @@
 title: Wireless networking
 date: 2007-04-04 19:56:42
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

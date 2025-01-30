@@ -3,7 +3,7 @@
 title: Abortion linked with Depression
 date: 2006-01-12 17:23:16
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

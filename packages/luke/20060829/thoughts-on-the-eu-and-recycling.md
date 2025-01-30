@@ -3,7 +3,7 @@
 title: Thoughts on the EU and recycling
 date: 2006-08-29 15:01:16
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

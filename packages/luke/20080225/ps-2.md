@@ -3,8 +3,8 @@
 title: PS
 date: 2008-02-25 19:09:04
 tags:
-  - ", "personal
-  - ", "politics-law
+  -  personal
+  -  politics-law
 layout: rut
 ---
 

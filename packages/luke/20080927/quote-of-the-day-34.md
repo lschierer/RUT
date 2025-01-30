@@ -3,8 +3,8 @@
 title: Quote of the day
 date: 2008-09-27 12:17:19
 tags:
-  - ", "politics-law
-  - ", "quotes
+  -  politics-law
+  -  quotes
 layout: rut
 ---
 

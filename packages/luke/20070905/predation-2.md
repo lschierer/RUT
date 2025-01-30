@@ -3,7 +3,7 @@
 title: predation
 date: 2007-09-05 15:23:50
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: Silly little quiz
 date: 2006-09-05 16:22:14
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

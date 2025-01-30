@@ -3,7 +3,7 @@
 title: Jellyfish shut down reactor
 date: 2005-08-29 17:45:49
 tags:
-  - ", "science
+  -  science
 layout: rut
 ---
 

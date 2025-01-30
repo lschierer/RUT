@@ -1,7 +1,7 @@
 ---
 
 title: Chapter10
-date: Sun Jul 1 22:34:45 2018 -0400
+date: 
 layout: rut
 ---
 

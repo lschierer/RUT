@@ -3,7 +3,7 @@
 title: clarifying the gaim-vv record
 date: 2005-11-11 16:40:53
 tags:
-  - ", "pidgin
+  -  pidgin
 layout: rut
 ---
 

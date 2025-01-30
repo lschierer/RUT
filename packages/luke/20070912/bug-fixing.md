@@ -3,8 +3,8 @@
 title: Bug fixing
 date: 2007-09-12 18:54:55
 tags:
-  - ", "personal
-  - ", "technical
+  -  personal
+  -  technical
 layout: rut
 ---
 

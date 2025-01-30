@@ -3,7 +3,7 @@
 title: Sketchy Logic
 date: 2005-06-21 14:30:48
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

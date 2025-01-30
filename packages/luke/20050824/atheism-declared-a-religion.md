@@ -3,8 +3,8 @@
 title: Atheism declared a religion
 date: 2005-08-24 20:09:56
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

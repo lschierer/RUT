@@ -1,12 +1,12 @@
 ---
 
 title: contra Utilitarianism
-date: Mon Sep 13 17:59:35 2021 -0400
+date: 
 tags:
-  - morality-religion", "
+  - morality-religion 
   - society
   - politics-law
-  - "HP", "Notes"
+  - "HP Notes"
 layout: rut
 ---
 

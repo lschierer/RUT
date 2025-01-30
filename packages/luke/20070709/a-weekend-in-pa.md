@@ -3,7 +3,7 @@
 title: A weekend in PA
 date: 2007-07-09 16:03:29
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

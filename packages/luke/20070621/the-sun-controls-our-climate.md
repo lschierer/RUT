@@ -3,7 +3,7 @@
 title: The sun controls our climate
 date: 2007-06-21 14:38:13
 tags:
-  - ", "global-warming
+  -  global-warming
 layout: rut
 ---
 

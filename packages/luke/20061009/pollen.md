@@ -3,7 +3,7 @@
 title: pollen?
 date: 2006-10-09 18:36:15
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

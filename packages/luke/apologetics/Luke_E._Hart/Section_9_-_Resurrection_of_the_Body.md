@@ -1,7 +1,6 @@
 ---
 
-title: title="Section 9: The Resurrection of the Body Key Points" ]]
-date: Sun Jan 1 15:51:08 2023 -0500
+title: "Section 9: The Resurrection of the Body Key Points" 
 layout: rut
 ---
 

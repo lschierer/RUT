@@ -3,8 +3,8 @@
 title: Distracted by Alpine
 date: 2007-04-15 02:12:13
 tags:
-  - ", "personal
-  - ", "pidgin
+  -  personal
+  -  pidgin
 layout: rut
 ---
 

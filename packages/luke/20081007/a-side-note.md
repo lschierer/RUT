@@ -3,8 +3,8 @@
 title: a side note
 date: 2008-10-07 19:49:07
 tags:
-  - ", "personal
-  - ", "technical
+  -  personal
+  -  technical
 layout: rut
 ---
 

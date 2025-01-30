@@ -3,7 +3,7 @@
 title: The commerical services go (somewhat) interoperable
 date: 2006-01-24 15:55:27
 tags:
-  - ", "pidgin
+  -  pidgin
 layout: rut
 ---
 

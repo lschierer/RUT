@@ -3,8 +3,8 @@
 title: The logical conclusion of political correctness
 date: 2007-07-27 19:47:38
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

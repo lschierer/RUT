@@ -3,7 +3,7 @@
 title: Abstinence vrs. safe sex
 date: 2006-04-18 17:19:43
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

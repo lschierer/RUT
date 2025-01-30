@@ -1,7 +1,7 @@
 ---
 
 title: Articles about the necessity of fathers
-date: Sun Nov 18 16:32:46 2012 -0500
+date: 
 tags:
   - society
 layout: rut

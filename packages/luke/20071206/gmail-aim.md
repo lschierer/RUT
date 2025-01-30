@@ -3,8 +3,8 @@
 title: Gmail &amp; AIM
 date: 2007-12-06 20:34:38
 tags:
-  - ", "pidgin
-  - ", "technical
+  -  pidgin
+  -  technical
 layout: rut
 ---
 

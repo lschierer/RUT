@@ -1,7 +1,6 @@
 ---
 
-title: title="Section 3: Creation Key Points" ]]
-date: Sat Oct 29 16:42:10 2022 -0400
+title: "Section 3: Creation Key Points" 
 layout: rut
 ---
 

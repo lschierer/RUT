@@ -3,8 +3,8 @@
 title: ikiwiki &amp; css
 date: 2008-10-07 14:42:40
 tags:
-  - ", "personal
-  - ", "technical
+  -  personal
+  -  technical
 layout: rut
 ---
 

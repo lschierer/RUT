@@ -3,7 +3,7 @@
 title: theme revamp
 date: 2007-03-21 18:10:56
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

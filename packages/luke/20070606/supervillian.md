@@ -3,7 +3,7 @@
 title: Supervillian
 date: 2007-06-06 14:51:09
 tags:
-  - ", "quizes
+  -  quizes
 layout: rut
 ---
 

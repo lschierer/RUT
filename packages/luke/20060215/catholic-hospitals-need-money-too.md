@@ -3,8 +3,8 @@
 title: Catholic Hospitals need money too
 date: 2006-02-15 18:15:24
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

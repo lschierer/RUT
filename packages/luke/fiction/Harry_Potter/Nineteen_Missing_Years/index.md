@@ -1,7 +1,7 @@
 ---
 
 title: Nineteen Missing Years, 
-date: Thu Oct 28 12:04:02 2021 -0400
+date: 
 layout: rut
 ---
 

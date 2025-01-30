@@ -1,7 +1,7 @@
 ---
 
 title: index
-date: Sun Sep 23 12:09:24 2012 -0400
+date: 
 layout: rut
 ---
 

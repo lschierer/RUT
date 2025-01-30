@@ -3,7 +3,7 @@
 title: Papists in Politics
 date: 2005-10-18 16:50:26
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

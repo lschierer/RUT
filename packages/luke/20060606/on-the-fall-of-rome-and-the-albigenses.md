@@ -3,7 +3,7 @@
 title: On the Fall of Rome and the Albigenses
 date: 2006-06-06 03:14:01
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

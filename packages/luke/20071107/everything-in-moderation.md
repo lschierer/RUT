@@ -3,7 +3,7 @@
 title: Everything in moderation
 date: 2007-11-07 15:16:40
 tags:
-  - ", "science
+  -  science
 layout: rut
 ---
 

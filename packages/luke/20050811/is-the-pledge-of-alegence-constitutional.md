@@ -3,7 +3,7 @@
 title: Is the Pledge of Alegence Constitutional?
 date: 2005-08-11 17:26:19
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

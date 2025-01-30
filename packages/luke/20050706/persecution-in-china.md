@@ -3,7 +3,7 @@
 title: Persecution in China
 date: 2005-07-06 13:55:49
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

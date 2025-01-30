@@ -3,7 +3,7 @@
 title: Stronger families reduce poverty
 date: 2005-10-26 19:23:05
 tags:
-  - ", "society
+  -  society
 layout: rut
 ---
 

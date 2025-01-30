@@ -3,7 +3,7 @@
 title: Choices should have consequences
 date: 2005-06-29 14:24:19
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: An Unbelievable Waste
 date: 2006-01-19 19:54:25
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

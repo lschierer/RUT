@@ -3,8 +3,8 @@
 title: Papal Mass
 date: 2008-04-18 18:38:59
 tags:
-  - ", "morality-religion
-  - ", "personal
+  -  morality-religion
+  -  personal
 layout: rut
 ---
 

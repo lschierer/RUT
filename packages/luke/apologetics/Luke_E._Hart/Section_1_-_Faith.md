@@ -1,7 +1,6 @@
 ---
 
-title: title="Section 1: Faith Key Points" ]]
-date: Sat Oct 29 15:11:19 2022 -0400
+title: "Section 1: Faith Key Points" 
 layout: rut
 ---
 

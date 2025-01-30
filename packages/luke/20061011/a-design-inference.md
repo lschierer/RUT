@@ -3,8 +3,8 @@
 title: A Design Inference
 date: 2006-10-11 15:57:52
 tags:
-  - ", "evolution
-  - ", "plate-tectonics
+  -  evolution
+  -  plate-tectonics
 layout: rut
 ---
 

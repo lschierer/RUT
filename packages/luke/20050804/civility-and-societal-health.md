@@ -3,7 +3,7 @@
 title: Civility and societal health
 date: 2005-08-04 19:43:44
 tags:
-  - ", "society
+  -  society
 layout: rut
 ---
 

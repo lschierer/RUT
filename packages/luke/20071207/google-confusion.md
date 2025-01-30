@@ -3,8 +3,8 @@
 title: Google Confusion
 date: 2007-12-07 18:16:40
 tags:
-  - ", "personal
-  - ", "technical
+  -  personal
+  -  technical
 layout: rut
 ---
 

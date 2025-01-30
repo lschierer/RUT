@@ -3,7 +3,7 @@
 title: My Daemon
 date: 2007-04-26 02:58:32
 tags:
-  - ", "quizes
+  -  quizes
 layout: rut
 ---
 

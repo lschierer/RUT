@@ -3,8 +3,8 @@
 title: Gaim forks
 date: 2006-10-17 15:43:29
 tags:
-  - ", "pidgin
-  - ", "technical
+  -  pidgin
+  -  technical
 layout: rut
 ---
 

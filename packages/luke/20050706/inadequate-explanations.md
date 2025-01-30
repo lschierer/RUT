@@ -3,7 +3,7 @@
 title: Inadequate explanations
 date: 2005-07-06 18:06:48
 tags:
-  - ", "evolution
+  -  evolution
 layout: rut
 ---
 

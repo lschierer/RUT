@@ -3,7 +3,7 @@
 title: A link to remember (for now)
 date: 2006-08-03 18:15:25
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

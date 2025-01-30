@@ -3,8 +3,8 @@
 title: Questions
 date: 2008-02-25 18:36:02
 tags:
-  - ", "personal
-  - ", "politics-law
+  -  personal
+  -  politics-law
 layout: rut
 ---
 

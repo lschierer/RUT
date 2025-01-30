@@ -3,7 +3,7 @@
 title: The unborn yet feel
 date: 2005-10-06 17:43:20
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

@@ -3,8 +3,8 @@
 title: The limits of diagnosis
 date: 2006-09-07 21:14:17
 tags:
-  - ", "science
-  - ", "society
+  -  science
+  -  society
 layout: rut
 ---
 

@@ -3,8 +3,8 @@
 title: On the road to no Roe
 date: 2006-01-26 14:58:12
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

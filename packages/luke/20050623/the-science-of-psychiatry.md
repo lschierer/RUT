@@ -3,8 +3,8 @@
 title: the &quot;science&quot; of psychiatry
 date: 2005-06-23 19:08:08
 tags:
-  - ", "morality-religion
-  - ", "science
+  -  morality-religion
+  -  science
 layout: rut
 ---
 

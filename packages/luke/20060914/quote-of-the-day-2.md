@@ -3,9 +3,9 @@
 title: Quote of the day
 date: 2006-09-14 16:50:53
 tags:
-  - ", "morality-religion
-  - ", "politics-law
-  - ", "quotes
+  -  morality-religion
+  -  politics-law
+  -  quotes
 layout: rut
 ---
 

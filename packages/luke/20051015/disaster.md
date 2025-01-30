@@ -3,7 +3,7 @@
 title: disaster
 date: 2005-10-15 05:34:54
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

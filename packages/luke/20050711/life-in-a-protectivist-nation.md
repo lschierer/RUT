@@ -3,7 +3,7 @@
 title: Life in a protectivist nation
 date: 2005-07-11 21:29:39
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

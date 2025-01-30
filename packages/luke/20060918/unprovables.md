@@ -3,7 +3,7 @@
 title: unprovables
 date: 2006-09-18 19:43:29
 tags:
-  - ", "evolution
+  -  evolution
 layout: rut
 ---
 

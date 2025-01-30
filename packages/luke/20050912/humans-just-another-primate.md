@@ -3,8 +3,8 @@
 title: Humans, just another primate?
 date: 2005-09-12 14:30:52
 tags:
-  - ", "evolution
-  - ", "society
+  -  evolution
+  -  society
 layout: rut
 ---
 

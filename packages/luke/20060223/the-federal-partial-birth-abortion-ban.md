@@ -3,8 +3,8 @@
 title: The Federal Partial Birth Abortion Ban
 date: 2006-02-23 17:25:10
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

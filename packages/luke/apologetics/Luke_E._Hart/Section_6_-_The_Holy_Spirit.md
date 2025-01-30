@@ -1,7 +1,6 @@
 ---
 
-title: title="Section 6: The Holy Spirit Key Points" ]]
-date: Wed Nov 9 00:38:29 2022 -0500
+title: "Section 6: The Holy Spirit Key Points"
 layout: rut
 ---
 

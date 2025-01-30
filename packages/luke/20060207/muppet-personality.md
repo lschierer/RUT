@@ -3,7 +3,7 @@
 title: Muppet Personality
 date: 2006-02-07 19:41:36
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

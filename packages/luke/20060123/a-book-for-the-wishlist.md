@@ -3,8 +3,8 @@
 title: A book for the wishlist
 date: 2006-01-23 18:57:02
 tags:
-  - ", "evolution
-  - ", "personal
+  -  evolution
+  -  personal
 layout: rut
 ---
 

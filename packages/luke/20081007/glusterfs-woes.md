@@ -3,8 +3,8 @@
 title: glusterfs woes
 date: 2008-10-07 14:40:36
 tags:
-  - ", "personal
-  - ", "technical
+  -  personal
+  -  technical
 layout: rut
 ---
 

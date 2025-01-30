@@ -3,7 +3,7 @@
 title: Nationalized health care reluctantly makes the right decision
 date: 2006-12-08 16:08:44
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

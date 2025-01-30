@@ -3,7 +3,7 @@
 title: OSX server now sucks
 date: 2005-07-19 21:21:09
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

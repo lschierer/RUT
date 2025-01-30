@@ -3,7 +3,7 @@
 title: the problem of government monopolies
 date: 2006-02-13 21:25:41
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

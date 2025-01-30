@@ -3,7 +3,7 @@
 title: More on Peer Review
 date: 2006-11-15 16:54:46
 tags:
-  - ", "science
+  -  science
 layout: rut
 ---
 

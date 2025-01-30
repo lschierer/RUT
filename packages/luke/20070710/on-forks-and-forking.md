@@ -3,7 +3,7 @@
 title: on forks and forking
 date: 2007-07-10 16:29:05
 tags:
-  - ", "pidgin
+  -  pidgin
 layout: rut
 ---
 

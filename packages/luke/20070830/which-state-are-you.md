@@ -3,7 +3,7 @@
 title: Which State are you?
 date: 2007-08-30 17:02:53
 tags:
-  - ", "quizes
+  -  quizes
 layout: rut
 ---
 

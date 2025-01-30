@@ -3,8 +3,8 @@
 title: An attempt to overturn Roe
 date: 2006-01-23 18:17:47
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

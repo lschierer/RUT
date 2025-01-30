@@ -3,7 +3,7 @@
 title: Sonar Generated Piano
 date: 2006-08-10 17:34:22
 tags:
-  - ", "plate-tectonics
+  -  plate-tectonics
 layout: rut
 ---
 

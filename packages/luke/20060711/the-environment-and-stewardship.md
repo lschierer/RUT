@@ -3,7 +3,7 @@
 title: The environment and stewardship
 date: 2006-07-11 15:26:01
 tags:
-  - ", "global-warming
+  -  global-warming
 layout: rut
 ---
 

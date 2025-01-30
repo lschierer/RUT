@@ -3,7 +3,7 @@
 title: More on Cartoons
 date: 2006-02-13 18:28:36
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

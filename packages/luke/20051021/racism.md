@@ -3,7 +3,7 @@
 title: Racism
 date: 2005-10-21 15:08:30
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

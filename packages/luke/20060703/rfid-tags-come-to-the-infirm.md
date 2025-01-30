@@ -3,8 +3,8 @@
 title: RFID tags come to the infirm
 date: 2006-07-03 16:37:15
 tags:
-  - ", "politics-law
-  - ", "science
+  -  politics-law
+  -  science
 layout: rut
 ---
 

@@ -3,8 +3,8 @@
 title: Polygyny coming to Canada?
 date: 2007-08-30 15:22:34
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

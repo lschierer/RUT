@@ -3,7 +3,7 @@
 title: Surviving the Singularity
 date: 2009-02-22 14:51:55
 tags:
-  - ", "quizes
+  -  quizes
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: Heather had two moms
 date: 2005-09-26 19:04:17
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

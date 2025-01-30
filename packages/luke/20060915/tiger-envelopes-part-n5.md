@@ -3,8 +3,8 @@
 title: Tiger Envelopes part N+5
 date: 2006-09-15 02:54:05
 tags:
-  - ", "personal
-  - ", "technical
+  -  personal
+  -  technical
 layout: rut
 ---
 

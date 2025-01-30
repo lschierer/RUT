@@ -3,8 +3,8 @@
 title: thoughts and status
 date: 2005-09-23 20:38:36
 tags:
-  - ", "personal
-  - ", "pidgin
+  -  personal
+  -  pidgin
 layout: rut
 ---
 

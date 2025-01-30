@@ -3,8 +3,8 @@
 title: Tiger Envelopes
 date: 2006-09-11 19:43:17
 tags:
-  - ", "personal
-  - ", "technical
+  -  personal
+  -  technical
 layout: rut
 ---
 

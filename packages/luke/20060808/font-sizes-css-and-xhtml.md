@@ -3,8 +3,8 @@
 title: font sizes, css, and xhtml
 date: 2006-08-08 17:47:52
 tags:
-  - ", "personal
-  - ", "technical
+  -  personal
+  -  technical
 layout: rut
 ---
 

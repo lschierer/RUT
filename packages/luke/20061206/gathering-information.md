@@ -3,7 +3,7 @@
 title: gathering information
 date: 2006-12-06 17:27:00
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

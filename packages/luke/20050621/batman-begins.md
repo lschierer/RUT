@@ -3,8 +3,8 @@
 title: Batman begins?
 date: 2005-06-21 13:39:20
 tags:
-  - ", "personal
-  - ", "society
+  -  personal
+  -  society
 layout: rut
 ---
 

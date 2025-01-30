@@ -3,7 +3,7 @@
 title: VACATION!!
 date: 2006-08-11 15:49:50
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

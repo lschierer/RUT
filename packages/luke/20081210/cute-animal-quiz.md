@@ -3,7 +3,7 @@
 title: Cute Animal Quiz
 date: 2008-12-10 02:27:40
 tags:
-  - ", "quizes
+  -  quizes
 layout: rut
 ---
 

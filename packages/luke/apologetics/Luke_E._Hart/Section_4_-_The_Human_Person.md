@@ -1,7 +1,6 @@
 ---
 
-title: title="Section 4: The Human Person Key Points" ]]
-date: Sat Oct 29 21:45:03 2022 -0400
+title: "Section 4: The Human Person Key Points" 
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: undebunked
 date: 2006-11-15 16:11:00
 tags:
-  - ", "global-warming
+  -  global-warming
 layout: rut
 ---
 

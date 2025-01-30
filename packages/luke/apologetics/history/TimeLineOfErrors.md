@@ -1,7 +1,7 @@
 ---
 
 title: Timeline of Errors
-date: Tue Jun 28 15:47:15 2016 -0400
+date: 
 tags:
   - morality-religion
   - history

@@ -3,7 +3,7 @@
 title: Europe and the Faith
 date: 2005-10-26 15:45:33
 tags:
-  - ", "society
+  -  society
 layout: rut
 ---
 

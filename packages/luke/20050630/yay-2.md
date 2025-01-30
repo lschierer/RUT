@@ -3,7 +3,7 @@
 title: YAY!
 date: 2005-06-30 16:42:31
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

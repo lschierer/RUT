@@ -3,7 +3,7 @@
 title: Some lighter text
 date: 2006-07-13 21:10:23
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

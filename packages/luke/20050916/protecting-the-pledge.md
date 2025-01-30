@@ -3,7 +3,7 @@
 title: Protecting the Pledge
 date: 2005-09-16 19:14:08
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

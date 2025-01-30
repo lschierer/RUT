@@ -3,7 +3,7 @@
 title: Butterflys splitting into separate species?
 date: 2005-08-02 21:11:56
 tags:
-  - ", "evolution
+  -  evolution
 layout: rut
 ---
 

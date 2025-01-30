@@ -3,7 +3,7 @@
 title: book meme
 date: 2007-02-06 18:09:05
 tags:
-  - ", "quizes
+  -  quizes
 layout: rut
 ---
 

@@ -1,7 +1,6 @@
 ---
 
 title: Chapter09
-date: Mon Jan 4 17:42:40 2021 -0500
 layout: rut
 ---
 

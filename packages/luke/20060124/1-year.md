@@ -3,7 +3,7 @@
 title: 1 year
 date: 2006-01-24 12:51:46
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

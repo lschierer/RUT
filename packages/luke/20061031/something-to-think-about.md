@@ -3,8 +3,8 @@
 title: Something to think about
 date: 2006-10-31 15:46:03
 tags:
-  - ", "morality-religion
-  - ", "quotes
+  -  morality-religion
+  -  quotes
 layout: rut
 ---
 

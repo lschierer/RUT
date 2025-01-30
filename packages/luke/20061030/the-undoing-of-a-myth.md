@@ -3,8 +3,8 @@
 title: the undoing of a myth
 date: 2006-10-30 15:34:47
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

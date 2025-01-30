@@ -3,7 +3,7 @@
 title: Subsidarity and what is &quot;Local Government&quot;
 date: 2005-11-08 04:24:45
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

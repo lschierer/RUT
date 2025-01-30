@@ -3,7 +3,7 @@
 title: The Incredible Hulk &amp; Batman
 date: 2008-09-11 12:10:58
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

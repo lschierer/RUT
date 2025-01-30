@@ -3,7 +3,7 @@
 title: apache2
 date: 2005-08-29 21:53:31
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

@@ -1,7 +1,6 @@
 ---
 
-title: title="Harry Potter and the Request for Help: Prologue"
-date: Wed Jun 17 14:45:24 2020 -0400
+title: "Harry Potter and the Request for Help: Prologue"
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: Exorcism movies
 date: 2005-10-07 14:08:58
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

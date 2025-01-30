@@ -1,7 +1,7 @@
 ---
 
 title: DumbleDore
-date: Wed May 18 12:58:04 2022 -0400
+date: 
 layout: rut
 ---
 

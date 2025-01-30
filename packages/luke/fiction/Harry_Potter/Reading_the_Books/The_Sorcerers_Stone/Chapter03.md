@@ -1,7 +1,6 @@
 ---
 
-title: The Sorcerer's Stone: Chapter 3
-date: Mon Feb 15 18:12:18 2021 -0500
+title: "The Sorcerer's Stone: Chapter 3"
 layout: rut
 ---
 

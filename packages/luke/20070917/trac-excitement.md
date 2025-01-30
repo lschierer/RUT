@@ -3,7 +3,7 @@
 title: trac excitement
 date: 2007-09-17 16:30:32
 tags:
-  - ", "pidgin
+  -  pidgin
 layout: rut
 ---
 

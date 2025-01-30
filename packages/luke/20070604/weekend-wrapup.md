@@ -3,7 +3,7 @@
 title: Weekend Wrapup
 date: 2007-06-04 17:49:38
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

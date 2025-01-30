@@ -3,7 +3,7 @@
 title: Paying in pennies
 date: 2005-07-05 19:42:40
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: PS
 date: 2007-11-26 04:17:38
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

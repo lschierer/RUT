@@ -3,7 +3,7 @@
 title: Harry Potter (SPOILERS)
 date: 2009-07-19 01:42:12
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

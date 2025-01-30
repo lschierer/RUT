@@ -3,7 +3,7 @@
 title: Sharks swim to live
 date: 2005-10-31 18:35:44
 tags:
-  - ", "science
+  -  science
 layout: rut
 ---
 

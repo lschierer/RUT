@@ -3,8 +3,8 @@
 title: Condom programs increase AIDS
 date: 2009-04-16 10:46:45
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

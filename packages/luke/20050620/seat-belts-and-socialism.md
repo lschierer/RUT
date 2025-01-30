@@ -3,7 +3,7 @@
 title: Seat belts and Socialism
 date: 2005-06-20 16:29:22
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: Temperature Woes
 date: 2006-11-13 17:08:43
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

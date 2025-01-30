@@ -3,8 +3,8 @@
 title: Coincidence?
 date: 2009-04-01 00:54:13
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

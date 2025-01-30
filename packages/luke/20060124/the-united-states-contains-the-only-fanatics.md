@@ -3,7 +3,7 @@
 title: The United States contains the only fanatics
 date: 2006-01-24 16:20:25
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

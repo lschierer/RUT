@@ -3,7 +3,7 @@
 title: Healing at Lourdes
 date: 2005-11-15 18:00:17
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

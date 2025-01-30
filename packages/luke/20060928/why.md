@@ -3,7 +3,7 @@
 title: Why&#x2026;
 date: 2006-09-28 16:10:00
 tags:
-  - ", "technical
+  -  technical
 layout: rut
 ---
 

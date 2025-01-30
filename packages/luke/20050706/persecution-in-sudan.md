@@ -3,7 +3,7 @@
 title: Persecution in Sudan
 date: 2005-07-06 14:02:02
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

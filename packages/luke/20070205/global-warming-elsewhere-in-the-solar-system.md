@@ -3,7 +3,7 @@
 title: Global warming elsewhere in the solar system
 date: 2007-02-05 16:15:13
 tags:
-  - ", "global-warming
+  -  global-warming
 layout: rut
 ---
 

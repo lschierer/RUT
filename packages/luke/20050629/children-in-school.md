@@ -3,8 +3,8 @@
 title: Children in School
 date: 2005-06-29 20:56:32
 tags:
-  - ", "morality-religion
-  - ", "society
+  -  morality-religion
+  -  society
 layout: rut
 ---
 

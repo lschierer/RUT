@@ -3,8 +3,8 @@
 title: Men and women need differing amounts of exercise
 date: 2005-08-04 14:23:03
 tags:
-  - ", "science
-  - ", "society
+  -  science
+  -  society
 layout: rut
 ---
 

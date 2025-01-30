@@ -3,7 +3,7 @@
 title: listening to the wind
 date: 2007-01-26 02:52:46
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

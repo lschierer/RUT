@@ -3,7 +3,7 @@
 title: Legitimizing concerns
 date: 2005-08-09 19:43:15
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

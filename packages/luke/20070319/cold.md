@@ -3,7 +3,7 @@
 title: cold
 date: 2007-03-19 17:35:43
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

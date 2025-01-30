@@ -3,7 +3,7 @@
 title: the inevitablity of climate change
 date: 2005-09-16 20:46:58
 tags:
-  - ", "global-warming
+  -  global-warming
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: Civil Service
 date: 2006-02-13 22:53:00
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

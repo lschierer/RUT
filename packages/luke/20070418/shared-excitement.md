@@ -3,8 +3,8 @@
 title: Shared Excitement
 date: 2007-04-18 21:33:12
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

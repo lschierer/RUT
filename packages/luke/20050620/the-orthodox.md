@@ -3,7 +3,7 @@
 title: The Orthodox&#x2026;
 date: 2005-06-20 15:06:59
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: Trip 01
 date: 2005-07-23 00:01:46
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

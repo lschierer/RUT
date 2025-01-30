@@ -3,7 +3,7 @@
 title: A link we ignore at great cost
 date: 2007-01-03 16:04:06
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

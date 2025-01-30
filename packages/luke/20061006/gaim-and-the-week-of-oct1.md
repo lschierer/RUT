@@ -3,7 +3,7 @@
 title: Gaim and the week of oct1
 date: 2006-10-06 17:45:52
 tags:
-  - ", "pidgin
+  -  pidgin
 layout: rut
 ---
 

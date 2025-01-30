@@ -3,7 +3,7 @@
 title: NEO test results
 date: 2006-10-11 03:35:37
 tags:
-  - ", "quizes
+  -  quizes
 layout: rut
 ---
 

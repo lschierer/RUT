@@ -1,7 +1,7 @@
 ---
 
 title: Ginny
-date: Thu Sep 23 17:11:15 2021 -0400
+date: 
 layout: rut
 ---
 

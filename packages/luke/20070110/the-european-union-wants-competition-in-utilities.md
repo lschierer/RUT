@@ -3,7 +3,7 @@
 title: The European Union wants competition in utilities
 date: 2007-01-10 16:42:15
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

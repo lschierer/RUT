@@ -3,7 +3,7 @@
 title: Maildir, imap, and webmail
 date: 2005-08-30 15:35:19
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

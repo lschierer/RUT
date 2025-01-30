@@ -3,7 +3,7 @@
 title: The Great Scare debunked 2
 date: 2006-11-07 01:50:17
 tags:
-  - ", "global-warming
+  -  global-warming
 layout: rut
 ---
 

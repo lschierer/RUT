@@ -3,7 +3,7 @@
 title: Vacation is over/bug sprays
 date: 2006-08-21 15:30:24
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

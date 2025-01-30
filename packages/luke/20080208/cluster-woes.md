@@ -3,8 +3,8 @@
 title: cluster woes
 date: 2008-02-08 18:13:23
 tags:
-  - ", "personal
-  - ", "technical
+  -  personal
+  -  technical
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: A Taste of His Own Medicine
 date: 2005-06-28 20:20:37
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

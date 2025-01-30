@@ -3,8 +3,8 @@
 title: quote of the day
 date: 2007-10-15 15:25:46
 tags:
-  - ", "quotes
-  - ", "science
+  -  quotes
+  -  science
 layout: rut
 ---
 

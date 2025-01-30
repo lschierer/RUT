@@ -3,8 +3,8 @@
 title: Gaim and &quot;Open AIM&quot;
 date: 2006-03-08 16:29:02
 tags:
-  - ", "pidgin
-  - ", "technical
+  -  pidgin
+  -  technical
 layout: rut
 ---
 

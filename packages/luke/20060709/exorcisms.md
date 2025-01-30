@@ -3,7 +3,7 @@
 title: Exorcisms
 date: 2006-07-09 14:28:06
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

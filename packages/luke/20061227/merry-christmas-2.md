@@ -3,7 +3,7 @@
 title: Merry Christmas
 date: 2006-12-27 16:11:05
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: Ice cores and Other Climate Research
 date: 2006-04-18 19:30:25
 tags:
-  - ", "global-warming
+  -  global-warming
 layout: rut
 ---
 

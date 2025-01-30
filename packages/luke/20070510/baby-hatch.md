@@ -3,7 +3,7 @@
 title: Baby Hatch
 date: 2007-05-10 14:24:42
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

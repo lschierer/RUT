@@ -3,7 +3,7 @@
 title: Books for Birthday
 date: 2006-07-03 20:20:54
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

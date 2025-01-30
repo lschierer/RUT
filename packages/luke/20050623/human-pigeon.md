@@ -1,9 +1,9 @@
 ---
 
-title: &quot;human &gt;= pigeon&quot;
+title: human <= pigeon
 date: 2005-06-23 03:57:51
 tags:
-  - ", "society
+  -  society
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: Poison Ivy
 date: 2007-08-18 04:45:27
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

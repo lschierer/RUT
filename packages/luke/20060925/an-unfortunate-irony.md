@@ -3,8 +3,8 @@
 title: an unfortunate irony
 date: 2006-09-25 16:21:29
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

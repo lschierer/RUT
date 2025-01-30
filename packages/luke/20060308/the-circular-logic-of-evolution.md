@@ -3,7 +3,7 @@
 title: The circular logic of evolution
 date: 2006-03-08 16:12:45
 tags:
-  - ", "evolution
+  -  evolution
 layout: rut
 ---
 

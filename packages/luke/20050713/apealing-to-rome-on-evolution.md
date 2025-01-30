@@ -3,8 +3,8 @@
 title: Appealing to Rome on evolution
 date: 2005-07-13 14:47:16
 tags:
-  - ", "evolution
-  - ", "morality-religion
+  -  evolution
+  -  morality-religion
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: Ignoring the separation of Diocease and Parish
 date: 2005-08-30 18:46:19
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

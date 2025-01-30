@@ -3,8 +3,8 @@
 title: Pro-Death politicians want it both ways
 date: 2005-08-23 18:42:34
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

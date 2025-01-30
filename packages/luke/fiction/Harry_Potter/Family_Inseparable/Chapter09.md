@@ -1,7 +1,7 @@
 ---
 
 title: Chapter09
-date: Mon Jul 2 03:47:48 2018 -0400
+date: 
 layout: rut
 ---
 

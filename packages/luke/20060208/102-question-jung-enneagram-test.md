@@ -3,7 +3,7 @@
 title: 102 question Jung + Enneagram Test 
 date: 2006-02-08 22:23:28
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

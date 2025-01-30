@@ -3,7 +3,7 @@
 title: self-discrimination
 date: 2006-01-19 18:44:09
 tags:
-  - ", "society
+  -  society
 layout: rut
 ---
 

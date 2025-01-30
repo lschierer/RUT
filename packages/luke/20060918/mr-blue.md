@@ -3,7 +3,7 @@
 title: Mr. Blue
 date: 2006-09-18 21:23:11
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

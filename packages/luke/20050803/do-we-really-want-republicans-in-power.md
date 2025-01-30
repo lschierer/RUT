@@ -3,7 +3,7 @@
 title: Do we really want Republicans in power?
 date: 2005-08-03 20:49:24
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

@@ -3,8 +3,8 @@
 title: Mechanical Possession
 date: 2005-10-26 15:56:50
 tags:
-  - ", "science
-  - ", "society
+  -  science
+  -  society
 layout: rut
 ---
 

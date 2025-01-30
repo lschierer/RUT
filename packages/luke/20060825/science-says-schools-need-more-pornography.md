@@ -3,8 +3,8 @@
 title: Science says schools need more pornography
 date: 2006-08-25 13:54:01
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

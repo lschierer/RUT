@@ -3,7 +3,7 @@
 title: Middle Earth
 date: 2005-11-14 17:55:38
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

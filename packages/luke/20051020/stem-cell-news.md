@@ -3,7 +3,7 @@
 title: Stem Cell News
 date: 2005-10-20 18:29:00
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

@@ -1,8 +1,7 @@
 ---
 
 title: index
-date: updated="2005-01-27"]]
-2005-01-27
+date: Mon Aug 27 03:35:01 2012 -0400
 layout: rut
 ---
 

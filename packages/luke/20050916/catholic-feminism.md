@@ -3,7 +3,7 @@
 title: Catholic Feminism
 date: 2005-09-16 18:03:07
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

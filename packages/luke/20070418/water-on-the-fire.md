@@ -3,8 +3,8 @@
 title: Water on the fire
 date: 2007-04-18 19:23:52
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

@@ -3,8 +3,8 @@
 title: Scandal in the schools
 date: 2006-01-23 19:45:34
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

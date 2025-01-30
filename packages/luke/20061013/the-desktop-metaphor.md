@@ -3,9 +3,9 @@
 title: The Desktop Metaphor
 date: 2006-10-13 00:31:45
 tags:
-  - ", "pidgin
-  - ", "quotes
-  - ", "technical
+  -  pidgin
+  -  quotes
+  -  technical
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: Matter Waves?
 date: 2006-07-12 18:28:40
 tags:
-  - ", "science
+  -  science
 layout: rut
 ---
 

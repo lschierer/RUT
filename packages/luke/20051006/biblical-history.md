@@ -3,7 +3,7 @@
 title: Biblical history
 date: 2005-10-06 16:13:05
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

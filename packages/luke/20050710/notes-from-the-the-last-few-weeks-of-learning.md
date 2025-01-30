@@ -3,8 +3,8 @@
 title: Notes from the the last few weeks of learning
 date: 2005-07-10 02:27:25
 tags:
-  - ", "morality-religion
-  - ", "personal
+  -  morality-religion
+  -  personal
 layout: rut
 ---
 

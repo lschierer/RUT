@@ -3,7 +3,7 @@
 title: MmmBop
 date: 2005-09-21 13:55:31
 tags:
-  - ", "society
+  -  society
 layout: rut
 ---
 

@@ -3,8 +3,8 @@
 title: The Church and Darwin
 date: 2005-07-11 18:40:36
 tags:
-  - ", "evolution
-  - ", "morality-religion
+  -  evolution
+  -  morality-religion
 layout: rut
 ---
 

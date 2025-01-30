@@ -1,7 +1,6 @@
 ---
 
-title: The Sorcerer's Stone: Chapter 2
-date: Wed Jun 24 17:09:16 2020 -0400
+title: "The Sorcerer's Stone: Chapter 2"
 layout: rut
 ---
 

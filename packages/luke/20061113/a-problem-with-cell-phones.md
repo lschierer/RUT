@@ -3,7 +3,7 @@
 title: a problem with cell phones
 date: 2006-11-13 02:24:31
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

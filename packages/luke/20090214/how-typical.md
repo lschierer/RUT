@@ -3,8 +3,8 @@
 title: How typical
 date: 2009-02-14 14:51:33
 tags:
-  - ", "morality-religion
-  - ", "society
+  -  morality-religion
+  -  society
 layout: rut
 ---
 

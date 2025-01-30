@@ -1,7 +1,7 @@
 ---
 
 title: Forced Abortion
-date: Sat Nov 10 15:44:01 2012 -0500
+date: 
 tags:
   - politics-law
   - morality-religion

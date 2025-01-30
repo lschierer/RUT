@@ -3,9 +3,9 @@
 title: quote of the day
 date: 2007-11-27 19:08:41
 tags:
-  - ", "global-warming
-  - ", "morality-religion
-  - ", "quotes
+  -  global-warming
+  -  morality-religion
+  -  quotes
 layout: rut
 ---
 

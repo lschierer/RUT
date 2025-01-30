@@ -3,8 +3,8 @@
 title: unix utilities rock
 date: 2006-11-30 16:23:13
 tags:
-  - ", "personal
-  - ", "technical
+  -  personal
+  -  technical
 layout: rut
 ---
 

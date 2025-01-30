@@ -3,7 +3,7 @@
 title: Carbon Dioxide is like cigarettes?
 date: 2006-01-30 15:08:53
 tags:
-  - ", "global-warming
+  -  global-warming
 layout: rut
 ---
 

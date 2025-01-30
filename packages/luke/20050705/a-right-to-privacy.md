@@ -3,7 +3,7 @@
 title: A right to privacy
 date: 2005-07-05 18:46:18
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

@@ -3,8 +3,8 @@
 title: OpenAFS
 date: 2008-02-08 19:24:16
 tags:
-  - ", "personal
-  - ", "technical
+  -  personal
+  -  technical
 layout: rut
 ---
 

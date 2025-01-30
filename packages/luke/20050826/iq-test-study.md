@@ -3,7 +3,7 @@
 title: IQ test study
 date: 2005-08-26 14:52:42
 tags:
-  - ", "society
+  -  society
 layout: rut
 ---
 

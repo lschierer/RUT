@@ -3,8 +3,8 @@
 title: Mutt &amp; gevolution
 date: 2006-10-30 18:09:28
 tags:
-  - ", "pidgin
-  - ", "technical
+  -  pidgin
+  -  technical
 layout: rut
 ---
 

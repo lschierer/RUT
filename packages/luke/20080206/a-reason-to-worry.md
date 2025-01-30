@@ -3,7 +3,7 @@
 title: A reason to worry
 date: 2008-02-06 23:41:09
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: localizers
 date: 2007-06-08 15:54:30
 tags:
-  - ", "technical
+  -  technical
 layout: rut
 ---
 

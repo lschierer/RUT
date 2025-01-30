@@ -3,8 +3,8 @@
 title: Speaker Phones
 date: 2006-08-30 18:16:58
 tags:
-  - ", "personal
-  - ", "society
+  -  personal
+  -  society
 layout: rut
 ---
 

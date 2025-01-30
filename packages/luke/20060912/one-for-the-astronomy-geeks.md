@@ -3,7 +3,7 @@
 title: One for the Astronomy geeks
 date: 2006-09-12 15:02:29
 tags:
-  - ", "science
+  -  science
 layout: rut
 ---
 

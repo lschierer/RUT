@@ -3,7 +3,7 @@
 title: Natural forces offset global warming
 date: 2007-08-10 15:30:15
 tags:
-  - ", "global-warming
+  -  global-warming
 layout: rut
 ---
 

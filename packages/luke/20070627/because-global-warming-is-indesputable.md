@@ -3,7 +3,7 @@
 title: Because Global warming is indesputable
 date: 2007-06-27 18:26:42
 tags:
-  - ", "global-warming
+  -  global-warming
 layout: rut
 ---
 

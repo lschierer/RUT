@@ -3,8 +3,8 @@
 title: Catholic, or Arabia?
 date: 2006-05-09 20:30:48
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

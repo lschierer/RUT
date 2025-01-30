@@ -3,7 +3,7 @@
 title: My Pirate Name
 date: 2006-06-30 15:00:09
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

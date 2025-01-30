@@ -3,7 +3,7 @@
 title: A note for the CCD kids
 date: 2006-08-30 15:33:13
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

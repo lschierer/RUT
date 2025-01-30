@@ -3,7 +3,7 @@
 title: travel nightmares II
 date: 2006-08-10 16:48:13
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

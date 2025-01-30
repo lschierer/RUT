@@ -3,7 +3,7 @@
 title: The fight to preserve marriage in Spain
 date: 2005-09-07 18:33:23
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

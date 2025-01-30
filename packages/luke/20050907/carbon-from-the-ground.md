@@ -3,7 +3,7 @@
 title: Carbon from the ground
 date: 2005-09-07 20:44:40
 tags:
-  - ", "global-warming
+  -  global-warming
 layout: rut
 ---
 

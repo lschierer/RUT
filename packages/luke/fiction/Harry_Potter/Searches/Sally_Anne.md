@@ -1,7 +1,7 @@
 ---
 
 title: Sally Anne
-date: Mon Nov 15 14:22:06 2021 -0500
+date: 
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: The Human Appendix
 date: 2006-08-09 00:54:08
 tags:
-  - ", "evolution
+  -  evolution
 layout: rut
 ---
 

@@ -3,8 +3,8 @@
 title: another one bites the dust
 date: 2007-11-07 23:05:41
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

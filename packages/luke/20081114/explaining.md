@@ -3,9 +3,9 @@
 title: Explaining
 date: 2008-11-14 19:27:54
 tags:
-  - ", "global-warming
-  - ", "quotes
-  - ", "science
+  -  global-warming
+  -  quotes
+  -  science
 layout: rut
 ---
 

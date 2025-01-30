@@ -3,8 +3,8 @@
 title: PARTIAL BIRTH ABORTION BAN UPHELD!
 date: 2007-04-18 14:52:20
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

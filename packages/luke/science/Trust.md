@@ -3,8 +3,8 @@
 title: Trust the Science
 date: 2005-06-10 21:28:00
 tags:
-  - ", "global-warming
-  - ", "science
+  -  global-warming
+  -  science
 layout: rut
 ---
 

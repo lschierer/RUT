@@ -1,7 +1,7 @@
 ---
 
 title: Evidence from a Sweet Potato
-date: Wed Jan 23 21:01:04 2013 -0500
+date: 
 tags:
   - science
   - society

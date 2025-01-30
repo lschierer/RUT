@@ -3,8 +3,8 @@
 title: the deplorable state of China
 date: 2005-09-14 19:17:51
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

@@ -3,8 +3,8 @@
 title: Pro-life versus the public school system
 date: 2006-01-13 16:13:56
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

@@ -3,9 +3,9 @@
 title: For My Reference
 date: 2006-09-25 19:06:56
 tags:
-  - ", "evolution
-  - ", "morality-religion
-  - ", "politics-law
+  -  evolution
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

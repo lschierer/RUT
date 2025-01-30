@@ -3,7 +3,7 @@
 title: An *Ocean* of water
 date: 2007-03-01 14:38:59
 tags:
-  - ", "plate-tectonics
+  -  plate-tectonics
 layout: rut
 ---
 

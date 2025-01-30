@@ -3,7 +3,7 @@
 title: more hobbits
 date: 2005-09-22 18:37:33
 tags:
-  - ", "evolution
+  -  evolution
 layout: rut
 ---
 

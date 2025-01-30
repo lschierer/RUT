@@ -3,7 +3,7 @@
 title: Old (SF) tracker items
 date: 2007-04-26 22:27:25
 tags:
-  - ", "pidgin
+  -  pidgin
 layout: rut
 ---
 

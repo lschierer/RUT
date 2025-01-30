@@ -3,7 +3,7 @@
 title: Refuting socialism in light of Katrina
 date: 2005-09-02 16:20:05
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

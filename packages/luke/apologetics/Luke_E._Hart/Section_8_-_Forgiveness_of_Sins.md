@@ -1,7 +1,6 @@
 ---
 
-title: title="Section 8: The Forgiveness of Sins Key Points" ]]
-date: Sun Jan 1 14:45:24 2023 -0500
+title: "Section 8: The Forgiveness of Sins Key Points" 
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: missadventures in unix
 date: 2005-09-19 18:52:08
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

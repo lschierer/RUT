@@ -3,7 +3,7 @@
 title: Catholicism and the Supreme Court
 date: 2005-11-02 15:54:43
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

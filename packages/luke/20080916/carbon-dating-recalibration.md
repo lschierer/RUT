@@ -3,7 +3,7 @@
 title: Carbon Dating recalibration
 date: 2008-09-16 12:27:48
 tags:
-  - ", "science
+  -  science
 layout: rut
 ---
 

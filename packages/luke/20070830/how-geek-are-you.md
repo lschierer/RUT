@@ -3,7 +3,7 @@
 title: How Geek Are You?
 date: 2007-08-30 16:59:52
 tags:
-  - ", "quizes
+  -  quizes
 layout: rut
 ---
 

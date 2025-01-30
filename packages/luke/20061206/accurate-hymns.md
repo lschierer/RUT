@@ -3,7 +3,7 @@
 title: Accurate Hymns
 date: 2006-12-06 17:51:00
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

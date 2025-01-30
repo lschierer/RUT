@@ -1,7 +1,7 @@
 ---
 
 title: index
-date: Fri Aug 23 14:55:36 2019 -0400
+date: 
 layout: rut
 ---
 

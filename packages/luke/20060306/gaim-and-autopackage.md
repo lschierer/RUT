@@ -3,8 +3,8 @@
 title: gaim and autopackage
 date: 2006-03-06 19:33:58
 tags:
-  - ", "pidgin
-  - ", "technical
+  -  pidgin
+  -  technical
 layout: rut
 ---
 

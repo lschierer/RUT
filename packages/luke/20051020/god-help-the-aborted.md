@@ -3,7 +3,7 @@
 title: God help the aborted
 date: 2005-10-20 19:14:45
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

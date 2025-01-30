@@ -1,7 +1,7 @@
 ---
 
 title: The Shroud of Turin
-date: Wed Jun 9 22:41:42 2021 -0400
+date: 
 tags:
   - history
   - science

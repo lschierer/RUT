@@ -3,7 +3,7 @@
 title: The problem with Vice Presidents
 date: 2007-11-08 15:44:19
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

@@ -3,8 +3,8 @@
 title: A Brave New World
 date: 2005-06-20 19:25:30
 tags:
-  - ", "morality-religion
-  - ", "science
+  -  morality-religion
+  -  science
 layout: rut
 ---
 

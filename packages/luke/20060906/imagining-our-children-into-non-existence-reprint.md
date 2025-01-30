@@ -3,8 +3,8 @@
 title: &quot;Imagining Our Children into Non-Existence&quot; Reprint
 date: 2006-09-06 14:40:52
 tags:
-  - ", "morality-religion
-  - ", "science
+  -  morality-religion
+  -  science
 layout: rut
 ---
 

@@ -3,7 +3,7 @@
 title: Australian women in combat
 date: 2005-08-22 18:54:06
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

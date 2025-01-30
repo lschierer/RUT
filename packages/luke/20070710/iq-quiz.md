@@ -3,7 +3,7 @@
 title: IQ quiz
 date: 2007-07-10 17:24:24
 tags:
-  - ", "quizes
+  -  quizes
 layout: rut
 ---
 

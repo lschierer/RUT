@@ -3,7 +3,7 @@
 title: Pictures all up
 date: 2008-03-17 18:54:03
 tags:
-  - ", "personal
+  -  personal
 layout: rut
 ---
 

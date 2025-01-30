@@ -3,7 +3,7 @@
 title: Some hope afterall?
 date: 2005-10-05 20:19:29
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

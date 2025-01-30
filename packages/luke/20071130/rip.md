@@ -3,8 +3,8 @@
 title: RIP
 date: 2007-11-30 19:35:39
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

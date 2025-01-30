@@ -3,7 +3,7 @@
 title: The family in society
 date: 2005-10-12 13:38:46
 tags:
-  - ", "morality-religion
+  -  morality-religion
 layout: rut
 ---
 

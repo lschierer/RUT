@@ -3,7 +3,7 @@
 title: You might be greedy when &#x2026;
 date: 2006-09-12 15:13:48
 tags:
-  - ", "society
+  -  society
 layout: rut
 ---
 

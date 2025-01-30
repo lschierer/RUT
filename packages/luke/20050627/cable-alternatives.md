@@ -3,7 +3,7 @@
 title: Cable alternatives
 date: 2005-06-27 15:55:43
 tags:
-  - ", "politics-law
+  -  politics-law
 layout: rut
 ---
 

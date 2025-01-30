@@ -3,7 +3,7 @@
 title: Teach Science Our way or not at all
 date: 2005-10-31 18:13:51
 tags:
-  - ", "evolution
+  -  evolution
 layout: rut
 ---
 

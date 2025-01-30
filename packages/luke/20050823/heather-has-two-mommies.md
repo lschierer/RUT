@@ -3,8 +3,8 @@
 title: Heather has two Mommies
 date: 2005-08-23 14:39:41
 tags:
-  - ", "morality-religion
-  - ", "politics-law
+  -  morality-religion
+  -  politics-law
 layout: rut
 ---
 

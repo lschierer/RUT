@@ -17,22 +17,25 @@ do
 
     # Get the title, date, and tags in the new formats
     title=$(grep '\[\[\!meta' $mdwn | grep title | tr -s '[:blank:]' | cut -d ' ' -f 2- | gsed -e 's/title="\(.*\)"\]\]/\1/;');
-    date=$(grep '\[\[\!meta' $mdwn | grep date | tr -s '[:blank:]' | cut -d ' ' -f 2- | gsed -e 's/date="\(.*\)"\]\]/\1/;')
-    tags=$(grep '\[\[\!tag' $mdwn | gsed -e 's/\[\[!tag \(.*\)\]\]/\1/; s/ /", "/g; s/^/  - /; ')
+    tags=$(grep '\[\[\!tag' $mdwn | gsed -e 's/\[\[!tag \(.*\)\]\]/\1/; s/\(\S+\) /"\1, "/g; /uncategorized/d; s/^/  - /; ')
 
     if [[ -z "$title" ]]; then
       title=$(echo $base | tr '_' ' ')
     fi
 
+    date=$(grep '\[\[\!meta' $mdwn | grep update | tr -s '[:blank:]' | cut -d ' ' -f 2- | gsed -e 's/date="\(.*\)"\]\]/\1/;')
+
+    if [[ -z "$date" ]]; then
+      date=$(grep '\[\[\!meta' $mdwn | grep date | tr -s '[:blank:]' | cut -d ' ' -f 2- | gsed -e 's/date="\(.*\)"\]\]/\1/;')
+    else
+      date=$( git log --diff-filter=A --follow --format=%cd -- $mdwn | tail -1 )
+    fi
+
     # Insert the new tags into the new .md files
     echo -e "---\n" > $thisdir/$md
     echo -e "title: $title" >> $thisdir/$md
-    if [[ ! -z "$date" ]]; then
-      echo -e "date: $date" >> $thisdir/$md
-    else
-      date=$( git log --diff-filter=A --follow --format=%cd -- $mdwn | tail -1 )
-      echo -e "date: $date" >> $thisdir/$md
-    fi
+    echo -e "date: $date" >> $thisdir/$md
+
     if [[ ! -z $tags ]]; then
       echo -e "tags:" >> $thisdir/$md
       echo -e "$tags" >> $thisdir/$md

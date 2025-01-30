@@ -1,7 +1,7 @@
 ---
 
 title: Quote of the Day
-date: Mon Feb 4 20:46:26 2013 -0500
+date: 
 tags:
   - politics-law
   - morality-religion

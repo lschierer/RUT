@@ -3,7 +3,7 @@
 title: A Scary world
 date: 2008-02-07 16:31:55
 tags:
-  - ", "society
+  -  society
 layout: rut
 ---
 
