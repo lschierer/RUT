@@ -21,7 +21,10 @@ while read -r log; do
   echo -n "\"date\": " >> $OUTPATH
   git log --format=%at -n 1 $log  | gsed -E -e 's/(.*)/"\1",/' >> $OUTPATH
   echo "\"files\": [" >> $OUTPATH
-  git show  --pretty=reference --color=never --stat=1000  $log | tail -n +3 | ghead -n -1 | cut -d '|' -f 1 | cut -d ' ' -f 2 | gsed -E -e 's/^(.*)$/"\1",/' >> $OUTPATH
+  git show  --no-renames --pretty=reference --color=never --stat=1000 $log | \
+    tail -n +3 | ghead -n -1 | cut -d '|' -f 1 | tr -s [:blank:] | \
+    egrep ".md(wn)?( )?$" | grep -v "index.md" | \
+    gsed -E -e 's/^(.*)$/"\1",/' >> $OUTPATH
   echo "]," >> $OUTPATH
   echo "}," >> $OUTPATH
 done

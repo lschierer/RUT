@@ -67,6 +67,7 @@ do
         -e "/^\[\[!meta\s+HTML_LANG_CODE.*$/d" \
         -e "/^\[\[!tag.*$/d" \
         -e s'/\[\[\!img\s+(\S*) .* alt=(".*")]]/![\2](\1)/g' \
+        -e 's/^\[\[(.*)\|(.*)\]\]$/[\1](\2)/'
         $mdwn \
       >> $thisdir/$md
 done
