@@ -20,3 +20,11 @@ clean:
 [working-directory: 'packages/luke']
 history:
   ./bin/history.sh
+
+linkcheck:
+  pnpm exec blc -e -f -r http://localhost:1943
+
+check:
+  #!/usr/bin/env -S parallel --shebang --ungroup --jobs 2
+  just dev && echo dev task done
+  sleep 10 && just linkcheck
