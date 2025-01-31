@@ -53,7 +53,7 @@ probably do much to reform the relationships between the houses.
       _[Dumbledore's Folly](https://www.fanfiction.net/s/13948448)_
       Published: 2021-08-31. Updated: 2021-10-31. Last Viewed: 2021-11-03.
 
-[^211028-2]: See my [[timeline notes|Notes/History]]
+[^211028-2]: See my [timeline notes](Notes/History)
 
 [^211028-3]: [Harry Potter Wiki](https://harrypotter.fandom.com/wiki)
     "[Minerva McGonagall](https://harrypotter.fandom.com/wiki/Minerva_McGonagall)"
