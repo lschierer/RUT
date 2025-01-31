@@ -1,7 +1,7 @@
 ---
 
 title: "Changes to Hogwarts After the War"
-date: Thu Oct 28 13:48:42 2021 -0400
+date: 2021-10-28 13:48:42 -0400
 layout: rut
 ---
 

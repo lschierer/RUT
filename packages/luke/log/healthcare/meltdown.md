@@ -1,7 +1,7 @@
 ---
 
 title: "Healthcare Meltdown"
-date: Thu Sep 20 20:49:26 2012 -0400
+date: 2012-09-20 20:49:26 -0400
 tags:
   - politics-law
   - society

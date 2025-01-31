@@ -1,7 +1,7 @@
 ---
 
 title: "obamacare"
-date: Fri Sep 21 16:50:57 2012 -0400
+date: 2012-09-21 16:50:57 -0400
 layout: rut
 ---
 

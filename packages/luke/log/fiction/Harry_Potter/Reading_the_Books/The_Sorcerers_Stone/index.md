@@ -1,7 +1,7 @@
 ---
 
 title: "Harry Potter and the Request for Help: Book 1"
-date: Wed Jun 17 14:48:46 2020 -0400
+date: 2020-06-17 14:48:46 -0400
 layout: rut
 ---
 

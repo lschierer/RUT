@@ -1,7 +1,7 @@
 ---
 
 title: "Usury"
-date: Wed Jan 2 12:12:52 2013 -0500
+date: 2013-01-02 12:12:52 -0500
 tags:
   - politics-law 
   - society 

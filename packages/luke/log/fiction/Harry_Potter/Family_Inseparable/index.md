@@ -1,7 +1,7 @@
 ---
 
 title: "Family_Inseparable"
-date: Fri Aug 23 14:55:40 2019 -0400
+date: 2019-08-23 14:55:40 -0400
 layout: rut
 ---
 

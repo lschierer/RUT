@@ -1,7 +1,7 @@
 ---
 
 title: "Harry Potter and the Request for Help: Works Cited"
-date: Wed Jun 17 14:45:24 2020 -0400
+date: 2020-06-17 14:45:24 -0400
 layout: rut
 ---
 

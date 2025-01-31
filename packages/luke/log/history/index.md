@@ -1,7 +1,7 @@
 ---
 
 title: "history"
-date: Wed Jan 23 21:02:08 2013 -0500
+date: 2013-01-23 21:02:08 -0500
 layout: rut
 ---
 

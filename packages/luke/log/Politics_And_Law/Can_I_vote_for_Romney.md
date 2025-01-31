@@ -1,7 +1,7 @@
 ---
 
 title: "Can I vote for Romney"
-date: Wed Aug 29 22:31:54 2012 -0400
+date: 2012-08-29 22:31:54 -0400
 tags:
   - morality-religion
   - politics-law

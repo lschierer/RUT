@@ -1,7 +1,7 @@
 ---
 
 title: "Section 9: The Resurrection of the Body Key Points"
-date: Sun Jan 1 15:51:08 2023 -0500
+date: 2023-01-01 15:51:08 -0500
 layout: rut
 ---
 

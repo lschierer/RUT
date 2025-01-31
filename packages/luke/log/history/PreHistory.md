@@ -1,7 +1,7 @@
 ---
 
 title: "Pre-Historic 'History'"
-date: Wed Oct 27 13:36:36 2021 -0400
+date: 2021-10-27 13:36:36 -0400
 tags:
   - history
 layout: rut

@@ -1,7 +1,7 @@
 ---
 
 title: "Dealing With Climate Change"
-date: Fri Jul 24 13:35:36 2020 -0400
+date: 2020-07-24 13:35:36 -0400
 tags:
   - global-warming
   - science

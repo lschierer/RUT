@@ -1,7 +1,7 @@
 ---
 
 title: "Articles about the necessity of fathers"
-date: Sun Nov 18 16:32:46 2012 -0500
+date: 2012-11-18 16:32:46 -0500
 tags:
   - society
 layout: rut

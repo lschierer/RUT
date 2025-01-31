@@ -1,7 +1,7 @@
 ---
 
 title: "Voting to Minimize Harm in 2016"
-date: Tue Nov 8 07:57:46 2016 -0500
+date: 2016-11-08 07:57:46 -0500
 layout: rut
 ---
 

@@ -1,7 +1,7 @@
 ---
 
 title: "Distribution of Prime Numbers"
-date: Tue Oct 6 22:25:22 2020 -0400
+date: 2020-10-06 22:25:22 -0400
 tags:
   - mathematics
 layout: rut
