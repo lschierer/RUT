@@ -14,3 +14,4 @@ to get a local development version of the project.
 * the bsd version of the head command on OSX also differs from the GNU version, so again I use the GNU ```ghead```  and ```gtail``` commands.
 * mise cannnot install jq for you.
 * mise cannot install GNU parallel for you.  This is needed for the check tasks.
+* mise cannot install linkchecker.  this is also needed for the check tasks.

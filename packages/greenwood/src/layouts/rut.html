@@ -4,11 +4,7 @@
     <meta charset="utf-8" />
     <title>${globalThis.page.title ?? Random Unfinished Thoughts}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link
-      rel="icon"
-      href="&lt;TMPL_VAR BASEURL&gt;&lt;TMPL_VAR FAVICON&gt;"
-      type="image/x-icon"
-    />
+
     <link rel="stylesheet" href="../styles/global.css" type="text/css" />
     <link rel="stylesheet" href="../styles/luke.css" type="text/css" />
     <script
@@ -33,6 +29,12 @@
       gtag("js", new Date());
       gtag("config", "G-Y3WJYW9RQ1");
     </script>
+    <script src="/components/SideBar.ts" type="module"></script>
+    <script
+      src="/components/LastEdit.ts"
+      type="module"
+      data-gwd-opt="static"
+    ></script>
   </head>
   <body>
     <header class="header">
@@ -48,7 +50,7 @@
       <aside class="sidebar">
         <nav>
           <actions-component></actions-component>
-          <sidebar-component></sidebar-component>
+          <side-bar></side-bar>
         </nav>
       </aside>
       <article class="page">
@@ -64,8 +66,7 @@
           <span>Links: </span><backlinks-component></backlinks-component>
         </div>
         <div class="pagedate">
-          Last edited:
-          <!-- Created <TMPL_VAR CTIME> -->
+          <last-edit>${globalThis.page.data.date}</last-edit>
         </div>
         <div class="pagecopyright">
           <a id="pagecopyright"></a>

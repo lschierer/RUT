@@ -45,6 +45,8 @@ export const Page = z.object({
   title: z.string().optional(),
   data: z
     .object({
+      tags: z.array(z.string()).optional(),
+      date: z.date().optional(),
       sidebar: z
         .object({
           order: z.number().optional(),

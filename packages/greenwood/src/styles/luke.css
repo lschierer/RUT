@@ -25,6 +25,20 @@ main {
   margin-top: 8px;
   min-height: 60vh;
   flex: 3 1 auto;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+aside.sidebar {
+  font-size: small;
+  flex: 0 1 auto;
+  max-width: 20vw;
+  text-wrap: pretty;
+}
+
+article.page {
+  flex: 1 5 80vw;
+  min-width: 50vw;
 }
 
 footer {
