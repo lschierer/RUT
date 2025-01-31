@@ -67,3 +67,35 @@ cite {
   margin: 15px 2px 0 5px;
   padding: 0 0px 5px 0px;
 }
+
+body {
+  background: #3c454b no-repeat top left;
+  color: #3399ff;
+  font:
+    0.9em/1.3em Verdana,
+    Georgia,
+    Times,
+    Times New Roman,
+    sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family:
+    arial,
+    verdana,
+    Lucida Sans Unicode,
+    lucida,
+    sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+hr {
+  border-top: #ffffff 1px solid;
+}
