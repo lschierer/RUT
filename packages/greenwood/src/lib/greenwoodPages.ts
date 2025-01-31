@@ -133,13 +133,13 @@ const sortbyfrontmatter = (a: Page, b: Page) => {
 };
 
 const sortbyTitle = (a: Page, b: Page) => {
-  if (a.title !== undefined) {
-    if (b.title !== undefined) {
+  if (a.title !== undefined && a.title !== null) {
+    if (b.title !== undefined && b.title !== null) {
       return a.title.toLowerCase().localeCompare(b.title.toLowerCase());
     }
     return a.title.toLowerCase().localeCompare(b.label.toLowerCase());
   }
-  if (b.title !== undefined) {
+  if (b.title !== undefined && b.title !== null) {
     return a.label.toLowerCase().localeCompare(b.title.toLowerCase());
   }
   return 0;

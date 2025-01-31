@@ -2,42 +2,40 @@ import {
   type Compilation,
   type Route,
   Page,
-  sortPages,
 } from "../../../lib/greenwoodPages.ts";
 
-import { getContent } from "@greenwood/cli/src/data/client.js";
-
-export default class MyPage extends HTMLElement {
-  private pages: Page[] = new Array<Page>();
-
-  constructor() {
-    super();
-  }
-
-  async connectedCallback() {
-    this.pages = (await getContent())
-      .filter((page: Page) => {
-        if (
-          page.route.startsWith("/luke/log/blog/") ||
-          page.route.startsWith("/luke/log/sidebar") ||
-          page.route.startsWith("/luke/log/archives")
-        ) {
-          return false;
-        }
-        if (!page.route.startsWith("/luke/log/")) {
-          return false;
-        }
-        if (!page.route.localeCompare("/luke/log/")) {
-          return false;
-        }
-        return true;
-      })
-      .sort((a, b) => sortPages(a, b));
-    this.innerHTML = `
+async function getBody(compilation: Compilation, route: Route) {
+  const pages = compilation.graph
+    .filter((page: Page) => {
+      console.log(`page.route is ${page.route}`);
+      if (
+        page.route.startsWith("/luke/log/blog/") ||
+        page.route.startsWith("/luke/log/sidebar") ||
+        page.route.startsWith("/luke/log/archives")
+      ) {
+        return false;
+      }
+      if (!page.route.localeCompare("/luke/log/")) {
+        return false;
+      }
+      if (!page.route.localeCompare(route.route)) {
+        return false;
+      }
+      if (!page.route.startsWith("/luke/log/")) {
+        return false;
+      }
+      return true;
+    })
+    .sort((a, b) => {
+      const at = a.title ? a.title : a.label;
+      const bt = b.title ? b.title : b.label;
+      return at.toLowerCase().localeCompare(bt.toLowerCase());
+    });
+  return `
       <div>
         Here is a full list of posts and pages.
         <ul>
-          ${this.pages
+          ${pages
             .map((p) => {
               return `
               <li>
@@ -49,7 +47,6 @@ export default class MyPage extends HTMLElement {
         </ul>
       </div>
     `;
-  }
 }
 
 async function getFrontmatter(
@@ -75,4 +72,4 @@ async function getFrontmatter(
   };
 }
 
-export { getFrontmatter };
+export { getFrontmatter, getBody };
