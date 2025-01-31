@@ -68,6 +68,6 @@ Some authors ofsfanfiction have focused in on Dumbledore's talk of "the greater 
 #### The Wards around Privet Drive
 
 I moved this content to my more generic pages on the
-[[magic|Harry_Potter/Notes/Magic]] and [[culture|Harry_Potter/Notes/Culture]] of
+[[magic|Harry_Potter/Notes/Magic]] and [culture](Harry_Potter/Notes/Culture) of
 the Harry Potter world that this is based on.
 

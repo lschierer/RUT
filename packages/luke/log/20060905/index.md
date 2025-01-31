@@ -5,5 +5,4 @@ date: 2006-09-05
 layout: rut
 ---
 
-[[!meta updated="2006-09-05"]]
 [[!map pages="20060905/* and ! 20060905/*/*"]]

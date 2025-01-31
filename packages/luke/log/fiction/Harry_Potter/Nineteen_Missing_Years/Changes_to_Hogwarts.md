@@ -6,7 +6,7 @@ layout: rut
 ---
 
 
-As best I can tell, [[Dumbledore|Notes/adults/Dumbledore]] was Headmaster of
+As best I can tell, [Dumbledore](Notes/adults/Dumbledore) was Headmaster of
 [[Hogwarts|Notes/Hogwarts]] for somewhat over forty years.[^211028-2]  We are
 unsure how long he was Deputy Headmaster before that, and in what state he
 "inherited" control of the school.  Irregardless, the consensus is that changes

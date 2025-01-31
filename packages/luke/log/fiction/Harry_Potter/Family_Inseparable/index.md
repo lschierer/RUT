@@ -15,7 +15,7 @@ The first nine chapters of this are copied, with permission, from Musings of Apa
 
 [[!inline pages="page(./Family_Inseparable/*) and ! ./Family_Inseparable/Notes" archive="yes" actions="no" trail="yes" rss="no" atom="no" template="titlepage" ]]
 
-[[!traillink Notes|Family_Inseparable/Notes]]
+[!traillink Notes](Family_Inseparable/Notes)
 
 
 [^20180701-2]: <https://musings-of-apathy.fanficauthors.net/>

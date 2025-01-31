@@ -10,7 +10,7 @@ In looking at these missing nineteen years, it is important to remember that
 Mrs. Rowling wanted her books to age some with the readers, and said that it was
 important to show them falling in love,[^211101-1] she really focused very
 little on developing most of her characters.[^211101-2]  Thus we really know
-very little about [[Ginny|Harry_Potter/Notes/Ginny]] - what kind of person she
+very little about [Ginny](Harry_Potter/Notes/Ginny) - what kind of person she
 is, her hopes, dreams, and, most importantly, how she relates to
 [[Harry|Harry_Potter/Notes/Harry]].  
 

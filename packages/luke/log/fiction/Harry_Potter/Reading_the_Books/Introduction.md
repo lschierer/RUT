@@ -50,7 +50,7 @@ that I've read.  Just as they have shamelessly created fanfiction from the
 original work, this is in a sense a fanfiction both of the Harry Potter series,
 but also of the "Reading the Books" attempts that come before me.  I am not
 going to be successful at crediting each idea I might use as I use it, but I am
-going to keep [[a listing|Other_Works]] of works that have inspired this one.
+going to keep [a listing](Other_Works) of works that have inspired this one.
 
 Perhaps the biggest question is where to start this endevour, part of me wants
 to start it after Harry finds out about the way that the girls in Ravenclaw hide

@@ -63,11 +63,13 @@ do
     # Also rewrite images while we're at it.
     gsed -E -e "/^\[\[!meta\s+title.*$/d" \
         -e "/^\[\[!meta\s+date.*$/d" \
+        -e "/^\[\[!meta\s+updated.*$/d" \
         -e "/^\[\[!meta guid.*$/d" \
         -e "/^\[\[!meta\s+HTML_LANG_CODE.*$/d" \
         -e "/^\[\[!tag.*$/d" \
         -e s'/\[\[\!img\s+(\S*) .* alt=(".*")]]/![\2](\1)/g' \
         -e 's/^\[\[(.*)\|(.*)\]\]$/[\1](\2)/' \
+        -e 's/(\s)+\[\[(.*)\|(.*)\]\](\s)+/\1[\2](\3)\4/' \
         $mdwn \
       >> $thisdir/$md
 done
