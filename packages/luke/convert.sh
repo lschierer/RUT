@@ -1,6 +1,6 @@
 #!/bin/bash -x
 
-find log -d -iname '*.mdwn' | sort | while read -r mdwn;
+find log -depth -iname '*.mdwn' | sort | while read -r mdwn;
 do
   if [ $mdwn == "log/index.mdwn" ]; then
     continue;

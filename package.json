@@ -13,7 +13,6 @@
     "email": "luke@schierer.org"
   },
   "license": "ISC",
-  "packageManager": "pnpm@9.14.4",
   "devDependencies": {
     "@commitlint/cli": "^19.6.1",
     "@commitlint/config-conventional": "^19.6.0",
