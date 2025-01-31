@@ -9,4 +9,4 @@ imports:
 
 <recent-changes></recent-changes>
 
-[[All Posts and Pages|posts]]
+[All Posts and Pages](./posts/)
