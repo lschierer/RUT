@@ -1,7 +1,6 @@
 ---
 
 title: Random Unfinished Thoughts
-date:
 layout: rut
 imports:
   - /components/RecentChanges.ts type="module"

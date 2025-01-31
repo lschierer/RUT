@@ -44,7 +44,7 @@ do
       )
     fi
     if [[ -z "$date" ]]; then
-      date=$( git log --diff-filter=A --follow --format=%cd -- $mdwn | tail -1 )
+      date=$( git log --diff-filter=A --follow --format=%cd --date=iso8601 -- $mdwn | tail -1 )
     fi
 
     # Insert the new tags into the new .md files
