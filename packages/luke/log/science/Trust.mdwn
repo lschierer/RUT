@@ -1,5 +1,6 @@
 [[!meta  title="Trust the Science"]]
 [[!meta  date="2005-06-10 21:28:00"]]
+[[!meta author="Luke Schierer"]]
 In the news today is something that really ought not to surprise,
 but yet qualifies as "news."  Apparently scientists, human as we
 all are, have been fudging their results.[1] Sometimes to fit their
