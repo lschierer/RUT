@@ -12,6 +12,10 @@ to get a local development version of the project.
 
 * This project assumes that you have the GNU version of sed, in your path, as 'gsed'.  This is typical on Mac OSX systems, and probably nowhere else, but trivial to achieve with aliases on any unix where this is not true.
 * the bsd version of the head command on OSX also differs from the GNU version, so again I use the GNU ```ghead```  and ```gtail``` commands.
-* mise cannnot install jq for you.
-* mise cannot install GNU parallel for you.  This is needed for the check tasks.
-* mise cannot install linkchecker.  this is also needed for the check tasks.
+* mise cannnot install [jq] for you.
+* mise cannot install [GNU parallel] for you.  This is needed for the check tasks.
+
+
+[linkchecker]: https://linkchecker.github.io/linkchecker/
+[GNU parallel]: https://www.gnu.org/software/parallel/
+[jq]: https://jqlang.github.io/jq/
