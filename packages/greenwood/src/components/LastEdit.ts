@@ -4,7 +4,11 @@ export default class LastEdit extends HTMLElement {
   connectedCallback() {
     if (this.innerText.length > 0) {
       if (this.innerText.localeCompare("${globalThis.page.data.date}")) {
-        this._date = this.innerText.slice(1, -1);
+        if (this.innerText[0] == '"') {
+          this._date = this.innerText.slice(1, -1);
+        } else {
+          this._date = this.innerText;
+        }
         console.log(`date now ${this._date}`);
       }
     }

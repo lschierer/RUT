@@ -1,9 +1,14 @@
 #!/bin/bash -x
 
 deps=$(cat <<-EOF
-Git::Repository
+Array::Merge::Unique
+Git::Wrapper
+List::AllUtils
 Object::Pad
 Path::Tiny
+Try::Tiny
+Unicode::UTF8
+HTML::FormatMarkdown
 EOF
 )
 
