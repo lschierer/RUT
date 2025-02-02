@@ -1,6 +1,6 @@
 use v5.40.0;
 use utf8;
-use Carp;
+
 
 use Object::Pad;
 
@@ -17,12 +17,17 @@ class App::History {
   use Git::Wrapper;
   use Try::Tiny;
   use Cwd;
+  use Carp;
 
   field $input_dir :accessor :param //= './input';
 
-  field $output_dir :accessor :param //= './output';
+  field $greenwoodRoot :accessor :param //= './greenwood';
 
-  field $tag_dir :accessor :param //= './tagdir';
+  field $output_dir :accessor = path($greenwoodRoot)->child('src')->child('pages')->child('luke')->child('log');
+
+  field $tag_dir :accessor = path($greenwoodRoot)->child('src')->child('lib');
+
+  field $assets :accessor = path($greenwoodRoot)->child('src')->child('assets');
 
   field $globalTags :accessor = [];
 
@@ -34,6 +39,19 @@ class App::History {
     if (! -d -r -x $input_dir ) {
       croak("input_dir '$input_dir' has incompatible permissions or is not a directory.");
     }
+
+    $input_dir = path($input_dir);
+    if (! -d -r -x $greenwoodRoot ) {
+      croak("greenwoodRoot '$greenwoodRoot' has incompatible permissions or is not a directory.");
+    }
+
+    if(!rindex $greenwoodRoot, "./", 0 and !rindex $greenwoodRoot, "../", 0) {
+      croak("greenwoodRoot '$greenwoodRoot' is not a valid value, must start with ./ or ../");
+    }
+
+    $greenwoodRoot = path($greenwoodRoot)->absolute();
+
+
 
     if(!rindex $output_dir, "./", 0 and !rindex $output_dir, "../", 0) {
       croak("output_dir '$output_dir' is not a valid value, must start with ./ or ../");
@@ -55,19 +73,16 @@ class App::History {
   method convert {
 
     my $git = Git::Wrapper->new('.');
-    my $input = path($input_dir);
-    #my $input = path("./log/science/");
-    my $output = path($output_dir);
     my %tagHash = ();
 
-    say "converting files in $input";
-    my $result = $input->visit(
+    say "converting files in $input_dir";
+    my $result = $input_dir->visit(
       sub {
         my ($path, $state) = @_;
         if( $path->is_file && "$path" =~ /\.mdwn$/ && -r $path) {
           print("\r\n\r\n\r\n");
           say "current path is $path";
-          my $newPath = join('/', $output, $path->relative($input));
+          my $newPath = join('/', $output_dir, $path->relative($input_dir));
           $newPath =~ s/\.mdwn$/.md/;
           $newPath = path($newPath);
           say "new path is $newPath";
@@ -81,6 +96,7 @@ class App::History {
           my $author = "";
           my $date = "";
           my @tags = ();
+          my %imports = ();
 
           my @meta = ();
           foreach my $datum (@data) {
@@ -120,6 +136,26 @@ class App::History {
             if($loopindex) {
               $datum = "";
             }
+
+            while ($datum =~ /\[\[!img\h+?(\S+?)\h+?alt="(.+?)"\h*?\]\]/g ) {
+              my $img = $1;
+              my $ifn = $2;
+              say("found image $1 $2");
+              $imports{$1} = $2;
+              my $parent = $path->parent();
+              my $imagePath = $assets->child("$parent")->relative($greenwoodRoot->child('src'));
+              $imagePath->touchpath();
+              $parent->child($1)->copy("$greenwoodRoot/src/$imagePath");
+              $datum =~ s/\[\[!img\h+?(\S+?)\h+?alt="(.+?)"\h*?\]\]/![$2](\/$imagePath\/$1)/;
+            }
+
+
+            #ikiwiki links to markdown links
+            $datum =~ s/\[\[(.+?)\|(\S+)\]\]/[$1]($2)/gm;
+            #ikiwiki does a lot of "I will find the page for you."
+            #I am not sure there *is* a reasonable match for raw wiki links with no path.
+            $datum =~ s/\[\[(\S+?)\]\]/[$1](.\/$1\/)/gm;
+
           }
 
           say( "meta is ");
@@ -162,22 +198,6 @@ class App::History {
 
           push(@frontmatter, "layout: rut");
           push(@frontmatter, '---');
-
-          foreach my $datum (@data) {
-
-            #a meta tag I don't actually care about
-            $datum =~ s/\[\[!meta\h+guid(.*?)\h*?\]\]//gm;
-
-            #fix images
-            $datum =~s/\[\[\!img\s+?(\S*?)\h+?alt="(.*?)"]]/![$2]($1)/g;
-
-            #ikiwiki links to markdown links
-            $datum =~ s/\[\[(.+?)\|(\S+)\]\]/[$1]($2)/gm;
-            #ikiwiki does a lot of "I will find the page for you."
-            #I am not sure there *is* a reasonable match for raw wiki links with no path.
-            $datum =~ s/\[\[(\S+?)\]\]/[$1](.\/$1\/)/gm;
-
-          }
 
 
           my $parent = $newPath->parent();

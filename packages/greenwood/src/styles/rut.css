@@ -99,3 +99,9 @@ h4 {
 hr {
   border-top: #ffffff 1px solid;
 }
+
+p img {
+  max-width: 90%;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
