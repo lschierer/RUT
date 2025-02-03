@@ -11,6 +11,7 @@ use Getopt::Long qw(
 
 use lib 'lib';
 use App::History;
+use App::Compile;
 
 my $greenwoodRoot = '../greenwood/';
 
@@ -21,6 +22,13 @@ my $history = App::History->new(
   input_dir   => $input_dir,
 );
 
-$history->convert();
+#$history->convert();
+
+my $compiler = App::Compile->new(
+  greenwoodRoot  => $greenwoodRoot,
+  input_dir   => $input_dir,
+);
+
+$compiler->run();
 
 1;
