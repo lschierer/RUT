@@ -24,7 +24,7 @@ class App::Compile {
 
   field $output_dir :accessor = path($greenwoodRoot)->child('src', 'pages','luke','log');
 
-  field $tag_dir :accessor = path($greenwoodRoot, 'src', 'lib');
+  field $tag_file :accessor = path($greenwoodRoot, 'src', 'lib', "tags.ts");
 
   field $assets :accessor = path($greenwoodRoot, 'src', 'assets');
 
@@ -62,12 +62,12 @@ class App::Compile {
       croak("output_dir '$output_dir' has incompatible permissions or is not a directory.");
     }
 
-    if(!rindex $tag_dir, "./", 0 and !rindex $tag_dir, "../", 0) {
-      croak("tag_dir '$tag_dir' is not a valid value, must start with ./ or ../");
+    if(!rindex $tag_file, "./", 0 and !rindex $tag_file, "../", 0) {
+      croak("tag_file '$tag_file' is not a valid value, must start with ./ or ../");
     }
 
-    if (! -d -r -x -w $tag_dir ) {
-      croak("tag_dir '$tag_dir' has incompatible permissions or is not a directory.");
+    if (! -f -r -w $tag_file ) {
+      croak("tag_file '$tag_file' has incompatible permissions or is not a file.");
     }
   }
 
@@ -87,6 +87,32 @@ class App::Compile {
         }
       }
     }
+  }
+
+  method read_tags {
+    my @originalTags = path($tag_file)->lines_utf8();
+    say("original tags were " . p @originalTags);
+    my @newTags = ();
+    push(@newTags, $originalTags[0]);
+
+    for my $tl (@originalTags) {
+      if( $tl =~ /\{ "(.+?)": (\d+) \},/ ) {
+        my $tag_name = $1;
+        my $tag_count = $2;
+        say ("found tag $tag_name with count $tag_count");
+        if ( exists $tags->{$tag_name} ) {
+          $tags->{$tag_name} = $tags->{$tag_name} + $tag_count;
+        } else {
+          $tags->{$tag_name} = $tag_count;
+        }
+        my $newLine = sprintf('{ "%s": %d },', $tag_name, $tags->{$tag_name});
+        push(@newTags, $newLine);
+      }
+    }
+    my $tagLength = scalar @originalTags;
+    push(@newTags, $originalTags[$tagLength - 2]);
+    push(@newTags, $originalTags[$tagLength - 1]);
+    path($tag_file)->spew_utf8(@newTags);
   }
 
   method run {
@@ -146,6 +172,7 @@ class App::Compile {
       }, {recurse => 1}
     );
 
+    $self->read_tags();
   }
 
 

@@ -143,9 +143,12 @@ class App::History {
               say("found image $1 $2");
               $imports{$1} = $2;
               my $parent = $path->parent();
-              my $imagePath = $assets->child("$parent")->relative($greenwoodRoot->child('src'));
+              say ("path relative to input_dir: " );
+              my $imagePath = path(join("/" , $assets, "log", $path->parent()->relative($input_dir)), $img);
+
               $imagePath->touchpath();
-              $parent->child($1)->copy("$greenwoodRoot/src/$imagePath");
+
+              $parent->child($1)->copy("$imagePath");
               $datum =~ s/\[\[!img\h+?(\S+?)\h+?alt="(.+?)"\h*?\]\]/![$2](\/$imagePath\/$1)/;
             }
 

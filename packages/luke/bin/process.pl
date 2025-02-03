@@ -22,7 +22,7 @@ my $history = App::History->new(
   input_dir   => $input_dir,
 );
 
-#$history->convert();
+$history->convert();
 
 my $compiler = App::Compile->new(
   greenwoodRoot  => $greenwoodRoot,
