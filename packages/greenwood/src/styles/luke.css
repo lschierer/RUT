@@ -1,6 +1,7 @@
 body {
   text: #3399ff;
-  background-color: #3c454b;
+  color: #3399ff;
+  background-color: var(--gray-4);
   margin: 0px;
   width: auto;
   min-height: 100vh;

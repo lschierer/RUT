@@ -4,12 +4,47 @@
   padding: 0rem 1em;
   border: 1px solid #3399ff;
   color: #3399ff !important;
+
+  & h4 {
+    margin-bottom: 0rem;
+  }
+
+  & ul {
+    margin-top: 0.5rem;
+    margin-block-start: 1rem;
+    margin-block-end: 1rem;
+    padding-inline-start: 1.5rem;
+  }
 }
 
 .month-calendar-day-this-day,
 .year-calendar-this-month {
   background-color: #eee;
   color: 3399ff;
+}
+
+article.page {
+  margin-left: 1rem;
+}
+
+recent-changes dl {
+  & dt {
+    margin-top: 0.5rem;
+  }
+  & dd {
+    margin-inline-start: 1rem;
+    margin-left: 1rem;
+
+    & ul {
+      margin-top: 1px;
+      margin-bottom: 1px;
+      margin-block-start: 1rem;
+      margin-block-end: 1rem;
+      padding-inline-start: 1.5rem;
+      & li {
+      }
+    }
+  }
 }
 
 History {
@@ -69,14 +104,10 @@ cite {
 }
 
 body {
-  background: #3c454b no-repeat top left;
-  color: #3399ff;
-  font:
-    0.9em/1.3em Verdana,
-    Georgia,
-    Times,
-    Times New Roman,
-    sans-serif;
+  font-size: 0.9em;
+
+  font-family: var(--font-old-style);
+
   margin: 0;
   padding: 0;
   text-align: left;
@@ -86,12 +117,8 @@ h1,
 h2,
 h3,
 h4 {
-  font-family:
-    arial,
-    verdana,
-    Lucida Sans Unicode,
-    lucida,
-    sans-serif;
+  font-family: var(--font-old-style);
+
   font-weight: bold;
   letter-spacing: 1px;
 }

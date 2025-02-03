@@ -20,7 +20,7 @@ export default {
       extendConfig: true,
     }),
     greenwoodPluginPostCss({
-      extendConfig: true,
+      extendConfig: false,
     }),
     greenwoodPluginGoogleAnalytics({
       analyticsId: "G-Y3WJYW9RQ1",
