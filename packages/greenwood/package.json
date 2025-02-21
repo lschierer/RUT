@@ -10,11 +10,11 @@
     "serve": "tsx --import @greenwood/cli/register ./node_modules/@greenwood/cli/src/index.js serve"
   },
   "devDependencies": {
-    "@greenwood/cli": "0.31.0",
-    "@greenwood/plugin-google-analytics": "0.31.0",
-    "@greenwood/plugin-import-raw": "^0.31.0",
-    "@greenwood/plugin-postcss": "0.31.0",
-    "@greenwood/plugin-typescript": "0.31.0",
+    "@greenwood/cli": "0.31.1",
+    "@greenwood/plugin-google-analytics": "0.31.1",
+    "@greenwood/plugin-import-raw": "^0.31.1",
+    "@greenwood/plugin-postcss": "0.31.1",
+    "@greenwood/plugin-typescript": "0.31.1",
     "@tsconfig/node22": "^22.0.0",
     "@types/css": "^0.0.38",
     "@types/css-modules": "^1.0.5",
@@ -22,18 +22,18 @@
     "@types/postcss-import": "^14.0.3",
     "autoprefixer": "^10.4.20",
     "cssnano": "^7.0.6",
-    "postcss": "^8.5.1",
+    "postcss": "^8.5.3",
     "postcss-cli": "^11.0.0",
     "postcss-debug": "^0.4.2",
     "postcss-import": "^16.1.0",
-    "postcss-jit-props": "^1.0.15",
+    "postcss-jit-props": "^1.0.16",
     "postcss-load-config": "^6.0.1",
     "rehype-autolink-headings": "^7.1.0",
-    "remark-gfm": "^4.0.0",
+    "remark-gfm": "^4.0.1",
     "remark-rehype": "^11.1.1",
     "resolve": "^1.22.10",
     "ts-lit-plugin": "^2.0.2",
-    "tsx": "^4.19.2",
+    "tsx": "^4.19.3",
     "typescript": "^5.7.3",
     "typescript-plugin-css-modules": "^5.1.0",
     "unified": "^11.0.5"
@@ -42,6 +42,6 @@
   "dependencies": {
     "luxon": "^3.5.0",
     "open-props": "^1.7.12",
-    "zod": "^3.24.1"
+    "zod": "^3.24.2"
   }
 }
