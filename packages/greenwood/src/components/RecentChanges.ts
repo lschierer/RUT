@@ -103,8 +103,9 @@ export default class RecentChanges extends HTMLElement {
             const pages = entry.pages.length > 10 ? entry.pages.slice(0, 10) : entry.pages;
             return `
               <dt>
-                <a href="https://github.com/lschierer/RUT/commit/${entry.id}">${entry.id.slice(0, 12)}</a></dt>
-              <dl>${entry.pages.length > 0 ? `<span class="definitionHeading">Changed Pages:</span>` : entry.message}
+                <a href="https://github.com/lschierer/RUT/commit/${entry.id}">${entry.id.slice(0, 12)}</a>
+              </dt>
+              <dd>${entry.pages.length > 0 ? `<span class="definitionHeading">Changed Pages:</span>` : entry.message}
                 <ul>
                   ${pages.map((p) => {
                     return `
@@ -117,8 +118,8 @@ export default class RecentChanges extends HTMLElement {
                   <li> ... and ${entry.pages.length - 10 } more files </li>
                   ` : ""}
                 </ul>
-              </dl>
-              <dl>
+              </dd>
+              <dd>
                 ${
                   entry.delta.years
                     ? entry.delta.years > 1
@@ -162,7 +163,7 @@ export default class RecentChanges extends HTMLElement {
                       : ""
                   }
                   ago
-                </dl>
+                </dd>
           `;
         }).join("\n") }
         </dl>
