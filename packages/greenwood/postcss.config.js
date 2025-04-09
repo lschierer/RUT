@@ -1,10 +1,28 @@
-import postcssImport from "postcss-import";
-import cssnano from "cssnano";
-import autoprefixer from "autoprefixer";
-import postcssJitProps from "postcss-jit-props";
-import OpenProps from "open-props";
+import path from "path";
+import process from "node:process";
 
-/** @type {import('postcss-load-config').Config} */
+const plugins = {
+  "postcss-import": {
+    path: [
+      path.resolve(new URL(import.meta.url).pathname, "..", "node_modules"),
+    ],
+  },
+  "postcss-extend": {},
+  "postcss-nesting": {},
+  "postcss-sorting": {
+    order: ["custom-properties", "declarations", "at-rules", "rules"],
+    "properties-order": "alphabetical",
+  },
+  autoprefixer: {},
+};
+
+// Conditional plugin inclusion based on environment
+/*if (!process.env.__GWD_COMMAND__ === "serve") {
+  plugins["cssnano"] = {
+    preset: "default",
+  };
+}*/
+console.log(`postcss plugins are ${JSON.stringify(plugins)}`);
 export default {
-  plugins: [postcssImport(), postcssJitProps(OpenProps), autoprefixer, cssnano],
+  plugins: plugins,
 };

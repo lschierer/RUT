@@ -1,7 +1,14 @@
+@import "@spectrum-css/tokens";
+@import "@spectrum-css/typography";
+@import "@spectrum-css/icon";
+@import "@spectrum-css/page";
+@import "@spectrum-css/link";
+
 body {
   text: #3399ff;
   color: #3399ff;
-  background-color: var(--gray-4);
+  background-color: var(--spectrum-background-base-color);
+
   margin: 0px;
   width: auto;
   min-height: 100vh;
@@ -23,11 +30,10 @@ img.Greenwood {
 }
 
 main {
-  margin-top: 8px;
   min-height: 60vh;
   flex: 3 1 auto;
   display: flex;
-  flex-direction: row-reverse;
+  flex-direction: column;
 }
 
 aside.sidebar {
@@ -84,18 +90,15 @@ div.pagecopyright {
   align-content: center;
 }
 
+div.pagelicense,
+span.greenwood {
+  text-align: left;
+  width: 25%;
+  padding-left: 1em;
+}
+
 img.cc-image {
   height: 22px !important;
   margin-left: 3px;
   vertical-align: text-bottom;
-}
-
-ul.tags {
-  margin-block-start: 0px;
-}
-
-.bottomlogo {
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
 }

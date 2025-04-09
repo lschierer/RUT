@@ -1,9 +1,9 @@
-import { greenwoodPluginTypeScript } from "@greenwood/plugin-typescript";
 import { greenwoodPluginPostCss } from "@greenwood/plugin-postcss";
 import { greenwoodPluginGoogleAnalytics } from "@greenwood/plugin-google-analytics";
 import { greenwoodPluginImportRaw } from "@greenwood/plugin-import-raw";
 
 export default {
+  useTsc: true,
   activeContent: true,
   isolation: true,
   optimization: "default",
@@ -16,11 +16,8 @@ export default {
     },
   },
   plugins: [
-    greenwoodPluginTypeScript({
-      extendConfig: true,
-    }),
     greenwoodPluginPostCss({
-      extendConfig: false,
+      extendConfig: true,
     }),
     greenwoodPluginGoogleAnalytics({
       analyticsId: "G-Y3WJYW9RQ1",
