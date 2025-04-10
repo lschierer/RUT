@@ -1,0 +1,43 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  backend
+
+Globals:
+  Function:
+    Timeout: 3
+
+Parameters:
+  AllowedOrigin:
+    Type: String
+    Default: https://schierer.org # No extra quotes here
+
+Resources:
+  MyApi:
+    Type: AWS::Serverless::HttpApi
+    Properties:
+      CorsConfiguration:
+        AllowOrigins:
+          - http://localhost:5173
+        AllowMethods:
+          - OPTIONS
+          - POST
+        AllowHeaders:
+          - Content-Type
+  MathFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: dist/math.handler
+      Runtime: nodejs22.x
+      Environment:
+        Variables:
+          ALLOWED_ORIGIN:
+            Ref: AllowedOrigin
+      Events:
+        MathApi:
+          Type: HttpApi
+          Properties:
+            Path: /math
+            Method: POST
+            ApiId:
+              Ref: MyApi

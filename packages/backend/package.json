@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "esbuild lambda/math.ts --bundle --platform=node --target=node18 --format=esm --outfile=dist/math.mjs",
+    "dev": "ALLOWED_ORIGIN=http://localhost:5173 sam local start-api ",
+    "deploy": "sam deploy --guided",
+    "watch": "chokidar lambda/*.ts -c 'pnpm build'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.149",
+    "chokidar": "^4.0.3",
+    "esbuild": "^0.25.2",
+    "typescript": "^5.8.3"
+  }
+}
