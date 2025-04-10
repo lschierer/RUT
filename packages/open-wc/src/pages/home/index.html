@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en" class="spectrum spectrum-Typography">
+  <head>
+    <meta charset="utf-8" />
+    <title>Schierer.Org</title>
+    <meta name="description" content="Personal sites for the Schierer family" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link rel="stylesheet" href="/src/styles/global.css" />
+    <script type="module" src="/src/pages/home/home-page.js"></script>
+    <script type="module" src="/src/components/MainMarkdown.js"></script>
+  </head>
+  <body>
+    <home-page></home-page>
+
+    <header class="header"></header>
+    <main>
+      <article class="page">
+        <main-markdown filename="/src/pages/home/index.md"></main-markdown>
+      </article>
+    </main>
+    <footer id="footer" class="pagefooter" role="contentinfo">
+      <div class="pagedate"></div>
+    </footer>
+  </body>
+</html>

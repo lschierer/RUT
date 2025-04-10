@@ -1,0 +1,148 @@
+@import "@spectrum-css/tokens";
+@import "@spectrum-css/typography";
+@import "@spectrum-css/icon";
+@import "@spectrum-css/page";
+@import "@spectrum-css/link";
+
+main {
+  flex-direction: row;
+  align-items: stretch;
+  padding-top: 1px;
+}
+
+.sidebar {
+  order: 2;
+  width: 25%;
+  margin-bottom: 4px;
+  margin-top: -1px;
+  padding: 1px 1em 0px;
+  border: 1px solid #3399ff;
+  color: #3399ff !important;
+
+  & h4 {
+    margin-bottom: 0rem;
+  }
+
+  & ul {
+    margin-top: 0.5rem;
+    margin-block-start: 1rem;
+    margin-block-end: 1rem;
+    padding-inline-start: 1.5rem;
+  }
+}
+
+.month-calendar-day-this-day,
+.year-calendar-this-month {
+  background-color: #eee;
+  color: 3399ff;
+}
+
+article.page {
+  order: 1;
+  margin-left: 1rem;
+}
+
+recent-changes dl {
+  & dt {
+    margin-top: 0.5rem;
+  }
+  & dd {
+    margin-inline-start: 1rem;
+    margin-left: 1rem;
+
+    & ul {
+      margin-top: 1px;
+      margin-bottom: 1px;
+      margin-block-start: 1rem;
+      margin-block-end: 1rem;
+      padding-inline-start: 1.5rem;
+      & li {
+      }
+    }
+  }
+}
+
+History {
+  border: 1px solid #3399ff;
+  height: auto;
+  width: 90%;
+}
+
+p {
+  line-height: 1.5em;
+  margin: 0 0 1em;
+  padding: 0;
+}
+
+a {
+  color: #0b24bc;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a img {
+  border: none;
+}
+
+a:visited {
+  color: #c42d2b;
+}
+
+a:hover {
+  color: #eec900;
+  text-decoration: none;
+}
+
+acronym,
+abbr {
+  border-bottom: 1px dotted #88cdae;
+}
+
+acronym,
+abbr,
+span.caps {
+  cursor: help;
+  letter-spacing: 0.06em;
+}
+
+blockquote {
+  background: #000066;
+  border-left: #aaffd9 3px solid;
+  margin: 15px 55px 10px 25px;
+  padding: 5px 2px 2px 5px;
+}
+
+cite {
+  background: #468b79;
+  margin: 15px 2px 0 5px;
+  padding: 0 0px 5px 0px;
+}
+
+body {
+  font-size: 0.9em;
+  font-family: var(--font-old-style);
+
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-old-style);
+
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+hr {
+  border-top: #ffffff 1px solid;
+}
+
+p img {
+  max-width: 90%;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}

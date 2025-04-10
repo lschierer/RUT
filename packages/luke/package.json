@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "CC-BY-NC-SA"
+  "license": "CC-BY-NC-SA",
+  "devDependencies": {
+    "@tsconfig/node22": "catalog:"
+  }
 }

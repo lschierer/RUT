@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "resolveJsonModule": true,
+    "verbatimModuleSyntax": true,
+    "target": "es2021",
+    "module": "ESNext", // Changed from NodeNext
+    "moduleResolution": "bundler", // Changed from NodeNext
+    "noEmitOnError": false,
+    "declaration": true,
+    "lib": ["es2021", "dom", "DOM.Iterable"],
+    "strict": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "outDir": "out-tsc",
+    "sourceMap": true,
+    "inlineSources": true,
+    "rootDir": "./",
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@lib/*": ["src/lib/*"],
+      "@components/*": ["src/components/*"],
+      "@pages/*": ["src/pages/*"]
+    }
+  },
+  "include": ["src/**/*.ts"],
+  "compileOnSave": true
+}

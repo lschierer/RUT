@@ -1,5 +1,6 @@
 [tools]
-node = "22"
-pnpm = "10"
+node = "lts"
+pnpm = "10.7"
 just = "latest"
 python = "latest"
+perl = "latest"

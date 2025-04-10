@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified (but husky wants this target)\" && exit 0",
     "dev": "just dev",
-    "prepare": "husky"
+    "prepare": "husky",
+    "check": "NODE_OPTIONS='--experimental-strip-types'  pnpm eslint --flag unstable_native_nodejs_ts_config ."
   },
   "author": {
     "name": "Luke Schierer",
@@ -14,15 +15,35 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "@commitlint/cli": "^19.8.0",
-    "@commitlint/config-conventional": "^19.8.0",
-    "@commitlint/types": "^19.8.0",
-    "@tsconfig/node22": "^22.0.0",
-    "husky": "^9.1.7",
-    "json5": "^2.2.3",
-    "relaxed-json": "^1.0.3"
+    "@commitlint/cli": "catalog:",
+    "@commitlint/config-conventional": "catalog:",
+    "@commitlint/types": "catalog:",
+    "@eslint/js": "catalog:",
+    "@release-it/conventional-changelog": "catalog:",
+    "@tsconfig/node22": "catalog:",
+    "@typescript-eslint/parser": "catalog:",
+    "eslint": "catalog:",
+    "eslint-config-prettier": "catalog:",
+    "eslint-import-resolver-typescript": "catalog:",
+    "eslint-plugin-import": "catalog:",
+    "eslint-plugin-import-x": "catalog:",
+    "eslint-plugin-prettier": "catalog:",
+    "globals": "catalog:",
+    "husky": "catalog:",
+    "jiti": "catalog:",
+    "json5": "catalog:",
+    "linkinator": "catalog:",
+    "lint-staged": "catalog:",
+    "prettier": "catalog:",
+    "prettier-plugin-sh": "catalog:",
+    "quicktype": "catalog:",
+    "relaxed-json": "catalog:",
+    "release-it": "catalog:",
+    "release-it-pnpm": "catalog:",
+    "typescript-eslint": "catalog:"
   },
   "dependencies": {
-    "@commitlint/format": "^19.8.0"
+    "@commitlint/format": "catalog:",
+    "typescript": "^5.8.3"
   }
 }

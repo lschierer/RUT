@@ -1,9 +1,27 @@
 {
   "$schema": "https://json.schemastore.org/tsconfig",
   "extends": "@tsconfig/node22/tsconfig.json",
-  "include": ["*.ts", "*.mts"],
+
   "compilerOptions": {
+    "types": ["node", "./myGlobals.d.ts"],
+    "baseUrl": "./",
+    "esModuleInterop": true,
+    "lib": ["ES2023", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "resolveJsonModule": true,
     "strict": true,
-    "strictNullChecks": true
-  }
+    "target": "ES2023",
+    "verbatimModuleSyntax": true
+  },
+  "exclude": ["./old/**/*.ts", "./old/**/*.js", "./old/**/*.cjs"],
+  "include": [
+    "./*.mts",
+    "./*.ts",
+    "./bin/**/*.ts",
+    "./lib/**/*.ts",
+    "myGlobals.d.ts"
+  ]
 }
