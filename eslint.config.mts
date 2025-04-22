@@ -60,6 +60,8 @@ export default tseslint.config(
       "packages/greenwood/src/schemas/*.ts",
       "packages/greenwood/src/schemas/*.mts",
       "packages/starlight/src/schemas/*.ts",
+      "packages/infrastructure/**/*.ts",
+      "packages/infrastructure/**/*.mts",
     ],
     rules: {
       "@typescript-eslint/no-unused-vars": "off",

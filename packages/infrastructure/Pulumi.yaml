@@ -1,0 +1,11 @@
+name: schierer.org
+description: Schierer.org home pages
+runtime:
+  name: nodejs
+  options:
+    nodeargs: "--import tsx --no-warnings"
+    packagemanager: pnpm
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: aws-typescript

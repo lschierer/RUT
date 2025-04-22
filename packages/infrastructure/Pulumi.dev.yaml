@@ -1,0 +1,7 @@
+config:
+  aws:region: us-east-2
+  aws:profile: home
+  schierer.org:domainName: dev.schierer.org
+  schierer.org:rootDomainName: schierer.org
+  schierer.org:createHostedZone: false
+  schierer.org:logRetentionDays: 3
