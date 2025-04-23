@@ -1,21 +1,13 @@
 #!/usr/bin/env perl
-use Mojolicious::Lite -signatures;
+use v5.40.0;
+use experimental qw(class);
+use utf8::all;
+use Carp;
 
-get '/' => sub ($c) {
-  $c->render(template => 'index');
-};
+use Mojo::Base -strict;
+use Mojo::File qw(curfile);
+use lib curfile->sibling('lib')->to_string;
+use Mojolicious::Commands;
 
-app->start;
-__DATA__
-
-@@ index.html.ep
-% layout 'default';
-% title 'Schierer.org';
-<h1>Schierer.org</h1>
-
-@@ layouts/default.html.ep
-<!DOCTYPE html>
-<html>
-  <head><title><%= title %></title></head>
-  <body><%= content %></body>
-</html>
+# Start command line interface for application
+Mojolicious::Commands->start_app('Schierer::Base');

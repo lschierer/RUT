@@ -13,24 +13,25 @@ content-setup: install copy-luke-content
   echo "export default users;" >> packages/greenwood/src/lib/users.ts
 
 
+
 # Start the development container in the background with a consistent name
-dev-start:
+serve-start:
   @echo "Starting development container..."
   @CONTAINER_ENGINE=$$(command -v podman || command -v docker)
   @IMAGE_ID=$$($${CONTAINER_ENGINE} build -q -f packages/infrastructure/Dockerfile .)
   @$${CONTAINER_ENGINE} run --rm -d --name schierer-dev -p 3000:3000 \
     -v "$$PWD/packages/frontend:/opt/schierer.org:Z" \
-    $${IMAGE_ID} | tee .dev-container-id
+    $${IMAGE_ID} | tee .serve-container-id
   @echo "Development server running at http://localhost:3000"
-  @echo "Container ID saved to .dev-container-id"
+  @echo "Container ID saved to .serve-container-id"
 
 # Stop the development container
-dev-stop:
+serve-stop:
   @echo "Stopping development container..."
   @CONTAINER_ENGINE=$$(command -v podman || command -v docker)
-  @if [ -f .dev-container-id ]; then \
-    $${CONTAINER_ENGINE} stop $$(cat .dev-container-id) 2>/dev/null || true; \
-    rm -f .dev-container-id; \
+  @if [ -f .serve-container-id ]; then \
+    $${CONTAINER_ENGINE} stop $$(cat .serve-container-id) 2>/dev/null || true; \
+    rm -f .serve-container-id; \
     echo "Development container stopped"; \
   else \
     echo "No container ID found. Trying to stop by name..."; \
@@ -39,20 +40,22 @@ dev-stop:
   fi
 
 # Restart the development container
-dev-restart: dev-stop dev-start
+serve-restart: serve-stop serve-start
   @echo "Development container restarted"
 
 # Show logs from the development container
-dev-logs:
+serve-logs:
   @CONTAINER_ENGINE=$$(command -v podman || command -v docker)
-  @if [ -f .dev-container-id ]; then \
-    $${CONTAINER_ENGINE} logs -f $$(cat .dev-container-id); \
+  @if [ -f .serve-container-id ]; then \
+    $${CONTAINER_ENGINE} logs -f $$(cat .serve-container-id); \
   else \
     $${CONTAINER_ENGINE} logs -f schierer-dev 2>/dev/null || \
     echo "No running container found"; \
   fi
 
-dev: dev-stop dev-start
+[working-directory: 'packages/frontend']
+dev:
+  morbo -v -w lib/ -w schierer.org.pl -w schierer-base.yml -w share/ ./schierer.org.pl
 
 clean:
   rm -rf packages/greenwood/src/pages
@@ -68,12 +71,17 @@ check:
   just dev && echo dev task done
   sleep 10 && just linkcheck && echo "success"
 
-[working-directory: 'packages/greenwood']
-build-greenwood: install content-setup
-  pnpm build
+build-frontend:
+  @CONTAINER_ENGINE=$$(command -v podman || command -v docker)
+  @IMAGE_ID=$$($${CONTAINER_ENGINE} build -q -f packages/infrastructure/Dockerfile .)
+  @echo $${IMAGE_ID}
 
-build: build-greenwood
+build: build-frontend
 
 [working-directory: 'packages/infrastructure']
-deploy:
+deploy: build
   pulumi up
+
+[working-directory: 'packages/frontend']
+find-perl-deps:
+  find . \( -name '*.pm' -o -name '*.pl' \)  -exec grep use {} \; | tr -s '[:blank:]' ' ' | awk '{$1=$1};1' | sort -u

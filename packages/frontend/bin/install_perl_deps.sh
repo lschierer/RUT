@@ -1,8 +1,21 @@
 #!/usr/bin/env bash
 
-cpanm install Mojolicious::Command::Author::generate::lite_app
-cpanm install Mojolicious::Command::Author::generate::makefile
-cpanm install Mojolicious::Command::Author::generate::dockerfile
-cpanm install Mojolicious::Lite
-cpanm install Mojolicious::Plugin::TagHelpers
-cpanm install Mojolicious::Plugin::DefaultHelpers
+cpanm Carp
+cpanm File::FindLib
+cpanm List::Util
+cpanm Mojo::Base
+cpanm Mojo::File
+cpanm Mojo::File::Share
+cpanm Mojolicious::Command::Author::generate::dockerfile
+cpanm Mojolicious::Command::Author::generate::lite_app
+cpanm Mojolicious::Command::Author::generate::makefile
+cpanm Mojolicious::Command::Author::inflate
+cpanm Mojolicious::Commands
+cpanm Mojolicious::Lite
+cpanm Mojolicious::Plugin::DefaultHelpers
+cpanm Mojolicious::Plugin::TagHelpers
+cpanm Mojo::Server::Morbo
+cpanm Role::Tiny
+cpanm YAML::PP
+cpanm namespace::clean
+cpanm utf8::all
