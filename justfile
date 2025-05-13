@@ -72,9 +72,10 @@ check:
   sleep 10 && just linkcheck && echo "success"
 
 build-frontend:
-  @CONTAINER_ENGINE=$$(command -v podman || command -v docker)
-  @IMAGE_ID=$$($${CONTAINER_ENGINE} build -q -f packages/infrastructure/Dockerfile .)
-  @echo $${IMAGE_ID}
+  #!/usr/bin/env bash
+  CONTAINER_ENGINE=$(command -v podman || command -v docker)
+  IMAGE_ID=$(${CONTAINER_ENGINE} build -q -f packages/infrastructure/Dockerfile .)
+  echo ${IMAGE_ID}
 
 build: build-frontend
 

@@ -1,6 +1,7 @@
 [tools]
 node = "lts"
-pnpm = "10.7"
+pnpm = "10"
 just = "latest"
 python = "latest"
 perl = "latest"
+pulumi = "latest"
