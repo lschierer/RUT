@@ -16,21 +16,23 @@ content-setup: install copy-luke-content
 
 # Start the development container in the background with a consistent name
 serve-start:
-  @echo "Starting development container..."
-  @CONTAINER_ENGINE=$$(command -v podman || command -v docker)
-  @IMAGE_ID=$$($${CONTAINER_ENGINE} build -q -f packages/infrastructure/Dockerfile .)
-  @$${CONTAINER_ENGINE} run --rm -d --name schierer-dev -p 3000:3000 \
-    -v "$$PWD/packages/frontend:/opt/schierer.org:Z" \
-    $${IMAGE_ID} | tee .serve-container-id
-  @echo "Development server running at http://localhost:3000"
-  @echo "Container ID saved to .serve-container-id"
+  #!/usr/bin/env bash
+  echo "Starting development container..."
+  CONTAINER_ENGINE=$(command -v podman || command -v docker)
+  IMAGE_ID=$(${CONTAINER_ENGINE} build -q -f packages/infrastructure/Dockerfile .)
+  ${CONTAINER_ENGINE} run --rm -d --name schierer-dev -p 3000:3000 \
+    -v "$PWD/packages/frontend:/opt/schierer.org:Z" \
+    ${IMAGE_ID} | tee .serve-container-id
+  echo "Development server running at http://localhost:3000"
+  echo "Container ID saved to .serve-container-id"
 
 # Stop the development container
 serve-stop:
-  @echo "Stopping development container..."
-  @CONTAINER_ENGINE=$$(command -v podman || command -v docker)
-  @if [ -f .serve-container-id ]; then \
-    $${CONTAINER_ENGINE} stop $$(cat .serve-container-id) 2>/dev/null || true; \
+  #!/usr/bin/env bash
+  echo "Stopping development container..."
+  CONTAINER_ENGINE=$(command -v podman || command -v docker)
+  if [ -f .serve-container-id ]; then \
+    ${CONTAINER_ENGINE} stop $(cat .serve-container-id) 2>/dev/null || true; \
     rm -f .serve-container-id; \
     echo "Development container stopped"; \
   else \
@@ -45,17 +47,18 @@ serve-restart: serve-stop serve-start
 
 # Show logs from the development container
 serve-logs:
-  @CONTAINER_ENGINE=$$(command -v podman || command -v docker)
-  @if [ -f .serve-container-id ]; then \
-    $${CONTAINER_ENGINE} logs -f $$(cat .serve-container-id); \
+  #!/usr/bin/env bash
+  CONTAINER_ENGINE=$(command -v podman || command -v docker)
+  if [ -f .serve-container-id ]; then \
+    ${CONTAINER_ENGINE} logs -f $(cat .serve-container-id); \
   else \
-    $${CONTAINER_ENGINE} logs -f schierer-dev 2>/dev/null || \
+    ${CONTAINER_ENGINE} logs -f schierer-dev 2>/dev/null || \
     echo "No running container found"; \
   fi
 
 [working-directory: 'packages/frontend']
 dev:
-  morbo -v -w lib/ -w schierer.org.pl -w schierer-base.yml -w share/ ./schierer.org.pl
+  morbo -m development -v -w lib/ -w schierer.org.pl -w schierer-base.yml -w share/ -w templates/ ./schierer.org.pl
 
 clean:
   rm -rf packages/greenwood/src/pages

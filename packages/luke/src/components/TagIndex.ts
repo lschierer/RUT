@@ -1,21 +1,17 @@
-import { getContent } from "@greenwood/cli/src/data/client.js";
-
-import { Page, sortPages } from "../lib/greenwoodPages.ts";
-
-import debugFunction from "../lib/debug.ts";
-const DEBUG = debugFunction("src/components/TagIndex.ts");
+import debugFunction from "../lib/debug";
+const DEBUG = debugFunction("src/components/TagIndex");
 
 import { DateTime } from "luxon";
 
 export default class TagIndex extends HTMLElement {
   private _tagName: string = "";
   private _limit: number = 0;
-  async connectedCallback() {
+  connectedCallback() {
     if (DEBUG) {
       console.log(`TagIndex connectedCallback start`);
     }
-    const pages: Page[] = await getContent();
-    const pagesWithTag = new Array<Page>();
+    const pages: object[] = new Array<object>();
+    const pagesWithTag = new Array<object>();
 
     for (const attr of this.attributes) {
       if (!attr.name.toLowerCase().localeCompare("tagname")) {
@@ -27,17 +23,26 @@ export default class TagIndex extends HTMLElement {
           }
           pages.forEach((page) => {
             if (
+              "data" in page &&
               page.data &&
-              page.data.tags &&
-              page.data.tags.includes(this._tagName)
+              "tags" in (page.data as object) &&
+              "tags" in (page.data as object)
             ) {
-              pagesWithTag.push(page);
+              const tags = (page.data as object)[
+                "tags" as keyof typeof page.data
+              ] as string | Array<string>;
+              if (
+                (Array.isArray(tags) && tags.includes(this._tagName)) ||
+                this._tagName === tags
+              ) {
+                pagesWithTag.push(page);
+              }
             }
           });
         }
       }
       if (!attr.name.toLowerCase().localeCompare("limit")) {
-        this._limit = +(attr.value ?? 0);
+        this._limit = +attr.value;
       }
     }
 
@@ -45,11 +50,15 @@ export default class TagIndex extends HTMLElement {
       pagesWithTag.sort((a, b) => {
         let ad: DateTime | null = null;
         let bd: DateTime | null = null;
-        if (a.data?.date) {
-          ad = DateTime.fromJSDate(a.data.date);
+        if ("data" in a && "date" in (a.data as object)) {
+          ad = DateTime.fromJSDate(
+            (a.data as object)["date" as keyof typeof a.data],
+          );
         }
-        if (b.data?.date) {
-          bd = DateTime.fromJSDate(b.data.date);
+        if ("data" in b && "date" in (b.data as object)) {
+          bd = DateTime.fromJSDate(
+            (b.data as object)["date" as keyof typeof b.data],
+          );
         }
         if (ad) {
           if (bd) {
@@ -65,7 +74,22 @@ export default class TagIndex extends HTMLElement {
           }
         } else if (bd) {
           return 1;
-        } else return sortPages(a, b);
+        }
+        let at = "";
+        let bt = "";
+
+        if ("data" in a && "title" in (a.data as object)) {
+          at = (a.data as object)["title" as keyof typeof a.data];
+        } else {
+          at = Object.values(a)[0] as string;
+        }
+
+        if ("data" in b && "title" in (b.data as object)) {
+          bt = (b.data as object)["title" as keyof typeof b.data];
+        } else {
+          at = Object.values(a)[0] as string;
+        }
+        return at.localeCompare(bt);
       });
       const display = this._limit
         ? pagesWithTag.slice(0, this._limit)
@@ -78,7 +102,7 @@ export default class TagIndex extends HTMLElement {
               .map((page) => {
                 return `
                 <li>
-                  <a href="${page.route}">${page.title ? page.title : page.label}</a>
+                  <a href="${page["route" as keyof typeof page] as string}">${page["title" as keyof typeof page] as string}</a>
                 </li>
               `;
               })

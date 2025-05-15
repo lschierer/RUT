@@ -12,23 +12,32 @@ use Getopt::Long qw(
 use lib 'lib';
 use App::History;
 use App::Compile;
+use App::Copy;
 
-my $greenwoodRoot = '../greenwood/';
+my $targetRoot = '../frontend/';
 
-my $input_dir = './log/';
+my $input_dir = './';
+
+
+
+my $compiler = App::Compile->new(
+  targetRoot  => $targetRoot,
+  input_dir   => $input_dir,
+);
+
+$compiler->run();
 
 my $history = App::History->new(
-  greenwoodRoot  => $greenwoodRoot,
+  targetRoot  => $targetRoot,
   input_dir   => $input_dir,
 );
 
 $history->convert();
 
-my $compiler = App::Compile->new(
-  greenwoodRoot  => $greenwoodRoot,
+my $final_copy = App::Copy->new(
+  targetRoot  => $targetRoot,
   input_dir   => $input_dir,
 );
-
-$compiler->run();
+$final_copy->copy_files();
 
 1;

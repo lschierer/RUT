@@ -1,0 +1,106 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  text: var(--spectrum-blue-700);
+  color: var(--spectrum-blue-700);
+  background-color: var(--spectrum-background-base-color);
+
+  margin: 0px;
+  width: auto;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+img.Greenwood {
+  height: 3rem;
+}
+
+header {
+  width: 100%;
+  & img.toplogo {
+    width: min(100%, 80vw);
+  }
+  min-height: fit-content;
+  flex: 1 1 auto;
+  flex-direction: row;
+  display: flex;
+}
+
+main {
+  min-height: 60vh;
+  flex: 3 1 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+aside.sidebar {
+  font-size: small;
+  flex: 0 1 auto;
+  max-width: 20vw;
+  text-wrap: pretty;
+}
+
+article.page {
+  flex: 1 5 80vw;
+  min-width: 50vw;
+}
+
+footer {
+  flex-grow: 0;
+  flex-shrink: 1;
+  margin-top: auto;
+  left: 0;
+  width: 100%;
+}
+
+a:link {
+  color: var(--spectrum-blue-1000);
+}
+
+a:visited {
+  color: var(--spectrum-red-1000);
+}
+
+a:active {
+  color: var(--spectrum-yellow-300);
+}
+
+div.linklist {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+
+  & ul {
+    list-style: none;
+
+    & li {
+      margin-top: 0.25rem;
+      font-size: large;
+    }
+  }
+}
+
+div.pagecopyright {
+  margin: auto;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  text-align: center;
+  align-content: center;
+  justify-content: center;
+}
+
+div.pagelicense,
+span.greenwood {
+  text-align: left;
+  width: 25%;
+  padding-left: 1em;
+}
+
+img.cc-image {
+  height: 22px !important;
+  margin-left: 3px;
+  vertical-align: text-bottom;
+}

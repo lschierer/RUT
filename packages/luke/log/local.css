@@ -1,0 +1,171 @@
+/*
+Theme Name: Luke Brain Power
+Version: 1.2.1
+Theme URI: http://www.arthousewebdesign.com/blog/2008/10/free-wordpress-theme-brain-power/
+Description: Based on "Brain Power" by Art House Web Design.
+Author: Luke Scchierer
+Author URI: http://www.schierer.org/~luke
+Tags: fixed width, two columns, widget ready, blue, valid CSS, valid XHTML, unique header, gravatars, widgetized, 2 columns, right sidebar
+*/
+
+/* Please leave my link in the footer, thanks! */
+
+a {
+  color: var(--spectrum-blue-900);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a img {
+  border: none;
+}
+
+a:visited {
+  color: var(--spectrum-red-1000);
+}
+
+a:hover {
+  color: var(--spectrum-yellow-300);
+  text-decoration: none;
+}
+
+acronym,
+abbr {
+  border-bottom: 1px dotted var(--spectrum-green-400);
+}
+
+acronym,
+abbr,
+span.caps {
+  cursor: help;
+  letter-spacing: 0.06em;
+}
+
+blockquote {
+  background: var(--spectrum-blue-1200);
+  border-left: var(--spectrum-green-200) 3px solid;
+  margin: 15px 55px 10px 25px;
+  padding: 5px 2px 2px 5px;
+}
+
+cite {
+  background: var(--spectrum-green-1000);
+  margin: 15px 2px 0 5px;
+  padding: 0 0px 5px 0px;
+}
+
+body {
+  background: var(--spectrum-gray-700);
+  color: var(--spectrum-blue-700);
+  font:
+    0.9em/1.3em Verdana,
+    Georgia,
+    Times,
+    Times New Roman,
+    sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+code {
+  font-size: 0.9em;
+  font-style: italic;
+}
+
+code {
+  color: var(--spectrum-blue-700);
+  font-family: "Courier New", Courier, monospace;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family:
+    arial,
+    verdana,
+    Lucida Sans Unicode,
+    lucida,
+    sans-serif;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+hr {
+  border-top: var(--spectrum-white) 1px solid;
+}
+
+img {
+  border: none;
+}
+
+input,
+textarea {
+  color: var(--spectrum-blue-500);
+  background: var(--spectrum-gray-700);
+  border: var(--spectrum-blue-700) 1px solid;
+}
+
+p {
+  line-height: 1.5em;
+  margin: 0 0 1em;
+  padding: 0;
+}
+
+input,
+textarea {
+  color: var(--spectrum-blue-700);
+  background: var(--spectrum-gray-700);
+}
+
+.blogform,
+#blogform {
+  padding: 10px 10px;
+  border: 1px solid var(--spectrum-gray-400);
+  background: var(--spectrum-gray-700);
+  color: var(--spectrum-blue-700) !important;
+  width: auto;
+  overflow: auto;
+}
+
+/* calendar plugin */
+.month-calendar-day-this-day,
+.year-calendar-this-month {
+  background-color: var(--spectrum-gray-200);
+  color: var(--spectrum-blue-700);
+}
+
+.sidebar {
+  width: 30ex;
+  float: right;
+  margin-left: 4px;
+  margin-bottom: 4px;
+  margin-top: -1px;
+  padding: 0ex 2ex;
+  background: var(--spectrum-gray-700);
+  border: 1px solid var(--spectrum-blue-700);
+  color: var(--spectrum-blue-700) !important;
+}
+
+input#searchbox {
+  float: right;
+  background: url(wikiicons/search-bg.gif) no-repeat;
+  background-color: var(--spectrum-white);
+  background-position: 100% 50%;
+  color: var(--spectrum-black);
+}
+
+.bottomlogo {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#History {
+  border: 1px solid var(--spectrum-blue-700);
+  height: auto;
+  width: 90%;
+}

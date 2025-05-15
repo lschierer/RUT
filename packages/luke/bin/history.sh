@@ -1,10 +1,12 @@
 #!/bin/bash
 
-FINAL='../greenwood/src/lib/commitHistory.ts'
+if ! [[ -d ./tmp ]]; then
+  mkdir ./tmp;
+fi
 
+FINAL='./tmp/commitHistory.json'
 OUTPATH=`mktemp`
 
-echo -n "const commits = " > $FINAL
 echo "[" > $OUTPATH
 
 git log --oneline --full-history  --color=never  --decorate=short  --grep "^build: " --grep "calendar update" --invert-grep  -- ../.. ':!packages/greenwood' ':**/*.md(wn)?' | \
@@ -30,7 +32,4 @@ while read -r log; do
 done
 echo "]" >> $OUTPATH
 
-pnpm exec json5 $OUTPATH | jq "." >> $FINAL || echo $OUTPATH
-
-echo "" >> $FINAL
-echo "export default commits;" >> $FINAL
+pnpm exec json5 $OUTPATH | jq "." > $FINAL || echo $OUTPATH

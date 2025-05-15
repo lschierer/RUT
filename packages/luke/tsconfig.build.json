@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "extends": "./tsconfig.json",
+  "include": [
+    "./src/components/**/*.ts",
+    "./src/lib/**/*.ts",
+    "./src/schemas/**/*.ts"
+  ],
+  "compilerOptions": {
+    "noEmit": false,
+    "declaration": true,
+    "declarationMap": true,
+    "baseUrl": ".",
+    "rootDir": "./src/",
+
+    "isolatedModules": true,
+    "verbatimModuleSyntax": true,
+    "incremental": true,
+
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "outDir": "./dist/",
+
+    "allowImportingTsExtensions": false,
+    "resolveJsonModule": true,
+
+    "sourceMap": true
+  }
+}

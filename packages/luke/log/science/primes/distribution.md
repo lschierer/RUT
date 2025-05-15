@@ -16,7 +16,9 @@ is the count of prime numbers occurring between 0 and 1000, the second data
 point the count between 1001 and 2000, and so on. The data was generated with a
 fairly simple bash for loop using the bsd-games primes command:
 
-`m=1000; for i in ``seq 0 $m 1000000``; do j=$(( $i+$m )); k=``primes $i $j | wc -l``;  echo "$j $k" >> input.dat; done` 
+`m=1000; for i in ``seq 0 $m 1000000``; do j=$(( $i+$m )); k=``primes $i $j | wc -l``;  echo "$j $k" >> input.dat; done`
 
-[[!img distribution.png alt="distribution of prime numbers per 1000" ]]
+![img][distribution]
 
+
+[distribution]: /~luke/assets/log/science/primes/distribution.png "distribution of prime numbers per 1000"

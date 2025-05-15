@@ -2,7 +2,10 @@ export default class FrontMatterTags extends HTMLElement {
   connectedCallback() {
     if (this.innerText.length > 0) {
       if (this.innerText.localeCompare("${globalThis.page.data.tags}")) {
-        const tags = JSON.parse(this.innerText);
+        const tags = JSON.parse(this.innerText) as
+          | object
+          | object[]
+          | undefined;
         if (tags) {
           if (Array.isArray(tags)) {
             this.innerHTML = `
@@ -18,7 +21,7 @@ export default class FrontMatterTags extends HTMLElement {
               </ul>
             `;
           } else {
-            this.innerHTML = `<span class="tags">Tags: ${tags}</span>`;
+            this.innerHTML = `<span class="tags">Tags: ${JSON.stringify(tags)}</span>`;
           }
         }
       }

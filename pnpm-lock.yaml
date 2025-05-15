@@ -375,10 +375,38 @@ importers:
         version: 5.8.3
 
   packages/luke:
+    dependencies:
+      '@spectrum-css/icon':
+        specifier: 'catalog:'
+        version: 9.1.0(@spectrum-css/tokens@16.0.1)
+      '@spectrum-css/link':
+        specifier: ^7.1.0
+        version: 7.1.0(@spectrum-css/tokens@16.0.1)
+      '@spectrum-css/page':
+        specifier: 'catalog:'
+        version: 9.1.0(@spectrum-css/tokens@16.0.1)
+      '@spectrum-css/tokens':
+        specifier: ^16.0.1
+        version: 16.0.1
+      '@spectrum-css/typography':
+        specifier: ^8.1.0
+        version: 8.1.0(@spectrum-css/tokens@16.0.1)
+      iconify-icon:
+        specifier: ^3.0.0
+        version: 3.0.0
+      luxon:
+        specifier: 'catalog:'
+        version: 3.6.1
+      zod:
+        specifier: 'catalog:'
+        version: 3.24.4
     devDependencies:
       '@tsconfig/node22':
         specifier: 'catalog:'
         version: 22.0.1
+      esbuild:
+        specifier: ^0.25.4
+        version: 0.25.4
 
   packages/open-wc:
     dependencies:
@@ -1574,6 +1602,9 @@ packages:
   '@hutson/parse-repository-url@5.0.0':
     resolution: {integrity: sha512-e5+YUKENATs1JgYHMzTr2MW/NDcXGfYFAuOQU8gJgF/kEh4EqKgfGrfLI67bMD4tbhZVlkigz/9YYwWcbOFthg==}
     engines: {node: '>=10.13.0'}
+
+  '@iconify/types@2.0.0':
+    resolution: {integrity: sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg==}
 
   '@import-maps/resolve@1.0.1':
     resolution: {integrity: sha512-tWZNBIS1CoekcwlMuyG2mr0a1Wo5lb5lEHwwWvZo+5GLgr3e9LLDTtmgtCWEwBpXMkxn9D+2W9j2FY6eZQq0tA==}
@@ -4786,6 +4817,9 @@ packages:
     resolution: {integrity: sha512-5gs5ytaNjBrh5Ow3zrvdUUY+0VxIuWVL4i9irt6friV+BqdCfmV11CQTWMiBYWHbXhco+J1kHfTOUkePhCDvMA==}
     engines: {node: '>=18'}
     hasBin: true
+
+  iconify-icon@3.0.0:
+    resolution: {integrity: sha512-yPcnpkn8HUEUckrxxJBOer3jbGv3bqozHsLMLBRxhk3As1X76BgV2mS2a1HTNOIagR8nUs30H3qAd9GLe8Mnlg==}
 
   iconv-lite@0.4.24:
     resolution: {integrity: sha512-v3MXnZAcvnywkTUEZomIActle7RXXeedOR31wwl7VlyoXO4Qi9arvSenNQWne1TcRwhCL1HwLI21bEqdpj8/rA==}
@@ -9632,6 +9666,8 @@ snapshots:
 
   '@hutson/parse-repository-url@5.0.0': {}
 
+  '@iconify/types@2.0.0': {}
+
   '@import-maps/resolve@1.0.1': {}
 
   '@inquirer/checkbox@4.1.6(@types/node@16.18.126)':
@@ -13550,6 +13586,10 @@ snapshots:
   human-signals@8.0.1: {}
 
   husky@9.1.7: {}
+
+  iconify-icon@3.0.0:
+    dependencies:
+      '@iconify/types': 2.0.0
 
   iconv-lite@0.4.24:
     dependencies:

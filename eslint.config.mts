@@ -5,6 +5,7 @@ import globals from "globals";
 export default tseslint.config(
   {
     ignores: [
+      "packages/luke/dist/**",
       "packages/open-wc/dist/**",
       "packages/open-wc/out-tsc/**",
       "packages/starlight/.astro/**",

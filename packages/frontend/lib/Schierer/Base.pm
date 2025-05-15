@@ -32,8 +32,10 @@ package Schierer::Base {
     push @{$self->routes->namespaces}, 'Schierer::Controller';
     $r->any("/")->to('Root#index');
 
-    $self->start(@ARGV);
+    # Load user home directories plugin
+    $self->plugin('Schierer::Plugin::UserHome');
 
+    $self->start(@ARGV);
   }
 };
 1;

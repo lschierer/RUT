@@ -1,22 +1,18 @@
-import commits from "../../lib/commitHistory.ts";
-import { DateTime, Duration } from "luxon";
+import commits from "../lib/commitHistory";
+import { DateTime, type Duration } from "luxon";
 
-import { getContentByRoute } from "@greenwood/cli/src/data/client.js";
-
-import { Page } from "../../lib/greenwoodPages.ts";
-
-import debugFunction from "../../lib/debug.ts";
-const DEBUG = debugFunction("src/components/RecentChanges.ts");
+import debugFunction from "../lib/debug";
+const DEBUG = debugFunction(new URL(import.meta.url).pathname);
 
 type Entry = {
   id: string;
   delta: Duration;
-  pages: Page[];
+  pages: object[];
   message: string;
 };
 
 export default class RecentChanges extends HTMLElement {
-  async connectedCallback() {
+  connectedCallback() {
     const now = DateTime.now();
 
     const entries = new Array<Entry>();
@@ -25,7 +21,7 @@ export default class RecentChanges extends HTMLElement {
       const date = DateTime.fromSeconds(+commit.date);
       const diff = now.diff(date);
       const delta = diff.shiftToAll();
-      const pages = new Array<Page>();
+      const pages = new Array<object>();
       let count = 0;
 
       if (DEBUG) {
@@ -69,7 +65,8 @@ export default class RecentChanges extends HTMLElement {
           console.log(`finding pages for file '${file}' with route '${r}'`);
         }
 
-        const p = await getContentByRoute(r);
+        const p: object[] | undefined = new Array<object>();
+        /*eslint-disable-next-line @typescript-eslint/no-unnecessary-condition */
         if (p) {
           if (DEBUG) {
             console.log(`p is ${Array.isArray(p)} with length ${p.length}`);
@@ -92,7 +89,7 @@ export default class RecentChanges extends HTMLElement {
         message: commit.message.join("\n"),
       });
     }
-    if (commits && Array.isArray(commits) && commits.length > 0) {
+    if (Array.isArray(commits) && commits.length > 0) {
       this.innerHTML = `
         <dl class="RecentChanges">
           ${entries
@@ -119,10 +116,10 @@ export default class RecentChanges extends HTMLElement {
               <dd>${entry.pages.length > 0 ? `<span class="definitionHeading">Changed Pages:</span>` : entry.message}
                 <ul>
                   ${pages
-                    .map((p) => {
+                    .map((page) => {
                       return `
                       <li>
-                        <a href="${p.route}" >${p.title ? p.title : p.label}</a>
+                      <a href="${page["route" as keyof typeof page] as string}">${page["title" as keyof typeof page] as string}</a>
                       </li>
                     `;
                     })

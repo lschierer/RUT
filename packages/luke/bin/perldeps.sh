@@ -2,13 +2,26 @@
 
 deps=$(cat <<-EOF
 Array::Merge::Unique
+Data::Printer
+DateTime
+DateTime::Format::ISO8601
+Exporter
+FindBin::Bin
+File::FindLib
 Git::Wrapper
+IPC::Cmd
+JSON::PP
 List::AllUtils
 Object::Pad
 Path::Tiny
+HTML::FormatMarkdown
+Role::Tiny
+Text::Markdown
 Try::Tiny
 Unicode::UTF8
-HTML::FormatMarkdown
+YAML::PP
+utf8::all
+namespace::clean
 EOF
 )
 
