@@ -8,6 +8,7 @@ DateTime::Format::ISO8601
 Exporter
 FindBin::Bin
 File::FindLib
+File::Temp
 Git::Wrapper
 IPC::Cmd
 JSON::PP

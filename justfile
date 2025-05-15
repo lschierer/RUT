@@ -1,17 +1,15 @@
 export PATH := "./node_modules/.bin:" + env_var('PATH')
 
 install:
-  pnpm install
+  pnpm install -r
   ./packages/luke/bin/perldeps.sh
+  ./packages/frontend/bin/perldeps.sh
 
 [working-directory: 'packages/luke']
 copy-luke-content: install
-  ./bin/process.pl
+  ./bin/setup.sh
 
 content-setup: install copy-luke-content
-  find packages -type d -maxdepth 1 -mindepth 1 | grep -v greenwood | cut -d '/' -f 2 | gsed -E 's/(.*)/"\1",/' | gsed -E '1iconst users = [' | gsed -E '$a];' > packages/greenwood/src/lib/users.ts
-  echo "export default users;" >> packages/greenwood/src/lib/users.ts
-
 
 
 # Start the development container in the background with a consistent name
@@ -57,7 +55,7 @@ serve-logs:
   fi
 
 [working-directory: 'packages/frontend']
-dev:
+dev: install content-setup
   morbo -m development -v -w lib/ -w schierer.org.pl -w schierer-base.yml -w share/ -w templates/ ./schierer.org.pl
 
 clean:

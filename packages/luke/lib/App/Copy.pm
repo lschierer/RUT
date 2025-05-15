@@ -17,7 +17,6 @@ class App::Copy {
   use Cwd;
   use Carp;
   use File::Copy;
-  require File::RsyncP;
   use File::Path qw(make_path);
 
   field $input_dir : accessor : param //= './input';
@@ -99,7 +98,7 @@ class App::Copy {
         my $ext = lc($suffix || '');
         say "processing $path with extension $ext";
 
-        if ($ext eq '.html' || $ext eq '.pdf' || $ext eq '.css') {
+        if ($ext eq '.html' || $ext eq '.txt' || $ext eq '.pdf' || $ext eq '.css') {
 
           # Copy HTML and PDF files to output_dir preserving path
           my $dest = path($output_dir, $rel_path);

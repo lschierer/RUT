@@ -1,9 +1,12 @@
 use v5.40.0;
-use strict;
-use warnings;
-use utf8::all;
+use utf8;
 
-package App::RecentChanges {
+use Object::Pad;
+
+package App::RecentChanges;
+our $VERSION = '0.00.1';
+
+class App::RecentChanges {
   use Exporter qw(import);
   our @EXPORT_OK = qw(update_recent_changes generate_git_history);
 
@@ -13,16 +16,17 @@ package App::RecentChanges {
   use DateTime;
   use DateTime::Format::ISO8601;
 
-  my $json =
+  field $json =
     JSON::PP->new()
     ->utf8()
     ->relaxed()
     ->allow_unknown()
     ->allow_blessed()
-    ->convert_blessed()->canonical();
+    ->convert_blessed()
+    ->canonical();
 
   # Update the log/index.md file with recent changes
-  sub update_recent_changes {
+  method update_recent_changes {
     my ($json_file, $md_file, $limit) = @_;
     $limit //= 100;    # Default to 100 entries
 
@@ -76,16 +80,16 @@ package App::RecentChanges {
   }
 
   # Generate git history JSON file
-  sub generate_git_history {
+  method generate_git_history {
     my ($output_file, $repo_path) = @_;
     $repo_path //= '../..';             # Default to parent of parent directory
 
-    my $history   = [];
+    my $history = [];
 
     # Create the output directory if it doesn't exist
     $output_file = path($output_file);
     my $output_dir = $output_file->parent;
-    $output_dir->mkdir({ mode => 0711 }) unless($output_dir->exists);
+    $output_dir->mkdir({ mode => 0711 }) unless ($output_dir->exists);
 
     # Get the list of commit IDs to process
     my $cmd =
@@ -121,7 +125,6 @@ package App::RecentChanges {
       last
         if $count >=
         200; # Process more than needed to ensure we have enough after filtering
-      say "processing commit_id $commit_id";
 
       # Get commit details
       my $full_id_cmd = "cd $repo_path && git log --format=%H -n 1 $commit_id";
@@ -157,14 +160,14 @@ package App::RecentChanges {
       my @files = @$stdout_buf4;
       chomp(@files);
 
-      if(!$success4 || !$stdout_buf4 || !@$stdout_buf4) {
+      if (!$success4 || !$stdout_buf4 || !@$stdout_buf4) {
         say "no files for $full_id, error was '$error_code4'";
       }
       $first = 0;
 
       my $object = {};
       $object->{id}      = $full_id;
-      $object->{message} = join( ' ', @message_lines);
+      $object->{message} = join(' ', @message_lines);
       $object->{date}    = $date;
       $object->{files}   = \@files;
       push(@{$history}, $object);

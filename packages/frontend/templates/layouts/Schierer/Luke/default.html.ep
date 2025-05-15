@@ -1,9 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="spectrum spectrum--dark spectrum--medium spectrum-Typography">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title><%= $title %></title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Micro+5&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/~luke/node_modules/@spectrum-css/tokens/dist/css/index.css" />
+  <link rel="stylesheet" href="/~luke/node_modules/@spectrum-css/icon/index.css" />
+  <link rel="stylesheet" href="/~luke/node_modules/@spectrum-css/page/index.css" />
+  <link rel="stylesheet" href="/~luke/node_modules/@spectrum-css/typography/index.css" />
+  <link rel="stylesheet" href="/~luke/node_modules/@spectrum-css/link/index.css" />
+  <link rel="stylesheet" href="/~luke/global.css" />
 
   % if (stash('yaml_data') && exists stash('yaml_data')->{css}) {
     % foreach my $css_file (@{stash('yaml_data')->{css}}) {

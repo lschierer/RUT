@@ -44,7 +44,7 @@ sub handle {
   $file_path =~ s{^/+|/+$}{}g;
 
   # Try different file extensions in order of preference
-  my @extensions = qw(html md pdf);
+  my @extensions = qw(html md pdf txt);
 
   foreach my $ext (@extensions) {
     my $full_path = $luke_dir->child("$file_path.$ext");
@@ -58,6 +58,10 @@ sub handle {
       elsif ($ext eq 'md') {
         $self->app->log->debug("Rendering Markdown file: $full_path");
         return $self->_render_markdown($full_path, $file_path);
+      }
+      elsif ($ext eq 'txt') {
+        $self->app->log->debug("Serving TxT file: $full_path");
+        return $self->reply->file($full_path);
       }
       elsif ($ext eq 'pdf') {
         $self->app->log->debug("Serving PDF file: $full_path");
