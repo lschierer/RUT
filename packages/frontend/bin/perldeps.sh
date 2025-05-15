@@ -1,28 +1,37 @@
 #!/usr/bin/env bash
 
-cpanm Carp
-cpanm Data::Printer
-cpanm File::FindLib
-cpanm List::Util
-cpanm Mojo::Base
-cpanm Mojo::File
-cpanm Mojo::File::Share
-cpanm Mojo::Log
-cpanm Mojo::Server::Morbo
-cpanm Mojolicious::Command::Author::generate::dockerfile
-cpanm Mojolicious::Command::Author::generate::lite_app
-cpanm Mojolicious::Command::Author::generate::makefile
-cpanm Mojolicious::Command::Author::inflate
-cpanm Mojolicious::Commands
-cpanm Mojolicious::Plugin::DefaultHelpers
-cpanm Mojolicious::Plugin::TagHelpers
-cpanm Mojolicious::Routes
-cpanm Mojolicious::Routes::Route
-cpanm Mojolicious::Types
-cpanm namespace::clean
-cpanm Role::Tiny
-cpanm Text::Markdown
-cpanm Text::MultiMarkdown
-cpanm utf8::all
-cpanm YAML::PP
-cpanm YAML::XS
+deps=$(cat <<-EOF
+Carp
+Data::Printer
+File::FindLib
+List::Util
+Mojo::Base
+Mojo::File
+Mojo::File::Share
+Mojo::Log
+Mojo::Server::Morbo
+Mojolicious::Command::Author::generate::dockerfile
+Mojolicious::Command::Author::generate::lite_app
+Mojolicious::Command::Author::generate::makefile
+Mojolicious::Command::Author::inflate
+Mojolicious::Commands
+Mojolicious::Plugin::DefaultHelpers
+Mojolicious::Plugin::TagHelpers
+Mojolicious::Routes
+Mojolicious::Routes::Route
+Mojolicious::Types
+namespace::clean
+Role::Tiny
+Text::Markdown
+Text::MultiMarkdown
+utf8::all
+YAML::PP
+YAML::XS
+EOF
+)
+
+echo "$deps" | while read -r line  ; do
+
+  cpanm -n "$line"
+
+done

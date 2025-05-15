@@ -19,7 +19,7 @@ COPY ./packages/infrastructure ./infrastructure/
 
 # Install dependencies from the frontend directory
 #RUN cpanm --installdeps -n .
-RUN ./bin/install_perl_deps.sh
+RUN ./bin/perldeps.sh
 
 EXPOSE 3000
 CMD ./schierer.org.pl prefork
