@@ -17,6 +17,6 @@ imports:
     <li>
       <a href="./log/">Random Unfinished Thoughts</a>
     </li>
-    <a href="/gpg/">My GPG Key</a>
+    <a href="./gpg/">My GPG Key</a>
   </ul>
 </div>

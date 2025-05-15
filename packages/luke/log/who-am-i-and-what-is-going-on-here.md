@@ -1,6 +1,6 @@
 ---
-
-title: "Who am I and what is going on here?"
+title: >-
+  Who am I and what is going on here?
 date: 2005-10-31 11:32:56
 tags:
   - politics-law
@@ -21,4 +21,3 @@ I am a Republican, but first and foremost I am a Catholic. I believe that morali
 Also of great importance in my life is my beloved wife, Lauren. She brings light and joy to my life beyond measure. She stands in stark contrast to the pessimism and cynicism which has permeated much of my outlook.
 
 My views will necessarily permeate this site. While I welcome honest discussion, I have disabled comments.  This is because I do not have the time to moderate and censor any attacks against me, rather than my views, or to censor any post containing profanity, obscenity, or other objectionable content. Additionally, I do not have the time to keep comments free of the spam which is increasingly attempting to find its way into sites of this sort. This site is not a democracy, but is rather my “soapbox” from which to speak. You are free to set up a site of your own and respond to me in your own fashion there if you do not like my rules.
-
