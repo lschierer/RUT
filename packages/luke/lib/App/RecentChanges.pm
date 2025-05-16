@@ -260,7 +260,7 @@ class App::RecentChanges {
     foreach my $commit_id (@commit_ids) {
       last
         if $count >=
-        300; # Process more than needed to ensure we have enough after filtering
+        1000; # Process more than needed to ensure we have enough after filtering
 
       # Get commit details
       my $full_id_cmd = "cd $repo_path && git log --format=%H -n 1 $commit_id";
@@ -288,16 +288,41 @@ class App::RecentChanges {
       chomp($date);
 
       my $files_cmd =
-"cd $repo_path && git show --no-renames --pretty=reference --color=never --stat=1000 $commit_id | "
-        . "tail -n +3 | ghead -n -1 | cut -d '|' -f 1 | tr -s '[:blank:]' | "
-        . "egrep \".md(wn)?( )?\$\" | grep -v \"index.md\"";
+"cd $repo_path && git show --no-renames --pretty=reference --color=never --stat=1000 $commit_id  ";
+        #. "tail -n +3 | ghead -n -1 | cut -d '|' -f 1 | tr -s '[:blank:]' | "
+        #. "egrep \".md(wn)?( )?\$\" | grep -v \"index.md\"";
       my ($success4, $error_code4, $full_buf4, $stdout_buf4) =
         run(command => $files_cmd, verbose => 0);
       my @files = ();
       chomp(@$stdout_buf4);
 
       for my $line (@$stdout_buf4) {
-        push @files, split(/\n/, $line);
+        my @actualLines = split(/\n/, $line);
+        # Skip the first line (commit reference line)
+        shift @actualLines;
+
+        # Skip any empty lines at the beginning
+        while (@actualLines && $actualLines[0] =~ /^\s*$/) {
+            shift @actualLines;
+        }
+        # Process each line until we hit the summary line
+        foreach my $al (@actualLines) {
+          # Stop when we hit the summary line (e.g., "4 files changed...")
+          last if $al =~ /^\s*\d+\s+files?\s+changed/;
+
+          # Skip empty lines
+          next if $al =~ /^\s*$/;
+
+          # Extract filename from diffstat line
+          if ($al =~ /^\s*(.*?)\s+\|\s+\d+/) {
+            my $filename = $1;
+            # Trim any leading/trailing whitespace
+            $filename =~ s/^\s+|\s+$//g;
+            if($filename !~ m/index\.md$/ ) {
+              push @files, $filename if $filename;
+            }
+          }
+        }
       }
 
       if (!$success4 || !$stdout_buf4 || !@$stdout_buf4) {
