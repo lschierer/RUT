@@ -1,11 +1,12 @@
 ---
-
+author: Luke Schierer
 title: Random Unfinished Thoughts
 layout: rut
-imports:
-  - /components/RecentChanges.ts type="module"
 ---
+
+## Recent Changes
 
 <recent-changes></recent-changes>
 
+---
 [All Posts and Pages](./posts/)

@@ -1,0 +1,62 @@
+/* the props */
+@import "open-props/open-props.min.css";
+
+/* optional imports that use the props */
+@import "open-props/normalize.min.css";
+@import "open-props/buttons.min.css";
+
+div#pageinfo {
+  margin: var(--size-8) 0 0;
+  padding: var(--size-4) var(--size-3) var(--size-2);
+  border-top: var(--border-size-2) solid var(--main-color);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  font-size: var(--font-size-0);
+}
+
+div.pagecopyright {
+  display: flex;
+  align-self: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  height: fit-content;
+}
+
+div.pagecopyright,
+div.pagelicense,
+div.pagelicense a,
+div.pagelicense p,
+div.pagelicense span {
+  font-size: inherit;
+}
+
+div.pagelicense {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  width: var(--size-15);
+
+  & span {
+    display: inline-flex;
+    flex-direction: row;
+
+    & a {
+      display: inline-flex;
+      flex-direction: row;
+      align-items: flex-end;
+      justify-content: flex-start;
+    }
+  }
+}
+
+div.pagelicense img.cc-image {
+  height: var(--size-relative-9);
+}
+
+div.pagelicense img.cc-by-image,
+div.pagelicense img.cc-nc-image {
+  height: calc(calc(var(--size-relative-7) + var(--size-relative-8)) / 2);
+}

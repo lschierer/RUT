@@ -1,0 +1,52 @@
+/* the props */
+@import "open-props/open-props.min.css";
+
+/* optional imports that use the props */
+@import "open-props/normalize.min.css";
+@import "open-props/buttons.min.css";
+
+html,
+:root {
+  --background-color: var(--gray-6);
+  --main-color: var(--blue-8);
+
+  background-color: var(--background-color);
+}
+
+body {
+  color: var(--main-color);
+  margin: 0;
+  width: auto;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  width: 100%;
+
+  & img.toplogo {
+    width: min(100%, 80vw);
+  }
+
+  min-height: fit-content;
+  flex: 1 1 auto;
+  flex-direction: row;
+  display: flex;
+}
+
+main {
+  margin: var(--size-3);
+  min-height: 60vh;
+  flex: 3 1 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  flex-grow: 0;
+  flex-shrink: 1;
+  margin-top: auto;
+  left: 0;
+  width: 100%;
+}

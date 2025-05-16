@@ -1,0 +1,24 @@
+div.linklist {
+  place-self: center center;
+}
+
+header img.toplogo {
+  width: 100vw;
+  height: var(--size-13);
+}
+
+div#pageinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+div.pagecopyright {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  height: fit-content;
+}

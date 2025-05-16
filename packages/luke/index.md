@@ -1,9 +1,7 @@
 ---
 title: Luke Schierer
 author: Luke Schierer
-layout: luke
-imports:
-  - "./gpg.txt"
+layout: home
 ---
 
 <div class="linklist">
@@ -17,6 +15,8 @@ imports:
     <li>
       <a href="./log/">Random Unfinished Thoughts</a>
     </li>
-    <a href="./gpg/">My GPG Key</a>
+    <li>
+      <a href="./gpg/">My GPG Key</a>
+    </li>
   </ul>
 </div>

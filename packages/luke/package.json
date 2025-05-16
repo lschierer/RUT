@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node esbuild.config.js",
-    "build:prod": "NODE_ENV=production node esbuild.config.js",
+    "build": "node esbuild.config.js && pnpm build:css",
+    "build:prod": "NODE_ENV=production node esbuild.config.js && pnpm build:css",
+    "build:css": " tsx ./src/scripts/build-css.ts ./dist/styles/",
     "dev": "node esbuild.config.js && node watch.js"
   },
   "keywords": [],
@@ -14,7 +15,18 @@
   "license": "CC-BY-NC-SA",
   "devDependencies": {
     "@tsconfig/node22": "catalog:",
-    "esbuild": "^0.25.4"
+    "@types/postcss-sorting": "^8.0.2",
+    "autoprefixer": "catalog:",
+    "cssnano": "catalog:",
+    "esbuild": "^0.25.4",
+    "jiti": "catalog:",
+    "postcss": "catalog:",
+    "postcss-extend": "catalog:",
+    "postcss-import": "catalog:",
+    "postcss-nesting": "catalog:",
+    "postcss-sorting": "catalog:",
+    "stylelint": "^16.19.1",
+    "tsx": "catalog:"
   },
   "dependencies": {
     "@spectrum-css/icon": "catalog:",
@@ -24,6 +36,8 @@
     "@spectrum-css/typography": "^8.1.0",
     "iconify-icon": "^3.0.0",
     "luxon": "catalog:",
+    "open-props": "catalog:",
+    "stylelint-config-standard": "^38.0.0",
     "zod": "catalog:"
   }
 }

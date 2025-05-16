@@ -16,6 +16,7 @@ List::AllUtils
 Object::Pad
 Path::Tiny
 HTML::FormatMarkdown
+HTML::Entities
 Role::Tiny
 Text::Markdown
 Try::Tiny

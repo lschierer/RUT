@@ -1,5 +1,5 @@
 use v5.40.0;
-use utf8;
+use utf8::all;
 
 use Object::Pad;
 
@@ -8,13 +8,40 @@ our $VERSION = '0.00.1';
 
 class App::RecentChanges {
   use Exporter qw(import);
-  our @EXPORT_OK = qw(update_recent_changes generate_git_history);
-
   require JSON::PP;
+  require YAML::PP;
+  require Data::Printer;
   use Path::Tiny;
-  use IPC::Cmd qw(run);
+  use HTML::Entities qw(encode_entities);
+  use IPC::Cmd       qw(run);
+  use List::AllUtils qw( first any );
   use DateTime;
   use DateTime::Format::ISO8601;
+  use Carp;
+
+  our @EXPORT_OK = qw(update_recent_changes generate_git_history);
+
+  field @excluded_commits = qw(
+    00521e38 62e2825d d642ed21
+    abdb7103 695cb529 77e74db5
+    eeb8a0d2 e22afbdc c0ca2c99
+    b5290af8 d4b572c5 6dfadc75
+    0c5b42c4 8c987f5f eb1d753e
+    f713ecba 18768f9c 9e300976
+    4a1c3918 a2939e60 8017a8a2
+    8f1ab293 5f4098ea 4ba63b05
+    4c35add1 543232ea d7fdaaab
+    c872a572 3ed7e3c0 8bafdeba
+    072ed455 117dfe89 3d751bf1
+    61151706 ab5f297f fc793a8d
+    cc6e84b6 85a0105c 4ab4ee62
+    9a92c5aa 9d20e0a9 46f3e45f
+    d4b57afc 47ecf079 d361b355
+    8b50da56 4b8c30f2 901acc0e
+    a1c60e0b 2e01a64f 087bfc94
+    99174ee8 70ef2b87 62869f07
+    09737f68 fdd3023e
+  );
 
   field $json =
     JSON::PP->new()
@@ -24,6 +51,13 @@ class App::RecentChanges {
     ->allow_blessed()
     ->convert_blessed()
     ->canonical();
+
+  field $ypp = YAML::PP->new(
+    schema       => [qw/ + Perl /],
+    yaml_version => ['1.2', '1.1'],
+  );
+
+  field $RUT_dir = Path::Tiny::path("./log");
 
   # Update the log/index.md file with recent changes
   method update_recent_changes {
@@ -48,9 +82,90 @@ class App::RecentChanges {
     my $dl_html = "<dl class=\"recent-changes\">\n";
 
     foreach my $entry (@filtered_entries) {
+
       my $short_id   = substr($entry->{id}, 0, 12);
       my $commit_url = "https://github.com/lschierer/RUT/commit/$entry->{id}";
+      if ( (!exists $entry->{files})
+        or (ref($entry->{files}) ne 'ARRAY')
+        or (scalar @{ $entry->{files} } == 0)) {
+        next;
+      }
 
+      my %displayedPaths;
+      my $files_html = '';
+      foreach my $file (@{ $entry->{files} }) {
+
+        # Clean up the file name
+        $file =~ s/^\s+|\s+$//g;
+        $file =~ s/^"(.*)"$/$1/ if $file =~ /^".*"$/;
+        next unless $file;
+
+        # Extract just the filename without extension and path
+        # Handle both .md and .mdwn extensions
+        if ($file =~ m{(?:packages/)?(?:luke/)?(?:log/)?(.+?)\.(?:md|mdwn)$}) {
+          my $path         = $1;
+          my $display_name = $path;
+
+          # Get just the last part of the path for display name
+          if ($path =~ m{.*/([^/]+)$}) {
+            $display_name = $1;
+          }
+          if(!exists $displayedPaths{$path}) {
+            $displayedPaths{$path}++;
+
+            if(Path::Tiny::path("./log/$path.md")->is_file()) {
+              my $content = Path::Tiny::path("./log/$path.md")->slurp_utf8();
+              my $yaml_data = {};
+              if ($content =~ s/^---\s*\n(.*?)\n---\s*\n//s) {
+                my $yaml = $1;
+                eval {
+                  $yaml_data = $ypp->load_string($yaml);
+                };
+                if ($@) {
+                  say "Error parsing YAML front matter: $@";
+                }
+                elsif (ref $yaml_data eq 'HASH') {
+                  # Use title from front matter if available
+                  $display_name = $yaml_data->{title} if exists $yaml_data->{title};
+                }
+              }
+              # Create the link with the desired format
+              $files_html .=
+                "    <li><a href=\"/~luke/log/$path/\">$display_name</a></li>\n";
+            } elsif (Path::Tiny::path("./log/$path.mdwn")->is_file()) {
+              $files_html .=
+                "    <li><a href=\"/~luke/log/$path/\">$display_name</a></li>\n";
+            } else {
+              $displayedPaths{$path}--;
+              if($displayedPaths{$path} <= 0){
+                $displayedPaths{$path} = undef;
+                delete $displayedPaths{$path};
+              }
+            }
+
+          }
+          if(keys %displayedPaths > 10) {
+            my $remaining = scalar @{ $entry->{files} };
+            $remaining = $remaining - (keys %displayedPaths);
+            say "I have $remaining entries I am skipping for $short_id";
+            if($remaining == 1) {
+              $files_html .=
+                "    <li>and $remaining additional file.</li>\n";
+            } elsif ($remaining > 1) {
+              $files_html .=
+                "    <li>and $remaining additional files.</li>\n";
+            }
+            last;
+          }
+
+        }
+        else {
+          # Fallback for files that don't match the expected pattern
+          $files_html .= "    <li>" . encode_entities($file) . "</li>\n";
+        }
+      }
+
+      my $entry_html = '';
       # Format the date as ISO 8601
       my $timestamp = $entry->{date};
       my $dt        = DateTime->from_epoch(epoch => $timestamp);
@@ -60,9 +175,22 @@ class App::RecentChanges {
       my $message = $entry->{message} // '';
 
       # Add to the definition list
-      $dl_html .= "  <dt><a href=\"$commit_url\">$short_id</a></dt>\n";
-      $dl_html .= "  <dd>$iso_date</dd>\n";
-      $dl_html .= "  <dd>$message</dd>\n";
+      $entry_html .= "  <dt><a href=\"$commit_url\">$short_id</a></dt>\n";
+      $entry_html .= "  <dd>$iso_date</dd>\n";
+      $entry_html .= "  <dd>$message</dd>\n";
+      $entry_html .= "  <dd>\n";
+      $entry_html .= "    <ul class=\"filelist\">\n";
+      $entry_html .= $files_html;
+      $entry_html .= "    </ul>\n";
+      $entry_html .= "  <dd>\n";
+      my $paths = @{ keys %displayedPaths};
+      if(scalar @{$paths} >= 1) {
+
+        say "$short_id has keys ". Data::Printer::np(@{$paths});
+        $dl_html .= $entry_html;
+      }else {
+        say "skipping $short_id";
+      }
     }
 
     $dl_html .= "</dl>\n";
@@ -94,9 +222,7 @@ class App::RecentChanges {
     # Get the list of commit IDs to process
     my $cmd =
 "cd $repo_path && git log --oneline --full-history --color=never --decorate=short "
-      . "--grep \"^build: \" --grep \"calendar update\" --invert-grep -- . ':!packages/greenwood' ':**/*.md(wn)?' | "
-      . "egrep -v '(00521e38|62e2825d|d642ed21|abdb7103|695cb529|77e74db5|eeb8a0d2|e22afbdc|c0ca2c99|b5290af8|d4b572c5|6dfadc75|0c5b42c4|8c987f5f|eb1d753e)' | "
-      . "cut -d ' ' -f 1";
+      . "--grep \"^build: \" --grep \"calendar update\" --invert-grep -- . ':!packages/greenwood' ':**/*.md(wn)?'  ";
 
     my ($success, $error_code, $full_buf, $stdout_buf, $stderr_buf) =
       run(command => $cmd, verbose => 0);
@@ -109,10 +235,14 @@ class App::RecentChanges {
     my @commit_ids;
     foreach my $line (@$stdout_buf) {
       chomp($line);
-
-      # Split the line in case there are multiple IDs or extra spaces
+      $line =~ s/^(\w+) .+$/$1/;
       my @ids = split(/\s+/, $line);
-      push @commit_ids, grep { $_ && length($_) > 0 } @ids;
+      @ids = grep { $_ && $_ =~ /^[0-9a-f]{7,40}$/i } @ids;
+
+      foreach my $id (@ids) {
+        push @commit_ids, $id unless any { $id =~ m/^$_/ } @excluded_commits;
+      }
+
     }
 
     say "Found " . scalar(@commit_ids) . " commit IDs to process";
@@ -124,7 +254,7 @@ class App::RecentChanges {
     foreach my $commit_id (@commit_ids) {
       last
         if $count >=
-        200; # Process more than needed to ensure we have enough after filtering
+        300; # Process more than needed to ensure we have enough after filtering
 
       # Get commit details
       my $full_id_cmd = "cd $repo_path && git log --format=%H -n 1 $commit_id";
@@ -157,8 +287,12 @@ class App::RecentChanges {
         . "egrep \".md(wn)?( )?\$\" | grep -v \"index.md\"";
       my ($success4, $error_code4, $full_buf4, $stdout_buf4) =
         run(command => $files_cmd, verbose => 0);
-      my @files = @$stdout_buf4;
-      chomp(@files);
+      my @files = ();
+      chomp(@$stdout_buf4);
+
+      for my $line (@$stdout_buf4) {
+        push @files, split(/\n/, $line);
+      }
 
       if (!$success4 || !$stdout_buf4 || !@$stdout_buf4) {
         say "no files for $full_id, error was '$error_code4'";
@@ -170,6 +304,9 @@ class App::RecentChanges {
       $object->{message} = join(' ', @message_lines);
       $object->{date}    = $date;
       $object->{files}   = \@files;
+      if($object->{message} =~ m/^(?:fix|break):/ ){
+        next;
+      }
       push(@{$history}, $object);
       $count++;
     }

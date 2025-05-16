@@ -178,6 +178,8 @@ sub _render_markdown {
 
   my $content = $file_path->slurp;
 
+  my $layout = 'default';
+
   # Default title
   my $title = $page_path;
   $title =~ s{/}{::}g;  # Convert slashes to double colons for title
@@ -195,7 +197,7 @@ sub _render_markdown {
     elsif (ref $yaml_data eq 'HASH') {
       # Use title from front matter if available
       $title = $yaml_data->{title} if exists $yaml_data->{title};
-
+      $layout = $yaml_data->{layout} if exists $yaml_data->{layout};
     }
   }
 
@@ -203,13 +205,9 @@ sub _render_markdown {
   my $html = markdown($content);
 
   # Choose template based on path
-    my $template = 'layouts/Schierer/Luke/default';
+    my $template = "layouts/Schierer/Luke/$layout";
 
-    # Check if this is a log path
-    if ($page_path =~ m{^log/}) {
-      $template = 'layouts/Schierer/Luke/log';
-      $self->app->log->debug("Using log template for path: $page_path");
-    }
+
 
   # Render with layout and title
   return $self->render(
