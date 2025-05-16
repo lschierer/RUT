@@ -30,10 +30,10 @@
   },
   "dependencies": {
     "@spectrum-css/icon": "catalog:",
-    "@spectrum-css/link": "^7.1.0",
+    "@spectrum-css/link": "catalog:",
     "@spectrum-css/page": "catalog:",
-    "@spectrum-css/tokens": "^16.0.1",
-    "@spectrum-css/typography": "^8.1.0",
+    "@spectrum-css/tokens": "catalog:",
+    "@spectrum-css/typography": "catalog:",
     "iconify-icon": "^3.0.0",
     "luxon": "catalog:",
     "open-props": "catalog:",
