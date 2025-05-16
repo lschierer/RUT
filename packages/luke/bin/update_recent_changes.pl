@@ -6,6 +6,7 @@ use Carp;
 
 use FindBin;
 use lib "$FindBin::Bin/../lib";
+require Data::Printer;
 require App::RecentChanges ;
 
 # Configuration

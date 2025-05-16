@@ -72,13 +72,13 @@ check:
   just dev && echo dev task done
   sleep 10 && just linkcheck && echo "success"
 
-build-frontend:
+build-frontend: install
   #!/usr/bin/env bash
   CONTAINER_ENGINE=$(command -v podman || command -v docker)
   IMAGE_ID=$(${CONTAINER_ENGINE} build -q -f packages/infrastructure/Dockerfile .)
   echo ${IMAGE_ID}
 
-build: build-frontend
+build:  content-setup build-frontend
 
 [working-directory: 'packages/infrastructure']
 deploy: build

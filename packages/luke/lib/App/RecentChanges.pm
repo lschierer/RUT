@@ -10,7 +10,7 @@ class App::RecentChanges {
   use Exporter qw(import);
   require JSON::PP;
   require YAML::PP;
-  require Data::Printer;
+
   use Path::Tiny;
   use HTML::Entities qw(encode_entities);
   use IPC::Cmd       qw(run);
@@ -20,6 +20,10 @@ class App::RecentChanges {
   use Carp;
 
   our @EXPORT_OK = qw(update_recent_changes generate_git_history);
+
+  BEGIN {
+    require Data::Printer;
+  }
 
   field @excluded_commits = qw(
     00521e38 62e2825d d642ed21
@@ -110,50 +114,50 @@ class App::RecentChanges {
           if ($path =~ m{.*/([^/]+)$}) {
             $display_name = $1;
           }
-          if(!exists $displayedPaths{$path}) {
-            $displayedPaths{$path}++;
+          if (!exists $displayedPaths{encode_entities($path)}) {
+            $displayedPaths{encode_entities($path)}++;
 
-            if(Path::Tiny::path("./log/$path.md")->is_file()) {
-              my $content = Path::Tiny::path("./log/$path.md")->slurp_utf8();
+            if (Path::Tiny::path("./log/$path.md")->is_file()) {
+              my $content   = Path::Tiny::path("./log/$path.md")->slurp_utf8();
               my $yaml_data = {};
               if ($content =~ s/^---\s*\n(.*?)\n---\s*\n//s) {
                 my $yaml = $1;
-                eval {
-                  $yaml_data = $ypp->load_string($yaml);
-                };
+                eval { $yaml_data = $ypp->load_string($yaml); };
                 if ($@) {
                   say "Error parsing YAML front matter: $@";
                 }
                 elsif (ref $yaml_data eq 'HASH') {
                   # Use title from front matter if available
-                  $display_name = $yaml_data->{title} if exists $yaml_data->{title};
+                  $display_name = $yaml_data->{title}
+                    if exists $yaml_data->{title};
                 }
               }
               # Create the link with the desired format
               $files_html .=
-                "    <li><a href=\"/~luke/log/$path/\">$display_name</a></li>\n";
-            } elsif (Path::Tiny::path("./log/$path.mdwn")->is_file()) {
+"    <li><a href=\"/~luke/log/$path/\">$display_name</a></li>\n";
+            }
+            elsif (Path::Tiny::path("./log/$path.mdwn")->is_file()) {
               $files_html .=
-                "    <li><a href=\"/~luke/log/$path/\">$display_name</a></li>\n";
-            } else {
-              $displayedPaths{$path}--;
-              if($displayedPaths{$path} <= 0){
-                $displayedPaths{$path} = undef;
-                delete $displayedPaths{$path};
+"    <li><a href=\"/~luke/log/$path/\">$display_name</a></li>\n";
+            }
+            else {
+              $displayedPaths{encode_entities($path)}--;
+              if ($displayedPaths{encode_entities($path)} <= 0) {
+                $displayedPaths{encode_entities($path)} = undef;
+                delete $displayedPaths{encode_entities($path)};
               }
             }
 
           }
-          if(keys %displayedPaths > 10) {
+          if (keys %displayedPaths > 10) {
             my $remaining = scalar @{ $entry->{files} };
             $remaining = $remaining - (keys %displayedPaths);
             say "I have $remaining entries I am skipping for $short_id";
-            if($remaining == 1) {
-              $files_html .=
-                "    <li>and $remaining additional file.</li>\n";
-            } elsif ($remaining > 1) {
-              $files_html .=
-                "    <li>and $remaining additional files.</li>\n";
+            if ($remaining == 1) {
+              $files_html .= "    <li>and $remaining additional file.</li>\n";
+            }
+            elsif ($remaining > 1) {
+              $files_html .= "    <li>and $remaining additional files.</li>\n";
             }
             last;
           }
@@ -183,12 +187,14 @@ class App::RecentChanges {
       $entry_html .= $files_html;
       $entry_html .= "    </ul>\n";
       $entry_html .= "  <dd>\n";
-      my $paths = @{ keys %displayedPaths};
-      if(scalar @{$paths} >= 1) {
+      my @paths =  keys %displayedPaths ;
 
-        say "$short_id has keys ". Data::Printer::np(@{$paths});
+      if (scalar @paths >= 1) {
+
+        say "$short_id has keys " . Data::Printer::np(@paths);
         $dl_html .= $entry_html;
-      }else {
+      }
+      else {
         say "skipping $short_id";
       }
     }
@@ -304,7 +310,7 @@ class App::RecentChanges {
       $object->{message} = join(' ', @message_lines);
       $object->{date}    = $date;
       $object->{files}   = \@files;
-      if($object->{message} =~ m/^(?:fix|break):/ ){
+      if ($object->{message} =~ m/^(?:fix|break):/) {
         next;
       }
       push(@{$history}, $object);
