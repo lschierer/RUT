@@ -36,7 +36,7 @@ class App::IkiConverter {
 
     # Extract title from meta directive
     if ($content =~ /\[\[\!meta\s+title="([^"]+)"\s*\]\]/i) {
-        $title = $1;
+      $title = $1;
     }
 
     # If no title found, use filename
@@ -54,14 +54,15 @@ class App::IkiConverter {
 
     # Extract date from meta directive
     if ($content =~ /\[\[\!meta\s+updated="([^"]+)"\s*\]\]/i) {
-        $date = $1;
-    } elsif ($content =~ /\[\[\!meta\s+date="([^"]+)"\s*\]\]/i) {
-        $date = $1;
+      $date = $1;
+    }
+    elsif ($content =~ /\[\[\!meta\s+date="([^"]+)"\s*\]\]/i) {
+      $date = $1;
     }
 
     # Check if date is empty or only whitespace
     if (!defined($date) || $date eq '' || $date =~ /^\s*$/) {
-      my $repo = Git::Repository->new(work_tree => '.');
+      my $repo          = Git::Repository->new(work_tree => '.');
       my $abs_file_path = $file_path->absolute;
 
       # Get the git root directory
@@ -70,9 +71,12 @@ class App::IkiConverter {
       # Make the file path relative to the git root
       my $rel_file_path = $abs_file_path->relative($git_root);
 
-      my @cmd = ('log', '--diff-filter=A', '--follow', '--format=%cd', '--date=iso8601', '--', $rel_file_path->stringify);
+      my @cmd = (
+        'log', '--diff-filter=A', '--follow', '--format=%cd', '--date=iso8601',
+        '--',  $rel_file_path->stringify
+      );
       my $output = $repo->run(@cmd);
-      my @lines = split(/\n/, $output);
+      my @lines  = split(/\n/, $output);
       $date = $lines[-1] if @lines;
     }
     if (!defined($date) || $date eq '' || $date =~ /^\s*$/) {
@@ -80,7 +84,6 @@ class App::IkiConverter {
       my $dt = DateTime->now;
       $date = $dt->iso8601;
     }
-
 
     # Extract tags
     while ($content =~ /\[\[\!tag\s+([^\]]+?)\s*\]\]/g) {
@@ -155,7 +158,7 @@ class App::IkiConverter {
 
     my @matching_files = ();
     # Get all immediate children of the directory
-    if($target_dir->is_dir()) {
+    if ($target_dir->is_dir()) {
       @matching_files = $target_dir->children(qr/\.(mdwn|md)$/);
     }
 
@@ -181,7 +184,7 @@ class App::IkiConverter {
         $title =~ s/_/ /g;
 
         # Create relative link path
-        my $link_path = $dir_name . '/' . $basename;
+        (my $link_path = '/~luke/' . $source_dir . '/' . $dir_name . '/' . $basename . '/') =~ s{/+}{/}g;
 
         $content .= "- [$title]($link_path)\n";
       }
@@ -197,23 +200,23 @@ class App::IkiConverter {
 # Validate markdown using Pandoc
   method clean_and_validate_markdown ($content) {
 
-  # Create a new Pandoc instance
-      my $pandoc = Pandoc->new();
+    # Create a new Pandoc instance
+    my $pandoc = Pandoc->new();
 
-      # First, convert from markdown (with embedded HTML) to Pandoc's AST
-      my $ast = $pandoc->convert(
-          'markdown+footnotes+markdown_in_html_blocks+raw_html' => 'json',
-          $content
-      );
+    # First, convert from markdown (with embedded HTML) to Pandoc's AST
+    my $ast = $pandoc->convert(
+      'markdown_mmd+footnotes+raw_html' => 'json',
+      $content
+    );
 
-      # Then convert from AST back to clean markdown
-      my $clean_markdown = $pandoc->convert(
-          'json' => 'gfm+footnotes',
-          $ast
-      );
+    # Then convert from AST back to clean markdown
+    my $clean_markdown = $pandoc->convert(
+      'json' => 'gfm+footnotes',
+      $ast
+    );
 
-      # Return the cleaned markdown
-      return $clean_markdown;
+    # Return the cleaned markdown
+    return $clean_markdown;
 
   }
 
@@ -243,7 +246,7 @@ class App::IkiConverter {
     # Process map directives if present
     if ($content =~ /\[\[\!map\s+pages="([^"]+)"\]\]/i) {
       my $pattern     = $1;
-      my $map_content = $self->generate_map_content($pattern, );
+      my $map_content = $self->generate_map_content($pattern,);
       $content =~ s/\[\[\!map\s+pages="[^"]+"\]\]/$map_content/g;
     }
 

@@ -8,6 +8,7 @@ our $VERSION = '0.00.1';
 
 class App::Compile {
   require App::RecentChanges;
+  require App::TagPageGenerator;
   require File::Temp;
   use Array::Merge::Unique qw/unique_array/;
   use HTML::FormatMarkdown;
@@ -93,30 +94,12 @@ class App::Compile {
     }
   }
 
-  method read_tags {
-    my @originalTags = ();
-    say("original tags were " . p @originalTags);
-    my @newTags = ();
-    push(@newTags, $originalTags[0]);
-
-    for my $tl (@originalTags) {
-      if ($tl =~ /\{ "(.+?)": (\d+) \},/) {
-        my $tag_name  = $1;
-        my $tag_count = $2;
-        say("found tag $tag_name with count $tag_count");
-        if (exists $tags->{$tag_name}) {
-          $tags->{$tag_name} = $tags->{$tag_name} + $tag_count;
-        }
-        else {
-          tags->{$tag_name} = $tag_count;
-        }
-        my $newLine = sprintf('{ "%s": %d },', $tag_name, $tags->{$tag_name});
-        push(@newTags, $newLine);
-      }
-    }
-    my $tagLength = scalar @originalTags;
-    push(@newTags, $originalTags[$tagLength - 2]);
-    push(@newTags, $originalTags[$tagLength - 1]);
+  method getTags {
+    my $tpg = App::TagPageGenerator->new(
+      input   => $input_dir->stringify(),
+      output  => $output_dir->stringify(),
+    );
+    $tpg->generate_tags();
   }
 
   method run {
@@ -175,18 +158,20 @@ class App::Compile {
           }
           if ($path->absolute()->stringify eq
             Path::Tiny::path('./log/index.md')->absolute()->stringify) {
-            my $rc = App::RecentChanges->new();
+            my $rc   = App::RecentChanges->new();
             my $temp = File::Temp->new(
               UNLINK => 1,
               SUFFIX => '.dat',
-              PERMS => 0640,
+              PERMS  => 0640,
             );
 
             my $limit = 100;
 
             my $commits_processed = $rc->generate_git_history($temp);
-            my $dl_entries = $rc->update_recent_changes($temp, $newPath, $limit);
-            say "DL with $dl_entries for $commits_processed commits added to $newPath";
+            my $dl_entries =
+              $rc->update_recent_changes($temp, $newPath, $limit);
+            say
+"DL with $dl_entries for $commits_processed commits added to $newPath";
 
           }
         }
@@ -194,7 +179,7 @@ class App::Compile {
       { recurse => 1 }
     );
 
-    $self->read_tags();
+    $self->getTags();
   }
 
 }

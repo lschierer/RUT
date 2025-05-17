@@ -98,7 +98,10 @@ class App::Copy {
         my $ext = lc($suffix || '');
         say "processing $path with extension $ext";
 
-        if ($ext eq '.html' || $ext eq '.txt' || $ext eq '.pdf' || $ext eq '.css') {
+        if ( $ext eq '.html'
+          || $ext eq '.txt'
+          || $ext eq '.pdf'
+          || $ext eq '.css') {
 
           # Copy HTML and PDF files to output_dir preserving path
           my $dest = path($output_dir, $rel_path);

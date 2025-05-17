@@ -13,7 +13,7 @@ class App::RecentChanges {
 
   use Path::Tiny;
   use HTML::Entities qw(encode_entities);
-  use IPC::Cmd       qw(run);
+  use Git::Repository;
   use List::AllUtils qw( first any );
   use DateTime;
   use DateTime::Format::ISO8601;
@@ -24,6 +24,8 @@ class App::RecentChanges {
   BEGIN {
     require Data::Printer;
   }
+
+  field $repo = Git::Repository->new(work_tree => '.');
 
   field @excluded_commits = qw(
     00521e38 62e2825d d642ed21
@@ -114,8 +116,8 @@ class App::RecentChanges {
           if ($path =~ m{.*/([^/]+)$}) {
             $display_name = $1;
           }
-          if (!exists $displayedPaths{encode_entities($path)}) {
-            $displayedPaths{encode_entities($path)}++;
+          if (!exists $displayedPaths{ encode_entities($path) }) {
+            $displayedPaths{ encode_entities($path) }++;
 
             if (Path::Tiny::path("./log/$path.md")->is_file()) {
               my $content   = Path::Tiny::path("./log/$path.md")->slurp_utf8();
@@ -141,10 +143,10 @@ class App::RecentChanges {
 "    <li><a href=\"/~luke/log/$path/\">$display_name</a></li>\n";
             }
             else {
-              $displayedPaths{encode_entities($path)}--;
-              if ($displayedPaths{encode_entities($path)} <= 0) {
-                $displayedPaths{encode_entities($path)} = undef;
-                delete $displayedPaths{encode_entities($path)};
+              $displayedPaths{ encode_entities($path) }--;
+              if ($displayedPaths{ encode_entities($path) } <= 0) {
+                $displayedPaths{ encode_entities($path) } = undef;
+                delete $displayedPaths{ encode_entities($path) };
               }
             }
 
@@ -187,7 +189,7 @@ class App::RecentChanges {
       $entry_html .= $files_html;
       $entry_html .= "    </ul>\n";
       $entry_html .= "  <dd>\n";
-      my @paths =  keys %displayedPaths ;
+      my @paths = keys %displayedPaths;
 
       if (scalar @paths >= 1) {
 
@@ -226,21 +228,20 @@ class App::RecentChanges {
     $output_dir->mkdir({ mode => 0711 }) unless ($output_dir->exists);
 
     # Get the list of commit IDs to process
-    my $cmd =
-"cd $repo_path && git log --oneline --full-history --color=never --decorate=short "
-      . "--grep \"^build: \" --grep \"calendar update\" --invert-grep -- . ':!packages/greenwood' ':**/*.md(wn)?'  ";
-
-    my ($success, $error_code, $full_buf, $stdout_buf, $stderr_buf) =
-      run(command => $cmd, verbose => 0);
-
-    if (!$success) {
-      die "Failed to get git commit IDs: " . join("\n", @$stderr_buf);
-    }
+    my @log = $repo->run(
+      'log',                  '--oneline',
+      '--full-history',       '--color=never',
+      '--decorate=short',     '--grep',
+      '^build: ',             '--grep',
+      'calendar update',      '--invert-grep',
+      '--',                   '.',
+      ':!packages/greenwood', ':**/*.md(wn)?',
+    );
 
     # Process the output to get clean commit IDs
     my @commit_ids;
-    foreach my $line (@$stdout_buf) {
-      chomp($line);
+    foreach my $line (@log) {
+      my ($commit_id, $summary) = split / /, $line, 2;
       $line =~ s/^(\w+) .+$/$1/;
       my @ids = split(/\s+/, $line);
       @ids = grep { $_ && $_ =~ /^[0-9a-f]{7,40}$/i } @ids;
@@ -259,81 +260,51 @@ class App::RecentChanges {
 
     foreach my $commit_id (@commit_ids) {
       last
-        if $count >=
-        1000; # Process more than needed to ensure we have enough after filtering
+        if $count >= 1000
+        ;    # Process more than needed to ensure we have enough after filtering
 
       # Get commit details
-      my $full_id_cmd = "cd $repo_path && git log --format=%H -n 1 $commit_id";
-      my ($success1, $error_code1, $full_buf1, $stdout_buf1) =
-        run(command => $full_id_cmd, verbose => 0);
+      my $message = join "\n",
+        $repo->run('log', '--format=%B', '-n', 1, $commit_id);
+      chomp($message);
+      my $timestamp   = $repo->run('log', '--format=%at', '-n', 1, $commit_id);
+      my @filesResult = $repo->run('show', '--no-renames', '--pretty=reference',
+        '--color=never', '--stat=1000', $commit_id);
 
-      if (!$success1 || !$stdout_buf1 || !@$stdout_buf1) {
-        say "Failed to get full ID for $commit_id";
-        next;
-      }
-
-      my $full_id = $stdout_buf1->[0];
-      chomp($full_id);
-
-      my $message_cmd = "cd $repo_path && git log --format=%B -n 1 $commit_id";
-      my ($success2, $error_code2, $full_buf2, $stdout_buf2) =
-        run(command => $message_cmd, verbose => 0);
-      my @message_lines = @$stdout_buf2;
-      chomp(@message_lines);
-
-      my $date_cmd = "cd $repo_path && git log --format=%at -n 1 $commit_id";
-      my ($success3, $error_code3, $full_buf3, $stdout_buf3) =
-        run(command => $date_cmd, verbose => 0);
-      my $date = $stdout_buf3->[0];
-      chomp($date);
-
-      my $files_cmd =
-"cd $repo_path && git show --no-renames --pretty=reference --color=never --stat=1000 $commit_id  ";
-        #. "tail -n +3 | ghead -n -1 | cut -d '|' -f 1 | tr -s '[:blank:]' | "
-        #. "egrep \".md(wn)?( )?\$\" | grep -v \"index.md\"";
-      my ($success4, $error_code4, $full_buf4, $stdout_buf4) =
-        run(command => $files_cmd, verbose => 0);
       my @files = ();
-      chomp(@$stdout_buf4);
 
-      for my $line (@$stdout_buf4) {
-        my @actualLines = split(/\n/, $line);
-        # Skip the first line (commit reference line)
-        shift @actualLines;
+      # Skip the first line (commit reference line)
+      shift @filesResult;
 
-        # Skip any empty lines at the beginning
-        while (@actualLines && $actualLines[0] =~ /^\s*$/) {
-            shift @actualLines;
-        }
-        # Process each line until we hit the summary line
-        foreach my $al (@actualLines) {
-          # Stop when we hit the summary line (e.g., "4 files changed...")
-          last if $al =~ /^\s*\d+\s+files?\s+changed/;
+      # Skip any empty lines at the beginning
+      while (@filesResult && $filesResult[0] =~ /^\s*$/) {
+        shift @filesResult;
+      }
+      # Process each line until we hit the summary line
+      foreach my $al (@filesResult) {
+        # Stop when we hit the summary line (e.g., "4 files changed...")
+        last if $al =~ /^\s*\d+\s+files?\s+changed/;
 
-          # Skip empty lines
-          next if $al =~ /^\s*$/;
+        # Skip empty lines
+        next if $al =~ /^\s*$/;
 
-          # Extract filename from diffstat line
-          if ($al =~ /^\s*(.*?)\s+\|\s+\d+/) {
-            my $filename = $1;
-            # Trim any leading/trailing whitespace
-            $filename =~ s/^\s+|\s+$//g;
-            if($filename !~ m/index\.md$/ ) {
-              push @files, $filename if $filename;
-            }
+        # Extract filename from diffstat line
+        if ($al =~ /^\s*(.*?)\s+\|\s+\d+/) {
+          my $filename = $1;
+          # Trim any leading/trailing whitespace
+          $filename =~ s/^\s+|\s+$//g;
+          if ($filename !~ m/index\.md$/) {
+            push @files, $filename if $filename;
           }
         }
       }
 
-      if (!$success4 || !$stdout_buf4 || !@$stdout_buf4) {
-        say "no files for $full_id, error was '$error_code4'";
-      }
       $first = 0;
 
       my $object = {};
-      $object->{id}      = $full_id;
-      $object->{message} = join(' ', @message_lines);
-      $object->{date}    = $date;
+      $object->{id}      = $commit_id;
+      $object->{message} = $message;
+      $object->{date}    = $timestamp;
       $object->{files}   = \@files;
       if ($object->{message} =~ m/^(?:fix|break):/) {
         next;
