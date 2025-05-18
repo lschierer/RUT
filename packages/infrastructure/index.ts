@@ -1,6 +1,10 @@
 import * as pulumi from "@pulumi/pulumi";
 import * as aws from "@pulumi/aws";
+import * as awsx from '@pulumi/awsx';
 import * as docker from "@pulumi/docker";
+import * as crypto from "node:crypto";
+import * as fs from "node:fs";
+import * as path from "node:path";
 
 // Get configuration values
 const config = new pulumi.Config();
@@ -8,12 +12,13 @@ const domainName = config.require("domainName");
 const rootDomainName = config.require("rootDomainName");
 const createHostedZone = config.getBoolean("createHostedZone") || false;
 const logRetentionDays = config.getNumber("logRetentionDays") || 7; // Default to 7 days if not specified
+const mojoLogLevel = config.get("mojoLogLevel") || "warn"; // default fallback
 
 // Define the AWS ECS cluster
-const cluster = new aws.ecs.Cluster("my-cluster");
+const cluster = new aws.ecs.Cluster("schierer-web-cluster");
 
 // Create CloudWatch log group for container logs with environment-specific retention
-const logGroup = new aws.cloudwatch.LogGroup("app-log-group", {
+const logGroup = new aws.cloudwatch.LogGroup("schierer-web", {
   retentionInDays: logRetentionDays,
   tags: {
     Application: "schierer-org",
@@ -22,14 +27,49 @@ const logGroup = new aws.cloudwatch.LogGroup("app-log-group", {
 });
 
 // Create an ECR repository
-const repository = new aws.ecr.Repository("my-repo");
+const repository = new aws.ecr.Repository("schierer-web-repo");
+
+function hashDirectory(dir: string): string {
+  const files = walk(dir);
+  const hash = crypto.createHash("sha256");
+
+  for (const file of files.sort()) {
+    const content = fs.readFileSync(file);
+    hash.update(file);
+    hash.update(content);
+  }
+
+  return hash.digest("hex");
+}
+
+function walk(dir: string): string[] {
+  let results: string[] = [];
+  const list = fs.readdirSync(dir);
+
+  for (const file of list) {
+    const fullPath = path.join(dir, file);
+    const stat = fs.statSync(fullPath);
+
+    if (stat.isDirectory()) {
+      results = results.concat(walk(fullPath));
+    } else {
+      results.push(fullPath);
+    }
+  }
+
+  return results;
+}
+const versionHash = hashDirectory("../frontend");
 
 // Define the Docker image
-const image = new docker.Image("my-frontend-image", {
+const image = new docker.Image("schierer.org-image", {
   build: {
     context: "../../",
     dockerfile: "./Dockerfile",
     platform: "linux/amd64", // Explicitly set the platform to linux/amd64
+    args: {
+      VERSION_HASH: versionHash,
+    },
   },
   imageName: pulumi.interpolate`${repository.repositoryUrl}:latest`,
   registry: {
@@ -63,34 +103,44 @@ new aws.iam.RolePolicyAttachment("ecsTaskExecutionRolePolicyAttachment", {
 });
 
 // Create an ECS task definition with logging enabled
-const taskDefinition = new aws.ecs.TaskDefinition("my-task", {
-  family: "my-task-family",
-  containerDefinitions: pulumi.all([image.imageName, logGroup.name]).apply(
-    ([imageName, logGroupName]) =>
+const taskDefinition = new aws.ecs.TaskDefinition("Schierer.org-ECS-Task", {
+  family: "Schierer-web-task-family",
+  containerDefinitions: pulumi
+    .all([image., logGroup.name])
+    .apply(([imageName, logGroupName]) =>
       JSON.stringify([
         {
-          name: "my-frontend",
+          name: "Schierer-web",
           image: imageName,
           essential: true,
           portMappings: [
             {
-              containerPort: 3000, // Container listens on port 3000
-              hostPort: 3000,      // Host maps to the same port
+              containerPort: 3000,
+              hostPort: 3000,
               protocol: "tcp",
             },
           ],
-          // Add logging configuration
+          environment: [
+            {
+              name: "MOJO_LOG_LEVEL",
+              value: mojoLogLevel,
+            },
+            {
+              name: "MOJO_REVERSE_PROXY",
+              value: "1",
+            },
+          ],
           logConfiguration: {
             logDriver: "awslogs",
             options: {
               "awslogs-group": logGroupName,
               "awslogs-region": aws.config.region,
-              "awslogs-stream-prefix": "ecs",
+              "awslogs-stream-prefix": "ecs/schierer.org",
             },
           },
         },
-      ])
-  ),
+      ]),
+    ),
   networkMode: "awsvpc",
   requiresCompatibilities: ["FARGATE"],
   cpu: "256",
@@ -106,34 +156,45 @@ const subnets = defaultVpc.then((vpc) =>
 );
 
 // Create a security group for the ALB
-const albSecurityGroup = new aws.ec2.SecurityGroup("alb-security-group", {
-  vpcId: defaultVpc.then((vpc) => vpc.id),
-  ingress: [
-    { protocol: "tcp", fromPort: 80, toPort: 80, cidrBlocks: ["0.0.0.0/0"] },
-    { protocol: "tcp", fromPort: 443, toPort: 443, cidrBlocks: ["0.0.0.0/0"] },
-  ],
-  egress: [
-    { protocol: "-1", fromPort: 0, toPort: 0, cidrBlocks: ["0.0.0.0/0"] },
-  ],
-});
+const albSecurityGroup = new aws.ec2.SecurityGroup(
+  "schierer.org-alb-security-group",
+  {
+    vpcId: defaultVpc.then((vpc) => vpc.id),
+    ingress: [
+      { protocol: "tcp", fromPort: 80, toPort: 80, cidrBlocks: ["0.0.0.0/0"] },
+      {
+        protocol: "tcp",
+        fromPort: 443,
+        toPort: 443,
+        cidrBlocks: ["0.0.0.0/0"],
+      },
+    ],
+    egress: [
+      { protocol: "-1", fromPort: 0, toPort: 0, cidrBlocks: ["0.0.0.0/0"] },
+    ],
+  },
+);
 
 // Create a security group for the ECS tasks
-const ecsSecurityGroup = new aws.ec2.SecurityGroup("ecs-security-group", {
-  vpcId: defaultVpc.then(vpc => vpc.id),
-  ingress: [
-    // Allow inbound traffic from ALB on port 3000
-    { 
-      protocol: "tcp", 
-      fromPort: 3000, 
-      toPort: 3000, 
-      securityGroups: [albSecurityGroup.id],
-    },
-  ],
-  egress: [
-    // Allow all outbound traffic
-    { protocol: "-1", fromPort: 0, toPort: 0, cidrBlocks: ["0.0.0.0/0"] },
-  ],
-});
+const ecsSecurityGroup = new aws.ec2.SecurityGroup(
+  "schierer.org-ecs-security-group",
+  {
+    vpcId: defaultVpc.then((vpc) => vpc.id),
+    ingress: [
+      // Allow inbound traffic from ALB on port 3000
+      {
+        protocol: "tcp",
+        fromPort: 3000,
+        toPort: 3000,
+        securityGroups: [albSecurityGroup.id],
+      },
+    ],
+    egress: [
+      // Allow all outbound traffic
+      { protocol: "-1", fromPort: 0, toPort: 0, cidrBlocks: ["0.0.0.0/0"] },
+    ],
+  },
+);
 
 // Get or create Route53 hosted zone
 let hostedZone: aws.route53.GetZoneResult | aws.route53.Zone;
@@ -149,7 +210,7 @@ if (createHostedZone) {
 }
 
 // Create an ACM certificate
-const certificate = new aws.acm.Certificate("certificate", {
+const certificate = new aws.acm.Certificate("schierer.org-certificate", {
   domainName: domainName,
   subjectAlternativeNames: [`www.${domainName}`], // Add www subdomain to certificate
   validationMethod: "DNS",
@@ -171,7 +232,7 @@ const certificateValidationDomain = new aws.route53.Record(
 
 // Create DNS validation record for the www subdomain
 const wwwCertificateValidationDomain = new aws.route53.Record(
-  "www-certificate-validation-record",
+  "schierer.org-www-certificate-validation-record",
   {
     name: certificate.domainValidationOptions[1].resourceRecordName,
     zoneId: createHostedZone
@@ -185,7 +246,7 @@ const wwwCertificateValidationDomain = new aws.route53.Record(
 
 // Wait for certificate validation
 const certificateValidation = new aws.acm.CertificateValidation(
-  "certificate-validation",
+  "schierer.org-certificate-validation",
   {
     certificateArn: certificate.arn,
     validationRecordFqdns: [
@@ -196,7 +257,7 @@ const certificateValidation = new aws.acm.CertificateValidation(
 );
 
 // Create a load balancer
-const alb = new aws.lb.LoadBalancer("my-load-balancer", {
+const alb = new aws.lb.LoadBalancer("schierer-lb", {
   internal: false,
   loadBalancerType: "application",
   securityGroups: [albSecurityGroup.id],
@@ -204,25 +265,25 @@ const alb = new aws.lb.LoadBalancer("my-load-balancer", {
 });
 
 // Create a target group
-const targetGroup = new aws.lb.TargetGroup("my-target-group", {
-  port: 3000,           // Target group connects to container on port 3000
+const targetGroup = new aws.lb.TargetGroup("schierer-group", {
+  port: 3000, // Target group connects to container on port 3000
   protocol: "HTTP",
   targetType: "ip",
   vpcId: defaultVpc.then((vpc) => vpc.id),
   healthCheck: {
     path: "/",
-    port: "3000",       // Health check on port 3000
+    port: "3000", // Health check on port 3000
     protocol: "HTTP",
     matcher: "200-399",
-    interval: 30,       // Check every 30 seconds
-    timeout: 5,         // 5 second timeout
-    healthyThreshold: 2,    // 2 successful checks to be considered healthy
-    unhealthyThreshold: 3,  // 3 failed checks to be considered unhealthy
+    interval: 30, // Check every 30 seconds
+    timeout: 5, // 5 second timeout
+    healthyThreshold: 2, // 2 successful checks to be considered healthy
+    unhealthyThreshold: 3, // 3 failed checks to be considered unhealthy
   },
 });
 
 // Create HTTP listener (will redirect to HTTPS)
-const httpListener = new aws.lb.Listener("http-listener", {
+const httpListener = new aws.lb.Listener("schierer.org-http-listener", {
   loadBalancerArn: alb.arn,
   port: 80,
   defaultActions: [
@@ -238,7 +299,7 @@ const httpListener = new aws.lb.Listener("http-listener", {
 });
 
 // Create HTTPS listener
-const httpsListener = new aws.lb.Listener("https-listener", {
+const httpsListener = new aws.lb.Listener("schierer.org-https-listener", {
   loadBalancerArn: alb.arn,
   port: 443,
   protocol: "HTTPS",
@@ -253,7 +314,7 @@ const httpsListener = new aws.lb.Listener("https-listener", {
 });
 
 // Create an ECS service
-const service = new aws.ecs.Service("my-service", {
+const service = new aws.ecs.Service("schierer-web-service", {
   cluster: cluster.arn,
   taskDefinition: taskDefinition.arn,
   desiredCount: 1,
@@ -266,14 +327,14 @@ const service = new aws.ecs.Service("my-service", {
   loadBalancers: [
     {
       targetGroupArn: targetGroup.arn,
-      containerName: "my-frontend",
-      containerPort: 3000,  // Container port is 3000
+      containerName: "Schierer-web",
+      containerPort: 3000, // Container port is 3000
     },
   ],
 });
 
 // Create Route53 record for the domain pointing to the ALB
-const dnsRecord = new aws.route53.Record("dns-record", {
+const dnsRecord = new aws.route53.Record("schierer.org-dns-record", {
   zoneId: createHostedZone
     ? (hostedZone as aws.route53.Zone).zoneId
     : (hostedZone as aws.route53.GetZoneResult).zoneId,
@@ -290,11 +351,11 @@ const dnsRecord = new aws.route53.Record("dns-record", {
 
 // Create www alias record if this is the root domain
 const isRootDomain = domainName === rootDomainName;
-const wwwDomainName = isRootDomain 
-  ? `www.${rootDomainName}` 
+const wwwDomainName = isRootDomain
+  ? `www.${rootDomainName}`
   : `www.${domainName}`;
 
-const wwwDnsRecord = new aws.route53.Record("www-dns-record", {
+const wwwDnsRecord = new aws.route53.Record("schierer.org-www-dns-record", {
   zoneId: createHostedZone
     ? (hostedZone as aws.route53.Zone).zoneId
     : (hostedZone as aws.route53.GetZoneResult).zoneId,

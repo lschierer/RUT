@@ -5,3 +5,4 @@ config:
   schierer.org:rootDomainName: schierer.org
   schierer.org:createHostedZone: false
   schierer.org:logRetentionDays: 30
+  schierer.org:mojoLogLevel: warn

@@ -1,14 +1,19 @@
-FROM perl
+# syntax=docker/dockerfile:1
+
+FROM perl:5.40
+
+# Set workdir to match container path used in serve-start
 WORKDIR /opt/schierer.org
 
-# Copy the frontend application
-COPY ./packages/frontend ./
-# Copy infrastructure files (if needed)
-#COPY ./packages/infrastructure ./infrastructure/
+RUN apt-get update && apt-get install -y build-essential
 
-# Install dependencies from the frontend directory
-#RUN cpanm --installdeps -n .
-RUN ./bin/perldeps.sh
+COPY packages/frontend /opt/schierer.org
+# Install tools without tests
+RUN cpanm --notest Module::Build
+RUN cpanm --notest utf8::all
+RUN cpanm --notest --installdeps .
+
+RUN perl Build.PL && ./Build && ./Build install --notest
 
 EXPOSE 3000
 CMD ./schierer.org.pl prefork
