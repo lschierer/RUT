@@ -9,9 +9,11 @@ const domainName = config.require("domainName");
 const rootDomainName = config.require("rootDomainName"); // e.g. schierer.org
 const mojoLogLevel = config.get("mojoLogLevel") || "warn";
 const region = aws.config.region || "us-east-2";
-const githubToken = config.requireSecret("githubToken");
 const githubOwner = config.require("githubOwner");
 const githubRepo = config.require("githubRepo");
+
+const identity = aws.getCallerIdentity({});
+const accountId = identity.then((i) => i.accountId);
 
 // ACM certificate for domain (must be in us-east-1 for use with CloudFront)
 const certificate = new aws.acm.Certificate("schierer-cert", {
@@ -46,7 +48,8 @@ const certValidation = new aws.acm.CertificateValidation(
   },
 );
 
-const deployEnvFile = "../../.env.deploy";
+// ECR repository
+const repository = new aws.ecr.Repository("schierer-web-repo");
 
 // IAM Role for CodeBuild
 const codeBuildRole = new aws.iam.Role("codebuild-role", {
@@ -60,48 +63,57 @@ new aws.iam.RolePolicyAttachment("codebuild-policy", {
   policyArn: aws.iam.ManagedPolicy.AWSCodeBuildDeveloperAccess,
 });
 
-// ECR repository to receive built images
-const repository = new aws.ecr.Repository("schierer-web-repo");
+// CodeBuild buildspec
+const buildspec = fs.readFileSync("./buildspec.yml", "utf-8");
 
-const buildspec = `version: 0.2
-phases:
-pre_build:
-  commands:
-    - echo Logging in to Amazon ECR...
-    - aws ecr get-login-password --region $REGION | docker login --username AWS --password-stdin $REPOSITORY_URI
-build:
-  commands:
-    - echo Build started on $(date)
-    - docker build -t $REPOSITORY_URI:latest .
-    - docker push $REPOSITORY_URI:latest
-post_build:
-  commands:
-    - echo Build completed on $(date)
-`;
-
-// CodeBuild project
+// CodeBuild Project
 const codeBuildProject = new aws.codebuild.Project("schierer-build", {
   name: "schierer-web-build",
   serviceRole: codeBuildRole.arn,
-  artifacts: {
-    type: "NO_ARTIFACTS",
-  },
-  projectVisibility: "PRIVATE",
+  artifacts: { type: "CODEPIPELINE" },
   environment: {
     computeType: "BUILD_GENERAL1_SMALL",
     image: "aws/codebuild/standard:7.0",
     type: "LINUX_CONTAINER",
-    privilegedMode: true, // Needed to run Docker
+    privilegedMode: true,
     environmentVariables: [
-      { name: "REPOSITORY_URI", value: repository.repositoryUrl },
+      {
+        name: "REPOSITORY_URI",
+        value: repository.repositoryUrl.apply(
+          (uri) => uri,
+        ) /* <-- unwrap Output<string> */,
+      },
       { name: "REGION", value: region },
     ],
   },
   source: {
-    type: "GITHUB",
-    location: pulumi.interpolate`${githubOwner}/${githubRepo}`,
+    type: "CODEPIPELINE",
     buildspec: buildspec,
   },
+});
+
+new aws.iam.RolePolicy("codebuild-logging", {
+  role: codeBuildRole.name,
+  policy: pulumi
+    .all([codeBuildProject.name, accountId])
+    .apply(([project, id]) =>
+      JSON.stringify({
+        Statement: [
+          {
+            Effect: "Allow",
+            Action: [
+              "logs:CreateLogGroup",
+              "logs:CreateLogStream",
+              "logs:PutLogEvents",
+            ],
+            Resource: [
+              `arn:aws:logs:${region}:${id}:log-group:/aws/codebuild/${project}`,
+              `arn:aws:logs:${region}:${id}:log-group:/aws/codebuild/${project}:*`,
+            ],
+          },
+        ],
+      }),
+    ),
 });
 
 // IAM role for CodePipeline
@@ -113,7 +125,86 @@ const pipelineRole = new aws.iam.Role("pipeline-role", {
 
 new aws.iam.RolePolicyAttachment("pipeline-policy", {
   role: pipelineRole.name,
-  policyArn: aws.iam.ManagedPolicy.CodePipeline_FullAccess,
+  policyArn: "arn:aws:iam::aws:policy/AWSCodePipeline_FullAccess",
+});
+
+// Artifact store S3 bucket
+const artifactBucket = new aws.s3.Bucket("schierer-artifacts", {
+  forceDestroy: true,
+});
+
+new aws.iam.RolePolicy("codebuild-artifacts-access", {
+  role: codeBuildRole.name,
+  policy: pulumi.all([artifactBucket.arn]).apply(([bucketArn]) =>
+    JSON.stringify({
+      Version: "2012-10-17",
+      Statement: [
+        {
+          Effect: "Allow",
+          Action: [
+            "s3:GetObject",
+            "s3:GetObjectVersion",
+            "s3:GetBucketVersioning",
+            "s3:GetBucketLocation",
+            "s3:PutObject",
+          ],
+          Resource: [bucketArn, `${bucketArn}/*`],
+        },
+      ],
+    }),
+  ),
+});
+
+new aws.iam.RolePolicy("pipeline-s3-access", {
+  role: pipelineRole.name,
+  policy: artifactBucket.arn.apply((bucketArn) =>
+    JSON.stringify({
+      Version: "2012-10-17",
+      Statement: [
+        {
+          Effect: "Allow",
+          Action: [
+            "s3:GetObject",
+            "s3:GetObjectVersion",
+            "s3:PutObject",
+            "s3:ListBucket",
+          ],
+          Resource: [bucketArn, `${bucketArn}/*`],
+        },
+      ],
+    }),
+  ),
+});
+
+new aws.iam.RolePolicy("pipeline-codestar-access", {
+  role: pipelineRole.name,
+  policy: JSON.stringify({
+    Version: "2012-10-17",
+    Statement: [
+      {
+        Effect: "Allow",
+        Action: "codestar-connections:UseConnection",
+        Resource:
+          "arn:aws:codeconnections:us-east-2:699040795025:connection/063f4f0b-e814-4954-8808-57d689663522",
+      },
+    ],
+  }),
+});
+
+new aws.iam.RolePolicy("pipeline-codebuild-access", {
+  role: pipelineRole.name,
+  policy: codeBuildProject.arn.apply((arn) =>
+    JSON.stringify({
+      Version: "2012-10-17",
+      Statement: [
+        {
+          Effect: "Allow",
+          Action: ["codebuild:StartBuild", "codebuild:BatchGetBuilds"],
+          Resource: arn,
+        },
+      ],
+    }),
+  ),
 });
 
 // CodePipeline
@@ -121,7 +212,7 @@ const pipeline = new aws.codepipeline.Pipeline("schierer-pipeline", {
   roleArn: pipelineRole.arn,
   artifactStores: [
     {
-      location: repository.repositoryUrl.apply((url) => url.split("/")[0]),
+      location: artifactBucket.bucket,
       type: "S3",
     },
   ],
@@ -132,15 +223,16 @@ const pipeline = new aws.codepipeline.Pipeline("schierer-pipeline", {
         {
           name: "Source",
           category: "Source",
-          owner: "ThirdParty",
-          provider: "GitHub",
+          owner: "AWS",
+          provider: "CodeStarSourceConnection",
           version: "1",
           outputArtifacts: ["source_output"],
           configuration: {
-            Owner: githubOwner,
-            Repo: githubRepo,
-            Branch: "perlv1",
-            OAuthToken: githubToken,
+            ConnectionArn:
+              "arn:aws:codeconnections:us-east-2:699040795025:connection/063f4f0b-e814-4954-8808-57d689663522",
+            FullRepositoryId: `${githubOwner}/${githubRepo}`,
+            BranchName: "perlv1",
+            OutputArtifactFormat: "CODE_ZIP",
           },
           runOrder: 1,
         },
@@ -165,6 +257,26 @@ const pipeline = new aws.codepipeline.Pipeline("schierer-pipeline", {
       ],
     },
   ],
+});
+
+new aws.iam.RolePolicy("codebuild-ecr-access", {
+  role: codeBuildRole.name,
+  policy: JSON.stringify({
+    Version: "2012-10-17",
+    Statement: [
+      {
+        Effect: "Allow",
+        Action: [
+          "ecr:GetAuthorizationToken",
+          "ecr:BatchCheckLayerAvailability",
+          "ecr:GetDownloadUrlForLayer",
+          "ecr:BatchGetImage",
+          "ecr:PutImage",
+        ],
+        Resource: "*",
+      },
+    ],
+  }),
 });
 
 // Outputs

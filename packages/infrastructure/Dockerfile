@@ -7,7 +7,7 @@ WORKDIR /opt/schierer.org
 
 RUN apt-get update && apt-get install -y build-essential
 
-COPY packages/frontend /opt/schierer.org
+COPY ../frontend /opt/schierer.org
 # Install tools without tests
 RUN cpanm --notest Module::Build
 RUN cpanm --notest utf8::all
