@@ -207,9 +207,43 @@ new aws.iam.RolePolicy("pipeline-codebuild-access", {
   ),
 });
 
+const GitHubConnection = new aws.codeconnections.Connection(
+  "GitHubConnection",
+  {
+    name: "Github lschierer connection",
+    providerType: "GitHub",
+  },
+  {
+    protect: true,
+  },
+);
+
 // CodePipeline
 const pipeline = new aws.codepipeline.Pipeline("schierer-pipeline", {
   roleArn: pipelineRole.arn,
+  pipelineType: "V2",
+  triggers: [
+    {
+      providerType: "CodeStarSourceConnection",
+      gitConfiguration: {
+        sourceActionName: "Source",
+        pushes: [
+          {
+            branches: {
+              includes: ["perlv1"],
+            },
+            filePaths: {
+              includes: [
+                "packages/frontend/**",
+                "packages/infrastructure/Dockerfile",
+                "packages/infrastructure/buildspec.yml",
+              ],
+            },
+          },
+        ],
+      },
+    },
+  ],
   artifactStores: [
     {
       location: artifactBucket.bucket,
@@ -228,8 +262,7 @@ const pipeline = new aws.codepipeline.Pipeline("schierer-pipeline", {
           version: "1",
           outputArtifacts: ["source_output"],
           configuration: {
-            ConnectionArn:
-              "arn:aws:codeconnections:us-east-2:699040795025:connection/063f4f0b-e814-4954-8808-57d689663522",
+            ConnectionArn: GitHubConnection.arn,
             FullRepositoryId: `${githubOwner}/${githubRepo}`,
             BranchName: "perlv1",
             OutputArtifactFormat: "CODE_ZIP",
