@@ -118,13 +118,7 @@ new aws.iam.RolePolicy("codebuild-s3-content-access", {
 const codeBuildProject = new aws.codebuild.Project("schierer-build", {
   name: "schierer-web-build",
   serviceRole: codeBuildRole.arn,
-  artifacts: {
-    type: "S3",
-    location: contentBucket.bucket,
-    path: "artifacts",
-    namespaceType: "NONE",
-    name: "build-artifacts",
-  },
+  artifacts: { type: "NO_ARTIFACTS" },
   environment: {
     computeType: "BUILD_GENERAL1_SMALL",
     image: "aws/codebuild/amazonlinux2-x86_64-standard:4.0",
@@ -204,10 +198,8 @@ const triggerLambda = new aws.lambda.Function("build-trigger", {
   runtime: aws.lambda.Runtime.NodeJS18dX,
   handler: "index.handler",
   role: triggerLambdaRole.arn,
-  code: pulumi.all([codeBuildProject.name]).apply(
-    ([projectName]) =>
-      new pulumi.asset.AssetArchive({
-        "index.js": new pulumi.asset.StringAsset(`
+  code: new pulumi.asset.AssetArchive({
+    "index.js": new pulumi.asset.StringAsset(`
       const AWS = require('aws-sdk');
       const codebuild = new AWS.CodeBuild();
 
@@ -216,12 +208,12 @@ const triggerLambda = new aws.lambda.Function("build-trigger", {
 
         // Only trigger build for specific paths
         const records = event.Records || [];
-        const shouldTrigger = records.length ? records.some(record => {
+        const shouldTrigger = records.some(record => {
           const key = record.s3.object.key;
           return key.startsWith('frontend/') ||
                  key.startsWith('luke/') ||
                  key.startsWith('archives/');
-        }) : false;
+        });
 
         if (!shouldTrigger) {
           console.log('Ignoring event - not a content change');
@@ -230,7 +222,7 @@ const triggerLambda = new aws.lambda.Function("build-trigger", {
 
         try {
           const result = await codebuild.startBuild({
-            projectName: '${projectName}'
+            projectName: '${codeBuildProject.name}'
           }).promise();
 
           console.log('Build started:', result.build.id);
@@ -247,8 +239,7 @@ const triggerLambda = new aws.lambda.Function("build-trigger", {
         }
       };
     `),
-      }),
-  ),
+  }),
 });
 
 // Set up S3 notification to trigger Lambda when objects are created/updated
@@ -304,17 +295,6 @@ new aws.iam.RolePolicy("codebuild-ecr-access", {
     ],
   }),
 });
-
-const GitHubConnection = new aws.codeconnections.Connection(
-  "GitHubConnection",
-  {
-    name: "GitHubConnection",
-    providerType: "GitHub",
-  },
-  {
-    protect: false,
-  },
-);
 
 // Outputs
 export const repositoryUrl = repository.repositoryUrl;
