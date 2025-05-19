@@ -8,6 +8,10 @@ phases:
     commands:
       - echo Build started on $(date)
       - ls
+      - cd packages/luke
+      - ./bin/setup.sh
+      - cd ../packages/archives
+      - ./bin/exploder.sh
       - cd packages/infrastructure
       - docker build -t $REPOSITORY_URI:latest -f Dockerfile ../frontend
       - docker push $REPOSITORY_URI:latest
