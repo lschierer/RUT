@@ -75,8 +75,9 @@ check:
   just dev && echo dev task done
   sleep 10 && just linkcheck && echo "success"
 
+[working-directory: 'packages/infrastructure']
 sync-frontend:
-  ./packages/infrastructure/local-sync.sh
+  ./local-sync.sh
 
 frontend-image: install build-frontend
   #!/usr/bin/env bash
