@@ -1,4 +1,36 @@
-% layout 'default';
-% title 'Schierer.org';
-<h1>Schierer.org</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Schierer Home Pages</title>
+  <link rel="stylesheet" href="/css/main.css">
+  % if (stash('yaml_data') && exists stash('yaml_data')->{css}) {
+    % foreach my $css_file (@{stash('yaml_data')->{css}}) {
+      <link rel="stylesheet" href="<%= $css_file %>">
+    % }
+  % }
+</head>
+<body>
+  <header>
+    <h1>Schierer Home Pages</h1>
+    % if (stash('yaml_data') && exists stash('yaml_data')->{subtitle}) {
+      <h2><%= stash('yaml_data')->{subtitle} %></h2>
+    % }
+  </header>
 
+  <main>
+    <%== $content %>
+  </main>
+
+  <footer>
+    <p>&copy; <%= (localtime)[5] + 1900 %> Luke Schierer</p>
+  </footer>
+
+  % if (stash('yaml_data') && exists stash('yaml_data')->{js}) {
+    % foreach my $js_file (@{stash('yaml_data')->{js}}) {
+      <script src="<%= $js_file %>"></script>
+    % }
+  % }
+</body>
+</html>

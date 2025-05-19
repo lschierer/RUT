@@ -5,7 +5,27 @@
 @import "open-props/normalize.min.css";
 @import "open-props/buttons.min.css";
 
+header div.site-title-section {
+  width: 80%;
+}
+
+header div.page-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 90vw;
+  margin: 0 0 var(--size-3) var(--size-2);
+}
+
+img.toplogo {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 div#pageinfo {
+  flex: 1 1 auto;
   margin: var(--size-8) 0 0;
   padding: var(--size-4) var(--size-3) var(--size-2);
   border-top: var(--border-size-2) solid var(--main-color);
@@ -16,6 +36,7 @@ div#pageinfo {
 }
 
 div.pagecopyright {
+  flex: 1 1 auto;
   display: flex;
   align-self: center;
   flex-direction: column;
@@ -30,6 +51,7 @@ div.pagelicense,
 div.pagelicense a,
 div.pagelicense p,
 div.pagelicense span {
+  flex: 1 1 auto;
   font-size: inherit;
 }
 

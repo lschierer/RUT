@@ -1,0 +1,12 @@
+config:
+  aws:region: us-east-2
+  aws:profile: home
+  schierer.org:domainName: dev.schierer.org
+  schierer.org:rootDomainName: schierer.org
+  schierer.org:createHostedZone: false
+  schierer.org:logRetentionDays: 3
+  schierer.org:mojoLogLevel: debug
+  schierer.org:githubToken:
+    secure: AAABAFqqcdfjs7e7YoX6Jh2bX4jPfJLHMpFNG/P7ZbMTZ4QElBccqf/LyQrbcKCjD8F7znMKfWuNdg9ADjiTq4poJEl5YN2VRgzecmLQmdfrrUZLCLOCksEXliV8WFpo6yRZLYYSLngfCs39AEiG/3SKDN+8GP3BmAPrPRw=
+  schierer.org:githubOwner: lschierer
+  schierer.org:githubRepo: RUT

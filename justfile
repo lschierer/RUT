@@ -1,15 +1,18 @@
 export PATH := "./node_modules/.bin:" + env_var('PATH')
+set dotenv-load
+set dotenv-filename	:= ".env.deploy"
 
 install:
   pnpm install -r
   ./packages/luke/bin/perldeps.sh
-  ./packages/frontend/bin/perldeps.sh
+  cd ./packages/frontend && ./Build installdeps
 
 [working-directory: 'packages/luke']
 copy-luke-content: install
   ./bin/setup.sh
 
 content-setup: install copy-luke-content
+  cd ./packages/archives && ./bin/exploder.sh
 
 
 # Start the development container in the background with a consistent name
@@ -72,16 +75,28 @@ check:
   just dev && echo dev task done
   sleep 10 && just linkcheck && echo "success"
 
-build-frontend: install
+sync-frontend:
+  ./packages/infrastructure/bin/s3-sync-with-s3ignore.sh ./packages/frontend s3://$SOURCE_BUCKET
+
+frontend-image: install build-frontend
   #!/usr/bin/env bash
   CONTAINER_ENGINE=$(command -v podman || command -v docker)
   IMAGE_ID=$(${CONTAINER_ENGINE} build -q -f packages/infrastructure/Dockerfile .)
   echo ${IMAGE_ID}
 
-build:  content-setup build-frontend
+[working-directory: 'packages/frontend']
+build-frontend: install content-setup
+  cpanm --notest Module::Build
+  cpanm --notest utf8::all
+  cpanm --notest --installdeps .
+  perl Build.PL
+  ./Build
+
+
+build:  content-setup frontend-image
 
 [working-directory: 'packages/infrastructure']
-deploy: build
+deploy: install content-setup build-frontend
   pulumi up
 
 [working-directory: 'packages/frontend']

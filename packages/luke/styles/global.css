@@ -23,16 +23,24 @@ body {
 }
 
 header {
-  width: 100%;
+  box-sizing: border-box;
+  width: min(100vw, 100%);
+  min-height: fit-content;
+  flex-flow: row wrap;
+  display: flex;
 
-  & img.toplogo {
+  & div.site-title-section {
     width: min(100%, 80vw);
   }
 
-  min-height: fit-content;
-  flex: 1 1 auto;
-  flex-direction: row;
-  display: flex;
+  & div.right-group {
+    flex: 1 1 auto;
+    max-width: 90%;
+    justify-self: flex-end;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+  }
 }
 
 main {
@@ -44,9 +52,10 @@ main {
 }
 
 footer {
+  box-sizing: border-box;
   flex-grow: 0;
   flex-shrink: 1;
   margin-top: auto;
   left: 0;
-  width: 100%;
+  width: min(100%, 100vw);
 }

@@ -35,7 +35,8 @@ package Schierer::Controller::Root {
 
     });
     my $homeCount = $homes->size();
-    $self->render(text => "<div>The following users have homes here: <br/><ul>$result</ul></div>");
+    $self->stash(content => "<div>The following users have homes here: <br/><ul>$result</ul></div>");
+    $self->render(template => 'index');
   }
 
 };

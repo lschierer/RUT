@@ -19,7 +19,7 @@
     "autoprefixer": "catalog:",
     "cssnano": "catalog:",
     "esbuild": "^0.25.4",
-    "jiti": "catalog:",
+    "jiti": "^2.4.2",
     "postcss": "catalog:",
     "postcss-extend": "catalog:",
     "postcss-import": "catalog:",

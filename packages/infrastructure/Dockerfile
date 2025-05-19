@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM perl:5.40
+FROM  perl:5.40
 
 # Set workdir to match container path used in serve-start
 WORKDIR /opt/schierer.org
@@ -16,4 +16,4 @@ RUN cpanm --notest --installdeps .
 RUN perl Build.PL && ./Build && ./Build install --notest
 
 EXPOSE 3000
-CMD ./schierer.org.pl prefork
+CMD ["./schierer.org.pl", "prefork"]

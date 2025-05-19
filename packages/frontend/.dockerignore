@@ -1,0 +1,9 @@
+Build
+_build/
+
+blib/
+*.o
+*.bs
+*.so
+*.dll
+*.dylib

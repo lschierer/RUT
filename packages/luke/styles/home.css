@@ -3,7 +3,7 @@ div.linklist {
 }
 
 header img.toplogo {
-  width: 100vw;
+  width: 100%;
   height: var(--size-13);
 }
 

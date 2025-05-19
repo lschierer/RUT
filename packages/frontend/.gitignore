@@ -1,0 +1,12 @@
+Build
+_build/
+MANIFEST
+MYMETA.json
+MYMETA.yml
+
+blib/
+*.o
+*.bs
+*.so
+*.dll
+*.dylib
