@@ -1,0 +1,18 @@
+#!/bin/bash
+# .git/hooks/post-push (make this executable with chmod +x)
+
+# Get the current branch
+BRANCH=$(git rev-parse --abbrev-ref HEAD)
+
+# Only run on specific branches if desired
+if [ "$BRANCH" = "main" ] || [ "$BRANCH" = "perlv1" ]; then
+  echo "Running content sync and build trigger for branch: $BRANCH"
+  
+  # Run your sync script
+  just sync-frontend
+  
+  # The script now includes the build trigger
+  echo "Sync and build trigger complete!"
+else
+  echo "Skipping sync for branch: $BRANCH"
+fi
