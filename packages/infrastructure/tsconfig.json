@@ -16,5 +16,5 @@
     "noImplicitReturns": true,
     "noUnusedLocals": false
   },
-  "files": ["index.ts"]
+  "include": ["*.ts", "./src/**/*.ts"]
 }

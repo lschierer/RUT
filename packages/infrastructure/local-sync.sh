@@ -25,5 +25,14 @@ echo "Syncing archives to S3..."
 aws --profile home s3 sync ../archives/ "s3://$BUCKET_NAME/archives/"
 
 echo "Content sync complete!"
-echo "The S3 event will automatically trigger a build."
+
+# Get the CodeBuild project name
+PROJECT_NAME=$(pulumi stack output codeBuildProjectName)
+if [ -n "$PROJECT_NAME" ]; then
+  echo "Triggering build for project: $PROJECT_NAME"
+  aws codebuild start-build --project-name "$PROJECT_NAME"
+else
+  echo "Could not determine CodeBuild project name"
+fi
+
 echo "To manually trigger a build, run: aws codebuild start-build --project-name schierer-web-build"

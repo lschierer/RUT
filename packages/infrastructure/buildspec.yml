@@ -4,51 +4,52 @@ phases:
     commands:
       - echo Logging in to Amazon ECR...
       - aws ecr get-login-password --region $REGION | docker login --username AWS --password-stdin $REPOSITORY_URI
+      # Set a default version if CODEBUILD_RESOLVED_SOURCE_VERSION is empty
+      - |
+        if [ -z "$CODEBUILD_RESOLVED_SOURCE_VERSION" ]; then
+          export CODEBUILD_RESOLVED_SOURCE_VERSION=$(date +%Y%m%d%H%M%S)
+          echo "Set CODEBUILD_RESOLVED_SOURCE_VERSION to $CODEBUILD_RESOLVED_SOURCE_VERSION"
+        fi
       - echo Pulling content from S3...
       - mkdir -p content/luke archives frontend
-      - aws s3 sync s3://$CONTENT_BUCKET/luke/ luke/
+      - aws s3 sync s3://$CONTENT_BUCKET/luke/ content/luke/
       - aws s3 sync s3://$CONTENT_BUCKET/archives/ archives/
       - aws s3 sync s3://$CONTENT_BUCKET/frontend/ frontend/
 
       # Run the archives exploder script
       - echo "Processing archives with exploder.sh..."
       - mkdir -p frontend/share/home/
-      - cd luke
-      - chmod +x bin/*.sh bin/*.pl
-      - ./bin/perldeps.sh
-      - ./bin/setup.sh
-      - cd ../archives
+      - cd archives
       - chmod +x bin/exploder.sh
       - ./bin/exploder.sh
       - cd ..
 
       # Create a Dockerfile in the build environment
       - echo "Creating Dockerfile..."
-      - cat > Dockerfile << 'EOF'
-# syntax=docker/dockerfile:1
+      - |
+        cat > Dockerfile << 'DOCKERFILE_EOF'
+        FROM perl:5.40
 
-FROM perl:5.40
+        # Set workdir
+        WORKDIR /opt/schierer.org
 
-# Set workdir
-WORKDIR /opt/schierer.org
+        RUN apt-get update && apt-get install -y build-essential
 
-RUN apt-get update && apt-get install -y build-essential
+        # Copy the frontend application with exploded archives
+        COPY frontend/ /opt/schierer.org/
+        # Copy the luke content
+        COPY content/luke/ /opt/schierer.org/content/luke/
 
-# Copy the frontend application with exploded archives
-COPY frontend/ /opt/schierer.org/
-# Copy the luke content
-COPY content/luke/ /opt/schierer.org/content/luke/
+        # Install dependencies
+        RUN cpanm --notest Module::Build
+        RUN cpanm --notest utf8::all
+        RUN cpanm --notest --installdeps .
 
-# Install dependencies
-RUN cpanm --notest Module::Build
-RUN cpanm --notest utf8::all
-RUN cpanm --notest --installdeps .
+        RUN perl Build.PL && ./Build && ./Build install --notest
 
-RUN perl Build.PL && ./Build && ./Build install --notest
-
-EXPOSE 3000
-CMD ["./schierer.org.pl", "prefork", "-l", "http://*:3000"]
-EOF
+        EXPOSE 3000
+        CMD ["./schierer.org.pl", "prefork", "-l", "http://*:3000"]
+        DOCKERFILE_EOF
   build:
     commands:
       - echo Build started on $(date)

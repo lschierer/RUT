@@ -13,14 +13,19 @@ const region = aws.config.region || "us-east-2";
 const identity = aws.getCallerIdentity({});
 const accountId = identity.then((i) => i.accountId);
 
+import * as perlImage from "./perlImage";
+import { setupContainerCluster, type ContainerCluster } from "./fargateStack";
+
+const resourceName = pulumi.getStack().toLowerCase().replaceAll("\.", "");
+
 // Create S3 bucket for content using V2 resources
-const contentBucket = new aws.s3.BucketV2("schierer-content", {
+const contentBucket = new aws.s3.BucketV2(`${resourceName}-content`, {
   forceDestroy: true,
 });
 
 // Configure versioning using BucketVersioningV2
 const contentBucketVersioning = new aws.s3.BucketVersioningV2(
-  "schierer-content-versioning",
+  `${resourceName}-content-versioning`,
   {
     bucket: contentBucket.id,
     versioningConfiguration: {
@@ -31,7 +36,7 @@ const contentBucketVersioning = new aws.s3.BucketVersioningV2(
 
 // Add lifecycle configuration to manage old versions
 const contentBucketLifecycle = new aws.s3.BucketLifecycleConfigurationV2(
-  "schierer-content-lifecycle",
+  `${resourceName}-content-lifecycle`,
   {
     bucket: contentBucket.id,
     rules: [
@@ -49,56 +54,23 @@ const contentBucketLifecycle = new aws.s3.BucketLifecycleConfigurationV2(
   },
 );
 
-// ACM certificate for domain (must be in us-east-1 for use with CloudFront)
-const certificate = new aws.acm.Certificate("schierer-cert", {
-  domainName: domainName,
-  validationMethod: "DNS",
-});
-
-// Hosted zone lookup
-const hostedZone = aws.route53.getZone({
-  name: rootDomainName,
-  privateZone: false,
-});
-
-// DNS validation record
-const certValidationRecord = new aws.route53.Record(
-  "schierer-cert-validation",
-  {
-    name: certificate.domainValidationOptions[0].resourceRecordName,
-    zoneId: hostedZone.then((zone) => zone.zoneId),
-    type: certificate.domainValidationOptions[0].resourceRecordType,
-    records: [certificate.domainValidationOptions[0].resourceRecordValue],
-    ttl: 60,
-  },
-);
-
-// Certificate validation
-const certValidation = new aws.acm.CertificateValidation(
-  "schierer-cert-validation-step",
-  {
-    certificateArn: certificate.arn,
-    validationRecordFqdns: [certValidationRecord.fqdn],
-  },
-);
-
 // ECR repository
-const repository = new aws.ecr.Repository("schierer-web-repo");
+const repository = new aws.ecr.Repository(`${resourceName}-web-repo`);
 
 // IAM Role for CodeBuild
-const codeBuildRole = new aws.iam.Role("codebuild-role", {
+const codeBuildRole = new aws.iam.Role(`${resourceName}-codebuild-role`, {
   assumeRolePolicy: aws.iam.assumeRolePolicyForPrincipal({
     Service: "codebuild.amazonaws.com",
   }),
 });
 
-new aws.iam.RolePolicyAttachment("codebuild-policy", {
+new aws.iam.RolePolicyAttachment(`${resourceName}-codebuild-policy`, {
   role: codeBuildRole.name,
   policyArn: aws.iam.ManagedPolicy.AWSCodeBuildDeveloperAccess,
 });
 
 // Grant CodeBuild access to the content bucket
-new aws.iam.RolePolicy("codebuild-s3-content-access", {
+new aws.iam.RolePolicy(`${resourceName}-codebuild-s3-content-access`, {
   role: codeBuildRole.name,
   policy: pulumi.all([contentBucket.arn]).apply(([bucketArn]) =>
     JSON.stringify({
@@ -114,9 +86,19 @@ new aws.iam.RolePolicy("codebuild-s3-content-access", {
   ),
 });
 
-// CodeBuild Project
-const codeBuildProject = new aws.codebuild.Project("schierer-build", {
-  name: "schierer-web-build",
+// Create the Perl base image in ECR
+const { imageUri: perlBaseImageUri } = perlImage.createPerlBaseImage("5.40");
+
+// Now update your buildspec to use this image
+const buildspec = perlBaseImageUri.apply((perlBaseImageUri) => {
+  return fs
+    .readFileSync("./buildspec.yml", "utf-8")
+    .replace("FROM perl:5.40", `FROM ${perlBaseImageUri}`);
+});
+
+// Use the updated buildspec in your CodeBuild project// CodeBuild Project
+const codeBuildProject = new aws.codebuild.Project(`${resourceName}-build`, {
+  name: `${resourceName}-web-build`,
   serviceRole: codeBuildRole.arn,
   artifacts: {
     type: "S3",
@@ -144,11 +126,11 @@ const codeBuildProject = new aws.codebuild.Project("schierer-build", {
   },
   source: {
     type: "NO_SOURCE",
-    buildspec: fs.readFileSync("./buildspec.yml", "utf-8"),
+    buildspec: buildspec,
   },
 });
 
-new aws.iam.RolePolicy("codebuild-logging", {
+new aws.iam.RolePolicy(`${resourceName}-codebuild-logging`, {
   role: codeBuildRole.name,
   policy: pulumi
     .all([codeBuildProject.name, accountId])
@@ -173,18 +155,21 @@ new aws.iam.RolePolicy("codebuild-logging", {
 });
 
 // Create a Lambda function to trigger the build when content changes in S3
-const triggerLambdaRole = new aws.iam.Role("trigger-lambda-role", {
-  assumeRolePolicy: aws.iam.assumeRolePolicyForPrincipal({
-    Service: "lambda.amazonaws.com",
-  }),
-});
+const triggerLambdaRole = new aws.iam.Role(
+  `${resourceName}-trigger-lambda-role`,
+  {
+    assumeRolePolicy: aws.iam.assumeRolePolicyForPrincipal({
+      Service: "lambda.amazonaws.com",
+    }),
+  },
+);
 
-new aws.iam.RolePolicyAttachment("lambda-basic-execution", {
+new aws.iam.RolePolicyAttachment(`${resourceName}-lambda-basic-exec`, {
   role: triggerLambdaRole.name,
   policyArn: aws.iam.ManagedPolicy.AWSLambdaBasicExecutionRole,
 });
 
-new aws.iam.RolePolicy("lambda-codebuild-start", {
+new aws.iam.RolePolicy(`${resourceName}-lambda-codebuild-start`, {
   role: triggerLambdaRole.name,
   policy: codeBuildProject.arn.apply((arn) =>
     JSON.stringify({
@@ -200,59 +185,22 @@ new aws.iam.RolePolicy("lambda-codebuild-start", {
   ),
 });
 
-const triggerLambda = new aws.lambda.Function("build-trigger", {
-  runtime: aws.lambda.Runtime.NodeJS18dX,
-  handler: "index.handler",
+const triggerLambda = new aws.lambda.Function(`${resourceName}-build-trigger`, {
+  runtime: aws.lambda.Runtime.NodeJS22dX, // Updated to Node.js 22
+  handler: "build-trigger.handler",
   role: triggerLambdaRole.arn,
-  code: pulumi.all([codeBuildProject.name]).apply(
-    ([projectName]) =>
-      new pulumi.asset.AssetArchive({
-        "index.js": new pulumi.asset.StringAsset(`
-      const AWS = require('aws-sdk');
-      const codebuild = new AWS.CodeBuild();
-
-      exports.handler = async (event) => {
-        console.log('S3 event:', JSON.stringify(event, null, 2));
-
-        // Only trigger build for specific paths
-        const records = event.Records || [];
-        const shouldTrigger = records.length ? records.some(record => {
-          const key = record.s3.object.key;
-          return key.startsWith('frontend/') ||
-                 key.startsWith('luke/') ||
-                 key.startsWith('archives/');
-        }) : false;
-
-        if (!shouldTrigger) {
-          console.log('Ignoring event - not a content change');
-          return { statusCode: 200, body: 'Ignored' };
-        }
-
-        try {
-          const result = await codebuild.startBuild({
-            projectName: '${projectName}'
-          }).promise();
-
-          console.log('Build started:', result.build.id);
-          return {
-            statusCode: 200,
-            body: 'Build started: ' + result.build.id
-          };
-        } catch (error) {
-          console.error('Error starting build:', error);
-          return {
-            statusCode: 500,
-            body: 'Failed to start build: ' + error.message
-          };
-        }
-      };
-    `),
-      }),
-  ),
+  code: new pulumi.asset.AssetArchive({
+    "build-trigger.js": new pulumi.asset.FileAsset("./dist/build-trigger.js"),
+  }),
+  environment: {
+    variables: {
+      CODEBUILD_PROJECT_NAME: codeBuildProject.name,
+    },
+  },
 });
 
 // Set up S3 notification to trigger Lambda when objects are created/updated
-new aws.s3.BucketNotification("content-notification", {
+new aws.s3.BucketNotification(`${resourceName}-content-notification`, {
   bucket: contentBucket.id,
   lambdaFunctions: [
     {
@@ -263,26 +211,14 @@ new aws.s3.BucketNotification("content-notification", {
 });
 
 // Allow S3 to invoke the Lambda
-new aws.lambda.Permission("s3-invoke-lambda", {
+new aws.lambda.Permission(`${resourceName}-s3-invoke-lambda`, {
   action: "lambda:InvokeFunction",
   function: triggerLambda.name,
   principal: "s3.amazonaws.com",
   sourceArn: contentBucket.arn,
 });
 
-// IAM role for CodePipeline
-const pipelineRole = new aws.iam.Role("pipeline-role", {
-  assumeRolePolicy: aws.iam.assumeRolePolicyForPrincipal({
-    Service: "codepipeline.amazonaws.com",
-  }),
-});
-
-new aws.iam.RolePolicyAttachment("pipeline-policy", {
-  role: pipelineRole.name,
-  policyArn: "arn:aws:iam::aws:policy/AWSCodePipeline_FullAccess",
-});
-
-new aws.iam.RolePolicy("codebuild-ecr-access", {
+new aws.iam.RolePolicy(`${resourceName}-codebuild-ecr-access`, {
   role: codeBuildRole.name,
   policy: JSON.stringify({
     Version: "2012-10-17",
@@ -305,19 +241,12 @@ new aws.iam.RolePolicy("codebuild-ecr-access", {
   }),
 });
 
-const GitHubConnection = new aws.codeconnections.Connection(
-  "GitHubConnection",
-  {
-    name: "GitHubConnection",
-    providerType: "GitHub",
-  },
-  {
-    protect: false,
-  },
-);
+const containerCluster = setupContainerCluster(repository, accountId);
 
 // Outputs
 export const repositoryUrl = repository.repositoryUrl;
 export const codeBuildProjectName = codeBuildProject.name;
 export const contentBucketName = contentBucket.bucket;
-export const certificateArn = certificate.arn;
+export const certificateArn = containerCluster.certificate.arn;
+export const loadBalancerDns = containerCluster.lb.dnsName;
+export const serviceUrl = pulumi.interpolate`http://${containerCluster.lb.dnsName}`;

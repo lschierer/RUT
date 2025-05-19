@@ -76,7 +76,7 @@ check:
   sleep 10 && just linkcheck && echo "success"
 
 sync-frontend:
-  ./packages/infrastructure/bin/s3-sync-with-s3ignore.sh ./packages/frontend s3://$SOURCE_BUCKET
+  ./packages/infrastructure/local-sync.sh
 
 frontend-image: install build-frontend
   #!/usr/bin/env bash
