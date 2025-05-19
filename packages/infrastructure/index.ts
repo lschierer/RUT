@@ -210,7 +210,7 @@ new aws.iam.RolePolicy("pipeline-codebuild-access", {
 const GitHubConnection = new aws.codeconnections.Connection(
   "GitHubConnection",
   {
-    name: "Github lschierer connection",
+    name: "GitHubConnection",
     providerType: "GitHub",
   },
   {
@@ -265,7 +265,8 @@ const pipeline = new aws.codepipeline.Pipeline("schierer-pipeline", {
             ConnectionArn: GitHubConnection.arn,
             FullRepositoryId: `${githubOwner}/${githubRepo}`,
             BranchName: "perlv1",
-            OutputArtifactFormat: "CODE_ZIP",
+            DetectChanges: "true",
+            OutputArtifactFormat: "CODEBUILD_CLONE_REF",
           },
           runOrder: 1,
         },
