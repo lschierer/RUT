@@ -7,3 +7,6 @@ blib/
 *.so
 *.dll
 *.dylib
+
+*.log
+.DS_Store
