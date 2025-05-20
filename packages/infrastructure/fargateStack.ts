@@ -23,8 +23,8 @@ export const setupContainerCluster = (
   accountId: Promise<string>,
 ): ContainerCluster => {
   // Create an ECS cluster
-  const cluster = new aws.ecs.Cluster("schierer-cluster", {
-    name: "schierer-cluster",
+  const cluster = new aws.ecs.Cluster(`${fgstackName}-cluster`, {
+    name: `${fgstackName}-cluster`,
     settings: [
       {
         name: "containerInsights",
@@ -34,7 +34,7 @@ export const setupContainerCluster = (
   });
 
   // Create a VPC for the ECS service if you don't have one already
-  const vpc = new aws.ec2.Vpc("schierer-vpc", {
+  const vpc = new aws.ec2.Vpc(`${fgstackName}-vpc`, {
     cidrBlock: "10.0.0.0/16",
     enableDnsHostnames: true,
     enableDnsSupport: true,
@@ -42,13 +42,13 @@ export const setupContainerCluster = (
 
   // Create subnets in different availability zones
   const publicSubnets = [
-    new aws.ec2.Subnet("schierer-subnet-1", {
+    new aws.ec2.Subnet(`${fgstackName}-subnet-1`, {
       vpcId: vpc.id,
       cidrBlock: "10.0.1.0/24",
       availabilityZone: `${region}a`,
       mapPublicIpOnLaunch: true,
     }),
-    new aws.ec2.Subnet("schierer-subnet-2", {
+    new aws.ec2.Subnet(`${fgstackName}-subnet-2`, {
       vpcId: vpc.id,
       cidrBlock: "10.0.2.0/24",
       availabilityZone: `${region}b`,
@@ -178,7 +178,7 @@ export const setupContainerCluster = (
   });
 
   // Create an IAM role for the ECS task
-  const taskRole = new aws.iam.Role("schierer-task-role", {
+  const taskRole = new aws.iam.Role(`${fgstackName}-task-role`, {
     assumeRolePolicy: aws.iam.assumeRolePolicyForPrincipal({
       Service: "ecs-tasks.amazonaws.com",
     }),
@@ -233,8 +233,8 @@ export const setupContainerCluster = (
   });
 
   // Create a CloudWatch log group for the container logs
-  const logGroup = new aws.cloudwatch.LogGroup("schierer-logs", {
-    name: "/ecs/schierer-web",
+  const logGroup = new aws.cloudwatch.LogGroup(`${fgstackName}-logs`, {
+    name: `/ecs/${fgstackName}-web`,
     retentionInDays: 30,
   });
 
@@ -252,7 +252,7 @@ export const setupContainerCluster = (
     loadBalancers: [
       {
         targetGroupArn: targetGroup.arn,
-        containerName: "schierer-web",
+        containerName: `${fgstackName}-web`,
         containerPort: 3000,
       },
     ],
