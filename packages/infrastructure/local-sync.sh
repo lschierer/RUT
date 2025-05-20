@@ -30,7 +30,7 @@ echo "Content sync complete!"
 PROJECT_NAME=$(pulumi stack output codeBuildProjectName)
 if [ -n "$PROJECT_NAME" ]; then
   echo "Triggering build for project: $PROJECT_NAME"
-  AWS_PAGER="" aws --profile home codebuild start-build --no-paginate --output text --project-name "$PROJECT_NAME" | grep "build.id"
+  AWS_PAGER="" aws --profile home codebuild start-build --no-paginate --output text --project-name "$PROJECT_NAME" | egrep "^(BUILD|ENVIRONMENT)"
 else
   echo "Could not determine CodeBuild project name"
 fi
