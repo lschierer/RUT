@@ -234,39 +234,6 @@ new aws.iam.RolePolicy(`${resourceName}-lambda-codebuild-start`, {
   ),
 });
 
-const triggerLambda = new aws.lambda.Function(`${resourceName}-build-trigger`, {
-  runtime: aws.lambda.Runtime.NodeJS22dX, // Updated to Node.js 22
-  handler: "build-trigger.handler",
-  role: triggerLambdaRole.arn,
-  code: new pulumi.asset.AssetArchive({
-    "build-trigger.js": new pulumi.asset.FileAsset("./dist/build-trigger.js"),
-  }),
-  environment: {
-    variables: {
-      CODEBUILD_PROJECT_NAME: codeBuildProject.name,
-    },
-  },
-});
-
-// Set up S3 notification to trigger Lambda when objects are created/updated
-new aws.s3.BucketNotification(`${resourceName}-content-notification`, {
-  bucket: contentBucket.id,
-  lambdaFunctions: [
-    {
-      lambdaFunctionArn: triggerLambda.arn,
-      events: ["s3:ObjectCreated:*"],
-    },
-  ],
-});
-
-// Allow S3 to invoke the Lambda
-new aws.lambda.Permission(`${resourceName}-s3-invoke-lambda`, {
-  action: "lambda:InvokeFunction",
-  function: triggerLambda.name,
-  principal: "s3.amazonaws.com",
-  sourceArn: contentBucket.arn,
-});
-
 new aws.iam.RolePolicy(`${resourceName}-codebuild-ecr-access`, {
   role: codeBuildRole.name,
   policy: JSON.stringify({
