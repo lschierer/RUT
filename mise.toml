@@ -4,4 +4,4 @@ pnpm = "10"
 just = "latest"
 perl = "latest"
 pulumi = "latest"
-
+aws = "latest"
