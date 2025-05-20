@@ -35,7 +35,7 @@
     "@spectrum-css/tokens": "^16.0.1",
     "@spectrum-css/typography": "^8.1.0",
     "iconify-icon": "^3.0.0",
-    "luxon": "catalog:",
+    "luxon": "^3.6.0",
     "open-props": "^1.7.14",
     "stylelint-config-standard": "^38.0.0",
     "zod": "^3.25.3"
