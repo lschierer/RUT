@@ -2,6 +2,6 @@
 node = "lts"
 pnpm = "10"
 just = "latest"
-python = "latest"
 perl = "latest"
 pulumi = "latest"
+

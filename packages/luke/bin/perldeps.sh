@@ -1,5 +1,10 @@
 #!/bin/bash
 
+eval "$(mise activate bash)"
+
+mise install perl@5.40
+mise use perl@5.40
+
 deps=$(cat <<-EOF
 Array::Merge::Unique
 Data::Printer

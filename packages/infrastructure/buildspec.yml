@@ -11,12 +11,50 @@ phases:
           echo "Set CODEBUILD_RESOLVED_SOURCE_VERSION to $CODEBUILD_RESOLVED_SOURCE_VERSION"
         fi
       - echo Pulling content from S3...
-      - mkdir -p content/luke archives frontend
-      - aws s3 sync s3://$CONTENT_BUCKET/luke/ content/luke/
-      - aws s3 sync s3://$CONTENT_BUCKET/archives/ archives/
-      - aws s3 sync s3://$CONTENT_BUCKET/frontend/ frontend/
+      - mkdir -p luke archives frontend
+      - aws s3 cp s3://$CONTENT_BUCKET/mise.toml .
+
+      - echo "set up mise"
+      - mkdir /root/.gnupg/
+      - touch /root/.gnupg/gpg.conf
+      - echo 'comment GPGTools - http://gpgtools.org' >> /root/.gnupg/gpg.conf
+      - echo 'no-emit-version' >> /root/.gnupg/gpg.conf
+      - echo 'keyserver-options auto-key-retrieve' >> /root/.gnupg/gpg.conf
+      - echo "keyserver hkp://keys.openpgp.org" >> /root/.gnupg/gpg.conf
+      - echo "trust-model always" >> /root/.gnupg/gpg.conf
+      - chmod 700 /root/.gnupg
+      - export GPG_TTY=$(tty || true)
+      - export GPG_CONF=/root/.gnupg/gpg.conf
+
+      - apt update -y && sudo apt install -y gpg sudo wget curl
+      - install -dm 755 /etc/apt/keyrings
+      - wget -qO - https://mise.jdx.dev/gpg-key.pub | gpg --dearmor | sudo tee /etc/apt/keyrings/mise-archive-keyring.gpg 1> /dev/null
+      - echo "deb [signed-by=/etc/apt/keyrings/mise-archive-keyring.gpg arch=amd64] https://mise.jdx.dev/deb stable main" | sudo tee /etc/apt/sources.list.d/mise.list
+      - apt update
+      - apt install -y mise
+
+      - eval "$(mise activate sh)"
+      - echo 'use mise to install perl and node'
+      - mise install perl@latest
+
+      - mise install --verbose node@lts
+      - mise install pnpm@10
+
+      # set up perl
+      - mise use perl@5.40 && curl -L http://cpanmin.us | perl - --sudo App::cpanminus
+
+      - aws s3 sync s3://$CONTENT_BUCKET/luke/ luke/ --delete
+      - aws s3 sync s3://$CONTENT_BUCKET/frontend/ frontend/ --delete
+
+      - echo "set up luke's home"
+      - cd luke
+      - chmod +x ./bin/*.sh ./bin/*.pl
+      - ./bin/perldeps.sh
+      - ./bin/setup.sh
+      - cd ..
 
       # Run the archives exploder script
+      - aws s3 sync s3://$CONTENT_BUCKET/archives/ archives/
       - echo "Processing archives with exploder.sh..."
       - mkdir -p frontend/share/home/
       - cd archives
@@ -37,8 +75,6 @@ phases:
 
         # Copy the frontend application with exploded archives
         COPY frontend/ /opt/schierer.org/
-        # Copy the luke content
-        COPY content/luke/ /opt/schierer.org/content/luke/
 
         # Install dependencies
         RUN cpanm --notest Module::Build

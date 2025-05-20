@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 TARGETDIR='../frontend/share/home/luke/';
 

@@ -14,15 +14,17 @@ echo "Using S3 bucket: $BUCKET_NAME"
 
 # Sync frontend code to S3
 echo "Syncing frontend code to S3..."
-aws --profile home s3 sync ../frontend/ "s3://$BUCKET_NAME/frontend/"
+aws --profile home s3 sync --exclude Build --exclude '_build/*' --exclude 'blib/*' --exclude '*.o' --exclude .DS_Store ../frontend/ "s3://$BUCKET_NAME/frontend/" --delete
 
 # Sync luke content to S3
 echo "Syncing luke content to S3..."
-aws --profile home s3 sync ../luke/ "s3://$BUCKET_NAME/luke/"
+aws --profile home s3 sync ../luke/ "s3://$BUCKET_NAME/luke/" --delete
 
 # Sync archives to S3
 echo "Syncing archives to S3..."
-aws --profile home s3 sync ../archives/ "s3://$BUCKET_NAME/archives/"
+aws --profile home s3 sync ../archives/ "s3://$BUCKET_NAME/archives/" --delete
+
+aws --profile home s3 cp ../../mise.toml "s3://$BUCKET_NAME/mise.toml"
 
 echo "Content sync complete!"
 
@@ -34,5 +36,3 @@ if [ -n "$PROJECT_NAME" ]; then
 else
   echo "Could not determine CodeBuild project name"
 fi
-
-echo "To manually trigger a build, run: aws codebuild start-build --project-name schierer-web-build"

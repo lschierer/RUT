@@ -97,6 +97,17 @@ const buildspec = perlBaseImageUri.apply((perlBaseImageUri) => {
 });
 
 const containerCluster = setupContainerCluster(repository, accountId);
+const ecsServiceArn = pulumi
+  .all([
+    aws.config.region,
+    aws.getCallerIdentity({}),
+    containerCluster.cluster.name,
+    containerCluster.service.name,
+  ])
+  .apply(
+    ([region, identity, clusterName, serviceName]) =>
+      `arn:aws:ecs:${region}:${identity.accountId}:service/${clusterName}/${serviceName}`,
+  );
 
 // Use the updated buildspec in your CodeBuild project// CodeBuild Project
 const codeBuildProject = new aws.codebuild.Project(`${resourceName}-build`, {
@@ -111,7 +122,7 @@ const codeBuildProject = new aws.codebuild.Project(`${resourceName}-build`, {
   },
   environment: {
     computeType: "BUILD_GENERAL1_SMALL",
-    image: "aws/codebuild/amazonlinux2-x86_64-standard:4.0",
+    image: "aws/codebuild/standard:7.0",
     type: "LINUX_CONTAINER",
     privilegedMode: true,
     environmentVariables: [
@@ -138,6 +149,34 @@ const codeBuildProject = new aws.codebuild.Project(`${resourceName}-build`, {
     type: "NO_SOURCE",
     buildspec: buildspec,
   },
+});
+
+new aws.iam.RolePolicy("codebuild-ecs-update", {
+  role: codeBuildRole.name,
+  policy: pulumi
+    .all([ecsServiceArn, containerCluster.cluster.arn])
+    .apply(([serviceArn, clusterArn]) =>
+      JSON.stringify({
+        Version: "2012-10-17",
+        Statement: [
+          {
+            Effect: "Allow",
+            Action: [
+              "ecs:UpdateService",
+              "ecs:DescribeServices",
+              "ecs:DescribeTaskDefinition",
+              "ecs:RegisterTaskDefinition",
+            ],
+            Resource: "*", // or scope to serviceArn/clusterArn if you prefer
+          },
+          {
+            Effect: "Allow",
+            Action: ["iam:PassRole"],
+            Resource: "*", // scope to your ECS task execution role if known
+          },
+        ],
+      }),
+    ),
 });
 
 new aws.iam.RolePolicy(`${resourceName}-codebuild-logging`, {
