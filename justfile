@@ -76,7 +76,7 @@ check:
   sleep 10 && just linkcheck && echo "success"
 
 [working-directory: 'packages/infrastructure']
-sync-frontend:
+sync-frontend: install copy-luke-content
   ./local-sync.sh
 
 frontend-image: install build-frontend

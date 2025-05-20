@@ -43,15 +43,7 @@ phases:
       # set up perl
       - mise use perl@5.40 && curl -L http://cpanmin.us | perl - --sudo App::cpanminus
 
-      - aws s3 sync s3://$CONTENT_BUCKET/luke/ luke/ --delete
       - aws s3 sync s3://$CONTENT_BUCKET/frontend/ frontend/ --delete
-
-      - echo "set up luke's home"
-      - cd luke
-      - chmod +x ./bin/*.sh ./bin/*.pl
-      - ./bin/perldeps.sh
-      - ./bin/setup.sh
-      - cd ..
 
       # Run the archives exploder script
       - aws s3 sync s3://$CONTENT_BUCKET/archives/ archives/

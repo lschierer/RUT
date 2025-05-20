@@ -16,10 +16,6 @@ echo "Using S3 bucket: $BUCKET_NAME"
 echo "Syncing frontend code to S3..."
 aws --profile home s3 sync --exclude Build --exclude '_build/*' --exclude 'blib/*' --exclude '*.o' --exclude .DS_Store ../frontend/ "s3://$BUCKET_NAME/frontend/" --delete
 
-# Sync luke content to S3
-echo "Syncing luke content to S3..."
-aws --profile home s3 sync ../luke/ "s3://$BUCKET_NAME/luke/" --delete
-
 # Sync archives to S3
 echo "Syncing archives to S3..."
 aws --profile home s3 sync ../archives/ "s3://$BUCKET_NAME/archives/" --delete
