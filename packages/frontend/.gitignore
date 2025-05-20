@@ -3,6 +3,8 @@ _build/
 MANIFEST
 MYMETA.json
 MYMETA.yml
+META.json
+META.yml
 
 blib/
 *.o

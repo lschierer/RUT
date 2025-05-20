@@ -2,9 +2,8 @@ package Schierer::Controller::UserHome;
 
 use Mojo::Base 'Mojolicious::Controller';
 use Mojo::File 'path';
-use Mojo::Util 'mime_type';
-use Mojo::Loader 'data_section';
-use Mojo::File::Share::dist_dir;
+use Mojolicious::Types;
+use Mojo::File::Share qw(dist_dir dist_file);
 use Mojo::Asset::File;
 use strict;
 use warnings;
@@ -12,39 +11,48 @@ use warnings;
 sub serve {
   my ($c) = @_;
 
-  # Derive username from package name
+# Derive username from package name
   my $class = ref $c;
   my ($user) = $class =~ /::([^:]+)$/;
   $user = lc $user;
 
-  # Determine file path to user's home
-  my $dist_home = dist_dir('Schierer::Base')->child('home', $user)->to_abs->resolve;
-  my $rel_path = $c->stash('path') || '';
+# Determine file path to user's home
+  my $dist_home = dist_dir('Schierer::Base')->child('home', $user)->to_abs;
+  $c->app->log->debug("$user\'s home is '$dist_home'.");
+  my $rel_path = $c->stash('file_path') || '';
+  $c->app->log->debug("'$rel_path' was requested.");
 
-  # Deny access to hidden files or directories
-  return $c->reply->not_found if grep { /^\./ } split '/', $rel_path;
+# Deny access to hidden files or directories
+  return $c->reply->not_found if grep {/^\./} split '/', $rel_path;
 
-  # Normalize and secure path
-  my $requested = $dist_home->child(split '/', $rel_path)->to_abs->resolve;
+# Normalize and secure path
+  my $requested = $dist_home->child(split '/', $rel_path)->to_abs;
   return $c->reply->not_found unless $requested->to_string =~ /^\Q$dist_home\E/;
 
-  # Check if path is a template (.ep) in the home dir
+# Check if path is a template (.ep) in the home dir
   if (-f $requested && $requested->basename =~ /\.ep$/) {
     my $template_name = $requested->relative($dist_home)->to_string;
-    $template_name =~ s{\\}{/}g;  # normalize for Mojo
+    $template_name =~ s{\\}{/}g;    # normalize for Mojo
     $template_name =~ s/\.ep$//;
     return $c->render(template => "home/$user/$template_name");
   }
 
-  # File not found or not regular file
+# File not found or not regular file
+  if (-d $requested) {
+    if (-f $requested->child("index.html")) {
+      $requested = $requested->child("index.html");
+    }
+    elsif (-f $requested->child("index.md")) {
+      $requested = $requested->child("index.md");
+    }
+    elsif (-f $requested->child("index.pdf")) {
+      $requested = $requested->child("index.pdf");
+    }
+  }
   return $c->reply->not_found unless -f $requested;
 
-  # Guess MIME type based on file extension
-  my $mime = mime_type($requested->basename) || 'application/octet-stream';
-
-  # Serve the file
-  $c->res->headers->content_type($mime);
   $c->reply->asset(Mojo::Asset::File->new(path => "$requested"));
+
 }
 
 1;

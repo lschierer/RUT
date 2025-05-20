@@ -1,11 +1,8 @@
 package Schierer::Controller::Ann;
 
-use Mojo::Base 'Mojolicious::Controller';
+use Mojo::Base 'Schierer::Controller::UserHome';
 use Mojo::File 'path';
-use Mojo::Util 'mime_type';
-use Mojo::Loader 'data_section';
-use Mojo::File::Share::dist_dir;
-use Mojo::Asset::File;
+use Mojo::File::Share qw(dist_dir dist_file);
 use strict;
 use warnings;
 
@@ -18,33 +15,46 @@ sub serve {
   $user = lc $user;
 
   # Determine file path to user's home
-  my $dist_home = dist_dir('Schierer::Base')->child('home', $user)->to_abs->resolve;
-  my $rel_path = $c->stash('path') || '';
+  my $dist_home = dist_dir('Schierer::Base')->child('home', $user)->to_abs;
+  $c->app->log->debug("$user\'s home is '$dist_home'.");
+  my $rel_path = $c->stash('file_path') || '';
+  $c->app->log->debug("'$rel_path' was requested.");
+  # Check if this is a request for the root of Ann's home
+  if (!$c->stash('file_path') || $c->stash('file_path') eq '') {
+    # Get the path to Ann's poems directory
 
-  # Deny access to hidden files or directories
-  return $c->reply->not_found if grep { /^\./ } split '/', $rel_path;
+    my $poems_dir = $dist_home->child('poems');
 
-  # Normalize and secure path
-  my $requested = $dist_home->child(split '/', $rel_path)->to_abs->resolve;
-  return $c->reply->not_found unless $requested->to_string =~ /^\Q$dist_home\E/;
+    # Check if poems directory exists
+    if (-d $poems_dir) {
+      # Get list of poem files
+      my @poem_files = grep { -f $_ && $_->basename !~ /^\./ } $poems_dir->list->each;
+      $c->app->log()->debug('found ' . scalar @poem_files . ' poem files');
 
-  # Check if path is a template (.ep) in the home dir
-  if (-f $requested && $requested->basename =~ /\.ep$/) {
-    my $template_name = $requested->relative($dist_home)->to_string;
-    $template_name =~ s{\\}{/}g;  # normalize for Mojo
-    $template_name =~ s/\.ep$//;
-    return $c->render(template => "home/$user/$template_name");
+      # Sort poem files by name
+      my @sorted_poems = sort { $a->basename cmp $b->basename } @poem_files;
+
+      # Create links for each poem
+      my @poem_links = map {
+        my $name = $_->basename;
+        $name =~ s/\.\w+$//; # Remove file extension
+        {
+          name => $name,
+          url => $c->url_for("/~ann/poems/" . $_->basename)
+        }
+      } @sorted_poems;
+
+      # Render the poem list
+      return $c->render(
+        template => 'layouts/Schierer/Ann/index',
+        poems => \@poem_links,
+        layout => 'default'
+      );
+    }
   }
 
-  # File not found or not regular file
-  return $c->reply->not_found unless -f $requested;
-
-  # Guess MIME type based on file extension
-  my $mime = mime_type($requested->basename) || 'application/octet-stream';
-
-  # Serve the file
-  $c->res->headers->content_type($mime);
-  $c->reply->asset(Mojo::Asset::File->new(path => "$requested"));
+  # Fall back to default behavior for all other requests
+  return $c->SUPER::serve(@_);
 }
 
 1;

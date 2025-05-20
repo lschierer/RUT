@@ -2,10 +2,14 @@ export PATH := "./node_modules/.bin:" + env_var('PATH')
 set dotenv-load
 set dotenv-filename	:= ".env.deploy"
 
+[working-directory: 'packages/frontend']
+find-perl-deps:
+  find . \( -name '*.pm' -o -name '*.pl' \)  -exec grep use {} \; | tr -s '[:blank:]' ' ' | awk '{$1=$1};1' | sort -u
+
 install:
   pnpm install -r
   ./packages/luke/bin/perldeps.sh
-  cd ./packages/frontend && ./Build installdeps
+  cd ./packages/frontend && perl Build.PL && ./Build installdeps
 
 [working-directory: 'packages/luke']
 copy-luke-content: install
@@ -75,10 +79,6 @@ check:
   just dev && echo dev task done
   sleep 10 && just linkcheck && echo "success"
 
-[working-directory: 'packages/infrastructure']
-sync-frontend: install copy-luke-content
-  ./local-sync.sh
-
 frontend-image: install build-frontend
   #!/usr/bin/env bash
   CONTAINER_ENGINE=$(command -v podman || command -v docker)
@@ -98,8 +98,9 @@ build:  content-setup frontend-image
 
 [working-directory: 'packages/infrastructure']
 deploy: install content-setup build-frontend
+  cd ../frontend perl Build.PL && ./Build manifest
   pulumi up
 
-[working-directory: 'packages/frontend']
-find-perl-deps:
-  find . \( -name '*.pm' -o -name '*.pl' \)  -exec grep use {} \; | tr -s '[:blank:]' ' ' | awk '{$1=$1};1' | sort -u
+[working-directory: 'packages/infrastructure']
+sync-frontend: install copy-luke-content
+  ./local-sync.sh

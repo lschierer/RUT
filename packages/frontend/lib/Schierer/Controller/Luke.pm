@@ -1,5 +1,6 @@
 package Schierer::Controller::Luke;
 use Mojo::Base 'Schierer::Controller::UserHome';
+
 use Mojo::File::Share qw(dist_dir dist_file);
 use Mojo::File;
 use Mojolicious::Types;
@@ -14,7 +15,7 @@ my $css_dir = $luke_dir->child('css');
 my $types = Mojolicious::Types->new;
 
 # Handle all requests for ~luke/*
-sub handle {
+sub serve {
   my ($self) = @_;
 
   # Get file_path from stash - this is how Mojolicious passes route parameters

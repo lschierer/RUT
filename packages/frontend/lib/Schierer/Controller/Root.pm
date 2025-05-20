@@ -22,20 +22,23 @@ package Schierer::Controller::Root {
     $self->accepts('html');
     $self->res->headers->cache_control('max-age=1, no-cache');
 
-    my $result = '';
+    my @result = ('<li><a href="./~ann/">Ann</a></li>');
     $homes->map(sub { ucfirst } )->each(sub($path, $num) {
       if( -d $path ){
         my $entry = Mojo::File->new($path);
         if( any {$_ =~ /$path\/index\.(md|html)/ } $entry->list({dir => 1})->each()){
           my $name = ucfirst($entry->basename());
           my $target = $entry->basename();
-          $result .= "<li><a href='./~$target/'>$name</a></li>"
+          push @result, "<li><a href='./~$target/'>$name</a></li>"
         }
       }
 
     });
+
     my $homeCount = $homes->size();
-    $self->stash(content => "<div>The following users have homes here: <br/><ul>$result</ul></div>");
+    @result = sort @result;
+    my $listString = join '', @result;
+    $self->stash(content => "<div>The following users have homes here: <br/><ul>$listString</ul></div>");
     $self->render(template => 'index');
   }
 

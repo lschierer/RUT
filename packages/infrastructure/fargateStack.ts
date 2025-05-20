@@ -7,8 +7,10 @@ const config = new pulumi.Config("schierer.org");
 const domainName = config.require("domainName");
 const rootDomainName = config.require("rootDomainName"); // e.g. schierer.org
 const mojoLogLevel = config.get("mojoLogLevel") || "warn";
+const logRetention = config.get("logRetentionDays") || "30";
 const region = aws.config.region || "us-east-2";
 
+import { type NetworkStackReturn } from "./network";
 export type ContainerCluster = {
   lb: aws.lb.LoadBalancer;
   cluster: aws.ecs.Cluster;
@@ -21,6 +23,7 @@ const fgstackName = pulumi.getStack().toLowerCase().replaceAll("\.", "");
 export const setupContainerCluster = (
   repository: aws.ecr.Repository,
   accountId: Promise<string>,
+  network: NetworkStackReturn,
 ): ContainerCluster => {
   // Create an ECS cluster
   const cluster = new aws.ecs.Cluster(`${fgstackName}-cluster`, {
@@ -34,58 +37,10 @@ export const setupContainerCluster = (
   });
 
   // Create a VPC for the ECS service if you don't have one already
-  const vpc = new aws.ec2.Vpc(`${fgstackName}-vpc`, {
-    cidrBlock: "10.0.0.0/16",
-    enableDnsHostnames: true,
-    enableDnsSupport: true,
-  });
-
-  // Create subnets in different availability zones
-  const publicSubnets = [
-    new aws.ec2.Subnet(`${fgstackName}-subnet-1`, {
-      vpcId: vpc.id,
-      cidrBlock: "10.0.1.0/24",
-      availabilityZone: `${region}a`,
-      mapPublicIpOnLaunch: true,
-    }),
-    new aws.ec2.Subnet(`${fgstackName}-subnet-2`, {
-      vpcId: vpc.id,
-      cidrBlock: "10.0.2.0/24",
-      availabilityZone: `${region}b`,
-      mapPublicIpOnLaunch: true,
-    }),
-  ];
-
-  // Create an internet gateway
-  const gateway = new aws.ec2.InternetGateway(`${fgstackName}-gw`, {
-    vpcId: vpc.id,
-  });
-
-  // Create a route table
-  const routeTable = new aws.ec2.RouteTable(`${fgstackName}-rt`, {
-    vpcId: vpc.id,
-    routes: [
-      {
-        cidrBlock: "0.0.0.0/0",
-        gatewayId: gateway.id,
-      },
-    ],
-  });
-
-  // Associate the route table with the subnets
-  const routeTableAssociations = publicSubnets.map((subnet, i) => {
-    return new aws.ec2.RouteTableAssociation(
-      `${fgstackName}-route-table-association-${i}`,
-      {
-        subnetId: subnet.id,
-        routeTableId: routeTable.id,
-      },
-    );
-  });
 
   // Create a security group for the load balancer
   const lbSecurityGroup = new aws.ec2.SecurityGroup(`${fgstackName}-lb-sg`, {
-    vpcId: vpc.id,
+    vpcId: network.vpc.id,
     description: "Security group for the load balancer",
     ingress: [
       {
@@ -113,7 +68,7 @@ export const setupContainerCluster = (
 
   // Create a security group for the ECS tasks
   const ecsSecurityGroup = new aws.ec2.SecurityGroup(`${fgstackName}-ecs-sg`, {
-    vpcId: vpc.id,
+    vpcId: network.vpc.id,
     description: "Security group for the ECS tasks",
     ingress: [
       {
@@ -138,7 +93,7 @@ export const setupContainerCluster = (
     internal: false,
     loadBalancerType: "application",
     securityGroups: [lbSecurityGroup.id],
-    subnets: publicSubnets.map((subnet) => subnet.id),
+    subnets: network.publicSubnets.map((subnet) => subnet.id),
     enableDeletionProtection: false,
   });
 
@@ -147,7 +102,7 @@ export const setupContainerCluster = (
     port: 3000,
     protocol: "HTTP",
     targetType: "ip",
-    vpcId: vpc.id,
+    vpcId: network.vpc.id,
     healthCheck: {
       enabled: true,
       path: "/",
@@ -186,7 +141,7 @@ export const setupContainerCluster = (
 
   // Create a task definition for your container
   const taskDefinition = new aws.ecs.TaskDefinition(`${fgstackName}-task`, {
-    family: "schierer-web",
+    family: `${fgstackName}-web`,
     cpu: "256",
     memory: "512",
     networkMode: "awsvpc",
@@ -198,7 +153,7 @@ export const setupContainerCluster = (
       .apply(([repoUrl]) =>
         JSON.stringify([
           {
-            name: "schierer-web",
+            name: `${fgstackName}-web`,
             image: `${repoUrl}:latest`,
             essential: true,
             environment: [
@@ -221,7 +176,7 @@ export const setupContainerCluster = (
             logConfiguration: {
               logDriver: "awslogs",
               options: {
-                "awslogs-group": "/ecs/schierer-web",
+                "awslogs-group": `/ecs/${fgstackName}-web`,
                 "awslogs-region": region,
                 "awslogs-stream-prefix": "ecs",
                 "awslogs-create-group": "true",
@@ -239,33 +194,37 @@ export const setupContainerCluster = (
   });
 
   // Create an ECS service to run your task
-  const service = new aws.ecs.Service(`${fgstackName}-service`, {
-    cluster: cluster.arn,
-    desiredCount: 1,
-    launchType: "FARGATE",
-    taskDefinition: taskDefinition.arn,
-    networkConfiguration: {
-      subnets: publicSubnets.map((subnet) => subnet.id),
-      securityGroups: [ecsSecurityGroup.id],
-      assignPublicIp: true,
-    },
-    loadBalancers: [
-      {
-        targetGroupArn: targetGroup.arn,
-        containerName: `${fgstackName}-web`,
-        containerPort: 3000,
+  const service = new aws.ecs.Service(
+    `${fgstackName}-service`,
+    {
+      cluster: cluster.arn,
+      desiredCount: 1,
+      launchType: "FARGATE",
+      taskDefinition: taskDefinition.arn,
+      networkConfiguration: {
+        subnets: network.publicSubnets.map((subnet) => subnet.id),
+        securityGroups: [ecsSecurityGroup.id],
+        assignPublicIp: true,
       },
-    ],
-    forceNewDeployment: true,
-    deploymentCircuitBreaker: {
-      enable: true,
-      rollback: true,
+      loadBalancers: [
+        {
+          targetGroupArn: targetGroup.arn,
+          containerName: `${fgstackName}-web`,
+          containerPort: 3000,
+        },
+      ],
+      forceNewDeployment: true,
+      deploymentCircuitBreaker: {
+        enable: true,
+        rollback: true,
+      },
+      // This is key for auto-updates - always use the latest revision
+      deploymentController: {
+        type: "ECS",
+      },
     },
-    // This is key for auto-updates - always use the latest revision
-    deploymentController: {
-      type: "ECS",
-    },
-  });
+    { dependsOn: [taskDefinition] },
+  );
 
   // Create a CloudWatch event rule to trigger a deployment when a new image is pushed
   const ecrEventRule = new aws.cloudwatch.EventRule(
@@ -316,7 +275,7 @@ export const setupContainerCluster = (
 
   // Create a CloudWatch event target to update the ECS service
   const ecrEventTarget = new aws.cloudwatch.EventTarget(
-    "schierer-ecr-event-target",
+    `${fgstackName}-ecr-event-target`,
     {
       rule: ecrEventRule.name,
       arn: cluster.arn,
@@ -326,7 +285,7 @@ export const setupContainerCluster = (
         taskDefinitionArn: taskDefinition.arn,
         launchType: "FARGATE",
         networkConfiguration: {
-          subnets: publicSubnets.map((subnet) => subnet.id),
+          subnets: network.publicSubnets.map((subnet) => subnet.id),
           securityGroups: [ecsSecurityGroup.id],
           assignPublicIp: true,
         },

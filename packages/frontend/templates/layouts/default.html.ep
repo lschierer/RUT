@@ -18,15 +18,15 @@
       <h2><%= stash('yaml_data')->{subtitle} %></h2>
     % }
   </header>
-  
+
   <main>
-    <%== $content %>
+    <%== content %>
   </main>
-  
+
   <footer>
     <p>&copy; <%= (localtime)[5] + 1900 %> Luke Schierer</p>
   </footer>
-  
+
   % if (stash('yaml_data') && exists stash('yaml_data')->{js}) {
     % foreach my $js_file (@{stash('yaml_data')->{js}}) {
       <script src="<%= $js_file %>"></script>
