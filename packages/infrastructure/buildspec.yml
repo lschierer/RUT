@@ -48,6 +48,7 @@ phases:
         RUN perl Build.PL && ./Build && ./Build install --notest
 
         EXPOSE 3000
+        RUN chmod +x schierer.org.pl
         CMD ["./schierer.org.pl", "prefork", "-l", "http://*:3000"]
         DOCKERFILE_EOF
   build:
@@ -61,4 +62,5 @@ phases:
       - docker push $REPOSITORY_URI:$CODEBUILD_RESOLVED_SOURCE_VERSION
   post_build:
     commands:
+      - aws ecs update-service --cluster $CLUSTER_NAME --service $SERVICE_NAME --force-new-deployment
       - echo Build completed on $(date)

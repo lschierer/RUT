@@ -11,6 +11,8 @@ const region = aws.config.region || "us-east-2";
 
 export type ContainerCluster = {
   lb: aws.lb.LoadBalancer;
+  cluster: aws.ecs.Cluster;
+  service: aws.ecs.Service;
   certificate: aws.acm.Certificate;
 };
 
@@ -199,6 +201,16 @@ export const setupContainerCluster = (
             name: "schierer-web",
             image: `${repoUrl}:latest`,
             essential: true,
+            environment: [
+              {
+                name: "MOJO_LOG_LEVEL",
+                value: mojoLogLevel,
+              },
+              {
+                name: "MOJO_REVERSE_PROXY",
+                value: "1",
+              },
+            ],
             portMappings: [
               {
                 containerPort: 3000,
@@ -398,6 +410,8 @@ export const setupContainerCluster = (
 
   return {
     lb,
+    cluster,
+    service,
     certificate,
   };
 };

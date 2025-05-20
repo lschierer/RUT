@@ -96,6 +96,8 @@ const buildspec = perlBaseImageUri.apply((perlBaseImageUri) => {
     .replace("FROM perl:5.40", `FROM ${perlBaseImageUri}`);
 });
 
+const containerCluster = setupContainerCluster(repository, accountId);
+
 // Use the updated buildspec in your CodeBuild project// CodeBuild Project
 const codeBuildProject = new aws.codebuild.Project(`${resourceName}-build`, {
   name: `${resourceName}-web-build`,
@@ -121,6 +123,14 @@ const codeBuildProject = new aws.codebuild.Project(`${resourceName}-build`, {
       {
         name: "CONTENT_BUCKET",
         value: contentBucket.id,
+      },
+      {
+        name: "CLUSTER_NAME",
+        value: containerCluster.cluster.name.apply((name) => name),
+      },
+      {
+        name: "SERVICE_NAME",
+        value: containerCluster.service.name.apply((name) => name),
       },
     ],
   },
@@ -240,8 +250,6 @@ new aws.iam.RolePolicy(`${resourceName}-codebuild-ecr-access`, {
     ],
   }),
 });
-
-const containerCluster = setupContainerCluster(repository, accountId);
 
 // Outputs
 export const repositoryUrl = repository.repositoryUrl;
