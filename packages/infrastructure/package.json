@@ -10,14 +10,14 @@
   "main": "index.ts",
   "devDependencies": {
     "@types/aws-lambda": "8.10.149",
-    "@types/node": "^22.15.18",
+    "@types/node": "^22.15.21",
     "eslint": "^9.27.0",
     "typescript": "^5.8.3"
   },
   "dependencies": {
     "@aws-sdk/client-codebuild": "^3.812.0",
     "@aws-sdk/client-ecr": "^3.812.0",
-    "@pulumi/aws": "^6.80.0",
+    "@pulumi/aws": "^6.81.0",
     "@pulumi/awsx": "^2.21.1",
     "@pulumi/docker": "^4.6.2",
     "@pulumi/pulumi": "^3.170.0",

@@ -14,7 +14,7 @@
     "@greenwood/plugin-google-analytics": "^0.32.0",
     "@greenwood/plugin-import-raw": "^0.32.0",
     "@greenwood/plugin-postcss": "^0.32.0",
-    "@tsconfig/node22": "catalog:",
+    "@tsconfig/node22": "^22.0.2",
     "@types/css": "catalog:",
     "@types/css-modules": "catalog:",
     "@types/luxon": "catalog:",
@@ -42,6 +42,6 @@
     "jiti": "^2.4.2",
     "luxon": "catalog:",
     "open-props": "catalog:",
-    "zod": "catalog:"
+    "zod": "^3.25.17"
   }
 }
