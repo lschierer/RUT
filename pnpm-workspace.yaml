@@ -1,24 +1,24 @@
 packages:
   - packages/*
 catalog:
-  "@custom-elements-manifest/analyzer": ^0.10.4
-  "@rollup/plugin-alias": ^5.1.1
-  "@rollup/plugin-babel": ^6.0.4
-  "@rollup/plugin-image": ^3.0.3
-  "@rollup/plugin-node-resolve": ^16.0.1
-  "@rollup/plugin-replace": ^6.0.2
-  "@spectrum-css/icon": ^9.1.0
-  "@spectrum-css/link": ^7.1.0
-  "@spectrum-css/page": ^9.1.0
-  "@spectrum-css/tokens": ^16.0.1
-  "@spectrum-css/typography": ^8.1.0
-  "@spectrum-web-components/styles": ^1.4.0
-  "@spectrum-web-components/theme": ^1.4.0
-  "@tsconfig/node22": ^22.0.1
-  "@types/css": ^0.0.38
-  "@types/css-modules": ^1.0.5
-  "@types/luxon": ^3.4.2
-  "@types/mocha": ^10.0.10
+  '@custom-elements-manifest/analyzer': ^0.10.4
+  '@rollup/plugin-alias': ^5.1.1
+  '@rollup/plugin-babel': ^6.0.4
+  '@rollup/plugin-image': ^3.0.3
+  '@rollup/plugin-node-resolve': ^16.0.1
+  '@rollup/plugin-replace': ^6.0.2
+  '@spectrum-css/icon': ^9.1.0
+  '@spectrum-css/link': ^7.1.0
+  '@spectrum-css/page': ^9.1.0
+  '@spectrum-css/tokens': ^16.0.1
+  '@spectrum-css/typography': ^8.1.0
+  '@spectrum-web-components/styles': ^1.4.0
+  '@spectrum-web-components/theme': ^1.4.0
+  '@tsconfig/node22': ^22.0.1
+  '@types/css': ^0.0.38
+  '@types/css-modules': ^1.0.5
+  '@types/luxon': ^3.4.2
+  '@types/mocha': ^10.0.10
   autoprefixer: ^10.4.21
   concurrently: ^9.1.2
   cssnano: ^7.0.6
@@ -66,7 +66,8 @@ ignoredBuiltDependencies:
   - protobufjs
   - unrs-resolver
 onlyBuiltDependencies:
-  - "@parcel/watcher"
-  - "@pulumi/docker"
-  - "@pulumi/docker-build"
+  - '@parcel/watcher'
+  - '@pulumi/docker'
+  - '@pulumi/docker-build'
+  - '@pulumi/synced-folder'
   - esbuild
