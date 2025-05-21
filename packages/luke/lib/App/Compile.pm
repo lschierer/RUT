@@ -9,6 +9,7 @@ our $VERSION = '0.00.1';
 class App::Compile {
   require App::RecentChanges;
   require App::TagPageGenerator;
+  require App::AllPostsAndPages;
   require File::Temp;
   use Array::Merge::Unique qw/unique_array/;
   use HTML::FormatMarkdown;
@@ -159,6 +160,8 @@ class App::Compile {
           if ($path->absolute()->stringify eq
             Path::Tiny::path('./log/index.md')->absolute()->stringify) {
             my $rc   = App::RecentChanges->new();
+            my $posts = App::AllPostsAndPages->new();
+            $posts->compile();
             my $temp = File::Temp->new(
               UNLINK => 1,
               SUFFIX => '.dat',

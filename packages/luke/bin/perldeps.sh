@@ -15,6 +15,7 @@ File::Find::Rule
 File::Path
 File::Temp
 FindBin
+Path::Iterator::Rule
 Path::Tiny
 Getopt::Long
 Git::Repository

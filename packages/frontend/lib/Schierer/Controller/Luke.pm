@@ -14,6 +14,8 @@ my $assets_dir = $luke_dir->child('assets');
 my $css_dir = $luke_dir->child('css');
 my $types = Mojolicious::Types->new;
 
+my $redirects = {};
+
 # Handle all requests for ~luke/*
 sub serve {
   my ($self) = @_;
@@ -218,6 +220,20 @@ sub _render_markdown {
     format => 'html',
     yaml_data => $yaml_data
   );
+}
+
+sub _hashMap {
+  $redirects->{/~luke/log/20050208/20050208-1101/} = {
+    target  => '/~luke/log/science/prolife_science/',
+    date    => '2005-02-08 16:01:00'
+  };
+
+  $redirects->{/~luke/log/20050603/20050603-1424/} = {
+    target  => '/~luke/log/Society/homosexuality/',
+    date    => '2005-06-03 19:24:00'
+  };
+
+
 }
 
 1;
