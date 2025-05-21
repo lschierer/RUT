@@ -1,240 +1,245 @@
-package Schierer::Controller::Luke;
-use Mojo::Base 'Schierer::Controller::UserHome';
+use v5.40.0;
+use utf8::all;
 
-use Mojo::File::Share qw(dist_dir dist_file);
-use Mojo::File;
-use Mojolicious::Types;
-use Text::Markdown qw(markdown);
-use YAML::PP;
-use Carp;
+package Schierer::Controller::Luke {
+  use Mojo::Base 'Schierer::Controller::UserHome';
+
+  use Mojo::File::Share qw(dist_dir dist_file);
+  use Mojo::File;
+  use Mojolicious::Types;
+
+  require Text::MultiMarkdown;
+  use YAML::PP;
+  use Readonly;
+  use Carp;
 
 # Base directory for luke content
-my $luke_dir = Mojo::File::Share::dist_dir('Schierer::Base')->child('home/luke');
-my $assets_dir = $luke_dir->child('assets');
-my $css_dir = $luke_dir->child('css');
-my $types = Mojolicious::Types->new;
+  my $luke_dir =
+    Mojo::File::Share::dist_dir('Schierer::Base')->child('home/luke');
+  my $assets_dir = $luke_dir->child('assets');
+  my $css_dir    = $luke_dir->child('css');
+  my $types      = Mojolicious::Types->new;
 
-my $redirects = {};
+  # Create a closure that holds the redirects
+  Readonly::Hash my %REDIRECTS => (
+    'log/20050208/20050208-1101/' => '/~luke/log/science/prolife_science/',
+    'log/20050603/20050603-1424/' => '/~luke/log/Society/homosexuality/',
+  );
+
+  # Method to access the redirects
+  sub get_redirects {
+    return \%REDIRECTS;
+  }
 
 # Handle all requests for ~luke/*
-sub serve {
-  my ($self) = @_;
-
-  # Get file_path from stash - this is how Mojolicious passes route parameters
-  my $file_path = $self->stash('file_path') // '';
-
-  $self->app->log->debug("Luke controller handling path: '$file_path'");
-
-  $self->res->headers->cache_control('max-age=1, no-cache');
-
-  # Check if this is an asset or CSS request
-  if ($file_path =~ m{^assets/}) {
-    return $self->handle_asset($file_path);
-  }
-
-  if ($file_path =~ m{\.css$}) {
-    return $self->handle_css($file_path);
-  }
-
-  if ($file_path =~ m{\.js$}) {
-    return $self->handle_js($file_path);
-  }
-
-  # Default to index if no path specified
-  $file_path = 'index' if !$file_path || $file_path eq '';
-
-  # Remove leading/trailing slashes
-  $file_path =~ s{^/+|/+$}{}g;
-
-  # Try different file extensions in order of preference
-  my @extensions = qw(html md pdf txt);
-
-  foreach my $ext (@extensions) {
-    my $full_path = $luke_dir->child("$file_path.$ext");
-    $self->app->log->debug("Checking for file: $full_path");
-
-    if (-f $full_path) {
-      if ($ext eq 'html') {
-        $self->app->log->debug("Serving HTML file: $full_path");
-        return $self->reply->file($full_path);
-      }
-      elsif ($ext eq 'md') {
-        $self->app->log->debug("Rendering Markdown file: $full_path");
-        return $self->_render_markdown($full_path, $file_path);
-      }
-      elsif ($ext eq 'txt') {
-        $self->app->log->debug("Serving TxT file: $full_path");
-        return $self->reply->file($full_path);
-      }
-      elsif ($ext eq 'pdf') {
-        $self->app->log->debug("Serving PDF file: $full_path");
-        return $self->reply->file($full_path);
-      }
+  sub serve ($self) {
+    if(! defined $luke_dir) {
+      $luke_dir =
+        Mojo::File::Share::dist_dir('Schierer::Base')->child('home/luke');
     }
-  }
 
-  # Check if it's a directory with index files
-  my $dir_path = $luke_dir->child($file_path);
-  $self->app->log->debug("Checking directory: $dir_path");
+    # Get file_path from stash - this is how Mojolicious passes route parameters
+    my $file_path = $self->stash('file_path') // '';
 
-  if (-d $dir_path) {
-    # Try index with different extensions
+    $self->app->log->debug("Luke controller handling path: '$file_path'");
+
+    $self->res->headers->cache_control('max-age=1, no-cache');
+
+    my $redirects = get_redirects();
+    if (exists $redirects->{"$file_path"}) {
+      return $self->redirect_to($redirects->{"$file_path"});
+    }
+
+    # Check if this is an asset or CSS request
+    if ($file_path =~ m{^assets/}) {
+      return $self->handle_asset($file_path);
+    }
+
+    if ($file_path =~ m{\.css$}) {
+      return $self->handle_css($file_path);
+    }
+
+    if ($file_path =~ m{\.js$}) {
+      return $self->handle_js($file_path);
+    }
+
+    # Default to index if no path specified
+    $file_path = 'index' if !$file_path || $file_path eq '';
+
+    # Remove leading/trailing slashes
+    $file_path =~ s{^/+|/+$}{}g;
+
+    # Try different file extensions in order of preference
+    my @extensions = qw(html md pdf txt);
+
     foreach my $ext (@extensions) {
-      my $index_file = $dir_path->child("index.$ext");
-      $self->app->log->debug("Checking for index file: $index_file");
+      my $full_path = $luke_dir->child("$file_path.$ext");
+      $self->app->log->debug("Checking for file: $full_path");
 
-      if (-f $index_file) {
+      if (-f $full_path) {
         if ($ext eq 'html') {
-          $self->app->log->debug("Serving HTML index: $index_file");
-          return $self->reply->file($index_file);
+          $self->app->log->debug("Serving HTML file: $full_path");
+          return $self->reply->file($full_path);
         }
         elsif ($ext eq 'md') {
-          $self->app->log->debug("Rendering Markdown index: $index_file");
-          return $self->_render_markdown($index_file, "$file_path/index");
+          $self->app->log->debug("Rendering Markdown file: $full_path");
+          return $self->_render_markdown($full_path, $file_path);
+        }
+        elsif ($ext eq 'txt') {
+          $self->app->log->debug("Serving TxT file: $full_path");
+          return $self->reply->file($full_path);
         }
         elsif ($ext eq 'pdf') {
-          $self->app->log->debug("Serving PDF index: $index_file");
-          return $self->reply->file($index_file);
+          $self->app->log->debug("Serving PDF file: $full_path");
+          return $self->reply->file($full_path);
         }
       }
     }
-  }
 
-  # If we get here, the file wasn't found
-  $self->app->log->debug("No matching file found for: $file_path");
-  return $self->reply->not_found;
-}
+    # Check if it's a directory with index files
+    my $dir_path = $luke_dir->child($file_path);
+    $self->app->log->debug("Checking directory: $dir_path");
+
+    if (-d $dir_path) {
+      # Try index with different extensions
+      foreach my $ext (@extensions) {
+        my $index_file = $dir_path->child("index.$ext");
+        $self->app->log->debug("Checking for index file: $index_file");
+
+        if (-f $index_file) {
+          if ($ext eq 'html') {
+            $self->app->log->debug("Serving HTML index: $index_file");
+            return $self->reply->file($index_file);
+          }
+          elsif ($ext eq 'md') {
+            $self->app->log->debug("Rendering Markdown index: $index_file");
+            return $self->_render_markdown($index_file, "$file_path/index");
+          }
+          elsif ($ext eq 'pdf') {
+            $self->app->log->debug("Serving PDF index: $index_file");
+            return $self->reply->file($index_file);
+          }
+        }
+      }
+    }
+
+    # If we get here, the file wasn't found
+    $self->app->log->debug("No matching file found for: $file_path");
+    return $self->reply->not_found;
+  }
 
 # Handle asset requests (images, etc.)
-sub handle_asset {
-  my ($self, $path) = @_;
+  sub handle_asset ($self, $path) {
 
-  # Remove the 'assets/' prefix
-  $path =~ s{^assets/}{};
+    # Remove the 'assets/' prefix
+    $path =~ s{^assets/}{};
 
-  $self->app->log->debug("Looking for asset: $path");
+    $self->app->log->debug("Looking for asset: $path");
 
-  # Look for the asset in the assets directory
-  my $asset_path = $assets_dir->child($path);
+    # Look for the asset in the assets directory
+    my $asset_path = $assets_dir->child($path);
 
-  if (-f $asset_path) {
-    $self->app->log->debug("Serving asset: $asset_path");
-    return $self->reply->file($asset_path);
+    if (-f $asset_path) {
+      $self->app->log->debug("Serving asset: $asset_path");
+      return $self->reply->file($asset_path);
+    }
+
+    # Asset not found
+    $self->app->log->debug("Asset not found: $path");
+    return $self->reply->not_found;
   }
-
-  # Asset not found
-  $self->app->log->debug("Asset not found: $path");
-  return $self->reply->not_found;
-}
 
 # Handle CSS requests
-sub handle_css {
-  my ($self, $path) = @_;
+  sub handle_css ($self, $path) {
 
+    $self->app->log->debug("Looking for CSS: $path");
 
-  $self->app->log->debug("Looking for CSS: $path");
+    # Look for the CSS file in the css directory
+    my $css_path = $luke_dir->child($path);
 
-  # Look for the CSS file in the css directory
-  my $css_path = $luke_dir->child($path);
+    if (-f $css_path) {
+      $self->app->log->debug("Serving CSS: $css_path");
+      # Set the content type to CSS
+      my $type = $types->type('css');
+      $self->res->headers->content_type($type);
+      return $self->reply->file($css_path);
+    }
 
-  if (-f $css_path) {
-    $self->app->log->debug("Serving CSS: $css_path");
-    # Set the content type to CSS
-    my $type = $types->type('css');
-    $self->res->headers->content_type($type);
-    return $self->reply->file($css_path);
+    # CSS file not found
+    $self->app->log->debug("CSS file not found: $path");
+    return $self->reply->not_found;
   }
-
-  # CSS file not found
-  $self->app->log->debug("CSS file not found: $path");
-  return $self->reply->not_found;
-}
 
 # Handle JS requests
-sub handle_js {
-  my ($self, $path) = @_;
+  sub handle_js ($self, $path) {
 
+    $self->app->log->debug("Looking for JS: $path");
 
-  $self->app->log->debug("Looking for JS: $path");
+    my $js_path = $luke_dir->child($path);
 
-  my $js_path = $luke_dir->child($path);
+    if (-f $js_path) {
+      $self->app->log->debug("Serving JS: $js_path");
+      my $type = $types->type('js');
+      $self->res->headers->content_type($type);
+      return $self->reply->file($js_path);
+    }
 
-  if (-f $js_path) {
-    $self->app->log->debug("Serving JS: $js_path");
-    my $type = $types->type('js');
-    $self->res->headers->content_type($type);
-    return $self->reply->file($js_path);
+    # JS file not found
+    $self->app->log->debug("JS file not found: $path");
+    return $self->reply->not_found;
   }
-
-  # JS file not found
-  $self->app->log->debug("JS file not found: $path");
-  return $self->reply->not_found;
-}
 
 # Helper method to render markdown with YAML front matter
-sub _render_markdown {
-  my $ypp = YAML::PP->new(
-    schema => [qw/ + Perl /],
-    yaml_version => ['1.2', '1.1'],
-  );
-  my ($self, $file_path, $page_path) = @_;
+  sub _render_markdown ($self, $file_path, $page_path) {
 
-  my $content = $file_path->slurp;
+    my $ypp = YAML::PP->new(
+      schema       => [qw/ + Perl /],
+      yaml_version => ['1.2', '1.1'],
+    );
 
-  my $layout = 'default';
+    my $content = $file_path->slurp;
 
-  # Default title
-  my $title = $page_path;
-  $title =~ s{/}{::}g;  # Convert slashes to double colons for title
+    my $layout = 'default';
 
-  # Extract YAML front matter if present
-  my $yaml_data = {};
-  if ($content =~ s/^---\s*\n(.*?)\n---\s*\n//s) {
-    my $yaml = $1;
-    eval {
-      $yaml_data = $ypp->load_string($yaml);
-    };
-    if ($@) {
-      $self->app->log->warn("Error parsing YAML front matter: $@");
+    # Default title
+    my $title = $page_path;
+    $title =~ s{/}{::}g;    # Convert slashes to double colons for title
+
+    # Extract YAML front matter if present
+    my $yaml_data = {};
+    if ($content =~ s/^---\s*\n(.*?)\n---\s*\n//s) {
+      my $yaml = $1;
+      eval { $yaml_data = $ypp->load_string($yaml); };
+      if ($@) {
+        $self->app->log->warn("Error parsing YAML front matter: $@");
+      }
+      elsif (ref $yaml_data eq 'HASH') {
+        # Use title from front matter if available
+        $title  = $yaml_data->{title}  if exists $yaml_data->{title};
+        $layout = $yaml_data->{layout} if exists $yaml_data->{layout};
+      }
     }
-    elsif (ref $yaml_data eq 'HASH') {
-      # Use title from front matter if available
-      $title = $yaml_data->{title} if exists $yaml_data->{title};
-      $layout = $yaml_data->{layout} if exists $yaml_data->{layout};
-    }
-  }
 
-  # Convert markdown to HTML
-  my $html = markdown($content);
+    my $converter = Text::MultiMarkdown->new(
+      bibliography_title  => 'Footnotes',
+      tab_width           => 2,
+    );
+    # Convert markdown to HTML
+    my $html = $converter->markdown($content);
 
-  # Choose template based on path
+    # Choose template based on path
     my $template = "layouts/Schierer/Luke/$layout";
 
-
-
-  # Render with layout and title
-  return $self->render(
-    template => $template,
-    content => $html,
-    title => $title,
-    format => 'html',
-    yaml_data => $yaml_data
-  );
-}
-
-sub _hashMap {
-  $redirects->{/~luke/log/20050208/20050208-1101/} = {
-    target  => '/~luke/log/science/prolife_science/',
-    date    => '2005-02-08 16:01:00'
-  };
-
-  $redirects->{/~luke/log/20050603/20050603-1424/} = {
-    target  => '/~luke/log/Society/homosexuality/',
-    date    => '2005-06-03 19:24:00'
-  };
-
-
-}
+    # Render with layout and title
+    return $self->render(
+      template  => $template,
+      content   => $html,
+      title     => $title,
+      format    => 'html',
+      yaml_data => $yaml_data
+    );
+  }
+};
 
 1;
 

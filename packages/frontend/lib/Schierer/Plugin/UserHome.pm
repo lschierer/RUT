@@ -1,3 +1,6 @@
+use v5.40.0;
+use utf8::all;
+
 package Schierer::Plugin::UserHome;
 use Mojo::Base 'Mojolicious::Plugin';
 use Mojo::File;

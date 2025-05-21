@@ -28,6 +28,8 @@ class App::Copy {
 
   field $assets : accessor = path($output_dir, 'assets');
 
+  field $styles :accessor = path($output_dir, 'styles');
+
   ADJUST {
     if (!rindex $input_dir, "./", 0 and !rindex $input_dir, "../", 0) {
       croak(
@@ -100,11 +102,22 @@ class App::Copy {
 
         if ( $ext eq '.html'
           || $ext eq '.txt'
-          || $ext eq '.pdf'
-          || $ext eq '.css') {
+          || $ext eq '.pdf') {
 
           # Copy HTML and PDF files to output_dir preserving path
           my $dest = path($output_dir, $rel_path);
+          $self->_copy_file($path, $dest);
+        }
+        elsif ($ext eq '.css') {
+          $rel_path = $rel_path->stringify();
+
+          # Extract the part after node_modules
+          if ($rel_path =~ m#(?:^|/)node_modules/(.+)$#) {
+            $rel_path = $1;  # Use only the part after node_modules/
+          }
+
+          $rel_path = path($rel_path);
+          my $dest = path($styles, $rel_path);
           $self->_copy_file($path, $dest);
         }
         elsif ($ext eq '.png'
@@ -114,10 +127,13 @@ class App::Copy {
           # Copy graphics files to assets directory preserving path
           my $dest = path($assets, $rel_path);
           $self->_copy_file($path, $dest);
+        } else {
+          say "Ignored $path";
         }
 
-        # Ignore other file types
       },
+
+        # Ignore other file types
       {
         recurse         => 1,
         follow_symlinks => 1,

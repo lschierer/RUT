@@ -88,10 +88,19 @@ class App::IkiConverter {
     # Extract tags
     while ($content =~ /\[\[\!tag\s+([^\]]+?)\s*\]\]/g) {
       my $tag_line = $1;
-      # Split by spaces and add each tag
-      foreach my $tag (grep { $_ ne 'uncategorized' } split(/\s+/, $tag_line)) {
+
+      # Process quoted tags first
+      while ($tag_line =~ s/"([^"]+)"//) {
+        my $quoted_tag = $1;
+        $tags{$quoted_tag}++ if $quoted_tag ne 'uncategorized';
+      }
+
+      # Then process remaining unquoted tags
+      foreach my $tag (grep { $_ ne 'uncategorized' && $_ ne '' }
+        split(/\s+/, $tag_line)) {
         $tags{$tag}++;
       }
+
     }
     my @finalTags = keys %tags;
     @finalTags = sort @finalTags;
@@ -108,8 +117,15 @@ class App::IkiConverter {
     if (@$tags) {
       $front_matter .= "tags:\n";
       foreach my $tag (@$tags) {
-        $front_matter .= "  - $tag\n";
+        # Quote tags with spaces for YAML
+        if ($tag =~ /\s/) {
+          $front_matter .= "  - \"$tag\"\n";
+        }
+        else {
+          $front_matter .= "  - $tag\n";
+        }
       }
+
     }
 
     $front_matter .= "layout: rut\n";
@@ -184,7 +200,9 @@ class App::IkiConverter {
         $title =~ s/_/ /g;
 
         # Create relative link path
-        (my $link_path = '/~luke/' . $source_dir . '/' . $dir_name . '/' . $basename . '/') =~ s{/+}{/}g;
+        (my $link_path =
+            '/~luke/' . $source_dir . '/' . $dir_name . '/' . $basename . '/')
+          =~ s{/+}{/}g;
 
         $content .= "- [$title]($link_path)\n";
       }

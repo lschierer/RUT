@@ -49,17 +49,28 @@
 
   <footer id="footer" class="pagefooter" role="contentinfo">
       <div id="pageinfo">
+        <% if (stash('yaml_data') && ref stash('yaml_data') eq 'HASH' && exists stash('yaml_data')->{date}) { %>
+          <div class="last-edited">
+            <span class="tooltip">
+              Last edited <%= time_ago(stash('yaml_data')->{date}) %>
+              <span class="tooltiptext"><%= format_datetime(stash('yaml_data')->{date}) %></span>
+            </span>
+          </div>
+        <% } %>
+
         <div class="tags">
-          <page-tags>${globalThis.page.data.tags}</page-tags>
+          <% if (stash('yaml_data') && ref stash('yaml_data') eq 'HASH' &&
+                exists stash('yaml_data')->{tags} && ref stash('yaml_data')->{tags} eq 'ARRAY' &&
+                @{stash('yaml_data')->{tags}}) { %>
+            <h4>Tags</h4>
+            <ul>
+              <% foreach my $tag (@{stash('yaml_data')->{tags}}) { %>
+                <li> <a href="/~luke/tags/<%= $tag %>"> <%= $tag %> </a> </li>
+              <% } %>
+            </ul>
+          <% } %>
         </div>
-        <div id="backlinks">
-          <backlinks-component>
-            ${globalThis.page.data.links ?? ""}
-          </backlinks-component>
-        </div>
-        <div class="pagedate">
-          <last-edit>${globalThis.page.data.date}</last-edit>
-        </div>
+
         <div class="pagecopyright">
           <a
             class="pagecopyright"

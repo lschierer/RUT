@@ -82,3 +82,56 @@ div.pagelicense img.cc-by-image,
 div.pagelicense img.cc-nc-image {
   height: calc(calc(var(--size-relative-7) + var(--size-relative-8)) / 2);
 }
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted var(--main-color); /* Optional: adds a dotted underline */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 200px;
+  background-color: var(--main-color);
+  color: var(--background-color);
+  text-align: center;
+  padding: 5px;
+  border-radius: 6px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  right: 0;
+  left: 50%;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 5%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: var(--main-color) transparent transparent transparent;
+}
+
+/* Show the tooltip when hovering */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* Style for the last-edited section */
+.last-edited {
+  font-size: 0.9em;
+  color: var(--main-color);
+  margin-top: 10px;
+}

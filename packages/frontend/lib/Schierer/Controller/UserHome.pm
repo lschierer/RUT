@@ -1,3 +1,6 @@
+use v5.40.0;
+use utf8::all;
+
 package Schierer::Controller::UserHome;
 
 use Mojo::Base 'Mojolicious::Controller';

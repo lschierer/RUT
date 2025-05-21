@@ -18,9 +18,11 @@ Mojolicious::Routes
 Mojolicious::Routes::Route
 Mojolicious::Types
 namespace::clean
+Readonly
 Role::Tiny
 Text::Markdown
 Text::MultiMarkdown
+Text::Markdown::Discount
 utf8::all
 YAML::PP
 YAML::XS
