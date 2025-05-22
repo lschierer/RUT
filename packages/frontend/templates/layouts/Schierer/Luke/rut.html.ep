@@ -44,8 +44,29 @@
   </header>
 
   <main>
-    <%== $content %>
+    <article>
+      <%== $content %>
+    </article>
+    <aside>
+      <div class="archives">
+        <h3>Archives</h3>
+        <div class="calendar">
+          <%== getCurrentCalendar() %>
+        </div>
+        <div class="archive-links">
+          <% my $current_year = stash('current_year'); %>
+          <% my $current_month = stash('current_month'); %>
+          <ul>
+            <!-- This could be populated dynamically from your controller -->
+            <% for my $year (2005..$current_year) { %>
+              <li><a href="/~luke/log/archive/<%= $year %>"><%= $year %></a></li>
+            <% } %>
+          </ul>
+        </div>
+      </div>
+    </aside>
   </main>
+
 
   <footer id="footer" class="pagefooter" role="contentinfo">
       <div id="pageinfo">

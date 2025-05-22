@@ -10,6 +10,7 @@ class App::Compile {
   require App::RecentChanges;
   require App::TagPageGenerator;
   require App::AllPostsAndPages;
+  require App::CalendarGenerator;
   require File::Temp;
   use Array::Merge::Unique qw/unique_array/;
   use HTML::FormatMarkdown;
@@ -86,7 +87,7 @@ class App::Compile {
           my $file = $path->sibling($1);
           say("found file $file in $path");
           my $newPath =
-            path(join('/', $assets, 'log', $file->relative($input_dir)));
+            path(join('/', $assets, $file->relative($input_dir)));
           my $parent = $newPath->parent();
           $parent->mkdir({ mode => 0751 });
           $file->copy("$newPath");
@@ -97,10 +98,95 @@ class App::Compile {
 
   method getTags {
     my $tpg = App::TagPageGenerator->new(
-      input   => $input_dir->stringify(),
-      output  => $output_dir->stringify(),
+      input  => $input_dir->stringify(),
+      output => $output_dir->stringify(),
     );
     $tpg->generate_tags();
+  }
+
+  method getCalendars ($gitdir) {
+    my $calendarOut = $output_dir->child('log', 'archive');
+    $calendarOut->mkdir({ mode => 0711 }) unless $calendarOut->is_dir();
+    my $cg = App::CalendarGenerator->new(
+      source_dir => $input_dir->child('log'),
+      git_repo   => $gitdir,
+      output_dir => $calendarOut->stringify(),
+    );
+    $cg->all_calendars();
+  }
+
+  method _process_file ($path, $state) {
+    if ($path->is_file && "$path" =~ /\.md$/ && -r $path) {
+
+      my $relative_path = $path->relative($input_dir);
+      my $obase = $output_dir->basename();
+      my $newPath;
+      if ($relative_path =~ m{^$obase/}) {
+          # Path already starts with 'log', don't add it again
+          $newPath = path(join('/', $output_dir->parent(), $relative_path));
+      } else {
+          # Path doesn't start with 'log', add it
+          $newPath = path(join('/', $output_dir , $relative_path));
+      }
+
+      my $parent = $newPath->parent();
+      $newPath->touchpath();
+      $path->copy("$newPath");
+      my @lines         = $path->lines_utf8();
+      my $in_fontmatter = 0;
+      my $in_tags       = 0;
+      foreach my $line (@lines) {
+        if ($line =~ /^---+$/) {
+          if ($in_fontmatter == 0) {
+            $in_fontmatter = 1;
+          }
+          else {
+            $in_fontmatter = 0;
+          }
+          next;
+        }
+        if ($in_fontmatter == 1) {
+          if ($line =~ /^tags:\h*$/) {
+            $in_tags = 1;
+            next;
+          }
+          if ($in_tags == 1) {
+            if ($line =~ /^\h+-\h+(.+?)\h*$/) {
+              my $tag = $1;
+              $tags->{$1}++;
+              next;
+            }
+            else {
+              $in_tags = 0;
+
+              #however keep processing; do NOT next;
+            }
+          }
+        }
+        else {
+          if ($line =~ /!\[.+?\]/) {
+            $self->check_for_images($path);
+          }
+        }
+      }
+      if ($path->absolute()->stringify eq
+        Path::Tiny::path('./log/index.md')->absolute()->stringify) {
+        my $rc    = App::RecentChanges->new();
+        my $posts = App::AllPostsAndPages->new();
+        $posts->compile();
+        my $temp = File::Temp->new(
+          UNLINK => 1,
+          SUFFIX => '.dat',
+          PERMS  => 0640,
+        );
+
+        my $limit = 100;
+
+        my $commits_processed = $rc->generate_git_history($temp);
+        my $dl_entries = $rc->update_recent_changes($temp, $newPath, $limit);
+
+      }
+    }
   }
 
   method run {
@@ -108,81 +194,15 @@ class App::Compile {
     my $git = Git::Wrapper->new('.');
 
     say("processing .md files in $input_dir");
-
-    my $result = $input_dir->visit(
-      sub {
-        my ($path, $state) = @_;
-        if ($path->is_file && "$path" =~ /\.md$/ && -r $path) {
-
-          my $newPath =
-            path(join('/', $output_dir, $path->relative($input_dir)));
-
-          my $parent = $newPath->parent();
-          $newPath->touchpath();
-          $path->copy("$newPath");
-          my @lines         = $path->lines_utf8();
-          my $in_fontmatter = 0;
-          my $in_tags       = 0;
-          foreach my $line (@lines) {
-            if ($line =~ /^---+$/) {
-              if ($in_fontmatter == 0) {
-                $in_fontmatter = 1;
-              }
-              else {
-                $in_fontmatter = 0;
-              }
-              next;
-            }
-            if ($in_fontmatter == 1) {
-              if ($line =~ /^tags:\h*$/) {
-                $in_tags = 1;
-                next;
-              }
-              if ($in_tags == 1) {
-                if ($line =~ /^\h+-\h+(.+?)\h*$/) {
-                  my $tag = $1;
-                  $tags->{$1}++;
-                  next;
-                }
-                else {
-                  $in_tags = 0;
-
-                  #however keep processing; do NOT next;
-                }
-              }
-            }
-            else {
-              if ($line =~ /!\[.+?\]/) {
-                $self->check_for_images($path);
-              }
-            }
-          }
-          if ($path->absolute()->stringify eq
-            Path::Tiny::path('./log/index.md')->absolute()->stringify) {
-            my $rc   = App::RecentChanges->new();
-            my $posts = App::AllPostsAndPages->new();
-            $posts->compile();
-            my $temp = File::Temp->new(
-              UNLINK => 1,
-              SUFFIX => '.dat',
-              PERMS  => 0640,
-            );
-
-            my $limit = 100;
-
-            my $commits_processed = $rc->generate_git_history($temp);
-            my $dl_entries =
-              $rc->update_recent_changes($temp, $newPath, $limit);
-            say
-"DL with $dl_entries for $commits_processed commits added to $newPath";
-
-          }
-        }
-      },
-      { recurse => 1 }
-    );
+    my $process_file_ref = sub {
+      my ($path, $state) = @_;
+      $self->_process_file($path, $state);
+    };
+    my $result = $input_dir->visit($process_file_ref, { recurse => 1 });
 
     $self->getTags();
+    $self->getCalendars($git->dir());
+
   }
 
 }

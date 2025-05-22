@@ -10,7 +10,6 @@ use Getopt::Long qw(
 );
 
 use lib 'lib';
-use App::History;
 use App::Compile;
 use App::Copy;
 
@@ -25,19 +24,16 @@ my $compiler = App::Compile->new(
   input_dir   => $input_dir,
 );
 
+say"starting compiler";
 $compiler->run();
 
-my $history = App::History->new(
-  targetRoot  => $targetRoot,
-  input_dir   => $input_dir,
-);
-
-$history->convert();
 
 my $final_copy = App::Copy->new(
   targetRoot  => $targetRoot,
   input_dir   => $input_dir,
 );
-$final_copy->copy_files();
+
+#say "starting final copy -> copy_files";
+#$final_copy->copy_files();
 
 1;

@@ -7,7 +7,7 @@ package Schierer::Controller::Luke {
   use Mojo::File::Share qw(dist_dir dist_file);
   use Mojo::File;
   use Mojolicious::Types;
-
+  require DateTime;
   require Text::MultiMarkdown;
   use YAML::PP;
   use Readonly;
@@ -37,6 +37,10 @@ package Schierer::Controller::Luke {
       $luke_dir =
         Mojo::File::Share::dist_dir('Schierer::Base')->child('home/luke');
     }
+
+    $self->app->helper(getCurrentCalendar => sub {
+      return $self->getCurrentCalendar();
+    });
 
     # Get file_path from stash - this is how Mojolicious passes route parameters
     my $file_path = $self->stash('file_path') // '';
@@ -230,14 +234,25 @@ package Schierer::Controller::Luke {
     # Choose template based on path
     my $template = "layouts/Schierer/Luke/$layout";
 
+    my $now = DateTime->now();
     # Render with layout and title
     return $self->render(
-      template  => $template,
-      content   => $html,
-      title     => $title,
-      format    => 'html',
-      yaml_data => $yaml_data
+      template      => $template,
+      content       => $html,
+      title         => $title,
+      format        => 'html',
+      yaml_data     => $yaml_data,
+      current_year  => $now->year(),
+      current_month => $now->month(),
     );
+  }
+
+  sub getCurrentCalendar ($self) {
+    my $now = DateTime->now();
+    my $calendar_path = $luke_dir->child('log', 'archive', $now->year(), sprintf("%02d", $now->month()), 'calendar.html');
+    $self->app->log()->debug("calendar_path is $calendar_path" );
+    my $calendar = -e -f $calendar_path ? $calendar_path->slurp : '<span>Calendar Not Found</span>';
+    return $calendar;
   }
 };
 

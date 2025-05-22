@@ -25,6 +25,7 @@ my $builder = Module::Build->new(
     'Carp'                                => '0',
     'Data::Dumper'                        => '0',
     'Data::Printer'                       => '0',
+    'DateTime'                            => '0',
     'Date::Manip'                         => '0',
     'DBI'                                 => '0',
     'Digest::MD5'                         => '0',
