@@ -177,6 +177,9 @@ class App::IkiConverter {
     if ($target_dir->is_dir()) {
       @matching_files = $target_dir->children(qr/\.(mdwn|md)$/);
     }
+    else {
+      push @matching_files, $target_dir;
+    }
 
     # Filter out index files and directories
     @matching_files =
@@ -185,6 +188,7 @@ class App::IkiConverter {
 
     # Sort files
     @matching_files = sort @matching_files;
+    say "found " . scalar @matching_files . " files in $target_dir";
 
     # Generate markdown list
     my $content = "\n\n## Pages\n\n";
@@ -262,10 +266,10 @@ class App::IkiConverter {
     }
 
     # Process map directives if present
-    if ($content =~ /\[\[\!map\s+pages="([^"]+)"\]\]/i) {
+    if ($content =~ /\[\[\!map\s+pages="([^"]+)"\s*\]\]/i) {
       my $pattern     = $1;
       my $map_content = $self->generate_map_content($pattern,);
-      $content =~ s/\[\[\!map\s+pages="[^"]+"\]\]/$map_content/g;
+      $content =~ s/\[\[\!map\s+pages="[^"]+"\s*\]\]/$map_content/g;
     }
 
     # Extract metadata
