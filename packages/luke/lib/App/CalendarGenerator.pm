@@ -13,8 +13,8 @@ class App::CalendarGenerator {
   require Date::Manip;
   require Data::Printer;
   use Git::Repository;
-  use File::Path qw(make_path);
-  use List::Util qw(uniq);
+  use File::Path     qw(make_path);
+  use List::Util     qw(uniq);
   use HTML::Entities qw(encode_entities);
 
   field $source_dir : param : reader //= './log';
@@ -33,7 +33,7 @@ class App::CalendarGenerator {
 
     $output_dir = Path::Tiny::path($output_dir);
     if (!-d $output_dir) {
-      make_path($output_dir->stringify);
+      $output_dir->mkdir({mode => 0710 });
     }
 
     # Initialize Git repository
@@ -44,26 +44,27 @@ class App::CalendarGenerator {
     my $now = DateTime->now();
 
     my $last_month = 12;
-    for my $year (2005..$now->year()) {
-        # Process each year
-        my $last_month = 12;
-        for my $month (1..12) {
-            # Skip future months in the current year
-            if ($year == $now->year() && $month > $now->month() ) {
-              $last_month =  $month;
-              next;
-            }
-
-            # Generate calendar for this year/month
-            $self->generate_calendar($year, $month);
+    for my $year (2005 .. $now->year()) {
+      # Process each year
+      my $last_month = 12;
+      for my $month (1 .. 12) {
+        # Skip future months in the current year
+        if ($year == $now->year() && $month > $now->month()) {
+          $last_month = $month;
+          next;
         }
-        $self->year_summary_index($year,$last_month);
+
+        # Generate calendar for this year/month
+        $self->generate_calendar($year, $month);
+      }
+      $self->year_summary_index($year, $last_month);
     }
 
   }
 
   method year_summary_index ($year, $last_month = 12) {
-    my $year_index = Path::Tiny::path($output_dir, "log", "archive", $year, "index.md");
+    my $year_index =
+      Path::Tiny::path($output_dir, $year, "index.md");
     my $content = <<MARKDOWN;
 
 ---
@@ -76,16 +77,16 @@ layout: rut
 
 MARKDOWN
 
-    foreach $month (1..$last_month) {
+    foreach my $month (1 .. $last_month) {
       $content .= "- [$month](./$month/)\n";
     }
-    $content .="\n";
+    $content .= "\n";
     $year_index->spew_utf8($content);
   }
 
-  method generate_calendar($year, $month) {
+  method generate_calendar ($year, $month) {
     # Validate input
-    $year = int($year);
+    $year  = int($year);
     $month = int($month);
 
     if ($year < 1900 || $year > 2100 || $month < 1 || $month > 12) {
@@ -94,9 +95,9 @@ MARKDOWN
 
     # Create DateTime object for the specified month
     my $dt = DateTime->new(
-      year => $year,
+      year  => $year,
       month => $month,
-      day => 1
+      day   => 1
     );
 
     # Get the number of days in the month
@@ -107,10 +108,12 @@ MARKDOWN
 
     # Create month directory if it doesn't exist
     my $month_dir = $output_dir->child($year, sprintf("%02d", $month));
-    $month_dir->mkdir({mode => 0711});
+    $month_dir->mkdir({ mode => 0711 });
 
     # Generate calendar HTML
-    my $calendar_html = $self->_generate_calendar_html($year, $month, $days_in_month, $first_day_dow);
+    my $calendar_html =
+      $self->_generate_calendar_html($year, $month, $days_in_month,
+      $first_day_dow);
 
     # Write calendar HTML to file
     my $calendar_file = $month_dir->child("calendar.html");
@@ -122,8 +125,9 @@ MARKDOWN
     return $calendar_file->stringify;
   }
 
-  method _generate_calendar_html($year, $month, $days_in_month, $first_day_dow) {
-    my $dt = DateTime->new(year => $year, month => $month, day => 1);
+  method _generate_calendar_html($year, $month, $days_in_month, $first_day_dow)
+  {
+    my $dt         = DateTime->new(year => $year, month => $month, day => 1);
     my $month_name = $dt->month_name;
 
     my $html = <<HTML;
@@ -164,13 +168,16 @@ HTML
       my $day_formatted = sprintf("%02d", $current_day);
 
       # Check if this day has content
-      my $day_file = $output_dir->child($year, sprintf("%02d", $month), "$day_formatted.md");
+      my $day_file =
+        $output_dir->child($year, sprintf("%02d", $month), "$day_formatted.md");
       my $has_content = -f $day_file;
 
       # Create the cell with or without a link
       if ($has_content) {
-        $html .= qq{<td><a href="/~luke/log/archive/$year/$month/$day_formatted">$current_day</a></td>};
-      } else {
+        $html .=
+qq{<td><a href="/~luke/log/archive/$year/sprintf("%02d", $month)/$day_formatted/">$current_day</a></td>};
+      }
+      else {
         $html .= "<td>$current_day</td>";
       }
 
@@ -199,10 +206,10 @@ HTML
 
   method _generate_day_pages($year, $month, $days_in_month, $month_dir) {
     # For each day in the month
-    for my $day (1..$days_in_month) {
+    for my $day (1 .. $days_in_month) {
       # Format date for git command
       my $date_start = sprintf("%04d-%02d-%02d 00:00:00", $year, $month, $day);
-      my $date_end = sprintf("%04d-%02d-%02d 23:59:59", $year, $month, $day);
+      my $date_end   = sprintf("%04d-%02d-%02d 23:59:59", $year, $month, $day);
 
       # Get files modified on this day
       my @files = $self->_get_files_modified_on_date($date_start, $date_end);
@@ -225,15 +232,13 @@ HTML
 
     # Get all commits for this day
     my $cmd_commits = [
-      'log',
-      '--pretty=format:%H',
-      '--all',
-      "--after=$date_start",
+      'log',   '--pretty=format:%H',
+      '--all', "--after=$date_start",
       "--before=$date_end"
     ];
 
     my $commits_output = $git_repo->run(@$cmd_commits);
-    my @commits = split(/\n/, $commits_output);
+    my @commits        = split(/\n/, $commits_output);
 
     # No commits found for this day
     return () unless @commits;
@@ -243,15 +248,10 @@ HTML
     # Process each commit to find modified files
     foreach my $commit (@commits) {
       # Get files changed in this commit
-      my $cmd_show = [
-        'show',
-        '--name-only',
-        '--oneline',
-        $commit
-      ];
+      my $cmd_show = ['show', '--name-only', '--oneline', $commit];
 
       my $show_output = $git_repo->run(@$cmd_show);
-      my @lines = split(/\n/, $show_output);
+      my @lines       = split(/\n/, $show_output);
 
       # Skip the first line (commit message)
       shift @lines;
@@ -271,8 +271,8 @@ HTML
     foreach my $file (keys %unique_files) {
       # Skip files that don't exist in the repository anymore
       my $full_path = Path::Tiny::path($file);
-      #nearly nothing will exist until we start looking at rewriting the path to be relative to the ~luke/log directory.
-      #next unless -e $full_path;
+#nearly nothing will exist until we start looking at rewriting the path to be relative to the ~luke/log directory.
+#next unless -e $full_path;
 
       # Add to result list
       push @result_files, $file;
@@ -283,7 +283,7 @@ HTML
 
   method _generate_day_content($year, $month, $day, $files) {
     my $date = sprintf("%04d-%02d-%02d", $year, $month, $day);
-    my $dt = DateTime->new(year => $year, month => $month, day => $day);
+    my $dt   = DateTime->new(year => $year, month => $month, day => $day);
     my $formatted_date = $dt->strftime("%B %d, %Y");
 
     my $content = <<MARKDOWN;
@@ -303,10 +303,10 @@ MARKDOWN
       # Process the link path based on file location
       my $link_path;
       my $base_path = $file;
-      $base_path =~ s/\.(md|mdwn)$//;  # Remove extension
+      $base_path =~ s/\.(md|mdwn)$//;    # Remove extension
 
       $file =~ s{^(?:/)?(?:import|posts|luke-wiki\@schierer\.org)/}{/log/};
-      if($base_path eq 'index') {
+      if ($base_path eq 'index') {
         $link_path = $file;
         $link_path =~ s{index(?:\.(?:md|mdwn|html))}{};
       }
@@ -316,14 +316,15 @@ MARKDOWN
         $file =~ m{(.*?/log/)(.*)};
         my $after_log = $2;
         $link_path = "/~luke/log/$after_log";
-        $link_path =~ s/\.(md|mdwn)$//;  # Remove extension if still present
+        $link_path =~ s/\.(md|mdwn)$//;    # Remove extension if still present
 
-      } else {
+      }
+      else {
         # No log component, use full path
         $link_path = "/~luke/log/$base_path/";
       }
       $link_path .= '/' unless $link_path =~ m{/$};
-      if ($link_path =~ m{^/~luke/log/(?:archives|tags)/} ) {
+      if ($link_path =~ m{^/~luke/log/(?:archives|tags)/}) {
         next;
       }
       $content .= "* [$title]($link_path)\n";
@@ -338,8 +339,8 @@ MARKDOWN
     # Default to filename if file doesn't exist
     unless ($path->exists) {
       my $basename = $path->basename;
-      $basename =~ s/\.\w+$//;  # Remove extension
-      $basename =~ s/_/ /g;     # Replace underscores with spaces
+      $basename =~ s/\.\w+$//;    # Remove extension
+      $basename =~ s/_/ /g;       # Replace underscores with spaces
       return $basename;
     }
 
@@ -366,8 +367,8 @@ MARKDOWN
 
     # Fall back to filename
     my $basename = $path->basename;
-    $basename =~ s/\.\w+$//;  # Remove extension
-    $basename =~ s/_/ /g;     # Replace underscores with spaces
+    $basename =~ s/\.\w+$//;    # Remove extension
+    $basename =~ s/_/ /g;       # Replace underscores with spaces
     return $basename;
   }
 }
