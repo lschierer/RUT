@@ -6,12 +6,38 @@
 @import "open-props/buttons.min.css";
 
 aside {
+  border: var(--border-size-1) solid var(--main-color);
+  border-radius: var(--radius-conditional-3);
+  padding: var(--size-relative-2);
   float: right;
   max-width: fit-content;
+  height: fit-content;
   margin-left: 1.5rem;
   margin-bottom: 1.5rem;
   clear: right;
   flex: 1 1 auto;
+  font-size: var(
+    --font-size-0
+  ); /* Reduces text size to 90% of the default size */
+}
+
+/* This targets all elements inside the aside */
+aside * {
+  font-size: inherit; /* Makes all child elements inherit the reduced font size */
+}
+
+aside h3 {
+  text-align: center;
+}
+
+aside h2 {
+  margin: 0 1em; /* ensure the curved borders do not shift this element */
+  font-size: var(--font-size-1);
+  text-align: center;
+}
+
+aside table {
+  margin: var(--size-relative-5) 0;
 }
 
 main {

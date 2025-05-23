@@ -19,6 +19,7 @@ package Schierer::Base {
     my $distDir = Mojo::File::Share::dist_dir('Schierer::Base');
     my $home    = Mojo::Home->new;
     $home->detect;
+    $self->log->debug("Mojo Home is $home");
 
     # Load configuration from config file
     my $config = $self->plugin(

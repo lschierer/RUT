@@ -166,6 +166,7 @@ HTML
 
       # Format the day with leading zero
       my $day_formatted = sprintf("%02d", $current_day);
+       my $month_formatted = sprintf("%02d", $month);
 
       # Check if this day has content
       my $day_file =
@@ -175,7 +176,7 @@ HTML
       # Create the cell with or without a link
       if ($has_content) {
         $html .=
-qq{<td><a href="/~luke/log/archive/$year/sprintf("%02d", $month)/$day_formatted/">$current_day</a></td>};
+qq{<td><a href="/~luke/log/archive/$year/$month_formatted/$day_formatted/">$current_day</a></td>};
       }
       else {
         $html .= "<td>$current_day</td>";

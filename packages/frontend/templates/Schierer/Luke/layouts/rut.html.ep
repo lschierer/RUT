@@ -45,11 +45,11 @@
 
   <main>
     <article>
-      <%== $content %>
+      <%= content %>
     </article>
     <aside>
       <div class="archives">
-        <h3>Archives</h3>
+        <h2>Archives</h2>
         <div class="calendar">
           <%== getCurrentCalendar() %>
         </div>
