@@ -293,7 +293,7 @@ date: $date
 layout: rut
 ---
 
-# Files modified on $formatted_date
+## Files modified on $formatted_date
 
 MARKDOWN
 
