@@ -79,18 +79,31 @@ sub register {
       my $r = $app->routes;
 
       # Route for the root of the user's home directory
-      $r->get("/~$user_name")->to(controller => lc($controller_name), action => 'serve');
+      $r->any("/~$user_name")->to(controller => lc($controller_name), action => 'serve');
 
       # Route for paths under the user's home directory - IMPORTANT: use placeholder name that matches parameter name
-      $r->get("/~$user_name/*file_path")->to(controller => lc($controller_name), action => 'serve');
+      my $route = $r->any("/~$user_name/*file_path")->to(controller => lc($controller_name), action => 'serve');
 
-      # Get the controller instance
-      my $controller = $route->to->controller;
+      eval {
+          # Load the controller class
+          eval "require $controller_class";
+          if ($@) {
+              $app->log->error("Failed to load controller $controller_class: $@");
+              return;
+          }
 
-      # Check if the controller has a register_helpers method
-      if ($controller->can('initialize')) {
-          $controller->initialize($app);
+          # Create an instance of the controller
+          my $controller = $controller_class->new(app => $app);
+
+          # Check if the controller has an initialize method
+          if ($controller->can('initialize')) {
+              $controller->initialize($app);
+          }
+      };
+      if ($@) {
+          $app->log->error("Error initializing controller for ~$user_name: $@");
       }
+
 
     } else {
       $app->log->debug("UserHome plugin: No controller found for ~$user_name");
