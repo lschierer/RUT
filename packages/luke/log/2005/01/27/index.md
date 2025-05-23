@@ -1,5 +1,4 @@
 ---
-
 title: 2005-01-27
 date: 2005-01-27
 layout: rut
