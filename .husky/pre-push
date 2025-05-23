@@ -7,10 +7,11 @@ BRANCH=$(git rev-parse --abbrev-ref HEAD)
 # Only run on specific branches if desired
 if [ "$BRANCH" = "main" ] || [ "$BRANCH" = "perlv1" ]; then
   echo "Running content sync and build trigger for branch: $BRANCH"
-  
+
   # Run your sync script
-  just sync-frontend
-  
+  cd ./packages/infrastructure && ./local-sync.sh
+  cd $OLDPWD
+
   # The script now includes the build trigger
   echo "Sync and build trigger complete!"
 else
