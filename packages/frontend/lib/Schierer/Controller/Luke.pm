@@ -26,6 +26,18 @@ package Schierer::Controller::Luke {
     'log/20050603/20050603-1424/' => '/~luke/log/Society/homosexuality/',
   );
 
+  sub initialize ($self, $app) {
+
+    # Capture the controller instance in a lexical variable
+    my $controller = $self;
+
+    $self->app->helper(getCurrentCalendar => sub {
+      # Use the captured controller instance, not $self
+      return $controller->getCurrentCalendar();
+    });
+  }
+
+
   # Method to access the redirects
   sub get_redirects {
     return \%REDIRECTS;
@@ -37,10 +49,6 @@ package Schierer::Controller::Luke {
       $luke_dir =
         Mojo::File::Share::dist_dir('Schierer::Base')->child('home/luke');
     }
-
-    $self->app->helper(getCurrentCalendar => sub {
-      return $self->getCurrentCalendar();
-    });
 
     # Get file_path from stash - this is how Mojolicious passes route parameters
     my $file_path = $self->stash('file_path') // '';

@@ -83,6 +83,15 @@ sub register {
 
       # Route for paths under the user's home directory - IMPORTANT: use placeholder name that matches parameter name
       $r->get("/~$user_name/*file_path")->to(controller => lc($controller_name), action => 'serve');
+
+      # Get the controller instance
+      my $controller = $route->to->controller;
+
+      # Check if the controller has a register_helpers method
+      if ($controller->can('initialize')) {
+          $controller->initialize($app);
+      }
+
     } else {
       $app->log->debug("UserHome plugin: No controller found for ~$user_name");
     }
