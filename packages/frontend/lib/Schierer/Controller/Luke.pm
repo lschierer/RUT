@@ -29,6 +29,11 @@ package Schierer::Controller::Luke {
   Readonly::Hash my %REDIRECTS => (
     'log/20050208/20050208-1101/' => '/~luke/log/science/prolife_science/',
     'log/20050603/20050603-1424/' => '/~luke/log/Society/homosexuality/',
+    'log/20050607/20050607-1002'  => '/~luke/log/Society/usury/',
+    'log/20050608/20050608-1129'  => '/~luke/log/Politics_And_Law/Public_Schooling/',
+    'log/20050610/20050610-1530'  => '/~luke/log/Politics_And_Law/Our_Government_Is_Unlimited',
+    'log/20050610/20050610-1628'  => '/~luke/log/science/Trust/',
+    'log/20050615/20050615-1338'  => '/~luke/log/Politics_And_Law/Public_Schooling/'
   );
 
   sub initialize ($self, $app) {
