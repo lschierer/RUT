@@ -4,7 +4,7 @@
 /* optional imports that use the props */
 @import "open-props/normalize.min.css";
 @import "open-props/buttons.min.css";
-@import "open-props/brand-colors";
+@import "open-props/brand-colors.min.css";
 
 html,
 :root {
