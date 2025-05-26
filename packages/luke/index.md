@@ -16,6 +16,9 @@ layout: home
       <a href="./log/">Random Unfinished Thoughts</a>
     </li>
     <li>
+      <a href="https://hp-stuff.schierer.org">My analysis of all things Harry Potter</a>
+    </li>
+    <li>
       <a href="./gpg/">My GPG Key</a>
     </li>
   </ul>
