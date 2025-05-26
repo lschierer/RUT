@@ -109,7 +109,7 @@ const containerCluster = setupContainerCluster(
 const codeBuildLogGroup = new aws.cloudwatch.LogGroup(
   `${resourceName}-codebuild-logs`,
   {
-    name: `/aws/codebuild/Project`,
+    name: `/aws/codebuild/Project/${resourceName}`,
     retentionInDays: 3, // Set your desired retention period (e.g., 14 days)
   },
 );
