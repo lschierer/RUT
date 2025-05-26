@@ -17,7 +17,10 @@ RUN cpanm --notest Module::Build
 RUN cpanm --notest utf8::all
 RUN cpanm --notest --installdeps .
 
-RUN perl Build.PL && ./Build && ./Build install --notest
+RUN perl Build.PL
+RUN ./Build manifest
+RUN ./Build
+RUN ./Build install --notest
 
 EXPOSE 3000
 CMD ["./schierer.org.pl", "prefork", "-l", "http://*:3000"]

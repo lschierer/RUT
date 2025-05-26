@@ -7,7 +7,7 @@ import * as path from "path";
 
 import { type ContainerCluster } from "./fargateStack";
 
-export type Stage2Outputs = {};
+export type Stage2Outputs = object;
 
 // Configuration
 const config = new pulumi.Config("schierer.org");
