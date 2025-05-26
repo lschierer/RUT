@@ -96,8 +96,10 @@ class App::IkiConverter {
       }
 
       # Then process remaining unquoted tags
-      foreach my $tag (grep { $_ ne 'uncategorized' && $_ ne '' }
-        split(/\s+/, $tag_line)) {
+      foreach my $tag (
+        grep { $_ ne 'uncategorized' && $_ ne '' }
+        split(/\s+/, $tag_line)
+      ) {
         $tags{$tag}++;
       }
 

@@ -33,7 +33,7 @@ class App::Compile {
 
   field $assets : accessor = path($output_dir, 'assets');
 
-  field $tags : accessor = ();
+  field $tags : accessor = {};
 
   ADJUST {
     if (!rindex $input_dir, "./", 0 and !rindex $input_dir, "../", 0) {
@@ -98,8 +98,9 @@ class App::Compile {
 
   method getTags {
     my $tpg = App::TagPageGenerator->new(
-      input  => $input_dir->stringify(),
-      output => $output_dir->stringify(),
+      input       => $input_dir->stringify(),
+      output      => $output_dir->stringify(),
+      templateDir => $targetRoot->child('templates', 'Schierer', 'Luke'),
     );
     $tpg->generate_tags();
   }
@@ -119,14 +120,15 @@ class App::Compile {
     if ($path->is_file && "$path" =~ /\.md$/ && -r $path) {
 
       my $relative_path = $path->relative($input_dir);
-      my $obase = $output_dir->basename();
+      my $obase         = $output_dir->basename();
       my $newPath;
       if ($relative_path =~ m{^$obase/}) {
-          # Path already starts with 'log', don't add it again
-          $newPath = path(join('/', $output_dir->parent(), $relative_path));
-      } else {
-          # Path doesn't start with 'log', add it
-          $newPath = path(join('/', $output_dir , $relative_path));
+        # Path already starts with 'log', don't add it again
+        $newPath = path(join('/', $output_dir->parent(), $relative_path));
+      }
+      else {
+        # Path doesn't start with 'log', add it
+        $newPath = path(join('/', $output_dir, $relative_path));
       }
 
       my $parent = $newPath->parent();

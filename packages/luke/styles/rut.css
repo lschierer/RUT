@@ -38,6 +38,48 @@ aside h2 {
 
 aside table {
   margin: var(--size-relative-5) 0;
+  border-collapse: separate; /* important */
+  border-spacing: 0;
+  border-radius: var(--radius-conditional-3); /* match aside */
+  border: 1px solid var(--surface-2);
+}
+
+aside table th {
+  background-color: var(--surface-2);
+}
+
+aside table th,
+aside table td {
+  border: none; /* No full border */
+  border-bottom: 1px solid var(--main-color); /* Horizontal lines only */
+  border-right: 1px solid var(--main-color); /* Vertical lines only */
+}
+
+/* Optional: Remove right border on last column */
+aside table tr th:last-child,
+aside table tr td:last-child {
+  border-right: none;
+}
+
+/* Optional: Remove bottom border on last row */
+aside table tr:last-child td {
+  border-bottom: none;
+}
+
+table.calendar {
+  overflow: hidden; /* ensure inner cells respect border radius */
+}
+
+table.calendar th:first-child {
+  border-top-left-radius: var(--radius-conditional-3);
+}
+
+table.calendar th:last-child {
+  border-top-right-radius: var(--radius-conditional-3);
+}
+
+table.tag-summary {
+  margin: 0 auto;
 }
 
 main {

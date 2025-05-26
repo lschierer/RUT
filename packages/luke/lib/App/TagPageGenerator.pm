@@ -13,6 +13,7 @@ class App::TagPageGenerator {
 
   field $input : param;
   field $output : param;
+  field $templateDir : param;
   field $yaml = YAML::PP->new();
 
   method generate_tags {
@@ -20,6 +21,9 @@ class App::TagPageGenerator {
 
     my @files = File::Find::Rule->file->name('*.md')
       ->in(path($input)->child('log')->stringify);
+
+    my $tag_dir = path($output)->child('log', 'tags');
+    $tag_dir->mkdir({ mode => 0710 });
 
     for my $file_path (@files) {
       my $path     = path($file_path);
@@ -45,9 +49,6 @@ class App::TagPageGenerator {
       }
     }
 
-    my $tag_dir = path($output)->child('log', 'tags');
-    $tag_dir->mkpath;
-
     for my $tag (sort keys %tag_to_files) {
       my $tag_file = $tag_dir->child("$tag.md");
       my @links    = map { "* [" . $_->{title} . "]( " . $_->{url} . " )" }
@@ -56,6 +57,26 @@ class App::TagPageGenerator {
         . join("\n", @links) . "\n";
       $tag_file->spew_utf8($content);
     }
+    my $html = qq{<table class="tag-summary">\n};
+    $html .= qq{  <thead><tr><th>Tag</th><th>Pages</th></tr></thead>\n};
+    $html .= qq{  <tbody>\n};
+
+    for my $tag (
+      sort {
+        my $count_cmp = @{ $tag_to_files{$b} } <=> @{ $tag_to_files{$a} };
+        return $count_cmp || lc($a) cmp lc($b);
+      } keys %tag_to_files
+    ) {
+      my $count = scalar @{ $tag_to_files{$tag} };
+      my $link  = "/~luke/log/tags/$tag/";           # adjust path if needed
+      $html .=
+        qq{    <tr><td><a href="$link">$tag</a></td><td>$count</td></tr>\n};
+    }
+
+    $html .= qq{  </tbody>\n</table>\n};
+
+    $templateDir->child('rut', 'tag_table.html.ep')->spew_utf8($html);
+
   }
 }
 

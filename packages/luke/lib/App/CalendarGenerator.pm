@@ -13,13 +13,19 @@ class App::CalendarGenerator {
   require Date::Manip;
   require Data::Printer;
   use Git::Repository;
+  require YAML::PP;
   use File::Path     qw(make_path);
   use List::Util     qw(uniq);
+  use List::AllUtils qw( uniqstr );
   use HTML::Entities qw(encode_entities);
 
   field $source_dir : param : reader //= './log';
   field $output_dir : param : reader;
   field $git_repo : reader;
+  field $ypp = YAML::PP->new(
+    schema       => [qw/ + Perl /],
+    yaml_version => ['1.2', '1.1'],
+  );
 
   ADJUST {
     $source_dir = Path::Tiny::path($source_dir);
@@ -33,7 +39,7 @@ class App::CalendarGenerator {
 
     $output_dir = Path::Tiny::path($output_dir);
     if (!-d $output_dir) {
-      $output_dir->mkdir({mode => 0710 });
+      $output_dir->mkdir({ mode => 0710 });
     }
 
     # Initialize Git repository
@@ -63,9 +69,8 @@ class App::CalendarGenerator {
   }
 
   method year_summary_index ($year, $last_month = 12) {
-    my $year_index =
-      Path::Tiny::path($output_dir, $year, "index.md");
-    my $content = <<MARKDOWN;
+    my $year_index = Path::Tiny::path($output_dir, $year, "index.md");
+    my $content    = <<MARKDOWN;
 
 ---
 title: Archives for $year
@@ -82,6 +87,218 @@ MARKDOWN
     }
     $content .= "\n";
     $year_index->spew_utf8($content);
+  }
+
+  method _generate_day_pages($year, $month, $days_in_month, $month_dir) {
+    # For each day in the month
+    for my $day (1 .. $days_in_month) {
+      # Format date for git command
+      my $date_start = sprintf("%04d-%02d-%02d 00:00:00", $year, $month, $day);
+      my $date_end   = sprintf("%04d-%02d-%02d 23:59:59", $year, $month, $day);
+
+      # Get files modified on this day
+      my @files = $self->_get_files_modified_on_date($date_start, $date_end);
+
+      # Skip if no files were modified
+      next unless @files;
+
+      # Generate markdown content
+      my $content = $self->_generate_day_content($year, $month, $day, \@files);
+
+      # Write to file
+      my $day_file = $month_dir->child(sprintf("%02d.md", $day));
+      $day_file->spew_utf8($content);
+    }
+  }
+
+  method _get_files_modified_on_date($date_start, $date_end) {
+    # Extract year, month, day from date_start
+    my ($year, $month, $day) = $date_start =~ /^(\d{4})-(\d{2})-(\d{2})/;
+
+    # Get all commits for this day
+    my $cmd_commits = [
+      'log',   '--pretty=format:%H',
+      '--all', "--after=$date_start",
+      "--before=$date_end"
+    ];
+    say "running git command " . join(" ", @$cmd_commits);
+    my $commits_output = $git_repo->run(@$cmd_commits);
+    my @commits        = split(/\n/, $commits_output);
+
+    # No commits found for this day
+    return () unless @commits;
+
+    my %unique_files;
+
+    # Process each commit to find modified files
+    foreach my $commit (@commits) {
+      # Get files changed in this commit
+      my $cmd_show = ['show', '--name-only', '--oneline', $commit];
+
+      my $show_output = $git_repo->run(@$cmd_show);
+      my @lines       = split(/\n/, $show_output);
+
+      # Skip the first line (commit message)
+      my $message = shift @lines;
+
+      # Remove the hash
+      $message =~ s/^\S+\s+//;
+
+      if ($message !~ /^(?:fix|build): /) {
+        # Process each file
+        foreach my $file (@lines) {
+          next unless $file;
+          next unless $file =~ /\S/;             # skip blank lines
+          next unless $file =~ /\.(md|mdwn)$/;
+          $file =~ s/^\.\///;                    # remove leading ./ if present
+          $file =~ s/\s+$//;                     # remove trailing whitespace
+          $file =~ s/\.(md|mdwn)$//;             # remove the extension
+                                                 # Store unique files
+          $unique_files{$file} = 1;
+        }
+      }
+    }
+
+    # Process each unique file to generate proper paths
+    my @result_files;
+    foreach my $file (keys %unique_files) {
+      # Skip files that don't exist in the repository anymore
+      my $full_path = Path::Tiny::path($file);
+#nearly nothing will exist until we start looking at rewriting the path to be relative to the ~luke/log directory.
+#next unless -e $full_path;
+
+      # Add to result list
+      push @result_files, $file;
+    }
+
+    return @result_files;
+  }
+
+  method _generate_day_content($year, $month, $day, $files) {
+    my $dt = DateTime->new(year => $year, month => $month, day => $day);
+    my $formatted_date = $dt->strftime("%B %d, %Y");
+
+    my $content = $self->_DayFrontMatterTemplate($dt);
+
+    say "processing files for $formatted_date";
+
+    foreach my $orig_file (uniqstr @$files) {
+      my $link_path;
+      my $after_log;
+
+      # Clean base path for link
+      my $base_path = $orig_file;
+      $base_path =~ s/\.(md|mdwn)$//;    #this should be redundant
+
+      # Skip archives, tags or infrastructure
+      if ($orig_file =~ m{(/)?(archives|tags|infrastructure)/}) {
+        next;
+      }
+
+      # Normalize path for log-based linking
+      if ($orig_file =~
+m{^(?:/?)(?:projects/content/|import|posts|luke-wiki\@schierer\.org)/(.+)$}
+      ) {
+        say "orig_file $orig_file had a known bad pattern";
+        $after_log = $1;
+      }
+      elsif ($orig_file =~ m{^(?:packages/luke/)?log/(.+)$}) {
+        say "orig_file $orig_file started with log already";
+        $after_log = $1;
+      }
+
+      # Construct link path if we found something mappable
+      if (!defined $after_log) {
+        $after_log = $orig_file;
+      }
+      $after_log =~ s#index(?:\.(md|mdwn))?$##;
+      say "after normalization, after_log is $after_log for $orig_file";
+
+      $link_path = "/~luke/log/$after_log";
+
+      $link_path =~ s/\.(md|mdwn)$//;
+      $link_path .= '/' unless $link_path =~ m{/$};
+
+      # Check for existence, and generate output line accordingly
+      my $filepath_md = "log/$after_log";
+      $filepath_md =~ s/$/.md/;
+      my $filepath_mdwn = "log/$after_log";
+      $filepath_mdwn =~ s/$/.mdwn/;
+      my $title = '';
+      if ($after_log && -e $filepath_md) {
+        my $title = $self->_get_file_title($filepath_md);
+        say "Found after_log $after_log as markdown";
+        $content .= "* [$title]($link_path)\n";
+      }
+      elsif ($after_log && -e $filepath_mdwn) {
+        my $title = $self->_get_file_title($filepath_mdwn);
+        say "Found after_log $after_log as ikiwiki";
+        $content .= "* [$title]($link_path)\n";
+      }
+      elsif ($after_log && -d "log/$after_log" && -e "log/$after_log/index.md")
+      {
+        my $title = $self->_get_file_title("log/$after_log");
+        say
+"Found after_log $after_log as directory with markdown index, using title $title";
+        $content .= "* [$title]($link_path)\n";
+      }
+      else {
+        $title = $self->_get_file_title("log/$after_log");
+        say "after_log $after_log not found, using title $title";
+        $content .= "* $title\n";
+      }
+    }
+    say "";
+    return $content;
+  }
+
+  method _get_file_title($file_path) {
+    my $path  = Path::Tiny::path($file_path);
+    my $title = '';
+    # Default to filename if file doesn't exist
+    unless ($path->exists) {
+      my $basename = $path->basename;
+      $basename =~ s/\.\w+$//;    # Remove extension
+      $basename =~ s/_/ /g;       # Replace underscores with spaces
+      return $basename;
+    }
+
+# Handle fallback: directory with trailing slash (used when index file was deleted)
+    if ($path =~ m{^log/(.+)/$}) {
+      return $1;
+    }
+
+    if ($path->is_file()) {
+      # Try to extract title from file content
+      my $content = $path->slurp_utf8;
+
+      # Check for YAML frontmatter title
+      my $yaml_data = {};
+      if ($content =~ s/^---\s*\n(.*?)\n---\s*\n//s) {
+        my $yaml = $1;
+        eval { $yaml_data = $ypp->load_string($yaml); };
+        if ($@) {
+          say "Error parsing YAML front matter: $@";
+        }
+        elsif (ref $yaml_data eq 'HASH') {
+          # Use title from front matter if available
+          $title = $yaml_data->{title}
+            if exists $yaml_data->{title};
+        }
+      }
+      if (length($title) > 0) {
+        return $title;
+      }
+    }
+
+    # Fall back to filename
+    my $basename = $path->basename;
+    $basename =~ s/\.\w+$//;    # Remove extension
+    $basename =~ s/_/ /g;       # Replace underscores with spaces
+    if ($basename =~ /index/) {
+      return $self->_get_file_title($path->parent());
+    }
+    return $basename;
   }
 
   method generate_calendar ($year, $month) {
@@ -165,8 +382,8 @@ HTML
       }
 
       # Format the day with leading zero
-      my $day_formatted = sprintf("%02d", $current_day);
-       my $month_formatted = sprintf("%02d", $month);
+      my $day_formatted   = sprintf("%02d", $current_day);
+      my $month_formatted = sprintf("%02d", $month);
 
       # Check if this day has content
       my $day_file =
@@ -205,89 +422,10 @@ qq{<td><a href="/~luke/log/archive/$year/$month_formatted/$day_formatted/">$curr
     return $html;
   }
 
-  method _generate_day_pages($year, $month, $days_in_month, $month_dir) {
-    # For each day in the month
-    for my $day (1 .. $days_in_month) {
-      # Format date for git command
-      my $date_start = sprintf("%04d-%02d-%02d 00:00:00", $year, $month, $day);
-      my $date_end   = sprintf("%04d-%02d-%02d 23:59:59", $year, $month, $day);
-
-      # Get files modified on this day
-      my @files = $self->_get_files_modified_on_date($date_start, $date_end);
-
-      # Skip if no files were modified
-      next unless @files;
-
-      # Generate markdown content
-      my $content = $self->_generate_day_content($year, $month, $day, \@files);
-
-      # Write to file
-      my $day_file = $month_dir->child(sprintf("%02d.md", $day));
-      $day_file->spew_utf8($content);
-    }
-  }
-
-  method _get_files_modified_on_date($date_start, $date_end) {
-    # Extract year, month, day from date_start
-    my ($year, $month, $day) = $date_start =~ /^(\d{4})-(\d{2})-(\d{2})/;
-
-    # Get all commits for this day
-    my $cmd_commits = [
-      'log',   '--pretty=format:%H',
-      '--all', "--after=$date_start",
-      "--before=$date_end"
-    ];
-
-    my $commits_output = $git_repo->run(@$cmd_commits);
-    my @commits        = split(/\n/, $commits_output);
-
-    # No commits found for this day
-    return () unless @commits;
-
-    my %unique_files;
-
-    # Process each commit to find modified files
-    foreach my $commit (@commits) {
-      # Get files changed in this commit
-      my $cmd_show = ['show', '--name-only', '--oneline', $commit];
-
-      my $show_output = $git_repo->run(@$cmd_show);
-      my @lines       = split(/\n/, $show_output);
-
-      # Skip the first line (commit message)
-      shift @lines;
-
-      # Process each file
-      foreach my $file (@lines) {
-        next unless $file;
-        next unless $file =~ /\.(md|mdwn)$/;
-
-        # Store unique files
-        $unique_files{$file} = 1;
-      }
-    }
-
-    # Process each unique file to generate proper paths
-    my @result_files;
-    foreach my $file (keys %unique_files) {
-      # Skip files that don't exist in the repository anymore
-      my $full_path = Path::Tiny::path($file);
-#nearly nothing will exist until we start looking at rewriting the path to be relative to the ~luke/log directory.
-#next unless -e $full_path;
-
-      # Add to result list
-      push @result_files, $file;
-    }
-
-    return @result_files;
-  }
-
-  method _generate_day_content($year, $month, $day, $files) {
-    my $date = sprintf("%04d-%02d-%02d", $year, $month, $day);
-    my $dt   = DateTime->new(year => $year, month => $month, day => $day);
+  method _DayFrontMatterTemplate ($dt) {
     my $formatted_date = $dt->strftime("%B %d, %Y");
-
-    my $content = <<MARKDOWN;
+    my $date           = $dt->strftime("%Y-%m-%d");
+    my $content        = <<MARKDOWN;
 ---
 title: "Changes on $formatted_date"
 date: $date
@@ -297,80 +435,8 @@ layout: rut
 ## Files modified on $formatted_date
 
 MARKDOWN
-
-    foreach my $file (@$files) {
-      my $title = $self->_get_file_title($file);
-
-      # Process the link path based on file location
-      my $link_path;
-      my $base_path = $file;
-      $base_path =~ s/\.(md|mdwn)$//;    # Remove extension
-
-      $file =~ s{^(?:/)?(?:import|posts|luke-wiki\@schierer\.org)/}{/log/};
-      if ($base_path eq 'index') {
-        $link_path = $file;
-        $link_path =~ s{index(?:\.(?:md|mdwn|html))}{};
-      }
-      # Check if path contains 'log' component
-      if ($file =~ m{/log/}) {
-        # Extract relative path from the log component
-        $file =~ m{(.*?/log/)(.*)};
-        my $after_log = $2;
-        $link_path = "/~luke/log/$after_log";
-        $link_path =~ s/\.(md|mdwn)$//;    # Remove extension if still present
-
-      }
-      else {
-        # No log component, use full path
-        $link_path = "/~luke/log/$base_path/";
-      }
-      $link_path .= '/' unless $link_path =~ m{/$};
-      if ($link_path =~ m{^/~luke/log/(?:archives|tags)/}) {
-        next;
-      }
-      $content .= "* [$title]($link_path)\n";
-    }
-
     return $content;
-  }
 
-  method _get_file_title($file_path) {
-    my $path = Path::Tiny::path($file_path);
-
-    # Default to filename if file doesn't exist
-    unless ($path->exists) {
-      my $basename = $path->basename;
-      $basename =~ s/\.\w+$//;    # Remove extension
-      $basename =~ s/_/ /g;       # Replace underscores with spaces
-      return $basename;
-    }
-
-    # Try to extract title from file content
-    my $content = $path->slurp_utf8;
-
-    # Check for YAML frontmatter title
-    if ($content =~ /^---\s*\n(.*?)\n---\s*\n/s) {
-      my $frontmatter = $1;
-      if ($frontmatter =~ /title:\s*["']?(.*?)["']?\s*$/m) {
-        return $1;
-      }
-    }
-
-    # Check for ikiwiki meta title
-    if ($content =~ /\[\[\!meta\s+title="([^"]+)"\s*\]\]/i) {
-      return $1;
-    }
-
-    # Check for # Heading
-    if ($content =~ /^#\s+(.+)$/m) {
-      return $1;
-    }
-
-    # Fall back to filename
-    my $basename = $path->basename;
-    $basename =~ s/\.\w+$//;    # Remove extension
-    $basename =~ s/_/ /g;       # Replace underscores with spaces
-    return $basename;
   }
 }
 

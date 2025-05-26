@@ -28,7 +28,7 @@ class App::Copy {
 
   field $assets : accessor = path($output_dir, 'assets');
 
-  field $styles :accessor = path($output_dir, 'styles');
+  field $styles : accessor = path($output_dir, 'styles');
 
   ADJUST {
     if (!rindex $input_dir, "./", 0 and !rindex $input_dir, "../", 0) {
@@ -113,7 +113,7 @@ class App::Copy {
 
           # Extract the part after node_modules
           if ($rel_path =~ m#(?:^|/)node_modules/(.+)$#) {
-            $rel_path = $1;  # Use only the part after node_modules/
+            $rel_path = $1;    # Use only the part after node_modules/
           }
 
           $rel_path = path($rel_path);
@@ -127,13 +127,14 @@ class App::Copy {
           # Copy graphics files to assets directory preserving path
           my $dest = path($assets, $rel_path);
           $self->_copy_file($path, $dest);
-        } else {
+        }
+        else {
           say "Ignored $path";
         }
 
       },
 
-        # Ignore other file types
+      # Ignore other file types
       {
         recurse         => 1,
         follow_symlinks => 1,
