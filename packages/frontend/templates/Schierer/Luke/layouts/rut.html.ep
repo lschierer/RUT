@@ -30,7 +30,7 @@
     <div class=" right-group">
       <div class=" social-icons">
         <a href="https://github.com/lschierer/RUT">
-          <iconify-icon icon="carbon:logo-github" width="32" height="32"></iconify-icon>
+          <iconify-icon id="github" icon="carbon:logo-github" width="32" height="32"></iconify-icon>
         </a>
       </div>
     </div>

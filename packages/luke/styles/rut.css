@@ -6,7 +6,7 @@
 @import "open-props/buttons.min.css";
 
 aside {
-  border: var(--border-size-1) solid var(--main-color);
+  border: var(--border-size-1) solid;
   border-radius: var(--radius-conditional-3);
   padding: var(--size-relative-2);
   float: right;
@@ -51,8 +51,8 @@ aside table th {
 aside table th,
 aside table td {
   border: none; /* No full border */
-  border-bottom: 1px solid var(--main-color); /* Horizontal lines only */
-  border-right: 1px solid var(--main-color); /* Vertical lines only */
+  border-bottom: 1px solid; /* Horizontal lines only */
+  border-right: 1px solid; /* Vertical lines only */
 }
 
 /* Optional: Remove right border on last column */
@@ -154,7 +154,7 @@ div#pageinfo {
   flex: 1 1 auto;
   margin: var(--size-8) 0 0;
   padding: var(--size-4) var(--size-3) var(--size-2);
-  border-top: var(--border-size-2) solid var(--main-color);
+  border-top: var(--border-size-2) solid var(--surface-3);
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -212,14 +212,13 @@ div.pagelicense img.cc-nc-image {
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted var(--main-color); /* Optional: adds a dotted underline */
+  border-bottom: 1px dotted; /* Optional: adds a dotted underline */
 }
 
 /* Tooltip text */
 .tooltip .tooltiptext {
   visibility: hidden;
   width: 200px;
-  background-color: var(--main-color);
   color: var(--background-color);
   text-align: center;
   padding: 5px;
@@ -246,7 +245,7 @@ div.pagelicense img.cc-nc-image {
   margin-left: -5px;
   border-width: 5px;
   border-style: solid;
-  border-color: var(--main-color) transparent transparent transparent;
+  border-color: transparent;
 }
 
 /* Show the tooltip when hovering */
@@ -258,6 +257,5 @@ div.pagelicense img.cc-nc-image {
 /* Style for the last-edited section */
 .last-edited {
   font-size: 0.9em;
-  color: var(--main-color);
   margin-top: 10px;
 }
