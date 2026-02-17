@@ -7,37 +7,36 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node esbuild.config.js && pnpm build:css",
     "build:prod": "NODE_ENV=production node esbuild.config.js && pnpm build:css",
-    "build:css": " tsx ./src/scripts/build-css.ts ./dist/styles/",
-    "dev": "node esbuild.config.js && node watch.js"
+    "build:css": " tsx ./src/scripts/build-css.ts ./dist/styles/"
   },
   "keywords": [],
   "author": "",
   "license": "CC-BY-NC-SA",
   "devDependencies": {
-    "@tsconfig/node22": "^22.0.2",
+    "@tsconfig/node24": "^24.0.4",
     "@types/postcss-sorting": "^8.0.2",
     "autoprefixer": "catalog:",
     "cssnano": "catalog:",
-    "esbuild": "^0.25.4",
-    "jiti": "^2.4.2",
+    "esbuild": "^0.27.3",
+    "jiti": "^2.6.1",
     "postcss": "catalog:",
     "postcss-extend": "catalog:",
     "postcss-import": "catalog:",
-    "postcss-nesting": "catalog:",
+    "postcss-nesting": "14.0.0",
     "postcss-sorting": "catalog:",
-    "stylelint": "^16.19.1",
+    "stylelint": "^17.3.0",
     "tsx": "catalog:"
   },
   "dependencies": {
-    "@spectrum-css/icon": "^9.1.0",
-    "@spectrum-css/link": "^7.1.0",
-    "@spectrum-css/page": "^9.1.0",
-    "@spectrum-css/tokens": "^16.0.1",
-    "@spectrum-css/typography": "^8.1.0",
-    "iconify-icon": "^3.0.0",
+    "@spectrum-css/icon": "^9.2.0",
+    "@spectrum-css/link": "^7.2.0",
+    "@spectrum-css/page": "^9.2.0",
+    "@spectrum-css/tokens": "^16.0.2",
+    "@spectrum-css/typography": "^8.2.0",
+    "iconify-icon": "^3.0.2",
     "luxon": "catalog:",
     "open-props": "catalog:",
-    "stylelint-config-standard": "^38.0.0",
-    "zod": "^3.25.17"
+    "stylelint-config-standard": "^40.0.0",
+    "zod": "^4.3.6"
   }
 }

@@ -27,7 +27,7 @@ server:
 css_dir: styles
 typescript_dir: src
 markdown_dir: share/pages
-# relative to the public directory
+luke_content_dir: packages/luke
 
 log_base: Schierer-Org
 site_url: dev.schierer.org

@@ -1,0 +1,10 @@
+[% WRAPPER layouts/default.tt %]
+  <article class="luke-log-entry">
+    <div class="markdown-content">[% content %]</div>
+    [% IF last_edited %]
+    <footer class="entry-meta">
+      <p class="last-edited">Last edited [% last_edited %]</p>
+    </footer>
+    [% END %]
+  </article>
+[% END %]

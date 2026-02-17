@@ -16,8 +16,9 @@ class App::IkiConverter {
   use HTML::Entities qw(encode_entities);
   use File::Find;
 
-  field $source_dir : param : reader //= './log';
+  field $source_dir : param : reader  //= './log';
   field $log_file : param : reader   //= './dist/conversion_log.txt';
+  field $skip_pandoc : param : reader //= 0;
 
   ADJUST {
     $source_dir = Path::Tiny::path($source_dir);
@@ -261,9 +262,12 @@ class App::IkiConverter {
     # Read the source file
     my $content = $mdwn_file->slurp_utf8;
 
-    # Skip redirect pages
+    # Capture redirect pages — record target but still skip conversion
     if ($content =~ /\[\[\!meta\s+redir="([^"]+)"\]\]/i) {
-      $result->{error} = "Skipping redirect page to $1";
+      my $relative_path = $mdwn_file->relative($source_dir)->stringify;
+      $result->{redirect}        = $1;
+      $result->{redirect_source} = $relative_path;
+      $result->{error}           = "Redirect page to $1";
       return $result;
     }
 
@@ -282,7 +286,13 @@ class App::IkiConverter {
 
     # Process content
     my $processed_content = $self->process_content($content);
-    my $clean_content = $self->clean_and_validate_markdown($processed_content);
+    my $clean_content;
+    if ($skip_pandoc) {
+      $clean_content = $processed_content;
+    }
+    else {
+      $clean_content = $self->clean_and_validate_markdown($processed_content);
+    }
     # Combine front matter and processed content
     my $final_content = $front_matter . $clean_content;
 
@@ -329,9 +339,6 @@ class App::IkiConverter {
 
       if ($result->{success}) {
         print $log "Converted $mdwn_file to $result->{md_file}\n";
-
-        # Remove the original file if conversion was successful
-        unlink $mdwn_file;
       }
       else {
         print $log "Skipped $mdwn_file: $result->{error}\n";
@@ -340,6 +347,69 @@ class App::IkiConverter {
 
     close $log;
     return scalar(@files);
+  }
+
+  # Selective conversion: only converts files where manifest says 'reconvert'
+  method convert_ikiwiki_files_selective ($manifest) {
+
+    # Create log file directory if it doesn't exist
+    path($log_file)->parent->mkdir({ mode => 0711 })
+      unless path($log_file)->parent->exists;
+
+    my $log = path($log_file)->openw_utf8();
+    my @redirects;
+
+    # Find all .mdwn files
+    my @files;
+    my $logIter = $source_dir->iterator({
+      recurse         => 1,
+      follow_symlinks => 0,
+    });
+    my $path;
+    while ($path = $logIter->()) {
+      if ($path->stringify() =~ m/\.mdwn$/) {
+        push @files, $path
+          unless $path->stringify() eq
+          $source_dir->child('index.md')->stringify();
+      }
+    }
+
+    @files = sort @files;
+    my $converted = 0;
+    my $skipped   = 0;
+
+    foreach my $mdwn_file (@files) {
+      # Check manifest for corresponding .md file
+      my $rel_md = $mdwn_file->relative($source_dir)->stringify;
+      $rel_md =~ s/\.mdwn$/.md/;
+
+      if (exists $manifest->{$rel_md} && $manifest->{$rel_md} eq 'keep') {
+        print $log "Kept (manual edits): $mdwn_file\n";
+        $skipped++;
+        next;
+      }
+
+      my $result = $self->convert_file($mdwn_file);
+
+      if ($result->{redirect}) {
+        push @redirects, {
+          source => $result->{redirect_source},
+          target => $result->{redirect},
+        };
+        print $log "Redirect: $mdwn_file -> $result->{redirect}\n";
+      }
+      elsif ($result->{success}) {
+        print $log "Converted $mdwn_file to $result->{md_file}\n";
+        $converted++;
+      }
+      else {
+        print $log "Skipped $mdwn_file: $result->{error}\n";
+      }
+    }
+
+    close $log;
+    say "Converted: $converted, Skipped (kept): $skipped, Redirects: " . scalar(@redirects);
+    return \@redirects;
   }
 }
 1;
