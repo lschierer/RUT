@@ -7,3 +7,6 @@ public/
 # sst
 .sst
 Schierer.org.sublime-workspace
+Build
+_build
+blib

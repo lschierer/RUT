@@ -19,52 +19,6 @@ content-setup: install copy-luke-content
   cd ./packages/archives && ./bin/exploder.sh
 
 
-# Start the development container in the background with a consistent name
-serve-start:
-  #!/usr/bin/env bash
-  echo "Starting development container..."
-  CONTAINER_ENGINE=$(command -v podman || command -v docker)
-  IMAGE_ID=$(${CONTAINER_ENGINE} build -q -f packages/infrastructure/Dockerfile .)
-  ${CONTAINER_ENGINE} run --rm -d --name schierer-dev -p 3000:3000 \
-    -v "$PWD/packages/frontend:/opt/schierer.org:Z" \
-    ${IMAGE_ID} | tee .serve-container-id
-  echo "Development server running at http://localhost:3000"
-  echo "Container ID saved to .serve-container-id"
-
-# Stop the development container
-serve-stop:
-  #!/usr/bin/env bash
-  echo "Stopping development container..."
-  CONTAINER_ENGINE=$(command -v podman || command -v docker)
-  if [ -f .serve-container-id ]; then \
-    ${CONTAINER_ENGINE} stop $(cat .serve-container-id) 2>/dev/null || true; \
-    rm -f .serve-container-id; \
-    echo "Development container stopped"; \
-  else \
-    echo "No container ID found. Trying to stop by name..."; \
-    $${CONTAINER_ENGINE} stop schierer-dev 2>/dev/null || true; \
-    echo "Container stopped if it existed"; \
-  fi
-
-# Restart the development container
-serve-restart: serve-stop serve-start
-  @echo "Development container restarted"
-
-# Show logs from the development container
-serve-logs:
-  #!/usr/bin/env bash
-  CONTAINER_ENGINE=$(command -v podman || command -v docker)
-  if [ -f .serve-container-id ]; then \
-    ${CONTAINER_ENGINE} logs -f $(cat .serve-container-id); \
-  else \
-    ${CONTAINER_ENGINE} logs -f schierer-dev 2>/dev/null || \
-    echo "No running container found"; \
-  fi
-
-[working-directory: 'packages/frontend']
-dev: install content-setup
-  morbo -m development -v -w lib/ -w schierer.org.pl -w schierer-base.yml -w share/ -w templates/ ./schierer.org.pl
-
 clean:
   rm -rf packages/greenwood/src/pages
   git restore packages/greenwood/src/pages
@@ -104,3 +58,6 @@ deploy: install content-setup build-frontend
 [working-directory: 'packages/infrastructure']
 sync-frontend: install copy-luke-content
   ./local-sync.sh
+
+quickdev:
+    watchexec -w bin -w lib -w ../PAGI-WebServer/lib -w templates -w public/css -w public/js -w share/pages -r ./bin/server.pl
