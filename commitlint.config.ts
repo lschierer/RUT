@@ -18,10 +18,14 @@ const Configuration: UserConfig = {
   formatter: "@commitlint/format",
   /*
    * Any rules defined here will override rules from @commitlint/config-conventional
+   *
+   * type-enum is disabled so any type keyword is accepted (not just the
+   * conventional-commits list). The structure "type: subject" is still
+   * enforced by the other rules (type-empty, subject-empty, etc).
    */
-  /*rules: {
-    'type-enum': [2, 'always', ['foo']],
-  },*/
+  rules: {
+    "type-enum": [0],
+  },
   /*
    * Array of functions that return true if commitlint should ignore the given message.
    * Given array is merged with predefined functions, which consist of matchers like:
