@@ -1,23 +1,23 @@
 [%# cspell: disable %]
 [%# luke/recent_changes.tt - Recent changes display %]
-<dl class="recent-changes">
+<dl class="recent-changes spectrum-Body spectrum-Body--sizeM">
 [% FOREACH change IN recent_changes %]
-  <dt>[% change.id %]</dt>
-  <dd>[% change.date_formatted %]</dd>
-  <dd>[% change.message %]</dd>
+  <dt class="spectrum-Heading spectrum-Heading--sizeXS">[% change.id %]</dt>
+  <dd class="spectrum-Body spectrum-Body--sizeS">[% change.date_formatted %]</dd>
+  <dd class="spectrum-Body spectrum-Body--sizeM">[% change.message %]</dd>
   <dd>
     <ul class="filelist">
     [% FOREACH file IN change.files %]
-      <li>
+      <li class="spectrum-Body spectrum-Body--sizeS">
       [% IF file.exists %]
-        <a href="[% file.url %]">[% file.title %]</a>
+        <a href="/~luke/[% file.url %]/" class="spectrum-Link spectrum-Link--quiet">[% file.title %]</a>
       [% ELSE %]
         [% file.title %]
       [% END %]
       </li>
     [% END %]
     [% IF change.files.size >= 10 %]
-      <li>and more...</li>
+      <li class="spectrum-Body spectrum-Body--sizeS">and more...</li>
     [% END %]
     </ul>
   </dd>

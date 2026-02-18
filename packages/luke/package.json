@@ -29,6 +29,7 @@
     "tsx": "^4.21.0"
   },
   "dependencies": {
+    "@spectrum-css/calendar": "^7.2.0",
     "@spectrum-css/icon": "^9.2.0",
     "@spectrum-css/link": "^7.2.0",
     "@spectrum-css/page": "^9.2.0",

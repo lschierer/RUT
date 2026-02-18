@@ -46,4 +46,4 @@ deploy: install content-setup
   # cdk stuff goes here
 
 quickdev:
-    watchexec -w bin -w lib -w ../PAGI-WebServer/lib -w templates -w public/css -w public/js -w share/pages -r ./bin/server.pl
+    watchexec -w bin -w lib -w ../PAGI-WebServer/lib -w templates -w public/css -w public/js -w packages/luke/dist -r ./bin/server.pl

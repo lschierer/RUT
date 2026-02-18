@@ -101,6 +101,9 @@ importers:
 
   packages/luke:
     dependencies:
+      '@spectrum-css/calendar':
+        specifier: ^7.2.0
+        version: 7.2.0(@spectrum-css/tokens@16.0.2)
       '@spectrum-css/icon':
         specifier: ^9.2.0
         version: 9.2.0(@spectrum-css/tokens@16.0.2)
@@ -815,6 +818,17 @@ packages:
   '@sindresorhus/merge-streams@4.0.0':
     resolution: {integrity: sha512-tlqY9xq5ukxTUZBmoOp+m61cqwQD5pHJtFY3Mn8CA8ps6yghLH/Hw8UPdqg4OLmFW3IFlcXnQNmo/dh8HzXYIQ==}
     engines: {node: '>=18'}
+
+  '@spectrum-css/calendar@7.2.0':
+    resolution: {integrity: sha512-jFpVgwda/C6g++ErQy5Ye0Mot/qtL2aFwLKS/qa7g5ByRxYMkC8ZtonxXELWX4ZYXShPqvzQGw8YV4ZFTvoNFw==}
+    peerDependencies:
+      '@spectrum-css/actionbutton': '>=7.0.0 <8.0.0'
+      '@spectrum-css/tokens': '>=16.0.0 <17.0.0'
+    peerDependenciesMeta:
+      '@spectrum-css/actionbutton':
+        optional: true
+      '@spectrum-css/tokens':
+        optional: true
 
   '@spectrum-css/icon@9.2.0':
     resolution: {integrity: sha512-47Pvi8B8wg5zLB7a9A407SAfG6yHh3umMNx8itREC2okns1G7udwCXrQv6e0Cqn3lroBnzALeJLtc3kQ3zzc/Q==}
@@ -4770,6 +4784,10 @@ snapshots:
   '@sec-ant/readable-stream@0.4.1': {}
 
   '@sindresorhus/merge-streams@4.0.0': {}
+
+  '@spectrum-css/calendar@7.2.0(@spectrum-css/tokens@16.0.2)':
+    optionalDependencies:
+      '@spectrum-css/tokens': 16.0.2
 
   '@spectrum-css/icon@9.2.0(@spectrum-css/tokens@16.0.2)':
     optionalDependencies:

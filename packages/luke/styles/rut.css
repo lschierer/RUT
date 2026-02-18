@@ -2,122 +2,7 @@
 
 /* Spectrum tokens are loaded via global.css; no separate import needed here.
    Custom properties like --surface-2, --background-color etc. are defined in global.css. */
-
-aside {
-  border: var(--spectrum-border-width-100) solid;
-  border-radius: var(--spectrum-corner-radius-100);
-  padding: 0.5ch;
-  float: right;
-  max-width: fit-content;
-  height: fit-content;
-  margin-left: 1.5rem;
-  margin-bottom: 1.5rem;
-  clear: right;
-  flex: 1 1 auto;
-  font-size: var(--spectrum-font-size-100);
-}
-
-/* This targets all elements inside the aside */
-aside * {
-  font-size: inherit; /* Makes all child elements inherit the reduced font size */
-}
-
-aside h3 {
-  text-align: center;
-}
-
-aside h2 {
-  margin: 0 1em; /* ensure the curved borders do not shift this element */
-  font-size: var(--spectrum-font-size-200);
-  text-align: center;
-}
-
-aside table {
-  margin: 1.5ch 0;
-  border-collapse: separate; /* important */
-  border-spacing: 0;
-  border-radius: var(--spectrum-corner-radius-100); /* match aside */
-  border: 1px solid var(--surface-2);
-}
-
-aside table th {
-  background-color: var(--surface-2);
-}
-
-aside table th,
-aside table td {
-  border: none; /* No full border */
-  border-bottom: 1px solid; /* Horizontal lines only */
-  border-right: 1px solid; /* Vertical lines only */
-}
-
-/* Optional: Remove right border on last column */
-aside table tr th:last-child,
-aside table tr td:last-child {
-  border-right: none;
-}
-
-/* Optional: Remove bottom border on last row */
-aside table tr:last-child td {
-  border-bottom: none;
-}
-
-table.calendar {
-  overflow: hidden; /* ensure inner cells respect border radius */
-}
-
-table.calendar th:first-child {
-  border-top-left-radius: var(--spectrum-corner-radius-100);
-}
-
-table.calendar th:last-child {
-  border-top-right-radius: var(--spectrum-corner-radius-100);
-}
-
-table.calendar td.has-posts {
-  background-color: var(--surface-4);
-}
-
-table.tag-summary {
-  margin: 0 auto;
-}
-
-main {
-  overflow: auto; /* Ensures main content contains the float */
-  flex-direction: row;
-}
-
-article {
-  flex: 3 1 auto;
-}
-
-article p {
-  width: 100%;
-}
-
-/* Make sure the aside appears below the header */
-header {
-  clear: both;
-}
-
-header div.site-title-section {
-  width: 80%;
-}
-
-header div.page-title {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  box-sizing: border-box;
-  width: 90vw;
-  margin: 0 0 var(--spectrum-spacing-300) var(--spectrum-spacing-100);
-}
-
-img.toplogo {
-  max-width: 100%;
-  height: auto;
-  display: block;
-}
+@import "@spectrum-css/calendar/index.css";
 
 .archives {
   width: min(fit-content, 10%);
@@ -150,64 +35,119 @@ img.toplogo {
   text-decoration: none;
 }
 
-div#pageinfo {
+aside {
+  border: var(--spectrum-border-width-100) solid;
+  border-radius: var(--spectrum-corner-radius-100);
+  padding: 0.5ch;
+  float: right;
+  max-width: fit-content;
+  height: fit-content;
+  margin-left: 1.5rem;
+  margin-bottom: 1.5rem;
+  clear: right;
   flex: 1 1 auto;
-  margin: var(--spectrum-spacing-700) 0 0;
-  padding: var(--spectrum-spacing-400) var(--spectrum-spacing-300) var(--spectrum-spacing-100);
-  border-top: var(--spectrum-border-width-200) solid var(--surface-3);
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
   font-size: var(--spectrum-font-size-100);
 }
 
-div.pagecopyright {
-  flex: 1 1 auto;
+/* This targets all elements inside the aside */
+aside * {
+  font-size: inherit; /* Makes all child elements inherit the reduced font size */
+}
+
+aside h3 {
+  text-align: center;
+}
+
+aside h2 {
+  margin: 0 1em; /* ensure the curved borders do not shift this element */
+  font-size: var(--spectrum-font-size-200);
+  text-align: center;
+}
+
+
+
+aside .spectrum-Calendar {
+  --mod-calendar-day-text-color: var(--text-3);
+  --mod-calendar-day-text-color-hover: var(--text-2);
+  --mod-calendar-day-text-color-disabled: var(--text-1);
+  --mod-calendar-day-title-text-color: var(--text-1);
+  --mod-calendar-day-border-color: var(--surface-2);
+  --mod-calendar-day-border-size: 2px;
+  --mod-calendar-width: 95%;
+}
+
+
+aside .spectrum-Calendar table.spectrum-Calendar-table {
+  border: 2px solid var(--surface-2);
+  border-radius: var(--spectrum-corner-radius-100); /* match aside */
+  margin: 1.5ch 0;
+}
+
+
+
+table.tag-summary {
+  margin: 0 auto;
+}
+
+main {
+  overflow: auto; /* Ensures main content contains the float */
+  flex-direction: row;
+}
+
+
+/* Make sure the aside appears below the header */
+header {
+  clear: both;
+}
+
+header div.site-title-section {
+  width: 80%;
+}
+
+header div.page-title {
   display: flex;
-  align-self: center;
-  flex-direction: column;
-  align-items: center;
+  flex-direction: row;
   justify-content: center;
-  width: fit-content;
-  height: fit-content;
+  box-sizing: border-box;
+  width: 90vw;
+  margin: 0 0 var(--spectrum-spacing-300) var(--spectrum-spacing-100);
 }
 
-div.pagecopyright,
-div.pagelicense,
-div.pagelicense a,
-div.pagelicense p,
-div.pagelicense span {
-  flex: 1 1 auto;
-  font-size: inherit;
+img.toplogo {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
-div.pagelicense {
-  display: flex;
-  flex-direction: column;
-  text-align: left;
-  width: 40rem;
+article {
+  --mod-body-font-size: 16px;
 
-  & span {
-    display: inline-flex;
-    flex-direction: row;
-
-    & a {
-      display: inline-flex;
-      flex-direction: row;
-      align-items: flex-end;
-      justify-content: flex-start;
-    }
-  }
+  flex: 3 1 auto;
 }
 
-div.pagelicense img.cc-image {
-  height: 3.5ch;
+article p {
+  width: 100%;
 }
 
-div.pagelicense img.cc-by-image,
-div.pagelicense img.cc-nc-image {
-  height: 2.75ch;
+/* Archive pages styling */
+article[data-archive-type] h2 {
+  font-size: var(--spectrum-font-size-700);
 }
+
+article[data-archive-type] ul {
+  list-style: none;
+  padding: 0;
+}
+
+article[data-archive-type] ul li {
+  font-size: var(--spectrum-font-size-100);
+  margin: var(--spectrum-spacing-100) 0;
+}
+
+article[data-archive-type] ul li a {
+  color: var(--spectrum-accent-content-color-default);
+}
+
 
 .tooltip {
   position: relative;

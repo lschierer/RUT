@@ -1,0 +1,262 @@
+/* cspell: disable */
+
+/* Spectrum tokens are loaded via global.css; no separate import needed here.
+   Custom properties like --surface-2, --background-color etc. are defined in global.css. */
+@import "@spectrum-css/calendar/index.css";
+
+aside {
+  border: var(--spectrum-border-width-100) solid;
+  border-radius: var(--spectrum-corner-radius-100);
+  padding: 0.5ch;
+  float: right;
+  max-width: fit-content;
+  height: fit-content;
+  margin-left: 1.5rem;
+  margin-bottom: 1.5rem;
+  clear: right;
+  flex: 1 1 auto;
+  font-size: var(--spectrum-font-size-100);
+}
+
+/* This targets all elements inside the aside */
+aside * {
+  font-size: inherit; /* Makes all child elements inherit the reduced font size */
+}
+
+aside h3 {
+  text-align: center;
+}
+
+aside h2 {
+  margin: 0 1em; /* ensure the curved borders do not shift this element */
+  font-size: var(--spectrum-font-size-200);
+  text-align: center;
+}
+
+aside table {
+  margin: 1.5ch 0;
+  border-collapse: separate; /* important */
+  border-spacing: 0;
+  border-radius: var(--spectrum-corner-radius-100); /* match aside */
+  border: 1px solid var(--surface-2);
+}
+
+aside .spectrum-Calendar {
+  --mod-calendar-day-background-color: var(--surface-2);
+}
+
+aside table th,
+aside table td {
+  border: none; /* No full border */
+  border-bottom: 1px solid; /* Horizontal lines only */
+  border-right: 1px solid; /* Vertical lines only */
+}
+
+/* Optional: Remove right border on last column */
+aside table tr th:last-child,
+aside table tr td:last-child {
+  border-right: none;
+}
+
+/* Optional: Remove bottom border on last row */
+aside table tr:last-child td {
+  border-bottom: none;
+}
+
+table.calendar {
+  overflow: hidden; /* ensure inner cells respect border radius */
+}
+
+table.calendar th:first-child {
+  border-top-left-radius: var(--spectrum-corner-radius-100);
+}
+
+table.calendar th:last-child {
+  border-top-right-radius: var(--spectrum-corner-radius-100);
+}
+
+table.calendar td.has-posts {
+  background-color: var(--surface-4);
+}
+
+table.tag-summary {
+  margin: 0 auto;
+}
+
+main {
+  overflow: auto; /* Ensures main content contains the float */
+  flex-direction: row;
+}
+
+article {
+  flex: 3 1 auto;
+}
+
+article p {
+  width: 100%;
+}
+
+/* Make sure the aside appears below the header */
+header {
+  clear: both;
+}
+
+header div.site-title-section {
+  width: 80%;
+}
+
+header div.page-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 90vw;
+  margin: 0 0 var(--spectrum-spacing-300) var(--spectrum-spacing-100);
+}
+
+img.toplogo {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.archives {
+  width: min(fit-content, 10%);
+}
+
+.calendar {
+  /* Calendar will set the effective width */
+  margin-bottom: 1rem;
+}
+
+.archive-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(4em, 1fr));
+  gap: 0.5rem;
+
+  /* Make sure it doesn't exceed calendar width */
+  width: 100%;
+}
+
+.archive-links li {
+  text-align: center;
+}
+
+.archive-links a {
+  display: block;
+  padding: 0.25rem;
+  text-decoration: none;
+}
+
+div#pageinfo {
+  flex: 1 1 auto;
+  margin: var(--spectrum-spacing-700) 0 0;
+  padding: var(--spectrum-spacing-400) var(--spectrum-spacing-300) var(--spectrum-spacing-100);
+  border-top: var(--spectrum-border-width-200) solid var(--surface-3);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  font-size: var(--spectrum-font-size-100);
+}
+
+div.pagecopyright {
+  flex: 1 1 auto;
+  display: flex;
+  align-self: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  height: fit-content;
+}
+
+div.pagecopyright,
+div.pagelicense,
+div.pagelicense a,
+div.pagelicense p,
+div.pagelicense span {
+  flex: 1 1 auto;
+  font-size: inherit;
+}
+
+div.pagelicense {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  width: 40rem;
+
+  & span {
+    display: inline-flex;
+    flex-direction: row;
+
+    & a {
+      display: inline-flex;
+      flex-direction: row;
+      align-items: flex-end;
+      justify-content: flex-start;
+    }
+  }
+}
+
+div.pagelicense img.cc-image {
+  height: 3.5ch;
+}
+
+div.pagelicense img.cc-by-image,
+div.pagelicense img.cc-nc-image {
+  height: 2.75ch;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted; /* Optional: adds a dotted underline */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 200px;
+  color: var(--background-color);
+  text-align: center;
+  padding: 5px;
+  border-radius: 6px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  right: 0;
+  left: 50%;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 5%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent;
+}
+
+/* Show the tooltip when hovering */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* Style for the last-edited section */
+.last-edited {
+  font-size: 0.9em;
+  margin-top: 10px;
+}

@@ -63,25 +63,7 @@ sub build ($self) {
 
   $self->_register_redirects();
   $self->_register_static_files();
-
-  my $tree = $self->_build_content_tree();
-  my @routes = sort keys %$tree;
-
-  for my $route (@routes) {
-    my $entry = $tree->{$route};
-
-    $self->router->add(
-      $route,
-      {
-        to => async sub ($c, $ctx, @args) {
-          return await $self->_handle_markdown($ctx, $entry);
-        },
-        action => 'http.*',
-      }
-    );
-  }
-
-  $self->logger->info("Registered " . scalar(@routes) . " ~luke content routes");
+  $self->_register_markdown_routes();
 
   # Add index route for /~luke and /~luke/
   $self->router->add(
@@ -90,73 +72,63 @@ sub build ($self) {
       to => async sub ($c, $ctx, @args) {
         my $index_file = $self->luke_dir->child('index.html');
         if ($index_file->exists) {
-          await $ctx->res->send_file($index_file->stringify, inline => 1);
-        } else {
-          await $ctx->res->redirect('/~luke/log/', 302);
+          return await $ctx->res->send_file($index_file->stringify, inline => 1);
+        } 
+        $index_file = $self->luke_dir->child('index.md');
+        if ($index_file->exists){
+          my $entry = {
+            route   => $ctx->req->path,
+            path    => $index_file,
+          };
+          return await $self->_handle_markdown($ctx, $entry);
         }
+
+        await $ctx->res->redirect('/~luke/log/', 302);  
         return;
       },
       action => 'http.*',
     }
   );
-
   
   $self->router->add(
-    '/~luke/log/',
+    '/~luke/log',
     {
       to => async sub ($c, $ctx, @args) {
         my $index_file = $self->luke_dir->child('log/index.html');
         if ($index_file->exists) {
-          await $ctx->res->send_file($index_file->stringify, inline => 1);
-        } elsif ($self->luke_dir->child('log/index.md')->exists) {
+          return await $ctx->res->send_file($index_file->stringify, inline => 1);
+        } 
+        $index_file = $self->luke_dir->child('log/index.md');
+        if ($index_file->exists){
           my $entry = {
-            path => $self->luke_dir->child('log/index.md')->stringify,
-            route => '/~luke/log/',
-            manifest_key => 'log/index',
+            route   => $ctx->req->path,
+            path    => $index_file,
           };
           return await $self->_handle_markdown($ctx, $entry);
-        } else {
-          $ctx->res->status(404);
-          await $ctx->res->html('<h1>404 - Not Found</h1>');
         }
+
         return;
       },
       action => 'http.*',
     }
   );
 
- 
+  my $static_assets_rule = Path::Iterator::Rule->new;
+  $static_assets_rule->nonempty->file->name( qr/\.(?:png|svg|jpg|gif)$/ );
+  my $iter = $static_assets_rule->iter($self->luke_dir->child('assets'), {sorted => 1});
+  $self->_register_routes_from_iterator($iter, 'assets', sub { shift->_static_handler(@_) });
 
-  # Catch-all for static assets (images etc under staticAssets/)
-  $self->router->add(
-    '/~luke/assets/*path',
-    {
-      to => async sub ($c, $ctx, @args) {
-        return await $self->_handle_static_asset($ctx);
-      },
-      action => 'http.*',
-    }
-  );
 
-  $self->router->add(
-    '/~luke/styles/*path',
-    {
-      to => async sub ($c, $ctx, @args) {
-        return await $self->_handle_styles($ctx);
-      },
-      action => 'http.*',
-    }
-  );
+  my $css_rule = Path::Iterator::Rule->new;
+  $css_rule->nonempty->file->name( qr/\.css$/ );
+  $iter = $css_rule->iter($self->luke_dir->child('dist/styles'), { sorted => 1});
+  $self->_register_routes_from_iterator($iter, 'dist/styles', sub { shift->_static_handler(@_) });
 
-  $self->router->add(
-    '/~luke/node_modules/*path',
-    {
-      to => async sub ($c, $ctx, @args) {
-        return await $self->_handle_node($ctx);
-      },
-      action => 'http.get',
-    }
-  );
+  my $node_rule = Path::Iterator::Rule->new;
+  $node_rule->nonempty->file;
+  $iter = $node_rule->iter($self->luke_dir->child('node_modules'), { sorted => 1});
+  $self->_register_routes_from_iterator($iter, 'node_modules', sub { shift->_static_handler(@_) });
+
 }
 
 sub _register_redirects ($self) {
@@ -180,6 +152,52 @@ sub _register_redirects ($self) {
   }
 
   $self->logger->info("Registered $count ~luke redirect routes");
+}
+
+sub _register_routes_from_iterator ($self, $iterator, $base_path, $handler) {
+  my $count = 0;
+  
+  while (defined(my $file = $iterator->())) {
+    $file = Path::Tiny::path($file);
+    
+    my $rel = $file->relative($self->luke_dir->child($base_path))->stringify;
+    $rel =~ s/\.md$//;  # Remove .md extension for markdown files
+    my $route = "/~luke/$base_path/$rel";
+    $route =~ s{//+}{/}g;
+    $route =~ s{/index$}{};
+
+    #special cases
+    $route =~ s{luke/dist/}{luke/};
+
+    $self->logger->debug(sprintf('registering route "%s" from base_path "%s"', $route, $base_path));
+    
+    $self->router->add(
+      $route,
+      {
+        to => async sub ($c, $ctx, @args) {
+          await $handler->($self, $ctx, $file, $route);
+        },
+        action => 'http.*',
+      }
+    );
+    $count++;
+  }
+  
+  return $count;
+}
+
+async sub _markdown_handler ($self, $ctx, $file, $route) {
+  my $entry = {
+    path => $file->stringify,
+    route => $route,
+    manifest_key => $file->relative($self->luke_dir)->stringify =~ s/\.md$//r,
+  };
+  return await $self->_handle_markdown($ctx, $entry);
+}
+
+async sub _static_handler ($self, $ctx, $file, $route) {
+  await $ctx->res->send_file($file->stringify, inline => 1);
+  return;
 }
 
 sub _register_static_files ($self) {
@@ -208,14 +226,15 @@ sub _register_static_files ($self) {
     my $rel   = $file->relative($luke_dir)->stringify;
     my $route = "/~luke/$rel";
 
+    $self->logger->debug(sprintf('registering static file route "%s"', $route));
+    my $file_copy = $file;  # Capture for closure
     $self->router->add(
       $route,
       {
         to => async sub ($c, $ctx, @args) {
-          await $ctx->res->send_file($file->stringify, inline => 1);
-          return;
+          await $self->_static_handler($ctx, $file_copy, $route);
         },
-        action => 'http.*',
+        action => 'http.get',
       }
     );
     $count++;
@@ -224,48 +243,25 @@ sub _register_static_files ($self) {
   $self->logger->info("Registered $count ~luke static file routes");
 }
 
-sub _build_content_tree ($self) {
-  my %tree;
+sub _register_markdown_routes ($self) {
   my $log_dir = $self->luke_dir->child('log');
-
-  unless ($log_dir->is_dir) {
-    $self->logger->warn("Luke log directory not found: $log_dir");
-    return \%tree;
-  }
-
-  $self->logger->debug(sprintf('scanning content under "%s"', $log_dir));
-
+  
   my $rule = Path::Iterator::Rule->new;
-  my $next = $rule->file->nonempty->name(qr/\.md$/)->iter(
-    $log_dir->stringify,
-    {
-      depthfirst      => -1,
-      follow_symlinks =>  0,
-      sorted          =>  1,
-    }
+  $rule->file->nonempty->name(qr/\.md$/);
+  
+  my $iter = $rule->iter($log_dir , {
+    depthfirst => -1,
+    follow_symlinks => 0,
+    sorted => 1,
+  });
+
+  my $count = $self->_register_routes_from_iterator(
+    $iter,
+    $log_dir->relative($self->luke_dir),
+    sub { shift->_markdown_handler(@_) }
   );
 
-  while (defined(my $file = $next->())) {
-    $file = Path::Tiny::path($file);
-
-    my $rel = $file->relative($self->luke_dir)->stringify;
-    # e.g. log/20050131/20050131-0745.md -> /~luke/log/20050131/20050131-0745/
-    (my $route = $rel) =~ s/\.md$//;
-    $route = "/~luke/$route/";
-    # Normalize double slashes
-    $route =~ s{//+}{/}g;
-
-    # manifest key is path without extension
-    (my $manifest_key = $rel) =~ s/\.md$//;
-
-    $tree{$route} = {
-      path         => $file->stringify,
-      route        => $route,
-      manifest_key => $manifest_key,
-    };
-  }
-
-  return \%tree;
+  $self->logger->info("Registered $count markdown routes");
 }
 
 async sub _handle_markdown ($self, $ctx, $entry) {
@@ -276,19 +272,36 @@ async sub _handle_markdown ($self, $ctx, $entry) {
   $extra_vars->{frontmatter} = $frontmatter;
 
   # Look up date from manifest
-  my $date_str = $self->date_manifest->{ $entry->{manifest_key} };
+
+  my $date_str;
+  $date_str = $self->date_manifest->{ $entry->{manifest_key} } if exists $entry->{manifest_key};
   if ($date_str) {
     $extra_vars->{last_edited} = $self->_format_relative_date($date_str);
   }
 
   # Add calendar widget
   $extra_vars->{calendar_widget} = $self->_get_current_calendar();
+  
+  # Add list of years with archives
+  $extra_vars->{archive_years} = $self->_get_archive_years();
+  
+  # Add tag list
+  $extra_vars->{tag_list} = $self->_get_tag_list();
 
-  # Set template - override frontmatter
-  $extra_vars->{frontmatter} = {
-    %$frontmatter,
-    template => 'luke/log_entry',
-  };
+  # Controller override: use luke/log_entry template for blog posts
+  $extra_vars->{template_override} = 'luke/log_entry';
+
+  # Pass layout from frontmatter (defaults to 'luke_rut' in template)
+  if ($frontmatter->{layout}) {
+    my $layout = $frontmatter->{layout};
+    # Normalize 'rut' to 'luke_rut'
+    $layout = 'luke_rut' if $layout eq 'rut';
+    $extra_vars->{layout} = $layout;
+  }elsif( $entry->{path} =~ /log/){
+    $extra_vars->{layout} = 'luke_rut';
+  } else {
+    $extra_vars->{layout} = 'luke_default';
+  }
 
   my $html = $self->render_markdown_page(
     $entry->{path},
@@ -329,44 +342,6 @@ async sub _handle_static_asset ($self, $ctx) {
     # Also try the direct path under luke_dir
     $file = $self->luke_dir->child($rel);
   }
-
-  if ($file->exists && $file->is_file) {
-    await $ctx->res->send_file($file->stringify, inline => 1);
-  }
-  else {
-    $ctx->res->status(404);
-    await $ctx->res->html('<h1>404 - Not Found</h1>');
-  }
-  return;
-}
-
-async sub _handle_styles ($self, $ctx) {
-  my $path = $ctx->req->path;
-
-  # Strip /~luke/ prefix
-  (my $rel = $path) =~ s{^/~luke/styles}{};
-
-  # Try staticAssets/ directory first
-  my $file = $self->luke_dir->child('dist/styles', $rel);
-
-  if ($file->exists && $file->is_file) {
-    await $ctx->res->send_file($file->stringify, inline => 1);
-  }
-  else {
-    $ctx->res->status(404);
-    await $ctx->res->html('<h1>404 - Not Found</h1>');
-  }
-  return;
-}
-
-async sub _handle_node ($self, $ctx) {
-  my $path = $ctx->req->path;
-
-  # Strip /~luke/ prefix
-  (my $rel = $path) =~ s{^/~luke/node_modules}{};
-
-  # Try staticAssets/ directory first
-  my $file = $self->luke_dir->child('node_modules', $rel);
 
   if ($file->exists && $file->is_file) {
     await $ctx->res->send_file($file->stringify, inline => 1);
@@ -451,6 +426,27 @@ sub _get_current_calendar ($self) {
   }
   
   return '<p>No calendar available</p>';
+}
+
+sub _get_archive_years ($self) {
+  my $archive_dir = $self->luke_dir->child("log/archive");
+  return [] unless $archive_dir->exists;
+  
+  my @years = sort { $a <=> $b }
+              map { $_->basename }
+              grep { $_->is_dir && $_->basename =~ /^\d{4}$/ }
+              $archive_dir->children;
+  
+  return \@years;
+}
+
+sub _get_tag_list ($self) {
+  my $tags_file = $self->luke_dir->child("dist/tags.json");
+  return [] unless $tags_file->exists;
+  
+  my $json = JSON::MaybeXS->new(utf8 => 1);
+  my $tags = eval { $json->decode($tags_file->slurp_raw) };
+  return $tags // [];
 }
 
 

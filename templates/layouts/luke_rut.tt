@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- cspell: disable -->
 <html lang="en" class="spectrum spectrum--medium spectrum--dark dark-theme dark">
 <!-- cspell: disable -->
 <head>
@@ -6,6 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="/~luke/styles/global.css" />
   <link rel="stylesheet" href="/~luke/styles/rut.css" />
+  <link rel="stylesheet" href="/~luke/styles/rut-footer.css" />
   <script src="/~luke/node_modules/iconify-icon/dist/iconify-icon.min.js" type="module"></script>
   <title>[% title %]</title>
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3WJYW9RQ1"></script>
@@ -16,7 +18,8 @@
     gtag('config', 'G-Y3WJYW9RQ1');
   </script>
 </head>
-<body>
+[% classes = sidebar ? 'spectrum spectrum--medium spectrum-Typography spectrum--dark dark-theme dark with-sidebar' : 'spectrum spectrum--medium spectrum-Typography spectrum--dark dark-theme dark' -%]
+<body class="[% classes %]">
   <header>
     <div class="site-title-section">
       <a href='/~luke/log/' class="site-title spectrum-Link spectrum-Link--quiet spectrum-Link--secondary">
@@ -27,35 +30,46 @@
     </div>
     <div class="right-group">
       <div class="social-icons">
-        <a href="https://github.com/lschierer/RUT">
+        <a href="https://github.com/lschierer/RUT" class="spectrum-Link spectrum-Link--quiet spectrum-Link--secondary">
           <iconify-icon id="github" icon="carbon:logo-github" width="32" height="32"></iconify-icon>
         </a>
       </div>
     </div>
     [% IF title && title != 'Random Unfinished Thoughts' %]
     <div class="page-title">
-      <h1 class="page-title">[% title %]</h1>
+      <h2 class="spectrum-Heading spectrum-Heading--sizeXL page-title" > [% title %] </h2>
     </div>
     [% END %]
   </header>
 
   <main>
-    <article>
+    <article class="spectrum-Body spectrum-Body--sizeM"[% IF frontmatter.archive_type %] data-archive-type="[% frontmatter.archive_type %]"[% END %]>
       [% content %]
     </article>
     <aside>
       <div class="archives">
-        <h2>Archives</h2>
+        <h2 class="spectrum-Heading spectrum-Heading--sizeS">Archives</h2>
         <div class="calendar">
           [% calendar_widget %]
         </div>
         <div class="archive-links">
           <ul>
-            [% FOREACH year IN [2005 .. current_year] %]
-            <li><a href="/~luke/log/archive/[% year %]">[% year %]</a></li>
+            [% FOREACH year IN archive_years %]
+            <li><a href="/~luke/log/archive/[% year %]" class="spectrum-Link">[% year %]</a></li>
             [% END %]
           </ul>
         </div>
+        [% IF tag_list && tag_list.size > 0 %]
+        <div class="tag-links">
+          <h3 class="spectrum-Heading spectrum-Heading--sizeXS">Tags</h3>
+          <ul>
+            [% FOREACH tag IN tag_list %]
+            <li><a href="/~luke/log/tags/[% tag %]/" class="spectrum-Link">[% tag %]</a></li>
+            [% END %]
+          </ul>
+          <p class="spectrum-Body spectrum-Body--sizeXS"><a href="/~luke/log/tags/" class="spectrum-Link">View all tags</a></p>
+        </div>
+        [% END %]
       </div>
     </aside>
   </main>
@@ -63,26 +77,26 @@
   <footer id="footer" class="pagefooter" role="contentinfo">
     <div id="pageinfo">
       [% IF last_edited %]
-      <div class="last-edited">
+      <div class="last-edited spectrum-Body spectrum-Body--sizeS">
         <span class="tooltip">
           Last edited [% last_edited %]
         </span>
       </div>
       [% END %]
 
-      <div class="pagecopyright">
-        <a class="pagecopyright" href="/~luke/" title="Luke's Home Page">
+      <div class="pagecopyright spectrum-Body spectrum-Body--sizeS">
+        <a class="pagecopyright spectrum-Link" href="/~luke/" title="Luke's Home Page">
           <img src="/~luke/assets/owl.gif" class="bottomlogo" height="67" width="64" alt="This Page was created by Luke Schierer" />
         </a>
         <span><br /><br />Copyright © 2005-[% current_year %] Luke Schierer.</span>
         <div class="pagelicense">
           <p xmlns:cc="http://creativecommons.org/ns#">
-            <a rel="cc:attributionURL" href="https://www.schierer.org/~luke/log/">Content on this site</a> by 
-            <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/lschierer">Luke Schierer</a> is licensed under
-            <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">Creative Commons Attribution-NonCommercial 4.0 International</a><br/>
+            <a rel="cc:attributionURL" href="https://www.schierer.org/~luke/log/" class="spectrum-Link">Content on this site</a> by 
+            <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/lschierer" class="spectrum-Link">Luke Schierer</a> is licensed under
+            <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" class="spectrum-Link">Creative Commons Attribution-NonCommercial 4.0 International</a><br/>
           </p>
           <span>
-            <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">
+            <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" class="spectrum-Link">
               <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="" class="cc-image">
               <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="" class="cc-by-image">
               <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt="" class="cc-nc-image">

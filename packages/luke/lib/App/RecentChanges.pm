@@ -49,7 +49,7 @@ class App::RecentChanges {
     99174ee8 70ef2b87 62869f07
     09737f68 fdd3023e 647de408
     302d1a51 6e677bcd fc3efc8f
-    6ed6fa6b 679d474c
+    6ed6fa6b 679d474c bab53b0c
   );
 
   field $json =
@@ -169,11 +169,13 @@ class App::RecentChanges {
               $fo->{title} = $self->get_title_from_file($fo->{path});
               if ($fo->{path}->exists) {
                 $fo->{exists} = 1;
+                $fo->{url} = $fo->{path}->stringify =~ s/\.md(?:wn)?$//r; 
               }
               else {
                 if($filename =~ s/wn$//){
                   if(Path::Tiny::path($filename)->exists){
                     $fo->{exists} = 1;
+                    $fo->{url} = $fo->{path}->stringify =~ s/\.md(?:wn)?$//r;
                   } else {
                     $fo->{exists} = 0;    
                   }

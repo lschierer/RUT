@@ -1,6 +1,7 @@
 package App::CalendarGenerator;
 use v5.40.0;
 use Object::Pad;
+# cspell: disable
 
 class App::CalendarGenerator {
   use Path::Tiny;
@@ -9,20 +10,46 @@ class App::CalendarGenerator {
   field $source_dir : param;
   field $output_dir : param;
   field $date_manifest_file : param = undef;
+  field $posts_by_date_file : param = undef;
   
   field $date_manifest = undef;
+  field $posts_by_date = undef;
 
   method generate_all_calendars() {
-    # Load date manifest if provided
+    # Load pre-computed posts_by_date if available
+    if ($posts_by_date_file && -f $posts_by_date_file) {
+      my $json = JSON::MaybeXS->new(utf8 => 1);
+      $posts_by_date = $json->decode(path($posts_by_date_file)->slurp_raw);
+      $self->generate_calendars_from_posts_by_date();
+      return;
+    }
+    
+    # Fallback: compute from date manifest
     if ($date_manifest_file && -f $date_manifest_file) {
       my $json = JSON::MaybeXS->new(utf8 => 1);
       $date_manifest = $json->decode(path($date_manifest_file)->slurp_raw);
+      $self->generate_calendars_from_manifest();
+      return;
     }
     
-    if ($date_manifest) {
-      $self->generate_calendars_from_manifest();
-    } else {
-      $self->generate_calendars_from_directories();
+    # Last resort: directory scanning
+    $self->generate_calendars_from_directories();
+  }
+  
+  method generate_calendars_from_posts_by_date() {
+    my %days_by_month;
+    
+    # Extract days from posts_by_date
+    for my $ymd (grep { m{^\d{4}/\d{2}/\d{2}$} } keys %$posts_by_date) {
+      my ($year, $month, $day) = split '/', $ymd;
+      push @{$days_by_month{"$year/$month"}}, int($day);
+    }
+    
+    # Generate calendar for each month
+    for my $ym (sort keys %days_by_month) {
+      my ($year, $month) = split '/', $ym;
+      my @days = sort { $a <=> $b } @{$days_by_month{$ym}};
+      $self->generate_calendar($year, $month, \@days);
     }
   }
   
@@ -30,7 +57,7 @@ class App::CalendarGenerator {
     my %posts_by_month;
     
     # Group posts by year/month
-    for my $key (keys %$date_manifest) {
+    for my $key (sort keys %$date_manifest) {
       next if $key =~ /index$/;
       my $date_str = $date_manifest->{$key};
       if ($date_str =~ /^(\d{4})-(\d{2})-(\d{2})/) {
@@ -40,7 +67,7 @@ class App::CalendarGenerator {
     }
     
     # Generate calendar for each month
-    for my $ym (keys %posts_by_month) {
+    for my $ym ( sort keys %posts_by_month) {
       my ($year, $month) = split '/', $ym;
       my @days = sort { $a <=> $b } @{$posts_by_month{$ym}};
       $self->generate_calendar($year, $month, \@days);
@@ -78,36 +105,48 @@ class App::CalendarGenerator {
 
     my %days_map = map { $_ => 1 } @$days_with_posts;
 
-    my $html = qq{<table class="calendar">\n};
-    $html .= qq{  <thead>\n    <tr>};
-    $html .= qq{<th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th>};
-    $html .= qq{</tr>\n  </thead>\n  <tbody>\n};
+    my $html = qq{<div class="spectrum-Calendar">\n};
+    $html .= qq{  <table class="spectrum-Calendar-table">\n};
+    $html .= qq{    <thead>\n      <tr>};
+    
+    for my $day (qw(Sun Mon Tue Wed Thu Fri Sat)) {
+      $html .= qq{<th class="spectrum-Calendar-tableCell"><abbr class="spectrum-Calendar-dayOfWeek" title="$day">$day</abbr></th>};
+    }
+    
+    $html .= qq{</tr>\n    </thead>\n    <tbody class="spectrum-Calendar-body">\n};
 
     my $day = 1;
     my $cell_count = 0;
 
     # Start first row
-    $html .= qq{    <tr>\n};
+    $html .= qq{      <tr>\n};
     
     # Empty cells before first day
     for (my $i = 0; $i < $first_dow; $i++) {
-      $html .= qq{      <td></td>\n};
+      $html .= qq{        <td class="spectrum-Calendar-tableCell"></td>\n};
       $cell_count++;
     }
 
     # Generate days
     while ($day <= $days_in_month) {
+      my $class = "spectrum-Calendar-date";
+      my $day_str = sprintf("%02d", $day);
+      
       if ($days_map{$day}) {
-        $html .= qq{      <td class="has-posts">$day</td>\n};
+        # Day has posts - make it a link
+        my $url = "/~luke/log/archive/$year/$month/$day_str/";
+        $html .= qq{        <td class="spectrum-Calendar-tableCell"><a href="$url" class="$class spectrum-Link spectrum-Link--secondary spectrum-Link--quiet">$day</a></td>\n};
       } else {
-        $html .= qq{      <td>$day</td>\n};
+        # No posts - mark as disabled
+        $class .= " is-disabled";
+        $html .= qq{        <td class="spectrum-Calendar-tableCell"><span class="$class">$day</span></td>\n};
       }
       
       $cell_count++;
       
       # End row after 7 cells
       if ($cell_count % 7 == 0 && $day < $days_in_month) {
-        $html .= qq{    </tr>\n    <tr>\n};
+        $html .= qq{      </tr>\n      <tr>\n};
       }
       
       $day++;
@@ -115,12 +154,12 @@ class App::CalendarGenerator {
 
     # Fill remaining cells in last row
     while ($cell_count % 7 != 0) {
-      $html .= qq{      <td></td>\n};
+      $html .= qq{        <td class="spectrum-Calendar-tableCell"></td>\n};
       $cell_count++;
     }
     
-    $html .= qq{    </tr>\n};
-    $html .= qq{  </tbody>\n</table>};
+    $html .= qq{      </tr>\n};
+    $html .= qq{    </tbody>\n  </table>\n</div>};
 
     $archive_dir->child('calendar.html')->spew_utf8($html);
     say "  Generated calendar: $year/$month";

@@ -1,20 +1,23 @@
 /* cspell: disable */
 @import "@spectrum-css/tokens/dist/css/index.css";
-@import "@spectrum-css/page/dist/index.css";
-@import "@spectrum-css/typography/dist/index.css";
+@import "@spectrum-css/page/index.css";
+@import "@spectrum-css/typography/index.css";
+@import "@spectrum-css/link/index.css";
 
 html,
 :root {
   --brand-dark: var(--spectrum-blue-900);
   --text-1-dark: var(--spectrum-indigo-700);
-  --text-2-dark: var(--spectrum-blue-800);
+  --text-2-dark: var(--spectrum-blue-900);
+  --text-3-dark: var(--spectrum-blue-600);
   --surface-1-dark: var(--spectrum-gray-100);
-  --surface-2-dark: var(--spectrum-gray-200);
-  --surface-3-dark: var(--spectrum-gray-300);
-  --surface-4-dark: var(--spectrum-gray-400);
+  --surface-2-dark: var(--spectrum-gray-300);
+  --surface-3-dark: var(--spectrum-gray-500);
+  --surface-4-dark: var(--spectrum-gray-700);
   --brand: var(--brand-dark);
   --text-1: var(--text-1-dark);
   --text-2: var(--text-2-dark);
+  --text-3: var(--text-3-dark);
   --surface-1: var(--surface-1-dark);
   --surface-2: var(--surface-2-dark);
   --surface-3: var(--surface-3-dark);
@@ -71,12 +74,28 @@ footer {
   width: min(100%, 100vw);
 }
 
+.spectrum-Body {
+  --mod-body-font-color: var(--text-1);
+
+}
+
+ a.spectrum-Link {
+  --mod-link-text-color: var(--text-3);
+}
+
+a.spectrum-Link.spectrum-Link--secondary {
+  --mod-link-text-color: inherit;
+}
+
+
+
 h1,
 h2,
 h3,
 h4,
-h5 {
-  color: var(--text-2);
+h5,
+dt {
+  --mod-heading-font-color: var(--text-2);
 }
 
 iconify-icon#github {
