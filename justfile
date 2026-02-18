@@ -21,6 +21,8 @@ build-luke-content: install
   pnpm build:prod
 
 content-setup: install build-luke-content
+  mkdir -p public/css
+  mkdir -p public/js
   cd ./packages/archives 
   # todo: do something with the archived stuff
 
