@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>[% $title %]</title>
+  <link rel="stylesheet" href="/css/main.css">
+  [% IF css_files -%]
+    [% FOREACH css_file IN css_files -%]
+      <link rel="stylesheet" href="[% css_file %]">
+    [% END -%]
+  [% END -%]
+</head>
+<body>
+  <header>
+    <h1>[% $title %]</h1>
+    
+  </header>
+
+  <main>
+   [% content %]
+  </main>
+
+  <footer>
+    <p>&copy;  Luke Schierer</p>
+  </footer>
+
+  [% IF js_files -%]
+    [% FOREACH js_file IN js_files -%]
+      <script src="[% js_file %]"></script>
+    [% END -%]
+  [% END -%]
+</body>
+</html>

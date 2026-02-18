@@ -21,9 +21,6 @@ catalogs:
     luxon:
       specifier: ^3.7.2
       version: 3.7.2
-    open-props:
-      specifier: ^1.7.23
-      version: 1.7.23
     postcss:
       specifier: ^8.5.6
       version: 8.5.6
@@ -161,9 +158,6 @@ importers:
       luxon:
         specifier: 'catalog:'
         version: 3.7.2
-      open-props:
-        specifier: 'catalog:'
-        version: 1.7.23
       stylelint-config-standard:
         specifier: ^40.0.0
         version: 40.0.0(stylelint@17.3.0(typescript@5.8.3))
@@ -3037,9 +3031,6 @@ packages:
   onetime@7.0.0:
     resolution: {integrity: sha512-VXJjc87FScF88uafS3JllDgvAm+c/Slfz06lorj2uAY34rlUu0Nt+v8wreiImcrgAjjIHp1rXpTDlLOGw29WwQ==}
     engines: {node: '>=18'}
-
-  open-props@1.7.23:
-    resolution: {integrity: sha512-+xyrJmxV9QUBFbSwPROYhOg/FLXry+uuPr4R+B5EaE4556Oc18/8ZC/fL5A+/lbRSwNvA0Alh+C0KpyFWLmLZg==}
 
   open@10.1.2:
     resolution: {integrity: sha512-cxN6aIDPz6rm8hbebcP7vrQNhvRcveZoJU72Y7vskh4oIm+BZwBECnx5nTmrlres1Qapvx27Qo1Auukpf8PKXw==}
@@ -7151,8 +7142,6 @@ snapshots:
   onetime@7.0.0:
     dependencies:
       mimic-function: 5.0.1
-
-  open-props@1.7.23: {}
 
   open@10.1.2:
     dependencies:
