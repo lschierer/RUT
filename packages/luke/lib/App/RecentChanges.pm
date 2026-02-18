@@ -79,6 +79,8 @@ class App::RecentChanges {
     $output_dir->mkdir({ mode => 0711 }) unless ($output_dir->exists);
 
     # Get the list of commit IDs to process
+    # Note: git pathspecs use fnmatch globs, not regex — so we list each
+    # wanted extension separately rather than trying to use alternation.
     my @log = $repo->run(
       'log',                  '--oneline',
       '--full-history',       '--color=never',
@@ -86,7 +88,7 @@ class App::RecentChanges {
       '^build: ',             '--grep',
       'calendar update',      '--invert-grep',
       '--',                   '.',
-      ':!packages/greenwood', ':**/*.md(wn)?',
+      ':!packages/greenwood',
     );
 
     # Process the output to get clean commit IDs
@@ -144,10 +146,9 @@ class App::RecentChanges {
           my $filename = $1;
           # Trim any leading/trailing whitespace
           $filename =~ s/^\s+|\s+$//g;
-          $filename =~ s{index.md(:?wn)?$}{};
-          unless ($filename =~ m{\.(:?md|mdwn|svg|dsv|dot)$}) {
-       #say sprintf('skipping file "%s" in commit "%s"', $filename, $commit_id);
-            next unless -d $filename;
+          $filename =~ s{index\.(?:md|mdwn)$}{};
+          unless ($filename =~ m{\.(?:md|mdwn|svg|dsv|dot)$} || -d $filename) {
+            next;
           }
 
           next if $filename =~ /^tags\//;
