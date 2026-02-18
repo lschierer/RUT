@@ -1,25 +1,14 @@
 ---
 title: Luke Schierer
 author: Luke Schierer
-layout: home
+layout: luke_default
 ---
 
 <div class="linklist">
-  <ul>
-    <li>
-      <a href="./log/who-am-i-and-what-is-going-on-here/">Who am I?</a>
-    </li>
-    <li>
-      <a href="./resume/">My Resume</a>
-    </li>
-    <li>
-      <a href="./log/">Random Unfinished Thoughts</a>
-    </li>
-    <li>
-      <a href="https://hp-fan.schierer.org">My analysis of all things Harry Potter</a>
-    </li>
-    <li>
-      <a href="./gpg/">My GPG Key</a>
-    </li>
-  </ul>
-</div>
+
+* [Who am I?](/~luke/log/who-am-i-and-what-is-going-on-here)
+* [My Resume](/~luke/resume)
+* [Random Unfinished Thoughts](/~luke/log)
+* [My analysis of all things Harry Potter](https://hp-fan.schierer.org)
+* [My GPG Key](/~luke/gpg) 
+    
