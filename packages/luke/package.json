@@ -14,18 +14,19 @@
   "license": "CC-BY-NC-SA",
   "devDependencies": {
     "@tsconfig/node24": "^24.0.4",
+    "@types/node": "^25.2.3",
     "@types/postcss-sorting": "^8.0.2",
-    "autoprefixer": "catalog:",
-    "cssnano": "catalog:",
+    "autoprefixer": "^10.4.24",
+    "cssnano": "^7.1.2",
     "esbuild": "^0.27.3",
     "jiti": "^2.6.1",
-    "postcss": "catalog:",
-    "postcss-extend": "catalog:",
-    "postcss-import": "catalog:",
+    "postcss": "^8.5.6",
+    "postcss-extend": "^1.0.5",
+    "postcss-import": "^16.1.1",
     "postcss-nesting": "14.0.0",
-    "postcss-sorting": "catalog:",
+    "postcss-sorting": "^9.1.0",
     "stylelint": "^17.3.0",
-    "tsx": "catalog:"
+    "tsx": "^4.21.0"
   },
   "dependencies": {
     "@spectrum-css/icon": "^9.2.0",
@@ -34,7 +35,7 @@
     "@spectrum-css/tokens": "^16.0.2",
     "@spectrum-css/typography": "^8.2.0",
     "iconify-icon": "^3.0.2",
-    "luxon": "catalog:",
+    "luxon": "^3.7.2",
     "stylelint-config-standard": "^40.0.0",
     "zod": "^4.3.6"
   }
