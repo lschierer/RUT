@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- cspell: disable -->
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/~luke/styles/global.css" />
+  <link rel="stylesheet" href="/~luke/styles/rut.css" />
+  <script src="/~luke/node_modules/iconify-icon/dist/iconify-icon.min.js" type="module"></script>
+  <title>[% title %]</title>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3WJYW9RQ1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-Y3WJYW9RQ1');
+  </script>
+</head>
+<body>
+  <header>
+    <div class="site-title-section">
+      <a href='/~luke/log/' class="site-title spectrum-Link spectrum-Link--quiet spectrum-Link--secondary">
+        <span class="site-title spectrum-Heading spectrum-Heading--sizeXS">
+          <img src="/~luke/assets/log/RandomUnfinishedThoughts.png" class="toplogo"/>
+        </span>
+      </a>
+    </div>
+    <div class="right-group">
+      <div class="social-icons">
+        <a href="https://github.com/lschierer/RUT">
+          <iconify-icon id="github" icon="carbon:logo-github" width="32" height="32"></iconify-icon>
+        </a>
+      </div>
+    </div>
+    [% IF title && title != 'Random Unfinished Thoughts' %]
+    <div class="page-title">
+      <h1 class="page-title">[% title %]</h1>
+    </div>
+    [% END %]
+  </header>
+
+  <main>
+    <article>
+      [% content %]
+    </article>
+    <aside>
+      <div class="archives">
+        <h2>Archives</h2>
+        <div class="calendar">
+          [% calendar_widget %]
+        </div>
+        <div class="archive-links">
+          <ul>
+            [% FOREACH year IN [2005 .. current_year] %]
+            <li><a href="/~luke/log/archive/[% year %]">[% year %]</a></li>
+            [% END %]
+          </ul>
+        </div>
+      </div>
+    </aside>
+  </main>
+
+  <footer id="footer" class="pagefooter" role="contentinfo">
+    <div id="pageinfo">
+      [% IF last_edited %]
+      <div class="last-edited">
+        <span class="tooltip">
+          Last edited [% last_edited %]
+        </span>
+      </div>
+      [% END %]
+
+      <div class="pagecopyright">
+        <a class="pagecopyright" href="/~luke/" title="Luke's Home Page">
+          <img src="/~luke/assets/owl.gif" class="bottomlogo" height="67" width="64" alt="This Page was created by Luke Schierer" />
+        </a>
+        <span><br /><br />Copyright © 2005-[% current_year %] Luke Schierer.</span>
+        <div class="pagelicense">
+          <p xmlns:cc="http://creativecommons.org/ns#">
+            <a rel="cc:attributionURL" href="https://www.schierer.org/~luke/log/">Content on this site</a> by 
+            <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/lschierer">Luke Schierer</a> is licensed under
+            <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">Creative Commons Attribution-NonCommercial 4.0 International</a><br/>
+          </p>
+          <span>
+            <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">
+              <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="" class="cc-image">
+              <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="" class="cc-by-image">
+              <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt="" class="cc-nc-image">
+            </a>
+          </span>
+        </div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

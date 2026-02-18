@@ -1,0 +1,28 @@
+<div class="year-archive">
+  <div class="month-list">
+    [% FOREACH month IN months %]
+    <div class="month-entry">
+      [% IF month.count %]
+      <a href="/~luke/log/archive/[% year %]/[% month.month %]/">
+        [% month.name %] ([% month.count %])
+      </a>
+      [% ELSE %]
+      <span>[% month.name %]</span>
+      [% END %]
+    </div>
+    [% END %]
+  </div>
+
+  <div class="archive-navigation">
+    [% IF previous_year %]
+    <a href="/~luke/log/archive/[% previous_year %]/" class="nav-link prev-year">
+      &larr; [% previous_year %]
+    </a>
+    [% END %]
+    [% IF next_year %]
+    <a href="/~luke/log/archive/[% next_year %]/" class="nav-link next-year">
+      [% next_year %] &rarr;
+    </a>
+    [% END %]
+  </div>
+</div>

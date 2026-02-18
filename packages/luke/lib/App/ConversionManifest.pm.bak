@@ -15,9 +15,12 @@ class App::ConversionManifest {
 
   # Commit messages that indicate a bulk conversion (not a manual edit)
   my @CONVERSION_PATTERNS = (
-    qr/\bfeat:\s*content\s+conversion\b/i, qr/\bfeat:\s*convert\s+content\b/i,
-    qr/\bbuild:\s*format\s+conversion\b/i, qr/\bconvert\s+ikiwiki\b/i,
-    qr/\bbulk\s+convert\b/i,               qr/\bauto-convert\b/i,
+    qr/\bfeat:\s*content\s+conversion\b/i,
+    qr/\bfeat:\s*convert\s+content\b/i,
+    qr/\bbuild:\s*format\s+conversion\b/i,
+    qr/\bconvert\s+ikiwiki\b/i,
+    qr/\bbulk\s+convert\b/i,
+    qr/\bauto-convert\b/i,
   );
 
   ADJUST {
@@ -52,8 +55,9 @@ class App::ConversionManifest {
       my $rel = $file->relative($git_root)->stringify;
 
       # Get all commits touching this file
-      my $output =
-        eval { $repo->run('log', '--format=%H %s', '--follow', '--', $rel); };
+      my $output = eval {
+        $repo->run('log', '--format=%H %s', '--follow', '--', $rel);
+      };
       next unless $output;
 
       my @lines = split /\n/, $output;

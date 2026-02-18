@@ -17,8 +17,8 @@ class App::IkiConverter {
   use HTML::Entities qw(encode_entities);
   use File::Find;
 
-  field $source_dir  : param : reader //= './log';
-  field $log_file    : param : reader //= './dist/conversion_log.txt';
+  field $source_dir : param : reader  //= './log';
+  field $log_file : param : reader   //= './dist/conversion_log.txt';
   field $skip_pandoc : param : reader //= 0;
 
   ADJUST {
@@ -393,11 +393,10 @@ class App::IkiConverter {
       my $result = $self->convert_file($mdwn_file);
 
       if ($result->{redirect}) {
-        push @redirects,
-          {
+        push @redirects, {
           source => $result->{redirect_source},
           target => $result->{redirect},
-          };
+        };
         print $log "Redirect: $mdwn_file -> $result->{redirect}\n";
       }
       elsif ($result->{success}) {
@@ -410,8 +409,7 @@ class App::IkiConverter {
     }
 
     close $log;
-    say "Converted: $converted, Skipped (kept): $skipped, Redirects: "
-      . scalar(@redirects);
+    say "Converted: $converted, Skipped (kept): $skipped, Redirects: " . scalar(@redirects);
     return \@redirects;
   }
 }

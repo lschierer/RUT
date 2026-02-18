@@ -1,3 +1,4 @@
+// cspell: disable
 import commits from "../lib/commitHistory";
 import { DateTime, type Duration } from "luxon";
 

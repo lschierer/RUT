@@ -1,0 +1,107 @@
+package App::CalendarGenerator;
+use v5.40.0;
+use Object::Pad;
+
+class App::CalendarGenerator {
+  use Path::Tiny;
+  use Time::Piece;
+
+  field $source_dir :param;
+  field $output_dir :param;
+
+  method generate_all_calendars() {
+    my $log_dir = path($source_dir);
+    my @years = sort grep { $_->basename =~ /^\d{4}$/ && $_->is_dir } $log_dir->children;
+
+    for my $year_dir (@years) {
+      my $year = $year_dir->basename;
+      my @months = sort grep { $_->basename =~ /^\d{2}$/ && $_->is_dir } $year_dir->children;
+
+      for my $month_dir (@months) {
+        my $month = $month_dir->basename;
+        my $days = $self->get_days_with_posts($year, $month);
+        next unless @$days;
+
+        $self->generate_calendar($year, $month, $days);
+      }
+    }
+  }
+
+  method generate_calendar($year, $month, $days_with_posts) {
+    my $archive_dir = path($output_dir)->child($year, $month);
+    $archive_dir->mkpath;
+
+    my $date_str = sprintf("%04d-%02d-01", $year, $month);
+    my $t = Time::Piece->strptime($date_str, "%Y-%m-%d");
+    my $days_in_month = $t->month_last_day;
+    my $first_dow = $t->day_of_week; # 0=Sun, 6=Sat
+
+    my %days_map = map { $_ => 1 } @$days_with_posts;
+
+    my $html = qq{<table class="calendar">\n};
+    $html .= qq{  <thead>\n    <tr>};
+    $html .= qq{<th>Sun</th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th>};
+    $html .= qq{</tr>\n  </thead>\n  <tbody>\n};
+
+    my $day = 1;
+    my $row = 0;
+
+    while ($day <= $days_in_month) {
+      $html .= qq{    <tr>\n} if $row == 0 || ($day - 1 + $first_dow) % 7 == 0;
+
+      # Empty cells before first day
+      if ($row == 0 && $day == 1) {
+        for (my $i = 0; $i < $first_dow; $i++) {
+          $html .= qq{      <td></td>\n};
+        }
+      }
+
+      # Day cell
+      if ($days_map{$day}) {
+        my $day_str = sprintf("%02d", $day);
+        $html .= qq{      <td><a href="/~luke/log/$year/$month/$day_str/">$day</a></td>\n};
+      } else {
+        $html .= qq{      <td>$day</td>\n};
+      }
+
+      # End row after Saturday or last day
+      my $current_dow = ($day - 1 + $first_dow) % 7;
+      if ($current_dow == 6 || $day == $days_in_month) {
+        # Fill remaining cells if last row
+        if ($day == $days_in_month && $current_dow < 6) {
+          for (my $i = $current_dow + 1; $i <= 6; $i++) {
+            $html .= qq{      <td></td>\n};
+          }
+        }
+        $html .= qq{    </tr>\n};
+        $row++;
+      }
+
+      $day++;
+    }
+
+    $html .= qq{  </tbody>\n</table>};
+
+    $archive_dir->child('calendar.html')->spew_utf8($html);
+    say "  Generated calendar: $year/$month";
+  }
+
+  method get_days_with_posts($year, $month) {
+    my $month_dir = path($source_dir)->child($year, $month);
+    return [] unless -d $month_dir;
+
+    my @days;
+    for my $day (1 .. 31) {
+      my $day_str = sprintf("%02d", $day);
+      my $day_dir = $month_dir->child($day_str);
+      next unless -d $day_dir;
+
+      my @posts = grep { $_->basename =~ /\.md$/ } $day_dir->children;
+      push @days, $day if @posts;
+    }
+
+    return \@days;
+  }
+}
+
+1;

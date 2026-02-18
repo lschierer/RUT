@@ -11,8 +11,8 @@ class App::TagPageGenerator {
   use Path::Tiny;
   use File::Find::Rule;
 
-  field $input       : param;
-  field $output      : param;
+  field $input : param;
+  field $output : param;
   field $templateDir : param;
   field $yaml = YAML::PP->new();
 

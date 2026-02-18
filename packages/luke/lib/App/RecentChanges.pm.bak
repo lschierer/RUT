@@ -298,41 +298,37 @@ class App::RecentChanges {
           my $filename = $1;
           # Trim any leading/trailing whitespace
           $filename =~ s/^\s+|\s+$//g;
-          $filename =~ s{index.md(:?wn)?$}{};
           unless ($filename =~ m{\.(:?md|mdwn|svg|dsv|dot)$}) {
        #say sprintf('skipping file "%s" in commit "%s"', $filename, $commit_id);
             next unless -d $filename;
           }
-
-          next if $filename =~ /^tags\//;
           if ($filename !~ m/index\.md$/) {
             my $fo = {};
             if ($filename) {
-              next if $filename =~ m{archives/\d{4}};
-              
               $filename =~ s{packages/(.+)}{$1};
               $filename =~ s{luke/(.+)}{$1};
               unless ($filename =~ m{log/}) {
                 $filename = "log/$filename";
               }
               $fo->{path} = Path::Tiny::path($filename);
-              if ($filename =~ m{fiction/Harry_Potter}) {
-                next unless $fo->{path}->exists;
+              my $title;
+              if ($fo->{path}->exists) {
+                
               }
-              $fo->{title} = $self->get_title_from_file($fo->{path});
+              elsif ($filename =~ m{\.md(:?wn)?}) {
+                say
+                  sprintf('markdown file "%s" does not exist. using filename.',
+                  $filename);
+              }
+
+              $title = $fo->{path}->basename(qr/.md(wn)?/)
+                unless ($title && length($title));
+              $fo->{title} = $title;
               if ($fo->{path}->exists) {
                 $fo->{exists} = 1;
               }
               else {
-                if($filename =~ s/wn$//){
-                  if(Path::Tiny::path($filename)->exists){
-                    $fo->{exists} = 1;
-                  } else {
-                    $fo->{exists} = 0;    
-                  }
-                } else {
-                  $fo->{exists} = 0;
-                }
+                $fo->{exists} = 0;
               }
 
             }
@@ -366,54 +362,44 @@ class App::RecentChanges {
 
 };
 
-sub get_title_from_file ($self, $file) {
-  my $title;
-  my $filename = $file->stringify;
-  
-  if($filename =~ m{\.mdwn$} ){
-    unless($file->exists){
-      $filename =~ s/wn$//;
-      $file = Path::Tiny::path($filename);
-    }
-  }
+sub get_title_from_file ($file) {
 
-  unless($file->exists){
-    $title = $file->basename(qr/\.md(:?wn)?/ );
-    return $title;
-  }
+  my $contents = $fo->{path}->slurp_utf8;
 
-  my $contents = $file->slurp_utf8;
-
-  if ($filename =~ /mdwn$/) {
-    if ($contents =~ /\[\[\!meta\s+title\s*=\s*\"(.+)\"/) {
-      $title = $1;
-    }
-  }
-  elsif ($filename =~ /md$/) {
-    if ($contents =~ /^---\s*\n(.*?)\n---\s*$/sm) {
-      my $yaml_str = $1;
-      my $frontmatter;
-      eval {
-        $frontmatter = Load($yaml_str);
-      };
-      if ($@ || !$frontmatter) {
-        say sprintf('failed to parse frontmatter for file "%s": %s',
-          $file, $@);
-      }
-      elsif (exists $frontmatter->{title}) {
-        $title = $frontmatter->{title};
-      }
-      else {
-        say sprintf('no title in frontmatter for file "%s"', $file);
-      }
-    }
-    else {
-      say sprintf('no frontmatter found in file "%s"', $file);
-    }
-  }
-
-  $title = $file->basename(qr/\.md(:?wn)?/ ) unless($title && length($title));
-  return $title;
+                if ($filename =~ /mdwn$/) {
+                  if ($contents =~ /\[\[\!meta\s+title\s*=\s*\"(.+)\"/) {
+                    $title = $1;
+                  }
+                }
+                elsif ($filename =~ /md$/) {
+                  say sprintf('found markdown file "%s", looking for title',
+                    $filename);
+                  if ($contents =~ /^---\s*\n(.*?)\n---\s*$/sm) {
+                    my $yaml_str = $1;
+                    my $frontmatter;
+                    eval {
+                      $frontmatter = Load($yaml_str);
+                      say "parsed frontmatter";
+                    };
+                    if ($@ || !$frontmatter) {
+                      say
+                        sprintf('failed to parse frontmatter for file "%s": %s',
+                        $filename, $@);
+                    }
+                    elsif (exists $frontmatter->{title}) {
+                      $title = $frontmatter->{title};
+                      say sprintf('found title "%s" for file "%s"',
+                        $title, $filename);
+                    }
+                    else {
+                      say sprintf('no title in frontmatter for file "%s"',
+                        $filename);
+                    }
+                  }
+                  else {
+                    say sprintf('no frontmatter found in file "%s"', $filename);
+                  }
+                }
 }
 
 1;

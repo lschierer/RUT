@@ -10,6 +10,9 @@ use Getopt::Long;
 use App::ConversionManifest;
 use App::IkiConverter;
 use App::DateManifest;
+use App::ArchiveGenerator;
+use App::CalendarGenerator;
+use App::RecentChanges;
 
 my $skip_pandoc = 0;
 my $skip_convert = 0;
@@ -90,5 +93,29 @@ my $dm = App::DateManifest->new(
   output_file => './dist/dates.json',
 );
 $dm->build_manifest();
+
+# Step 4: Generate archive indexes
+say "=== Step 4: Generating archive indexes ===";
+my $archive_gen = App::ArchiveGenerator->new(
+  source_dir => './log',
+  output_dir => './log/archive',
+);
+$archive_gen->generate_year_indexes();
+$archive_gen->generate_month_indexes();
+
+# Step 5: Generate calendar fragments
+say "=== Step 5: Generating calendar fragments ===";
+my $calendar_gen = App::CalendarGenerator->new(
+  source_dir => './log',
+  output_dir => './log/archive',
+  date_manifest_file => './dist/dates.json',
+);
+$calendar_gen->generate_all_calendars();
+
+# Step 6: Generate recent changes manifest
+say "=== Step 6: Generating recent changes manifest ===";
+my $json_file = './dist/commitHistory.json';
+my $recent_gen = App::RecentChanges->new();
+$recent_gen->generate_git_history($json_file);
 
 say "=== Build complete ===";

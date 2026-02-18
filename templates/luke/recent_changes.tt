@@ -1,0 +1,25 @@
+[%# cspell: disable %]
+[%# luke/recent_changes.tt - Recent changes display %]
+<dl class="recent-changes">
+[% FOREACH change IN recent_changes %]
+  <dt>[% change.id %]</dt>
+  <dd>[% change.date_formatted %]</dd>
+  <dd>[% change.message %]</dd>
+  <dd>
+    <ul class="filelist">
+    [% FOREACH file IN change.files %]
+      <li>
+      [% IF file.exists %]
+        <a href="[% file.url %]">[% file.title %]</a>
+      [% ELSE %]
+        [% file.title %]
+      [% END %]
+      </li>
+    [% END %]
+    [% IF change.files.size >= 10 %]
+      <li>and more...</li>
+    [% END %]
+    </ul>
+  </dd>
+[% END %]
+</dl>

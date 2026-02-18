@@ -2,6 +2,7 @@
 author: Luke Schierer
 title: Random Unfinished Thoughts
 layout: rut
+template: luke/log_entry
 ---
 
 ## Recent Changes

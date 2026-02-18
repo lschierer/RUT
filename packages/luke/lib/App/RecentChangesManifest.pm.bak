@@ -1,0 +1,108 @@
+package App::RecentChangesManifest;
+# cspell: disable
+use v5.40.0;
+use utf8::all;
+use Object::Pad;
+
+class App::RecentChangesManifest {
+  use Path::Tiny;
+  use JSON::MaybeXS;
+  use Git::Repository;
+  use YAML::XS;
+
+  field $source_dir :param;
+  field $output_file :param;
+  field $limit :param = 100;
+
+  field $repo = Git::Repository->new(work_tree => '../..');
+  field $json = JSON::MaybeXS->new(utf8 => 1, canonical => 1, pretty => 1);
+
+  field @excluded_commits = qw(
+    00521e38 62e2825d d642ed21 abdb7103 695cb529 77e74db5
+    eeb8a0d2 e22afbdc c0ca2c99 b5290af8 d4b572c5 6dfadc75
+    0c5b42c4 8c987f5f eb1d753e f713ecba 18768f9c 9e300976
+    4a1c3918 a2939e60 8017a8a2 8f1ab293 5f4098ea 4ba63b05
+    4c35add1 543232ea d7fdaaab c872a572 3ed7e3c0 8bafdeba
+    072ed455 117dfe89 3d751bf1 61151706 ab5f297f fc793a8d
+    cc6e84b6 85a0105c 4ab4ee62 9a92c5aa 9d20e0a9 46f3e45f
+    d4b57afc 47ecf079 d361b355 8b50da56 4b8c30f2 901acc0e
+    a1c60e0b 2e01a64f 087bfc94 99174ee8 70ef2b87 62869f07
+    09737f68 fdd3023e
+  );
+
+  method generate() {
+    my @changes;
+    my $log_dir = path($source_dir)->child('log');
+
+    # Get commits
+    my @log = $repo->run(
+      'log', '--oneline', '--full-history', '--color=never',
+      '--grep', '^build:', '--grep', 'calendar update', '--invert-grep',
+      '--', '.', ':!packages/greenwood', ':**/*.md(wn)?',
+    );
+
+    say sprintf('starting with %s log entries to inspect', scalar(@log));
+
+    my $count = 0;
+    foreach my $line (@log) {
+      last if $count >= $limit;
+      
+      my ($commit_id) = split / /, $line, 2;
+      next if grep { $commit_id =~ /^$_/ } @excluded_commits;
+
+      my $message = join "\n", $repo->run('log', '--format=%B', '-n', 1, $commit_id);
+      chomp($message);
+      next if $message =~ /^(?:fix|break|build):/;
+      next if $message =~ /calendar update/i;
+
+      my $timestamp = $repo->run('log', '--format=%at', '-n', 1, $commit_id);
+      my @files_raw = $repo->run('diff-tree', '--no-commit-id', '--name-only', '-r', $commit_id);
+
+      my @files;
+      foreach my $file (@files_raw) {
+        next unless $file =~ m{(?:^|/)log/(.+?)\.(?:md|mdwn)$};
+        my $path = $1;
+        next if $path =~ /index$/;
+
+        my $md_file = $log_dir->child("$path.md");
+        my $title = $path;
+        my $exists = $md_file->exists;
+        
+        if ($exists) {
+          my $content = $md_file->slurp_utf8;
+          if ($content =~ /^---\s*\n(.*?)\n---/s) {
+            my $fm = eval { YAML::XS::Load($1) };
+            $title = $fm->{title} if $fm && $fm->{title};
+          }
+        }
+
+        push @files, {
+          path => $path,
+          title => $title,
+          url => "/~luke/log/$path/",
+          exists => $exists,
+        };
+
+        last if @files >= 10;
+      }
+
+      next unless @files;
+
+      push @changes, {
+        commit => substr($commit_id, 0, 12),
+        commit_url => "https://github.com/lschierer/RUT/commit/$commit_id",
+        message => $message,
+        timestamp => $timestamp,
+        files => \@files,
+      };
+
+      $count++;
+    }
+
+    path($output_file)->spew_raw($json->encode(\@changes));
+    say "  Generated recent changes manifest: $count entries";
+    return $count;
+  }
+}
+
+1;

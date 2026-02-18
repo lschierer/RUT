@@ -4,7 +4,7 @@ div.linklist {
 
 header img.toplogo {
   width: 100%;
-  height: var(--size-13);
+  height: var(--spectrum-global-dimension-size-2400);
 }
 
 div#pageinfo {

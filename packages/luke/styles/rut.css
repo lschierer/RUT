@@ -1,14 +1,11 @@
 /* the props */
-@import "open-props/open-props.min.css";
-
-/* optional imports that use the props */
-@import "open-props/normalize.min.css";
-@import "open-props/buttons.min.css";
+@import "@spectrum-css/tokens/dist/css/index.css";
+@import "@spectrum-css/typography/dist/index.css";
 
 aside {
-  border: var(--border-size-1) solid;
-  border-radius: var(--radius-conditional-3);
-  padding: var(--size-relative-2);
+  border: 1px solid;
+  border-radius: var(--spectrum-global-dimension-size-50);
+  padding: var(--spectrum-global-dimension-size-150);
   float: right;
   max-width: fit-content;
   height: fit-content;
@@ -16,9 +13,7 @@ aside {
   margin-bottom: 1.5rem;
   clear: right;
   flex: 1 1 auto;
-  font-size: var(
-    --font-size-0
-  ); /* Reduces text size to 90% of the default size */
+  font-size: var(--spectrum-global-dimension-font-size-75);
 }
 
 /* This targets all elements inside the aside */
@@ -31,16 +26,16 @@ aside h3 {
 }
 
 aside h2 {
-  margin: 0 1em; /* ensure the curved borders do not shift this element */
-  font-size: var(--font-size-1);
+  margin: 0 1em;
+  font-size: var(--spectrum-global-dimension-font-size-100);
   text-align: center;
 }
 
 aside table {
-  margin: var(--size-relative-5) 0;
-  border-collapse: separate; /* important */
+  margin: var(--spectrum-global-dimension-size-400) 0;
+  border-collapse: separate;
   border-spacing: 0;
-  border-radius: var(--radius-conditional-3); /* match aside */
+  border-radius: var(--spectrum-global-dimension-size-50);
   border: 1px solid var(--surface-2);
 }
 
@@ -67,15 +62,19 @@ aside table tr:last-child td {
 }
 
 table.calendar {
-  overflow: hidden; /* ensure inner cells respect border radius */
+  overflow: hidden;
 }
 
 table.calendar th:first-child {
-  border-top-left-radius: var(--radius-conditional-3);
+  border-top-left-radius: var(--spectrum-global-dimension-size-50);
 }
 
 table.calendar th:last-child {
-  border-top-right-radius: var(--radius-conditional-3);
+  border-top-right-radius: var(--spectrum-global-dimension-size-50);
+}
+
+table.calendar.has-posts {
+  background-color: var(--surface-4);
 }
 
 table.tag-summary {
@@ -110,7 +109,7 @@ header div.page-title {
   justify-content: center;
   box-sizing: border-box;
   width: 90vw;
-  margin: 0 0 var(--size-3) var(--size-2);
+  margin: 0 0 var(--spectrum-global-dimension-size-200) var(--spectrum-global-dimension-size-150);
 }
 
 img.toplogo {
@@ -152,13 +151,13 @@ img.toplogo {
 
 div#pageinfo {
   flex: 1 1 auto;
-  margin: var(--size-8) 0 0;
-  padding: var(--size-4) var(--size-3) var(--size-2);
-  border-top: var(--border-size-2) solid var(--surface-3);
+  margin: var(--spectrum-global-dimension-size-600) 0 0;
+  padding: var(--spectrum-global-dimension-size-300) var(--spectrum-global-dimension-size-200) var(--spectrum-global-dimension-size-150);
+  border-top: 2px solid var(--surface-3);
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  font-size: var(--font-size-0);
+  font-size: var(--spectrum-global-dimension-font-size-75);
 }
 
 div.pagecopyright {
@@ -185,7 +184,7 @@ div.pagelicense {
   display: flex;
   flex-direction: column;
   text-align: left;
-  width: var(--size-15);
+  width: var(--spectrum-global-dimension-size-3000);
 
   & span {
     display: inline-flex;
@@ -201,12 +200,12 @@ div.pagelicense {
 }
 
 div.pagelicense img.cc-image {
-  height: var(--size-relative-9);
+  height: var(--spectrum-global-dimension-size-700);
 }
 
 div.pagelicense img.cc-by-image,
 div.pagelicense img.cc-nc-image {
-  height: calc(calc(var(--size-relative-7) + var(--size-relative-8)) / 2);
+  height: var(--spectrum-global-dimension-size-500);
 }
 
 .tooltip {

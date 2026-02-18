@@ -12,7 +12,7 @@ class App::DateManifest {
   use Git::Repository;
   use JSON::MaybeXS;
 
-  field $source_dir  : param : reader //= '.';
+  field $source_dir : param : reader //= '.';
   field $output_file : param : reader //= './dist/dates.json';
 
   ADJUST {
@@ -34,9 +34,9 @@ class App::DateManifest {
     # Extract date field from frontmatter
     if ($yaml_text =~ /^date:\s*(.+)$/m) {
       my $date = $1;
-      $date                 =~ s/^\s+|\s+$//g;
-      $date                 =~ s/^["']|["']$//g;
-      return $date if $date =~ /\d{4}/;            # Basic sanity check
+      $date =~ s/^\s+|\s+$//g;
+      $date =~ s/^["']|["']$//g;
+      return $date if $date =~ /\d{4}/;  # Basic sanity check
     }
     return undef;
   }
@@ -61,8 +61,11 @@ class App::DateManifest {
     my $rel      = $file->absolute->relative($git_root)->stringify;
 
     my $output = eval {
-      $repo->run('log', '--diff-filter=A', '--follow',
-        '--format=%cd', '--date=iso8601-strict', '--', $rel);
+      $repo->run(
+        'log', '--diff-filter=A', '--follow',
+        '--format=%cd', '--date=iso8601-strict',
+        '--', $rel
+      );
     };
     return undef unless $output;
 
@@ -87,10 +90,10 @@ class App::DateManifest {
       push @content_files, $file;
     }
 
-   # Deduplicate by base path (prefer .md over .mdwn for frontmatter extraction)
+    # Deduplicate by base path (prefer .md over .mdwn for frontmatter extraction)
     my %by_base;
     for my $file (sort @content_files) {
-      my $rel = $file->relative($source_dir)->stringify;
+      my $rel  = $file->relative($source_dir)->stringify;
       (my $base = $rel) =~ s/\.(md|mdwn)$//;
       $by_base{$base} //= {};
       if ($rel =~ /\.md$/) {

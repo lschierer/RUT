@@ -1,20 +1,17 @@
-/* the props */
-@import "open-props/open-props.min.css";
-
-/* optional imports that use the props */
-@import "open-props/normalize.min.css";
-@import "open-props/buttons.min.css";
-@import "open-props/brand-colors.min.css";
+/* cspell: disable */
+@import "@spectrum-css/tokens/dist/css/index.css";
+@import "@spectrum-css/page/dist/index.css";
+@import "@spectrum-css/typography/dist/index.css";
 
 html,
 :root {
-  --brand-dark: var(--blue-5);
-  --text-1-dark: var(--indigo-7);
-  --text-2-dark: var(--blue-8);
-  --surface-1-dark: var(--gray-8);
-  --surface-2-dark: var(--gray-9);
-  --surface-3-dark: var(--gray-10);
-  --surface-4-dark: var(--gray-11);
+  --brand-dark: var(--spectrum-blue-900);
+  --text-1-dark: var(--spectrum-gray-50);
+  --text-2-dark: var(--spectrum-blue-400);
+  --surface-1-dark: var(--spectrum-gray-100);
+  --surface-2-dark: var(--spectrum-gray-200);
+  --surface-3-dark: var(--spectrum-gray-300);
+  --surface-4-dark: var(--spectrum-gray-400);
   --brand: var(--brand-dark);
   --text-1: var(--text-1-dark);
   --text-2: var(--text-2-dark);
@@ -58,7 +55,7 @@ header {
 }
 
 main {
-  margin: var(--size-3);
+  margin: var(--spectrum-global-dimension-size-200);
   min-height: 60vh;
   flex: 3 1 auto;
   display: flex;
@@ -83,5 +80,5 @@ h5 {
 }
 
 iconify-icon#github {
-  color: var(--gray-0);
+  color: var(--spectrum-gray-50);
 }

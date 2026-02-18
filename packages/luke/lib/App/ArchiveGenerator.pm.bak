@@ -1,0 +1,121 @@
+package App::ArchiveGenerator;
+use v5.40.0;
+use Object::Pad;
+
+class App::ArchiveGenerator {
+  use Path::Tiny;
+  use JSON::MaybeXS;
+
+  field $source_dir :param;
+  field $output_dir :param;
+
+  method generate_year_indexes() {
+    my $log_dir = path($source_dir);
+    my @years = sort grep { $_->basename =~ /^\d{4}$/ && $_->is_dir } $log_dir->children;
+
+    for my $year_dir (@years) {
+      my $year = $year_dir->basename;
+      my $months = $self->scan_year($year);
+      next unless @$months;
+
+      my $archive_dir = path($output_dir)->child($year);
+      $archive_dir->mkpath;
+
+      my $content = "---\n";
+      $content .= "title: \"Archive for $year\"\n";
+      $content .= "layout: rut\n";
+      $content .= "archive_type: year\n";
+      $content .= "year: $year\n";
+      $content .= "months:\n";
+      for my $m (@$months) {
+        $content .= "  - month: \"$m->{month}\"\n";
+        $content .= "    count: $m->{count}\n";
+      }
+      $content .= "---\n\n";
+      $content .= "# Posts from $year\n";
+
+      $archive_dir->child('index.md')->spew_utf8($content);
+      say "  Generated year index: $year";
+    }
+  }
+
+  method generate_month_indexes() {
+    my $log_dir = path($source_dir);
+    my @years = sort grep { $_->basename =~ /^\d{4}$/ && $_->is_dir } $log_dir->children;
+
+    for my $year_dir (@years) {
+      my $year = $year_dir->basename;
+      my @months = sort grep { $_->basename =~ /^\d{2}$/ && $_->is_dir } $year_dir->children;
+
+      for my $month_dir (@months) {
+        my $month = $month_dir->basename;
+        my $days = $self->scan_month($year, $month);
+        next unless @$days;
+
+        my $archive_dir = path($output_dir)->child($year, $month);
+        $archive_dir->mkpath;
+
+        my $month_name = $self->get_month_name($month);
+        my $content = "---\n";
+        $content .= "title: \"Archive for $month_name $year\"\n";
+        $content .= "layout: rut\n";
+        $content .= "archive_type: month\n";
+        $content .= "year: $year\n";
+        $content .= "month: \"$month\"\n";
+        $content .= "days: [" . join(", ", @$days) . "]\n";
+        $content .= "---\n\n";
+        $content .= "# Posts from $month_name $year\n";
+
+        $archive_dir->child('index.md')->spew_utf8($content);
+        say "  Generated month index: $year/$month";
+      }
+    }
+  }
+
+  method scan_year($year) {
+    my $year_dir = path($source_dir)->child($year);
+    return [] unless -d $year_dir;
+
+    my @months;
+    for my $month (1 .. 12) {
+      my $month_str = sprintf("%02d", $month);
+      my $month_dir = $year_dir->child($month_str);
+      next unless -d $month_dir;
+
+      my @posts = grep { $_->basename =~ /\.md$/ } $month_dir->children;
+      my @day_dirs = grep { $_->basename =~ /^\d{2}$/ && -d $_ } $month_dir->children;
+      
+      for my $day_dir (@day_dirs) {
+        push @posts, grep { $_->basename =~ /\.md$/ } $day_dir->children;
+      }
+
+      push @months, { month => $month_str, count => scalar @posts } if @posts;
+    }
+
+    return \@months;
+  }
+
+  method scan_month($year, $month) {
+    my $month_dir = path($source_dir)->child($year, $month);
+    return [] unless -d $month_dir;
+
+    my @days;
+    for my $day (1 .. 31) {
+      my $day_str = sprintf("%02d", $day);
+      my $day_dir = $month_dir->child($day_str);
+      next unless -d $day_dir;
+
+      my @posts = grep { $_->basename =~ /\.md$/ } $day_dir->children;
+      push @days, int($day) if @posts;
+    }
+
+    return \@days;
+  }
+
+  method get_month_name($month) {
+    my @names = qw(January February March April May June July August September October November December);
+    return $names[int($month) - 1];
+  }
+}
+
+1;
