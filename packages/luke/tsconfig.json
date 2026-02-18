@@ -1,23 +1,40 @@
 {
   "$schema": "https://json.schemastore.org/tsconfig",
   "extends": "@tsconfig/node22/tsconfig.json",
-  "exclude": ["**/node_modules/**", "./dist/**"],
-  "include": ["./**/*.ts", "./*.mts", "./src/types/*.d.ts", "./src/**/*.json"],
   "compilerOptions": {
-    "types": ["./myGlobals.d.ts", "node"],
-    "lib": ["ES2023", "DOM", "DOM.Iterable"],
-    "target": "ES2023",
-    "module": "ESNext",
-    "moduleResolution": "bundler",
-    "composite": true,
-    "strict": true,
-    "strictNullChecks": true,
-    "allowJs": true,
-    "allowImportingTsExtensions": false,
-    "allowArbitraryExtensions": true,
-    "experimentalDecorators": true,
-
+    "allowImportingTsExtensions": true,
     "esModuleInterop": true,
-    "noEmit": true
-  }
+    "lib": ["es2023", "dom", "dom.iterable"],
+    "module": "esnext",
+    "moduleResolution": "Bundler",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "resolveJsonModule": true,
+    "strict": true,
+    "target": "ES2023",
+    "verbatimModuleSyntax": true,
+    "experimentalDecorators": true,
+    "useDefineForClassFields": true,
+    "isolatedModules": false,
+    "forceConsistentCasingInFileNames": true,
+    "types": [
+      "node",
+      "./src/types/myGlobals.d.ts",
+      "./src/types/postcss-extend.d.ts"
+    ],
+    "noEmit": true,
+    "composite": true,
+    "rootDir": ".",
+    "baseUrl": "./",
+    "outDir": "./dist/types",
+    "declarationDir": "./dist/types"
+  },
+  "exclude": ["**/node_modules/**", "**/cdk.out/**"],
+  "include": [
+    "./src/**/*.ts",
+    "./lib/**/*.ts",
+    "./scripts/*.ts",
+    "./infrastructure/**/*.ts",
+    "./types/**/*.ts"
+  ]
 }
