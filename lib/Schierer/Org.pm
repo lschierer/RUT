@@ -15,6 +15,8 @@ sub build ($self) {
   $self->SUPER::build();
 
   $self->load_controller('Luke');
+  $self->load_controller('Ann');
+  $self->load_controller('Archives');
   $self->load_module(
     'Middleware' => {
       Static => { root => 'public', pass_through => 1 },

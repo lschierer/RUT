@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>[% title %]</title>
+  <style>
+    body {
+      font-family: Georgia, "Times New Roman", serif;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 1rem;
+      background-color: #fffff0;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      border-bottom: 2px solid #8b4513;
+      padding-bottom: 1rem;
+      margin-bottom: 2rem;
+    }
+    header h1 {
+      color: #8b4513;
+      font-size: 2rem;
+    }
+    header p.note {
+      font-style: italic;
+      color: #666;
+      font-size: 0.9em;
+    }
+    .poem-list {
+      columns: 3 200px;
+      column-gap: 2rem;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    .poem-list li {
+      break-inside: avoid;
+      padding: 0.3rem 0;
+    }
+    .poem-list a {
+      color: #8b4513;
+      text-decoration: none;
+    }
+    .poem-list a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      margin-top: 2rem;
+      border-top: 1px solid #ccc;
+      padding-top: 1rem;
+      text-align: center;
+      font-size: 0.85em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>[% title %]</h1>
+    <p class="note">This site represents a partial recovery of a previous site that was lost in a server crash.</p>
+  </header>
+
+  <main>
+    [% content %]
+  </main>
+
+  <footer>
+    <p>Copyright &copy; Ann Schierer. All rights reserved worldwide.</p>
+  </footer>
+</body>
+</html>

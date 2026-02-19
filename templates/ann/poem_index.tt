@@ -1,0 +1,7 @@
+[% WRAPPER layouts/ann.tt %]
+<ul class="poem-list">
+  [% FOREACH poem IN poems %]
+  <li><a href="[% poem.url %]" class="spectrum-Link">[% poem.name %]</a></li>
+  [% END %]
+</ul>
+[% END %]

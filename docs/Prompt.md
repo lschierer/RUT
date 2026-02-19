@@ -10,6 +10,7 @@ There are two aspects of this project.
 	 * Each of these represents the archived contents of one set of files that was the public_html folder for one user.  
 	 * Most of them contain largely static html and image files.  We should be able to display these static html and image files at https://www.schierer.org/~username/* exactly as if we were still on a system that supported serving public_html folders for system users. 
 	 * a few may contain php files.  We are not concerned with the fact that any php files in them will not display correctly. Users were warned. 
+    * this could be handled with a combination of cdk deployment, post-deployment scripting on the ec2 instance, and nginx configuration. 
 1. under /packages there are two additional users, 'luke' and 'ann' that require special handling. 
    1. the 'ann' user is fairly simply.  it is identical to the previous static file handling use case except that it also requires dynamic index pages.
    		* ~/ann/ and ~/ann/poems show identical content except that they have different relative paths to the pages they link to

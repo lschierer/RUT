@@ -20,7 +20,7 @@ build-luke-content: install
   # Build TypeScript/CSS assets
   pnpm build:prod
 
-content-setup: install build-luke-content
+build: install build-luke-content
   mkdir -p public/css
   mkdir -p public/js
   cd ./packages/archives 
@@ -28,10 +28,7 @@ content-setup: install build-luke-content
 
 
 clean:
-  rm -rf packages/greenwood/src/pages
-  git restore packages/greenwood/src/pages
-  rm -rf packages/greenwood/src/assets/log
-  git restore packages/greenwood/src/assets
+  # todo
 
 linkcheck:
   pnpm exec blc -e -f -r http://localhost:3000
@@ -42,8 +39,18 @@ check:
   sleep 10 && just linkcheck && echo "success"
 
 
-deploy: install content-setup 
-  # cdk stuff goes here
+deploy-dev: clean
+    pnpm cdk --profile personal acknowledge 34892 
+    MODE='dev' pnpm cdk --profile personal deploy
+
+deploy-test: clean
+    pnpm cdk --profile personal acknowledge 34892 
+    MODE='test' pnpm cdk --profile personal deploy
+
+deploy-prod: clean
+    pnpm cdk --profile personal acknowledge 34892 
+    MODE='prod' pnpm cdk --profile personal deploy
+
 
 quickdev:
     watchexec -w bin -w lib -w ../PAGI-WebServer/lib -w templates -w public/css -w public/js -w packages/luke/dist -r ./bin/server.pl

@@ -28,6 +28,9 @@ css_dir: styles
 typescript_dir: src
 markdown_dir: share/pages
 luke_content_dir: packages/luke
+ann_content_dir: packages/ann
+archives_dir: packages/archives
+archives_extracted_dir: packages/archives/extracted
 
 log_base: Schierer-Org
 site_url: dev.schierer.org

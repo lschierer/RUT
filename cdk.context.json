@@ -1,0 +1,11 @@
+{
+  "acknowledged-issue-numbers": [
+    34892,
+    34892,
+    34892,
+    34892,
+    34892,
+    34892
+  ],
+  "ami:account=699040795025:filters.architecture.0=arm64:filters.image-type.0=machine:filters.name.0=ubuntu/images/hvm-ssd-gp3/ubuntu-noble-*-*-server-*:filters.root-device-type.0=ebs:filters.state.0=available:filters.virtualization-type.0=hvm:owners.0=099720109477:region=us-east-2": "ami-00067bd41b0ecacb3"
+}

@@ -71,7 +71,6 @@ const props: ApplicationStackProps = {
     'infrastructure',
     'cdk.out',
     '.git',
-    'dist',
   ],
   crossRegionReferences: true,
   tags: {
