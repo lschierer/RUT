@@ -129,6 +129,11 @@ sub build ($self) {
   $iter = $node_rule->iter($self->luke_dir->child('node_modules'), { sorted => 1});
   $self->_register_routes_from_iterator($iter, 'node_modules', sub { shift->_static_handler(@_) });
 
+  my $log_images = Path::Iterator::Rule->new;
+  $log_images->nonempty->file->name( qr/\.(?:svg|png|gif|jpg)$/ );
+  $iter = $log_images->iter($self->luke_dir->child('log'), { sorted => 1});
+  $self->_register_routes_from_iterator($iter, 'log', sub { shift->_static_handler(@_) });
+
 }
 
 sub _register_redirects ($self) {
@@ -154,17 +159,20 @@ sub _register_redirects ($self) {
   $self->logger->info("Registered $count ~luke redirect routes");
 }
 
-sub _register_routes_from_iterator ($self, $iterator, $base_path, $handler) {
+sub _register_routes_from_iterator ($self, $iterator, $base_path, $handler, $opts = {}) {
   my $count = 0;
+  my $strip_md = $opts->{strip_md} // 0;
+  my $add_trailing_slash = $opts->{trailing_slash} // 0;
   
   while (defined(my $file = $iterator->())) {
     $file = Path::Tiny::path($file);
     
     my $rel = $file->relative($self->luke_dir->child($base_path))->stringify;
-    $rel =~ s/\.md$//;  # Remove .md extension for markdown files
+    $rel =~ s/\.md$// if $strip_md;  # Only remove .md if requested
     my $route = "/~luke/$base_path/$rel";
     $route =~ s{//+}{/}g;
-    $route =~ s{/index$}{};
+    $route =~ s{/index$}{} if $strip_md;  # Only strip index for markdown
+    $route .= '/' if $add_trailing_slash && $route !~ m{/$};  # Add trailing slash if requested
 
     #special cases
     $route =~ s{luke/dist/}{luke/};
@@ -177,7 +185,7 @@ sub _register_routes_from_iterator ($self, $iterator, $base_path, $handler) {
         to => async sub ($c, $ctx, @args) {
           await $handler->($self, $ctx, $file, $route);
         },
-        action => 'http.*',
+        action => 'http.get',
       }
     );
     $count++;
@@ -196,6 +204,7 @@ async sub _markdown_handler ($self, $ctx, $file, $route) {
 }
 
 async sub _static_handler ($self, $ctx, $file, $route) {
+  $self->logger->debug(sprintf('serving "%s" for route "%s"', $file->exists ? $file : "no such file", $route ));
   await $ctx->res->send_file($file->stringify, inline => 1);
   return;
 }
@@ -258,7 +267,8 @@ sub _register_markdown_routes ($self) {
   my $count = $self->_register_routes_from_iterator(
     $iter,
     $log_dir->relative($self->luke_dir),
-    sub { shift->_markdown_handler(@_) }
+    sub { shift->_markdown_handler(@_) },
+    { strip_md => 1 }
   );
 
   $self->logger->info("Registered $count markdown routes");
@@ -325,30 +335,6 @@ async sub _handle_markdown ($self, $ctx, $entry) {
   else {
     $ctx->res->status(404);
     await $ctx->res->html('<h1>404 - Page Not Found</h1>');
-  }
-  return;
-}
-
-async sub _handle_static_asset ($self, $ctx) {
-  my $path = $ctx->req->path;
-
-  # Strip /~luke/ prefix
-  (my $rel = $path) =~ s{^/~luke/assets}{};
-
-  # Try staticAssets/ directory first
-  my $file = $self->luke_dir->child('staticAssets', $rel);
-
-  unless ($file->exists && $file->is_file) {
-    # Also try the direct path under luke_dir
-    $file = $self->luke_dir->child($rel);
-  }
-
-  if ($file->exists && $file->is_file) {
-    await $ctx->res->send_file($file->stringify, inline => 1);
-  }
-  else {
-    $ctx->res->status(404);
-    await $ctx->res->html('<h1>404 - Not Found</h1>');
   }
   return;
 }

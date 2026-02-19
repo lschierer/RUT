@@ -110,7 +110,7 @@ class App::ArchiveGenerator {
       my $title = $post;
       $title =~ s{^log/}{};
       $title =~ s{/}{: }g;
-      my $url = "/~luke/$post/";
+      my $url = "/~luke/$post";
       $content .= "- [$title]($url)\n";
     }
 
@@ -137,7 +137,7 @@ class App::ArchiveGenerator {
       my $title = $post;
       $title =~ s{^log/}{};
       $title =~ s{/}{: }g;
-      my $url = "/~luke/$post/";
+      my $url = "/~luke/$post";
       $content .= "- [$title]($url)\n";
     }
 
@@ -165,7 +165,7 @@ class App::ArchiveGenerator {
       my $title = $post;
       $title =~ s{^log/}{};
       $title =~ s{/}{: }g;
-      my $url = "/~luke/$post/";
+      my $url = "/~luke/$post";
       $content .= "- [$title]($url)\n";
     }
 

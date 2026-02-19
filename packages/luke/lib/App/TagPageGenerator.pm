@@ -77,7 +77,7 @@ class App::TagPageGenerator {
         ($post_titles->{$a} // $a) cmp ($post_titles->{$b} // $b) 
       } @{ $tag_to_posts->{$tag} }) {
         my $title = $post_titles->{$post_key} // $post_key;
-        my $url = "/~luke/$post_key/";
+        my $url = "/~luke/$post_key";
         $content .= "- [$title]($url)\n";
       }
 
@@ -105,7 +105,7 @@ class App::TagPageGenerator {
       } keys %$tag_to_posts
     ) {
       my $count = scalar @{ $tag_to_posts->{$tag} };
-      my $link = "/~luke/log/tags/$tag/";
+      my $link = "/~luke/log/tags/$tag";
       $content .= "| [$tag]($link) | $count |\n";
     }
 
