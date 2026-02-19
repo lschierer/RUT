@@ -10,7 +10,7 @@
     [% FOREACH file IN change.files %]
       <li class="spectrum-Body spectrum-Body--sizeS">
       [% IF file.exists %]
-        <a href="/~luke/[% file.url %]/" class="spectrum-Link spectrum-Link--quiet">[% file.title %]</a>
+        <a href="/~luke/[% file.url %]" class="spectrum-Link spectrum-Link--quiet">[% file.title %]</a>
       [% ELSE %]
         [% file.title %]
       [% END %]

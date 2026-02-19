@@ -64,7 +64,7 @@
           <h3 class="spectrum-Heading spectrum-Heading--sizeXS">Tags</h3>
           <ul>
             [% FOREACH tag IN tag_list %]
-            <li><a href="/~luke/log/tags/[% tag %]/" class="spectrum-Link">[% tag %]</a></li>
+            <li><a href="/~luke/log/tags/[% tag %]" class="spectrum-Link">[% tag %]</a></li>
             [% END %]
           </ul>
           <p class="spectrum-Body spectrum-Body--sizeXS"><a href="/~luke/log/tags/" class="spectrum-Link">View all tags</a></p>
