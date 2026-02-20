@@ -1,7 +1,0 @@
-# global settings (note that only full line comments are accepted)
-live_update	= 1
-max_depth       = 4
-theme           = Monokai
-class.stringify = 0
-# use quotes if you want spaces to be significant:
-hash_separator  = " => "

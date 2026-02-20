@@ -26,8 +26,8 @@
     "composite": true,
     "rootDir": ".",
     "baseUrl": "./",
-    "outDir": "./dist/types",
-    "declarationDir": "./dist/types"
+    "outDir": "./build-output/types",
+    "declarationDir": "./build-output/types"
   },
   "exclude": ["**/node_modules/**", "**/cdk.out/**"],
   "include": [

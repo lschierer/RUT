@@ -428,7 +428,7 @@ App::IkiConverter - Convert ikiwiki formatted .mdwn files to GFM markdown
   use App::IkiConverter qw(convert_ikiwiki_files);
 
   # Convert all .mdwn files in the log directory
-  my $count = convert_ikiwiki_files('./log', './dist/conversion_log.txt');
+  my $count = convert_ikiwiki_files('./log', './build-output/conversion_log.txt');
   print "Processed $count files\n";
 
 =head1 DESCRIPTION
@@ -450,7 +450,7 @@ Converts all .mdwn files in the specified directory to .md files.
 
 Parameters:
 - $source_dir: Directory containing .mdwn files (default: './log')
-- $log_file: Path to log file (default: './dist/conversion_log.txt')
+- $log_file: Path to log file (default: './build-output/conversion_log.txt')
 
 Returns: Number of files processed
 

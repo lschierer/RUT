@@ -19,7 +19,7 @@
 
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "outDir": "./dist/",
+    "outDir": "./build-output/",
 
     "allowImportingTsExtensions": false,
     "resolveJsonModule": true,

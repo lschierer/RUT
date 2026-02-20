@@ -146,7 +146,7 @@ App::DateManifest - Pre-compute absolute dates for blog content
 
   my $dm = App::DateManifest->new(source_dir => '.');
   my $dates = $dm->build_manifest();
-  # Writes dist/dates.json
+  # Writes build-output/dates.json
 
 =head1 DESCRIPTION
 
@@ -156,7 +156,7 @@ Scans all content files under log/ and extracts dates using a priority order:
 2. C<[[!meta updated="..."]]> or C<[[!meta date="..."]]> from .mdwn sources
 3. Git first-commit date (fallback)
 
-Output is written to C<dist/dates.json> as a JSON object mapping
+Output is written to C<build-output/dates.json> as a JSON object mapping
 extensionless relative paths to ISO 8601 date strings.
 
 =cut

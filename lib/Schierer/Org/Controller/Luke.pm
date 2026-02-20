@@ -27,7 +27,7 @@ has redirect_map => (
   lazy    => 1,
   default => sub {
     my $self = shift;
-    my $file = $self->luke_dir->child('dist/redirects.json');
+    my $file = $self->luke_dir->child('build-output/redirects.json');
     return {} unless $file->exists;
     my $json = JSON::MaybeXS->new(utf8 => 1);
     return $json->decode($file->slurp_raw);
@@ -39,7 +39,7 @@ has date_manifest => (
   lazy    => 1,
   default => sub {
     my $self = shift;
-    my $file = $self->luke_dir->child('dist/dates.json');
+    my $file = $self->luke_dir->child('build-output/dates.json');
     return {} unless $file->exists;
     my $json = JSON::MaybeXS->new(utf8 => 1);
     return $json->decode($file->slurp_raw);
@@ -51,7 +51,7 @@ has recent_changes => (
   lazy    => 1,
   default => sub {
     my $self = shift;
-    my $file = $self->luke_dir->child('dist/commitHistory.json');
+    my $file = $self->luke_dir->child('build-output/commitHistory.json');
     return [] unless $file->exists;
     my $json = JSON::MaybeXS->new(utf8 => 1);
     return $json->decode($file->slurp_raw);
@@ -121,8 +121,8 @@ sub build ($self) {
 
   my $css_rule = Path::Iterator::Rule->new;
   $css_rule->nonempty->file->name( qr/\.css$/ );
-  $iter = $css_rule->iter($self->luke_dir->child('dist/styles'), { sorted => 1});
-  $self->_register_routes_from_iterator($iter, 'dist/styles', sub { shift->_static_handler(@_) });
+  $iter = $css_rule->iter($self->luke_dir->child('build-output/styles'), { sorted => 1});
+  $self->_register_routes_from_iterator($iter, 'build-output/styles', sub { shift->_static_handler(@_) });
 
   my $node_rule = Path::Iterator::Rule->new;
   $node_rule->nonempty->file;
@@ -175,7 +175,7 @@ sub _register_routes_from_iterator ($self, $iterator, $base_path, $handler, $opt
     $route .= '/' if $add_trailing_slash && $route !~ m{/$};  # Add trailing slash if requested
 
     #special cases
-    $route =~ s{luke/dist/}{luke/};
+    $route =~ s{luke/build-output/}{luke/};
 
     $self->logger->debug(sprintf('registering route "%s" from base_path "%s"', $route, $base_path));
     
@@ -229,7 +229,7 @@ sub _register_static_files ($self) {
 
     # Only root-level files, not files under log/
     next if $file->relative($luke_dir) =~ m{^log/};
-    next if $file->relative($luke_dir) =~ m{^dist/};
+    next if $file->relative($luke_dir) =~ m{^build-output/};
     next if $file->relative($luke_dir) =~ m{^node_modules/};
 
     my $rel   = $file->relative($luke_dir)->stringify;
@@ -427,7 +427,7 @@ sub _get_archive_years ($self) {
 }
 
 sub _get_tag_list ($self) {
-  my $tags_file = $self->luke_dir->child("dist/tags.json");
+  my $tags_file = $self->luke_dir->child("build-output/tags.json");
   return [] unless $tags_file->exists;
   
   my $json = JSON::MaybeXS->new(utf8 => 1);

@@ -130,8 +130,8 @@ my $calendar_gen = App::CalendarGenerator->new(
   source_dir => './log',
   date_manifest_file => './build-output/dates.json',
   output_dir => './log/archive',
-  date_manifest_file => './dist/dates.json',
-  posts_by_date_file => './dist/posts_by_date.json',
+  date_manifest_file => './build-output/dates.json',
+  posts_by_date_file => './build-output/posts_by_date.json',
 );
 $calendar_gen->generate_all_calendars();
 
@@ -140,7 +140,7 @@ say "=== Step 6: Generating tag pages ===";
 my $tag_gen = App::TagPageGenerator->new(
   source_dir => '.',
   output_dir => '.',
-  date_manifest_file => './dist/dates.json',
+  date_manifest_file => './build-output/dates.json',
 );
 my $tags = $tag_gen->generate_all();
 $dist->child('tags.json')->spew_raw($json->encode($tags));
@@ -148,7 +148,7 @@ say "  Wrote tags.json with " . scalar(@$tags) . " tags";
 
 # Step 7: Generate recent changes manifest
 say "=== Step 7: Generating recent changes manifest ===";
-my $json_file = './dist/commitHistory.json';
+my $json_file = './build-output/commitHistory.json';
 my $recent_gen = App::RecentChanges->new();
 $recent_gen->generate_git_history($json_file);
 

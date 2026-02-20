@@ -1,6 +1,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import { build } from 'esbuild';
+import process from 'process';
 
 // Find all component files to use as entry points
 const componentsDir = './src/components';
@@ -11,7 +12,7 @@ const entryPoints = fs.readdirSync(componentsDir)
 // Build configuration
 build({
   entryPoints,
-  outdir: './dist/components',
+  outdir: './build-output/components',
   bundle: true,
   minify: process.env.NODE_ENV === 'production',
   sourcemap: true,
