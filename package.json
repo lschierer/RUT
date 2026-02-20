@@ -6,8 +6,9 @@
   "scripts": {
     "check": "NODE_OPTIONS='--experimental-strip-types'  pnpm eslint --flag unstable_native_nodejs_ts_config .",
     "dev": "just dev",
-    "prepare": "husky",
-    "test": "echo \"Error: no test specified (but husky wants this target)\" && exit 0"
+    "prepare": "[ -d .git ] && husky || true",
+    "test": "echo \"Error: no test specified (but husky wants this target)\" && exit 0",
+    "build": "cd packages/luke &&  pnpm build"
   },
   "author": {
     "email": "luke@schierer.org",
@@ -26,6 +27,7 @@
     "@types/postcss-import": "^14.0.3",
     "@typescript-eslint/parser": "^8.32.1",
     "aws-cdk-lib": "^2.238.0",
+    "cdk": "^2.1106.1",
     "eslint": "^9.27.0",
     "eslint-config-prettier": "^10.1.5",
     "eslint-import-resolver-typescript": "^4.3.5",

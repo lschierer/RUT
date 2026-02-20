@@ -22,7 +22,7 @@ GetOptions(
   'skip-convert' => \$skip_convert,
 ) or die "Usage: $0 [--skip-pandoc] [--skip-convert]\n";
 
-my $dist = path('./dist');
+my $dist = path('./build-output');
 $dist->mkpath;
 
 # Step 1: Analyze git history for selective re-conversion
@@ -41,7 +41,7 @@ unless ($skip_convert) {
   say "  skip_pandoc=$skip_pandoc";
   my $converter = App::IkiConverter->new(
     source_dir  => './log',
-    log_file    => './dist/conversion_log.txt',
+    log_file    => './build-output/conversion_log.txt',
     skip_pandoc => $skip_pandoc,
   );
   my $redirect_list = $converter->convert_ikiwiki_files_selective($manifest);
@@ -91,7 +91,7 @@ say "  Wrote " . scalar(keys %redirect_map) . " redirects";
 say "=== Step 3: Building date manifest ===";
 my $dm = App::DateManifest->new(
   source_dir  => '.',
-  output_file => './dist/dates.json',
+  output_file => './build-output/dates.json',
 );
 $dm->build_manifest();
 
@@ -119,8 +119,8 @@ say "=== Step 4: Generating archive indexes ===";
 my $archive_gen = App::ArchiveGenerator->new(
   source_dir => './log',
   output_dir => './log/archive',
-  date_manifest_file => './dist/dates.json',
-  posts_by_date_file => './dist/posts_by_date.json',
+  date_manifest_file => './build-output/dates.json',
+  posts_by_date_file => './build-output/posts_by_date.json',
 );
 $archive_gen->generate_all_indexes();
 
@@ -128,6 +128,7 @@ $archive_gen->generate_all_indexes();
 say "=== Step 5: Generating calendar fragments ===";
 my $calendar_gen = App::CalendarGenerator->new(
   source_dir => './log',
+  date_manifest_file => './build-output/dates.json',
   output_dir => './log/archive',
   date_manifest_file => './dist/dates.json',
   posts_by_date_file => './dist/posts_by_date.json',

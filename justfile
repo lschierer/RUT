@@ -39,18 +39,18 @@ check:
   sleep 10 && just linkcheck && echo "success"
 
 
-deploy-dev: clean
+deploy-dev: build-luke-content
     pnpm cdk --profile personal acknowledge 34892 
     MODE='dev' pnpm cdk --profile personal deploy
 
-deploy-test: clean
+deploy-test: build-luke-content
     pnpm cdk --profile personal acknowledge 34892 
     MODE='test' pnpm cdk --profile personal deploy
 
-deploy-prod: clean
+deploy-prod: build-luke-content
     pnpm cdk --profile personal acknowledge 34892 
     MODE='prod' pnpm cdk --profile personal deploy
 
 
 quickdev:
-    watchexec -w bin -w lib -w ../PAGI-WebServer/lib -w templates -w public/css -w public/js -w packages/luke/dist -r ./bin/server.pl
+    watchexec -w bin -w lib -w ../PAGI-WebServer/lib -w templates -w public/css -w public/js -w packages/luke/build-output -r ./bin/server.pl

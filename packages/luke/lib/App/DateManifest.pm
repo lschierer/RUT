@@ -13,7 +13,7 @@ class App::DateManifest {
   use JSON::MaybeXS;
 
   field $source_dir  : param : reader //= '.';
-  field $output_file : param : reader //= './dist/dates.json';
+  field $output_file : param : reader //= './build-output/dates.json';
 
   ADJUST {
     $source_dir = Path::Tiny::path($source_dir);

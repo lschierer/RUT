@@ -41,6 +41,9 @@ importers:
       aws-cdk-lib:
         specifier: ^2.238.0
         version: 2.238.0(constructs@10.5.0)
+      cdk:
+        specifier: ^2.1106.1
+        version: 2.1106.1
       eslint:
         specifier: ^9.27.0
         version: 9.27.0(jiti@2.4.2)
@@ -1263,6 +1266,11 @@ packages:
       - yaml
       - mime-types
 
+  aws-cdk@2.1106.1:
+    resolution: {integrity: sha512-oSKAvM6a5dVNb+OZoLyjLe2rIkG6URVRHN+cOUZM9uEScYDYPn2KpOQ1iGofH6szsJp76GqQqpiwEpaYXrIHmw==}
+    engines: {node: '>= 18.0.0'}
+    hasBin: true
+
   balanced-match@1.0.2:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
 
@@ -1376,6 +1384,11 @@ packages:
 
   caniuse-lite@1.0.30001770:
     resolution: {integrity: sha512-x/2CLQ1jHENRbHg5PSId2sXq1CIO1CISvwWAj027ltMVG2UNgW+w9oH2+HzgEIRFembL8bUlXtfbBHR1fCg2xw==}
+
+  cdk@2.1106.1:
+    resolution: {integrity: sha512-q7/xqtXC9qT9J1zP9YuP9Ch42cNa+B1zXI/FsqYSeIyddGCSmEJv04GCUj5wNTEmKsAOxFwYp6VLZDNhTEKdlA==}
+    engines: {node: '>= 18.0.0'}
+    hasBin: true
 
   chalk-template@0.4.0:
     resolution: {integrity: sha512-/ghrgmhfY8RaSdeo43hNXxpoHAtxdbskUHjPpfqUWGttFgycUhYPGx3YZBCnUCvOa7Doivn1IZec3DEGFoMgLg==}
@@ -5212,6 +5225,8 @@ snapshots:
       '@aws-cdk/cloud-assembly-schema': 48.20.0
       constructs: 10.5.0
 
+  aws-cdk@2.1106.1: {}
+
   balanced-match@1.0.2: {}
 
   balanced-match@3.0.1: {}
@@ -5360,6 +5375,10 @@ snapshots:
       lodash.uniq: 4.5.0
 
   caniuse-lite@1.0.30001770: {}
+
+  cdk@2.1106.1:
+    dependencies:
+      aws-cdk: 2.1106.1
 
   chalk-template@0.4.0:
     dependencies:

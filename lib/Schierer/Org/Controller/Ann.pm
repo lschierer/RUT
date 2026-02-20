@@ -12,6 +12,7 @@ require Path::Iterator::Rule;
 
 has ann_dir => (
   is      => 'ro',
+  lazy    => 1,
   default => sub {
     my $self = shift;
     my $dir  = $self->app_config->{config}->{ann_content_dir} // 'packages/ann';

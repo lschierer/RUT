@@ -18,7 +18,7 @@ class App::IkiConverter {
   use File::Find;
 
   field $source_dir  : param : reader //= './log';
-  field $log_file    : param : reader //= './dist/conversion_log.txt';
+  field $log_file    : param : reader //= './build-output/conversion_log.txt';
   field $skip_pandoc : param : reader //= 0;
 
   ADJUST {

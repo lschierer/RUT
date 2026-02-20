@@ -1,4 +1,4 @@
-dist
+build-output
 tmp
 tsconfig.tsbuildinfo
 tsconfig.build.tsbuildinfo
