@@ -7,7 +7,7 @@ use Getopt::Long;
 
 use App::Build::Pipeline;
 
-my $skip_pandoc = 0;
+my $skip_pandoc  = 0;
 my $skip_convert = 0;
 GetOptions(
   'skip-pandoc'  => \$skip_pandoc,

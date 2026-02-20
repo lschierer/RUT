@@ -57,7 +57,7 @@ class App::Build::Pipeline {
 
   method _phase1_conversion_manifest ($ctx) {
     say "=== Phase 1: Analyzing conversion manifest ===";
-    my $cm = App::Build::ConversionManifest->new(source_dir => './log');
+    my $cm       = App::Build::ConversionManifest->new(source_dir => './log');
     my $manifest = $cm->analyze_all();
 
     my $keep_count      = grep { $_ eq 'keep' } values %$manifest;
@@ -78,22 +78,25 @@ class App::Build::Pipeline {
         log_file    => "$dist_dir/conversion_log.txt",
         skip_pandoc => $skip_pandoc,
       );
-      my $redirect_list = $converter->convert_ikiwiki_files_selective($ctx->{manifest});
+      my $redirect_list =
+        $converter->convert_ikiwiki_files_selective($ctx->{manifest});
       @redirects = @$redirect_list;
     }
     else {
       say "=== Phase 2: Skipping conversion (--skip-convert) ===";
 
       # Still need to scan for redirects from .mdwn files
-      my $iter = path('./log')->iterator({ recurse => 1, follow_symlinks => 0 });
+      my $iter =
+        path('./log')->iterator({ recurse => 1, follow_symlinks => 0 });
       while (my $file = $iter->()) {
         next unless $file->stringify =~ /\.mdwn$/;
         my $content = $file->slurp_utf8;
         if ($content =~ /\[\[\!meta\s+redir="([^"]+)"\]\]/i) {
-          push @redirects, {
+          push @redirects,
+            {
             source => $file->relative('./log')->stringify,
             target => $1,
-          };
+            };
         }
       }
     }
@@ -140,8 +143,8 @@ class App::Build::Pipeline {
   method _phase3_tag_pages ($ctx) {
     say "=== Phase 3c: Generating tag pages ===";
     my $tag_gen = App::Build::TagPageGenerator->new(
-      source_dir => '.',
-      output_dir => '.',
+      source_dir         => '.',
+      output_dir         => '.',
       date_manifest_file => "$dist_dir/dates.json",
     );
     my $tags = $tag_gen->generate_all();

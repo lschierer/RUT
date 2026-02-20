@@ -12,8 +12,8 @@ require App::Build::RecentChanges;
 
 # Configuration
 my $json_file = './tmp/commitHistory.json';
-my $md_file = './log/index.md';
-my $limit = 100;
+my $md_file   = './log/index.md';
+my $limit     = 100;
 
 my $rc = App::Build::RecentChanges->new();
 # Generate the git history JSON file
@@ -25,7 +25,5 @@ print "Processed $commits_processed commits.\n";
 #print "Updating markdown file with recent changes...\n";
 #my $entries_added = $rc->update_recent_changes($json_file, $md_file, $limit);
 #print "Added $entries_added recent change entries to $md_file\n";
-
-
 
 print "Done!\n";

@@ -28,9 +28,11 @@ class App::Build::PostIndex {
       my $date_str = $dates_hash->{$key};
       if ($date_str =~ /^(\d{4})-(\d{2})-(\d{2})/) {
         my ($year, $month, $day) = ($1, $2, $3);
-        push @{$posts_by_date{"$year/$month/$day"}}, $key;
-        push @{$posts_by_date{"$year/$month"}}, $key unless grep { $_ eq $key } @{$posts_by_date{"$year/$month"} // []};
-        push @{$posts_by_date{$year}}, $key unless grep { $_ eq $key } @{$posts_by_date{$year} // []};
+        push @{ $posts_by_date{"$year/$month/$day"} }, $key;
+        push @{ $posts_by_date{"$year/$month"} }, $key
+          unless grep { $_ eq $key } @{ $posts_by_date{"$year/$month"} // [] };
+        push @{ $posts_by_date{$year} }, $key
+          unless grep { $_ eq $key } @{ $posts_by_date{$year} // [] };
       }
     }
 

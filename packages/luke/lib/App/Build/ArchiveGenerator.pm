@@ -7,8 +7,8 @@ class App::Build::ArchiveGenerator {
   use Path::Tiny;
   use JSON::MaybeXS;
 
-  field $source_dir : param;
-  field $output_dir : param;
+  field $source_dir         : param;
+  field $output_dir         : param;
   field $date_manifest_file : param = undef;
   field $posts_by_date_file : param = undef;
 
@@ -43,13 +43,13 @@ class App::Build::ArchiveGenerator {
     }
 
     # Generate month indexes
-    for my $ym (sort grep { m{^\d{4}/\d{2}$} } keys %$posts_by_date) {
+    for my $ym (sort grep {m{^\d{4}/\d{2}$}} keys %$posts_by_date) {
       my ($year, $month) = split '/', $ym;
       $self->generate_month_index($year, $month, $posts_by_date->{$ym});
     }
 
     # Generate day indexes
-    for my $ymd (sort grep { m{^\d{4}/\d{2}/\d{2}$} } keys %$posts_by_date) {
+    for my $ymd (sort grep {m{^\d{4}/\d{2}/\d{2}$}} keys %$posts_by_date) {
       my ($year, $month, $day) = split '/', $ymd;
       $self->generate_day_index($year, $month, $day, $posts_by_date->{$ymd});
     }
@@ -64,9 +64,9 @@ class App::Build::ArchiveGenerator {
       my $date_str = $date_manifest->{$key};
       if ($date_str =~ /^(\d{4})-(\d{2})-(\d{2})/) {
         my ($year, $month, $day) = ($1, $2, $3);
-        push @{$posts_by_date{"$year/$month/$day"}}, $key;
-        push @{$posts_by_date{"$year/$month"}}, $key;
-        push @{$posts_by_date{$year}}, $key;
+        push @{ $posts_by_date{"$year/$month/$day"} }, $key;
+        push @{ $posts_by_date{"$year/$month"} },      $key;
+        push @{ $posts_by_date{$year} },               $key;
       }
     }
 
@@ -77,13 +77,13 @@ class App::Build::ArchiveGenerator {
     }
 
     # Generate month indexes
-    for my $ym (sort grep { m{^\d{4}/\d{2}$} } keys %posts_by_date) {
+    for my $ym (sort grep {m{^\d{4}/\d{2}$}} keys %posts_by_date) {
       my ($year, $month) = split '/', $ym;
       $self->generate_month_index($year, $month, $posts_by_date{$ym});
     }
 
     # Generate day indexes
-    for my $ymd (sort grep { m{^\d{4}/\d{2}/\d{2}$} } keys %posts_by_date) {
+    for my $ymd (sort grep {m{^\d{4}/\d{2}/\d{2}$}} keys %posts_by_date) {
       my ($year, $month, $day) = split '/', $ymd;
       $self->generate_day_index($year, $month, $day, $posts_by_date{$ymd});
     }
@@ -123,7 +123,7 @@ class App::Build::ArchiveGenerator {
     $archive_dir->mkpath;
 
     my $month_name = $self->get_month_name($month);
-    my $content = "---\n";
+    my $content    = "---\n";
     $content .= "title: \"Archive for $month_name $year\"\n";
     $content .= "layout: rut\n";
     $content .= "template: luke/log_entry\n";
@@ -150,7 +150,7 @@ class App::Build::ArchiveGenerator {
     $archive_dir->mkpath;
 
     my $month_name = $self->get_month_name($month);
-    my $content = "---\n";
+    my $content    = "---\n";
     $content .= "title: \"Posts from $month_name $day, $year\"\n";
     $content .= "layout: rut\n";
     $content .= "template: luke/log_entry\n";

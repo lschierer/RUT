@@ -61,14 +61,12 @@ class App::Build::RecentChanges {
     ->convert_blessed()
     ->canonical();
 
-
   field $RUT_dir = Path::Tiny::path("./log");
-
 
   # Generate git history JSON file
   method generate_git_history {
     my ($output_file, $repo_path) = @_;
-    $repo_path //= '../..';             # Default to parent of parent directory
+    $repo_path //= '../..';    # Default to parent of parent directory
     say "using repo_path '$repo_path' for git history";
 
     my $history = [];
@@ -82,12 +80,12 @@ class App::Build::RecentChanges {
     # Note: git pathspecs use fnmatch globs, not regex — so we list each
     # wanted extension separately rather than trying to use alternation.
     my @log = $repo->run(
-      'log',                  '--oneline',
-      '--full-history',       '--color=never',
-      '--decorate=short',     '--grep',
-      '^build: ',             '--grep',
-      'calendar update',      '--invert-grep',
-      '--',                   '.',
+      'log',              '--oneline',
+      '--full-history',   '--color=never',
+      '--decorate=short', '--grep',
+      '^build: ',         '--grep',
+      'calendar update',  '--invert-grep',
+      '--',               '.',
       ':!packages/greenwood',
     );
 
@@ -169,17 +167,19 @@ class App::Build::RecentChanges {
               $fo->{title} = $self->get_title_from_file($fo->{path});
               if ($fo->{path}->exists) {
                 $fo->{exists} = 1;
-                $fo->{url} = $fo->{path}->stringify =~ s/\.md(?:wn)?$//r;
+                $fo->{url}    = $fo->{path}->stringify =~ s/\.md(?:wn)?$//r;
               }
               else {
-                if($filename =~ s/wn$//){
-                  if(Path::Tiny::path($filename)->exists){
+                if ($filename =~ s/wn$//) {
+                  if (Path::Tiny::path($filename)->exists) {
                     $fo->{exists} = 1;
-                    $fo->{url} = $fo->{path}->stringify =~ s/\.md(?:wn)?$//r;
-                  } else {
+                    $fo->{url}    = $fo->{path}->stringify =~ s/\.md(?:wn)?$//r;
+                  }
+                  else {
                     $fo->{exists} = 0;
                   }
-                } else {
+                }
+                else {
                   $fo->{exists} = 0;
                 }
               }
@@ -219,15 +219,15 @@ sub get_title_from_file ($self, $file) {
   my $title;
   my $filename = $file->stringify;
 
-  if($filename =~ m{\.mdwn$} ){
-    unless($file->exists){
+  if ($filename =~ m{\.mdwn$}) {
+    unless ($file->exists) {
       $filename =~ s/wn$//;
       $file = Path::Tiny::path($filename);
     }
   }
 
-  unless($file->exists){
-    $title = $file->basename(qr/\.md(:?wn)?/ );
+  unless ($file->exists) {
+    $title = $file->basename(qr/\.md(:?wn)?/);
     return $title;
   }
 
@@ -242,12 +242,9 @@ sub get_title_from_file ($self, $file) {
     if ($contents =~ /^---\s*\n(.*?)\n---\s*$/sm) {
       my $yaml_str = $1;
       my $frontmatter;
-      eval {
-        $frontmatter = Load($yaml_str);
-      };
+      eval { $frontmatter = Load($yaml_str); };
       if ($@ || !$frontmatter) {
-        say sprintf('failed to parse frontmatter for file "%s": %s',
-          $file, $@);
+        say sprintf('failed to parse frontmatter for file "%s": %s', $file, $@);
       }
       elsif (exists $frontmatter->{title}) {
         $title = $frontmatter->{title};
@@ -261,7 +258,7 @@ sub get_title_from_file ($self, $file) {
     }
   }
 
-  $title = $file->basename(qr/\.md(:?wn)?/ ) unless($title && length($title));
+  $title = $file->basename(qr/\.md(:?wn)?/) unless ($title && length($title));
   return $title;
 }
 

@@ -21,7 +21,7 @@ class App::Build::TagPageGenerator {
 
     # Scan markdown files for tags
     my $log_dir = path($source_dir)->child('log');
-    my $iter = $log_dir->iterator({ recurse => 1 });
+    my $iter    = $log_dir->iterator({ recurse => 1 });
 
     while (my $file = $iter->()) {
       next unless $file->is_file && $file->basename =~ /\.md$/;
@@ -73,11 +73,11 @@ class App::Build::TagPageGenerator {
       $content .= "---\n\n";
       $content .= "## Posts tagged with '$tag'\n\n";
 
-      for my $post_key (sort {
-        ($post_titles->{$a} // $a) cmp ($post_titles->{$b} // $b)
-      } @{ $tag_to_posts->{$tag} }) {
+      for my $post_key (
+        sort { ($post_titles->{$a} // $a) cmp($post_titles->{$b} // $b) }
+        @{ $tag_to_posts->{$tag} }) {
         my $title = $post_titles->{$post_key} // $post_key;
-        my $url = "/~luke/$post_key";
+        my $url   = "/~luke/$post_key";
         $content .= "- [$title]($url)\n";
       }
 
@@ -105,7 +105,7 @@ class App::Build::TagPageGenerator {
       } keys %$tag_to_posts
     ) {
       my $count = scalar @{ $tag_to_posts->{$tag} };
-      my $link = "/~luke/log/tags/$tag";
+      my $link  = "/~luke/log/tags/$tag";
       $content .= "| [$tag]($link) | $count |\n";
     }
 
