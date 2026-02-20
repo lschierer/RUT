@@ -7,7 +7,7 @@ public/
 # sst
 .sst
 Schierer.org.sublime-workspace
-Build
+/Build
 _build
 blib
 MYMETA.json
