@@ -1,17 +1,18 @@
-package App::CalendarGenerator;
+package App::Build::CalendarGenerator;
 use v5.40.0;
 use Object::Pad;
 # cspell: disable
 
-class App::CalendarGenerator {
+class App::Build::CalendarGenerator {
   use Path::Tiny;
+  use JSON::MaybeXS;
   use Time::Piece;
 
   field $source_dir : param;
   field $output_dir : param;
   field $date_manifest_file : param = undef;
   field $posts_by_date_file : param = undef;
-  
+
   field $date_manifest = undef;
   field $posts_by_date = undef;
 
@@ -23,7 +24,7 @@ class App::CalendarGenerator {
       $self->generate_calendars_from_posts_by_date();
       return;
     }
-    
+
     # Fallback: compute from date manifest
     if ($date_manifest_file && -f $date_manifest_file) {
       my $json = JSON::MaybeXS->new(utf8 => 1);
@@ -31,20 +32,20 @@ class App::CalendarGenerator {
       $self->generate_calendars_from_manifest();
       return;
     }
-    
+
     # Last resort: directory scanning
     $self->generate_calendars_from_directories();
   }
-  
+
   method generate_calendars_from_posts_by_date() {
     my %days_by_month;
-    
+
     # Extract days from posts_by_date
     for my $ymd (grep { m{^\d{4}/\d{2}/\d{2}$} } keys %$posts_by_date) {
       my ($year, $month, $day) = split '/', $ymd;
       push @{$days_by_month{"$year/$month"}}, int($day);
     }
-    
+
     # Generate calendar for each month
     for my $ym (sort keys %days_by_month) {
       my ($year, $month) = split '/', $ym;
@@ -52,10 +53,10 @@ class App::CalendarGenerator {
       $self->generate_calendar($year, $month, \@days);
     }
   }
-  
+
   method generate_calendars_from_manifest() {
     my %posts_by_month;
-    
+
     # Group posts by year/month
     for my $key (sort keys %$date_manifest) {
       next if $key =~ /index$/;
@@ -65,7 +66,7 @@ class App::CalendarGenerator {
         push @{$posts_by_month{"$year/$month"}}, int($day);
       }
     }
-    
+
     # Generate calendar for each month
     for my $ym ( sort keys %posts_by_month) {
       my ($year, $month) = split '/', $ym;
@@ -73,7 +74,7 @@ class App::CalendarGenerator {
       $self->generate_calendar($year, $month, \@days);
     }
   }
-  
+
   method generate_calendars_from_directories() {
     my $log_dir = path($source_dir);
     my @years =
@@ -106,13 +107,14 @@ class App::CalendarGenerator {
     my %days_map = map { $_ => 1 } @$days_with_posts;
 
     my $html = qq{<div class="spectrum-Calendar">\n};
+    $html .= qq{ <h4 class="spectrum-Heading spectrum-Heading--sizeXXS">$date_str</h4>\n };
     $html .= qq{  <table class="spectrum-Calendar-table">\n};
     $html .= qq{    <thead>\n      <tr>};
-    
+
     for my $day (qw(Sun Mon Tue Wed Thu Fri Sat)) {
       $html .= qq{<th class="spectrum-Calendar-tableCell"><abbr class="spectrum-Calendar-dayOfWeek" title="$day">$day</abbr></th>};
     }
-    
+
     $html .= qq{</tr>\n    </thead>\n    <tbody class="spectrum-Calendar-body">\n};
 
     my $day = 1;
@@ -120,7 +122,7 @@ class App::CalendarGenerator {
 
     # Start first row
     $html .= qq{      <tr>\n};
-    
+
     # Empty cells before first day
     for (my $i = 0; $i < $first_dow; $i++) {
       $html .= qq{        <td class="spectrum-Calendar-tableCell"></td>\n};
@@ -131,7 +133,7 @@ class App::CalendarGenerator {
     while ($day <= $days_in_month) {
       my $class = "spectrum-Calendar-date";
       my $day_str = sprintf("%02d", $day);
-      
+
       if ($days_map{$day}) {
         # Day has posts - make it a link
         my $url = "/~luke/log/archive/$year/$month/$day_str/";
@@ -141,14 +143,14 @@ class App::CalendarGenerator {
         $class .= " is-disabled";
         $html .= qq{        <td class="spectrum-Calendar-tableCell"><span class="$class">$day</span></td>\n};
       }
-      
+
       $cell_count++;
-      
+
       # End row after 7 cells
       if ($cell_count % 7 == 0 && $day < $days_in_month) {
         $html .= qq{      </tr>\n      <tr>\n};
       }
-      
+
       $day++;
     }
 
@@ -157,7 +159,7 @@ class App::CalendarGenerator {
       $html .= qq{        <td class="spectrum-Calendar-tableCell"></td>\n};
       $cell_count++;
     }
-    
+
     $html .= qq{      </tr>\n};
     $html .= qq{    </tbody>\n  </table>\n</div>};
 

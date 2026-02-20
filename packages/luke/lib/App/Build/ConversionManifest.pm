@@ -3,10 +3,10 @@ use utf8::all;
 
 use Object::Pad;
 
-package App::ConversionManifest;
+package App::Build::ConversionManifest;
 our $VERSION = '0.00.1';
 
-class App::ConversionManifest {
+class App::Build::ConversionManifest {
   use Path::Tiny;
   use Carp;
   use Git::Repository;
@@ -94,11 +94,11 @@ __END__
 
 =head1 NAME
 
-App::ConversionManifest - Analyze git history to classify .md files for selective re-conversion
+App::Build::ConversionManifest - Analyze git history to classify .md files for selective re-conversion
 
 =head1 SYNOPSIS
 
-  my $cm = App::ConversionManifest->new(source_dir => './log');
+  my $cm = App::Build::ConversionManifest->new(source_dir => './log');
   my $manifest = $cm->analyze_all();
   # { 'path/to/file.md' => 'keep', 'path/to/other.md' => 'reconvert' }
 

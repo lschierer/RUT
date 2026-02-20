@@ -4,10 +4,10 @@ use utf8::all;
 
 use Object::Pad;
 
-package App::RecentChanges;
+package App::Build::RecentChanges;
 our $VERSION = '0.00.1';
 
-class App::RecentChanges {
+class App::Build::RecentChanges {
   use Exporter qw(import);
   require JSON::PP;
 
@@ -64,7 +64,7 @@ class App::RecentChanges {
 
   field $RUT_dir = Path::Tiny::path("./log");
 
-  
+
   # Generate git history JSON file
   method generate_git_history {
     my ($output_file, $repo_path) = @_;
@@ -156,7 +156,7 @@ class App::RecentChanges {
             my $fo = {};
             if ($filename) {
               next if $filename =~ m{archives/\d{4}};
-              
+
               $filename =~ s{packages/(.+)}{$1};
               $filename =~ s{luke/(.+)}{$1};
               unless ($filename =~ m{log/}) {
@@ -169,7 +169,7 @@ class App::RecentChanges {
               $fo->{title} = $self->get_title_from_file($fo->{path});
               if ($fo->{path}->exists) {
                 $fo->{exists} = 1;
-                $fo->{url} = $fo->{path}->stringify =~ s/\.md(?:wn)?$//r; 
+                $fo->{url} = $fo->{path}->stringify =~ s/\.md(?:wn)?$//r;
               }
               else {
                 if($filename =~ s/wn$//){
@@ -177,7 +177,7 @@ class App::RecentChanges {
                     $fo->{exists} = 1;
                     $fo->{url} = $fo->{path}->stringify =~ s/\.md(?:wn)?$//r;
                   } else {
-                    $fo->{exists} = 0;    
+                    $fo->{exists} = 0;
                   }
                 } else {
                   $fo->{exists} = 0;
@@ -218,7 +218,7 @@ class App::RecentChanges {
 sub get_title_from_file ($self, $file) {
   my $title;
   my $filename = $file->stringify;
-  
+
   if($filename =~ m{\.mdwn$} ){
     unless($file->exists){
       $filename =~ s/wn$//;
@@ -268,4 +268,3 @@ sub get_title_from_file ($self, $file) {
 1;
 
 __END__
-

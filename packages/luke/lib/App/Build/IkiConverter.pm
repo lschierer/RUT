@@ -4,10 +4,10 @@ use utf8::all;
 
 use Object::Pad;
 
-package App::IkiConverter;
+package App::Build::IkiConverter;
 our $VERSION = '0.00.1';
 
-class App::IkiConverter {
+class App::Build::IkiConverter {
   use Path::Tiny;
   use Carp;
   use DateTime::Format::ISO8601;
@@ -421,15 +421,14 @@ __END__
 
 =head1 NAME
 
-App::IkiConverter - Convert ikiwiki formatted .mdwn files to GFM markdown
+App::Build::IkiConverter - Convert ikiwiki formatted .mdwn files to GFM markdown
 
 =head1 SYNOPSIS
 
-  use App::IkiConverter qw(convert_ikiwiki_files);
+  use App::Build::IkiConverter;
 
-  # Convert all .mdwn files in the log directory
-  my $count = convert_ikiwiki_files('./log', './build-output/conversion_log.txt');
-  print "Processed $count files\n";
+  my $converter = App::Build::IkiConverter->new(source_dir => './log');
+  my $count = $converter->convert_ikiwiki_files();
 
 =head1 DESCRIPTION
 
@@ -440,46 +439,5 @@ standard GFM markdown .md files. It handles:
 - Converting ikiwiki directives to standard markdown
 - Validating the resulting markdown
 - Logging conversion results
-- Removing original files after successful conversion
-
-=head1 FUNCTIONS
-
-=head2 convert_ikiwiki_files($source_dir, $log_file)
-
-Converts all .mdwn files in the specified directory to .md files.
-
-Parameters:
-- $source_dir: Directory containing .mdwn files (default: './log')
-- $log_file: Path to log file (default: './build-output/conversion_log.txt')
-
-Returns: Number of files processed
-
-=head2 convert_file($mdwn_file)
-
-Converts a single ikiwiki file to markdown.
-
-Parameters:
-- $mdwn_file: Path to the .mdwn file
-
-Returns: Hash reference with keys:
-- success: Boolean indicating if conversion was successful
-- md_file: Path to the output .md file
-- error: Error message if conversion failed
-
-=head1 INTERNAL FUNCTIONS
-
-=head2 extract_metadata($file_path, $content)
-
-Extracts title, date, and tags from ikiwiki content.
-
-=head2 create_front_matter($title, $date, $tags)
-
-Creates YAML front matter from extracted metadata.
-
-=head2 process_content($content)
-
-Processes ikiwiki content to convert it to standard markdown.
-
-
 
 =cut

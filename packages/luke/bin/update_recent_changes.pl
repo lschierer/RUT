@@ -8,15 +8,14 @@ use Carp;
 use FindBin;
 use lib "$FindBin::Bin/../lib";
 require Data::Printer;
-require App::RecentChanges ;
-require App::RecentChangesManifest;
+require App::Build::RecentChanges;
 
 # Configuration
 my $json_file = './tmp/commitHistory.json';
 my $md_file = './log/index.md';
 my $limit = 100;
 
-my $rc = App::RecentChanges->new();
+my $rc = App::Build::RecentChanges->new();
 # Generate the git history JSON file
 print "Generating git history...\n";
 my $commits_processed = $rc->generate_git_history($json_file);

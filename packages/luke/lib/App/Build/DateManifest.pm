@@ -3,10 +3,10 @@ use utf8::all;
 
 use Object::Pad;
 
-package App::DateManifest;
+package App::Build::DateManifest;
 our $VERSION = '0.00.1';
 
-class App::DateManifest {
+class App::Build::DateManifest {
   use Path::Tiny;
   use Carp;
   use Git::Repository;
@@ -140,13 +140,12 @@ __END__
 
 =head1 NAME
 
-App::DateManifest - Pre-compute absolute dates for blog content
+App::Build::DateManifest - Pre-compute absolute dates for blog content
 
 =head1 SYNOPSIS
 
-  my $dm = App::DateManifest->new(source_dir => '.');
+  my $dm = App::Build::DateManifest->new(source_dir => '.');
   my $dates = $dm->build_manifest();
-  # Writes build-output/dates.json
 
 =head1 DESCRIPTION
 

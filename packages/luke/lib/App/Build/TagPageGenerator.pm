@@ -3,10 +3,10 @@ use utf8;
 
 use Object::Pad;
 
-package App::TagPageGenerator;
+package App::Build::TagPageGenerator;
 our $VERSION = '0.00.1';
 
-class App::TagPageGenerator {
+class App::Build::TagPageGenerator {
   use YAML::XS;
   use Path::Tiny;
   use JSON::MaybeXS;
@@ -22,11 +22,11 @@ class App::TagPageGenerator {
     # Scan markdown files for tags
     my $log_dir = path($source_dir)->child('log');
     my $iter = $log_dir->iterator({ recurse => 1 });
-    
+
     while (my $file = $iter->()) {
       next unless $file->is_file && $file->basename =~ /\.md$/;
       next if $file->basename =~ /^index\.md$/;
-      
+
       my $content = $file->slurp_utf8;
       next unless $content =~ /^---\s*\n(.*?)\n---/sm;
 
@@ -39,7 +39,7 @@ class App::TagPageGenerator {
       my $rel_path = $file->relative($log_dir)->stringify;
       $rel_path =~ s/\.md$//;
       my $post_key = "log/$rel_path";
-      
+
       my $title = $frontmatter->{title} // $rel_path;
       $post_titles{$post_key} = $title;
 
@@ -50,10 +50,10 @@ class App::TagPageGenerator {
 
     # Generate individual tag pages
     $self->generate_tag_pages(\%tag_to_posts, \%post_titles);
-    
+
     # Generate tag index/summary
     $self->generate_tag_index(\%tag_to_posts);
-    
+
     # Return tag list for sidebar
     return [sort keys %tag_to_posts];
   }
@@ -64,7 +64,7 @@ class App::TagPageGenerator {
 
     for my $tag (sort keys %$tag_to_posts) {
       my $tag_file = $tag_dir->child("$tag.md");
-      
+
       my $content = "---\n";
       $content .= "title: \"Tagged: $tag\"\n";
       $content .= "layout: rut\n";
@@ -73,8 +73,8 @@ class App::TagPageGenerator {
       $content .= "---\n\n";
       $content .= "## Posts tagged with '$tag'\n\n";
 
-      for my $post_key (sort { 
-        ($post_titles->{$a} // $a) cmp ($post_titles->{$b} // $b) 
+      for my $post_key (sort {
+        ($post_titles->{$a} // $a) cmp ($post_titles->{$b} // $b)
       } @{ $tag_to_posts->{$tag} }) {
         my $title = $post_titles->{$post_key} // $post_key;
         my $url = "/~luke/$post_key";
@@ -88,7 +88,7 @@ class App::TagPageGenerator {
 
   method generate_tag_index($tag_to_posts) {
     my $index_file = path($output_dir)->child('log', 'tags', 'index.md');
-    
+
     my $content = "---\n";
     $content .= "title: \"Tags\"\n";
     $content .= "layout: rut\n";
