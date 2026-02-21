@@ -2,9 +2,14 @@ export PATH := "./node_modules/.bin:" + env_var('PATH')
 set dotenv-load
 set dotenv-filename	:= ".env.deploy"
 
-[working-directory: 'packages/frontend']
-find-perl-deps:
-  find . \( -name '*.pm' -o -name '*.pl' \)  -exec grep use {} \; | tr -s '[:blank:]' ' ' | awk '{$1=$1};1' | sort -u
+tidy:
+  find packages/luke/bin -name '*.pl' -exec perltidy -b -pro=.perltidyrc {} \;
+  find packages/luke/lib -name '*.pm' -exec perltidy -b -pro=.perltidyrc {} \;
+  find lib -name '*.pm' -exec perltidy -b -pro=.perltidyrc {} \;
+  #find t -name '*.t' -exec perltidy -b -pro=.perltidyrc {} \;
+  perltidy -b -pro=.perltidyrc Build.PL
+  perltidy -b -pro=.perltidyrc bin/server.pl
+  find . -name '*.bak' -delete
 
 install:
   pnpm install -r

@@ -15,9 +15,8 @@ sub build ($self) {
     {
       to => async sub ($c, $ctx, @args) {
         say "I see root req";
-        unless($root_index->is_file){
-          warn("root index at '$root_index' is not a file", {
-          });
+        unless ($root_index->is_file) {
+          warn("root index at '$root_index' is not a file", {});
         }
         return $self->render_markdown_page($root_index, $ctx->req->path);
       },

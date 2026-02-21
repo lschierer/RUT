@@ -34,19 +34,20 @@ has poems => (
 
     my $iter = $rule->iter($poem_dir->stringify, { sorted => 1 });
     while (defined(my $file = $iter->())) {
-      my $path = Path::Tiny::path($file);
+      my $path     = Path::Tiny::path($file);
       my $basename = $path->basename('.html');
 
       # Convert filename to display name: underscores to spaces
       my $name = $basename;
       $name =~ s/_/ /g;
 
-      push @poems, {
+      push @poems,
+        {
         name     => $name,
         basename => $basename,
         url      => "/~ann/poems/$basename.html",
         path     => $path,
-      };
+        };
     }
 
     return \@poems;
@@ -84,17 +85,16 @@ sub build ($self) {
 
 async sub _serve_index ($self, $ctx, $base_url) {
   # Build poem list with URLs relative to this base
-  my @poems = map {
-    {
-      name => $_->{name},
-      url  => $_->{url},
-    }
-  } @{ $self->poems };
+  my @poems =
+    map { { name => $_->{name}, url => $_->{url}, } } @{ $self->poems };
 
-  my $html = $self->template('ann/poem_index', {
-    title => "Ann's Poetry",
-    poems => \@poems,
-  });
+  my $html = $self->template(
+    'ann/poem_index',
+    {
+      title => "Ann's Poetry",
+      poems => \@poems,
+    }
+  );
 
   if ($html) {
     await $ctx->res->html($html);
@@ -113,12 +113,12 @@ sub _register_poem_routes ($self) {
   my $rule = Path::Iterator::Rule->new;
   $rule->file->nonempty->name(qr/\.html$/);
 
-  my $iter = $rule->iter($poem_dir->stringify, { sorted => 1 });
+  my $iter  = $rule->iter($poem_dir->stringify, { sorted => 1 });
   my $count = 0;
 
   while (defined(my $file = $iter->())) {
-    my $path = Path::Tiny::path($file);
-    my $rel  = $path->relative($self->ann_dir)->stringify;
+    my $path  = Path::Tiny::path($file);
+    my $rel   = $path->relative($self->ann_dir)->stringify;
     my $route = "/~ann/$rel";
 
     my $file_copy = $path;
@@ -138,11 +138,12 @@ sub _register_poem_routes ($self) {
   # Also serve any non-html files (images, etc.) in the ann directory
   my $asset_rule = Path::Iterator::Rule->new;
   $asset_rule->file->nonempty->name(qr/\.(?:png|jpg|gif|svg|css|js)$/);
-  my $asset_iter = $asset_rule->iter($self->ann_dir->stringify, { sorted => 1 });
+  my $asset_iter =
+    $asset_rule->iter($self->ann_dir->stringify, { sorted => 1 });
 
   while (defined(my $file = $asset_iter->())) {
-    my $path = Path::Tiny::path($file);
-    my $rel  = $path->relative($self->ann_dir)->stringify;
+    my $path  = Path::Tiny::path($file);
+    my $rel   = $path->relative($self->ann_dir)->stringify;
     my $route = "/~ann/$rel";
 
     my $file_copy = $path;
