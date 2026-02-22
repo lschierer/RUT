@@ -18,7 +18,7 @@ modules:
       EVAL_PERL: 1
 # Server configuration
 server:
-  host: 0.0.0.0
+  host: 127.0.1.1
   port: 3004
   worker_threads: 4
 
@@ -29,7 +29,7 @@ markdown_dir: share/pages
 # relative to the public directory
 
 log_base: Schierer-Org
-site_url: dev.schierer.org
+site_url: https://test.schierer.org
 log_config:
   default: INFO
   'Schierer::Org': DEBUG

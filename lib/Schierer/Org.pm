@@ -20,6 +20,7 @@ sub build ($self) {
   $self->load_module(
     'Middleware' => {
       Static => { root => 'public', pass_through => 1 },
+      GoogleAnalytics => { ga_id => 'G-27HN1KJGR3', env => $self->env },
     }
   );
 }

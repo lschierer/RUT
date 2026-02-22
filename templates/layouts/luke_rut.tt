@@ -10,13 +10,9 @@
   <link rel="stylesheet" href="/~luke/styles/rut-footer.css" />
   <script src="/~luke/node_modules/iconify-icon/dist/iconify-icon.min.js" type="module"></script>
   <title>[% title %]</title>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3WJYW9RQ1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-Y3WJYW9RQ1');
-  </script>
+  [% IF google %]
+    [% google %]
+  [% END %] 
 </head>
 [% classes = sidebar ? 'spectrum spectrum--medium spectrum-Typography spectrum--dark dark-theme dark with-sidebar' : 'spectrum spectrum--medium spectrum-Typography spectrum--dark dark-theme dark' -%]
 <body class="[% classes %]">

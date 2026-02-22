@@ -33,7 +33,7 @@ archives_dir: packages/archives
 archives_extracted_dir: packages/archives/extracted
 
 log_base: Schierer-Org
-site_url: dev.schierer.org
+site_url: https://dev.schierer.org
 log_config:
   default: INFO
   'Schierer::Org': DEBUG

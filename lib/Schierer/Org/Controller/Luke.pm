@@ -17,7 +17,8 @@ has luke_dir => (
   is      => 'ro',
   default => sub {
     my $self = shift;
-    my $dir  = $self->app_config->{config}->{luke_content_dir} // 'packages/luke';
+    my $dir  = $self->app_config->{config}->{luke_content_dir}
+      // 'packages/luke';
     return Path::Tiny::path($dir);
   },
 );
@@ -58,12 +59,34 @@ has recent_changes => (
   },
 );
 
+has googleStream => (
+  is      => 'ro',
+  lazy    => 1,
+  default => sub {
+    my $self = shift;
+    return unless $self->app->env eq 'production';
+    return qq{
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3WJYW9RQ1"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-Y3WJYW9RQ1');
+      </script>
+    };
+  }
+);
+
 sub build ($self) {
   $self->logger->info(sprintf('build method for "%s"', __PACKAGE__));
 
   $self->_register_redirects();
   $self->_register_static_files();
   $self->_register_markdown_routes();
+
+  $self->add_navigation_route('/~luke', 'Luke Schierer' );
 
   # Add index route for /~luke and /~luke/
   $self->router->add(
@@ -72,37 +95,40 @@ sub build ($self) {
       to => async sub ($c, $ctx, @args) {
         my $index_file = $self->luke_dir->child('index.html');
         if ($index_file->exists) {
-          return await $ctx->res->send_file($index_file->stringify, inline => 1);
-        } 
+          return await $ctx->res->send_file($index_file->stringify,
+            inline => 1);
+        }
         $index_file = $self->luke_dir->child('index.md');
-        if ($index_file->exists){
+        if ($index_file->exists) {
           my $entry = {
-            route   => $ctx->req->path,
-            path    => $index_file,
+            route => $ctx->req->path,
+            path  => $index_file,
           };
           return await $self->_handle_markdown($ctx, $entry);
         }
 
-        await $ctx->res->redirect('/~luke/log/', 302);  
+        await $ctx->res->redirect('/~luke/log/', 302);
         return;
       },
       action => 'http.*',
     }
   );
-  
+
+  $self->add_navigation_route('/~luke/log', 'Random Unfinished Thoughts' );
   $self->router->add(
     '/~luke/log',
     {
       to => async sub ($c, $ctx, @args) {
         my $index_file = $self->luke_dir->child('log/index.html');
         if ($index_file->exists) {
-          return await $ctx->res->send_file($index_file->stringify, inline => 1);
-        } 
+          return await $ctx->res->send_file($index_file->stringify,
+            inline => 1);
+        }
         $index_file = $self->luke_dir->child('log/index.md');
-        if ($index_file->exists){
+        if ($index_file->exists) {
           my $entry = {
-            route   => $ctx->req->path,
-            path    => $index_file,
+            route => $ctx->req->path,
+            path  => $index_file,
           };
           return await $self->_handle_markdown($ctx, $entry);
         }
@@ -114,25 +140,31 @@ sub build ($self) {
   );
 
   my $static_assets_rule = Path::Iterator::Rule->new;
-  $static_assets_rule->nonempty->file->name( qr/\.(?:png|svg|jpg|gif)$/ );
-  my $iter = $static_assets_rule->iter($self->luke_dir->child('assets'), {sorted => 1});
-  $self->_register_routes_from_iterator($iter, 'assets', sub { shift->_static_handler(@_) });
-
+  $static_assets_rule->nonempty->file->name(qr/\.(?:png|svg|jpg|gif)$/);
+  my $iter = $static_assets_rule->iter($self->luke_dir->child('assets'),
+    { sorted => 1 });
+  $self->_register_routes_from_iterator($iter, 'assets',
+    sub { shift->_static_handler(@_) }, { no_sitemap => 1 });
 
   my $css_rule = Path::Iterator::Rule->new;
-  $css_rule->nonempty->file->name( qr/\.css$/ );
-  $iter = $css_rule->iter($self->luke_dir->child('build-output/styles'), { sorted => 1});
-  $self->_register_routes_from_iterator($iter, 'build-output/styles', sub { shift->_static_handler(@_) });
+  $css_rule->nonempty->file->name(qr/\.css$/);
+  $iter = $css_rule->iter($self->luke_dir->child('build-output/styles'),
+    { sorted => 1 });
+  $self->_register_routes_from_iterator($iter, 'build-output/styles',
+    sub { shift->_static_handler(@_) }, { no_sitemap => 1 });
 
   my $node_rule = Path::Iterator::Rule->new;
   $node_rule->nonempty->file;
-  $iter = $node_rule->iter($self->luke_dir->child('node_modules'), { sorted => 1});
-  $self->_register_routes_from_iterator($iter, 'node_modules', sub { shift->_static_handler(@_) });
+  $iter =
+    $node_rule->iter($self->luke_dir->child('node_modules'), { sorted => 1 });
+  $self->_register_routes_from_iterator($iter, 'node_modules',
+    sub { shift->_static_handler(@_) }, { no_sitemap => 1 });
 
   my $log_images = Path::Iterator::Rule->new;
-  $log_images->nonempty->file->name( qr/\.(?:svg|png|gif|jpg)$/ );
-  $iter = $log_images->iter($self->luke_dir->child('log'), { sorted => 1});
-  $self->_register_routes_from_iterator($iter, 'log', sub { shift->_static_handler(@_) });
+  $log_images->nonempty->file->name(qr/\.(?:svg|png|gif|jpg)$/);
+  $iter = $log_images->iter($self->luke_dir->child('log'), { sorted => 1 });
+  $self->_register_routes_from_iterator($iter, 'log',
+    sub { shift->_static_handler(@_) }, { no_sitemap => 1 });
 
 }
 
@@ -159,26 +191,50 @@ sub _register_redirects ($self) {
   $self->logger->info("Registered $count ~luke redirect routes");
 }
 
-sub _register_routes_from_iterator ($self, $iterator, $base_path, $handler, $opts = {}) {
-  my $count = 0;
-  my $strip_md = $opts->{strip_md} // 0;
-  my $add_trailing_slash = $opts->{trailing_slash} // 0;
-  
+sub _register_routes_from_iterator ($self, $iterator, $base_path, $handler,
+  $opts = {}) {
+  my $count              = 0;
+  my $strip_md           = $opts->{strip_md}       // 0;
+  my $add_trailing_slash = $opts->{trailing_slash}  // 0;
+  my $no_sitemap         = $opts->{no_sitemap}      // 0;
+  my $extract_title      = $opts->{extract_title}   // 0;
+
   while (defined(my $file = $iterator->())) {
     $file = Path::Tiny::path($file);
-    
+
     my $rel = $file->relative($self->luke_dir->child($base_path))->stringify;
-    $rel =~ s/\.md$// if $strip_md;  # Only remove .md if requested
+    $rel =~ s/\.md$// if $strip_md;         # Only remove .md if requested
     my $route = "/~luke/$base_path/$rel";
     $route =~ s{//+}{/}g;
-    $route =~ s{/index$}{} if $strip_md;  # Only strip index for markdown
-    $route .= '/' if $add_trailing_slash && $route !~ m{/$};  # Add trailing slash if requested
+    $route =~ s{/index$}{} if $strip_md;    # Only strip index for markdown
+    $route .= '/'
+      if $add_trailing_slash
+      && $route !~ m{/$};                   # Add trailing slash if requested
 
     #special cases
     $route =~ s{luke/build-output/}{luke/};
 
-    $self->logger->debug(sprintf('registering route "%s" from base_path "%s"', $route, $base_path));
-    
+    $self->logger->debug(
+      sprintf('registering route "%s" from base_path "%s"', $route, $base_path)
+    );
+
+    if ($route !~ /node_module/) {
+      my $title = '';
+      if ($extract_title && $file->stringify =~ /\.md$/) {
+        my $fm = $self->parse_markdown_frontmatter($file);
+        $title = $fm->{title} // '';
+      }
+      # Derive title from path if still empty
+      if (!$title) {
+        $title = $file->basename(qr/\.md$/);
+        $title =~ s/_/ /g;
+        $title =~ s/\b(\w)/\U$1/g;
+      }
+      my %nav_opts;
+      $nav_opts{no_sitemap} = 1 if $no_sitemap;
+      $self->add_navigation_route($route, $title, \%nav_opts);
+    }
+
     $self->router->add(
       $route,
       {
@@ -190,21 +246,24 @@ sub _register_routes_from_iterator ($self, $iterator, $base_path, $handler, $opt
     );
     $count++;
   }
-  
+
   return $count;
 }
 
 async sub _markdown_handler ($self, $ctx, $file, $route) {
   my $entry = {
-    path => $file->stringify,
-    route => $route,
+    path         => $file->stringify,
+    route        => $route,
     manifest_key => $file->relative($self->luke_dir)->stringify =~ s/\.md$//r,
   };
   return await $self->_handle_markdown($ctx, $entry);
 }
 
 async sub _static_handler ($self, $ctx, $file, $route) {
-  $self->logger->debug(sprintf('serving "%s" for route "%s"', $file->exists ? $file : "no such file", $route ));
+  $self->logger->debug(sprintf(
+    'serving "%s" for route "%s"',
+    $file->exists ? $file : "no such file", $route
+  ));
   await $ctx->res->send_file($file->stringify, inline => 1);
   return;
 }
@@ -234,9 +293,10 @@ sub _register_static_files ($self) {
 
     my $rel   = $file->relative($luke_dir)->stringify;
     my $route = "/~luke/$rel";
-
+    $self->add_navigation_route($route, '', { no_sitemap => 1 });
+    
     $self->logger->debug(sprintf('registering static file route "%s"', $route));
-    my $file_copy = $file;  # Capture for closure
+    my $file_copy = $file;    # Capture for closure
     $self->router->add(
       $route,
       {
@@ -254,21 +314,24 @@ sub _register_static_files ($self) {
 
 sub _register_markdown_routes ($self) {
   my $log_dir = $self->luke_dir->child('log');
-  
+
   my $rule = Path::Iterator::Rule->new;
   $rule->file->nonempty->name(qr/\.md$/);
-  
-  my $iter = $rule->iter($log_dir , {
-    depthfirst => -1,
-    follow_symlinks => 0,
-    sorted => 1,
-  });
+
+  my $iter = $rule->iter(
+    $log_dir,
+    {
+      depthfirst      => -1,
+      follow_symlinks =>  0,
+      sorted          =>  1,
+    }
+  );
 
   my $count = $self->_register_routes_from_iterator(
     $iter,
     $log_dir->relative($self->luke_dir),
     sub { shift->_markdown_handler(@_) },
-    { strip_md => 1 }
+    { strip_md => 1, extract_title => 1 }
   );
 
   $self->logger->info("Registered $count markdown routes");
@@ -277,24 +340,26 @@ sub _register_markdown_routes ($self) {
 async sub _handle_markdown ($self, $ctx, $entry) {
   # Parse frontmatter to get layout
   my $frontmatter = $self->parse_markdown_frontmatter($entry->{path});
-  
+
   my $extra_vars = {};
   $extra_vars->{frontmatter} = $frontmatter;
+  $extra_vars->{google}      = $self->googleStream();
 
   # Look up date from manifest
 
   my $date_str;
-  $date_str = $self->date_manifest->{ $entry->{manifest_key} } if exists $entry->{manifest_key};
+  $date_str = $self->date_manifest->{ $entry->{manifest_key} }
+    if exists $entry->{manifest_key};
   if ($date_str) {
     $extra_vars->{last_edited} = $self->_format_relative_date($date_str);
   }
 
   # Add calendar widget
   $extra_vars->{calendar_widget} = $self->_get_current_calendar();
-  
+
   # Add list of years with archives
   $extra_vars->{archive_years} = $self->_get_archive_years();
-  
+
   # Add tag list
   $extra_vars->{tag_list} = $self->_get_tag_list();
 
@@ -307,20 +372,19 @@ async sub _handle_markdown ($self, $ctx, $entry) {
     # Normalize 'rut' to 'luke_rut'
     $layout = 'luke_rut' if $layout eq 'rut';
     $extra_vars->{layout} = $layout;
-  }elsif( $entry->{path} =~ /log/){
+  }
+  elsif ($entry->{path} =~ /log/) {
     $extra_vars->{layout} = 'luke_rut';
-  } else {
+  }
+  else {
     $extra_vars->{layout} = 'luke_default';
   }
 
-  my $html = $self->render_markdown_page(
-    $entry->{path},
-    $entry->{route},
-    $extra_vars,
-  );
+  my $html =
+    $self->render_markdown_page($entry->{path}, $entry->{route}, $extra_vars,);
 
   if ($html) {
-    if($html =~ /<recent-changes>/){
+    if ($html =~ /<recent-changes>/) {
       my $changes = $self->recent_changes;
       foreach my $change (@$changes) {
         my $dt = DateTime->from_epoch(epoch => $change->{date});
@@ -345,8 +409,8 @@ sub _format_relative_date ($self, $iso_str) {
   my ($year, $month, $day) = $iso_str =~ /^(\d{4})-(\d{2})-(\d{2})/;
   return '' unless $year;
 
-  my $then = POSIX::mktime(0, 0, 12, $day, $month - 1, $year - 1900);
-  my $now  = time();
+  my $then       = POSIX::mktime(0, 0, 12, $day, $month - 1, $year - 1900);
+  my $now        = time();
   my $delta_days = int(($now - $then) / 86400);
 
   if ($delta_days < 1) {
@@ -386,56 +450,52 @@ sub _get_current_calendar ($self) {
   $year += 1900;
   $month = sprintf("%02d", $month + 1);
 
-  my $cal_file = $self->luke_dir->child("log/archive/$year/$month/calendar.html");
-  
+  my $cal_file =
+    $self->luke_dir->child("log/archive/$year/$month/calendar.html");
+
   if ($cal_file->exists) {
     return $cal_file->slurp_utf8;
   }
-  
+
   # Fall back to most recent calendar
   my $archive_dir = $self->luke_dir->child("log/archive");
   if ($archive_dir->exists) {
-    my @years = sort { $b cmp $a } 
-                grep { $_->is_dir && $_->basename =~ /^\d{4}$/ } 
-                $archive_dir->children;
-    
+    my @years = sort { $b cmp $a }
+      grep { $_->is_dir && $_->basename =~ /^\d{4}$/ } $archive_dir->children;
+
     for my $year_dir (@years) {
       my @months = sort { $b <=> $a }
-                   grep { $_->is_dir && $_->basename =~ /^\d{2}$/ }
-                   $year_dir->children;
-      
+        grep { $_->is_dir && $_->basename =~ /^\d{2}$/ } $year_dir->children;
+
       for my $month_dir (@months) {
         my $cal = $month_dir->child('calendar.html');
         return $cal->slurp_utf8 if $cal->exists;
       }
     }
   }
-  
+
   return '<p>No calendar available</p>';
 }
 
 sub _get_archive_years ($self) {
   my $archive_dir = $self->luke_dir->child("log/archive");
   return [] unless $archive_dir->exists;
-  
+
   my @years = sort { $a <=> $b }
-              map { $_->basename }
-              grep { $_->is_dir && $_->basename =~ /^\d{4}$/ }
-              $archive_dir->children;
-  
+    map { $_->basename }
+    grep { $_->is_dir && $_->basename =~ /^\d{4}$/ } $archive_dir->children;
+
   return \@years;
 }
 
 sub _get_tag_list ($self) {
   my $tags_file = $self->luke_dir->child("build-output/tags.json");
   return [] unless $tags_file->exists;
-  
+
   my $json = JSON::MaybeXS->new(utf8 => 1);
   my $tags = eval { $json->decode($tags_file->slurp_raw) };
   return $tags // [];
 }
-
-
 
 1;
 __END__
