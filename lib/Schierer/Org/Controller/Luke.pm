@@ -29,9 +29,26 @@ has redirect_map => (
   default => sub {
     my $self = shift;
     my $file = $self->luke_dir->child('build-output/redirects.json');
-    return {} unless $file->exists;
+    my $static = {
+      '/~luke/log/20050208/20050208-1101' => '/~luke/log/science/prolife_science/',
+      '/~luke/log/20050603/20050603-1424' => '/~luke/log/Society/homosexuality/',
+      '/~luke/log/20050607/20050607-1002'  => '/~luke/log/Society/usury/',
+      '/~luke/log/20050608/20050608-1129'  => '/~luke/log/Politics_And_Law/Public_Schooling/',
+      '/~luke/log/20050610/20050610-1530'  => '/~luke/log/Politics_And_Law/Our_Government_Is_Unlimited',
+      '/~luke/log/20050610/20050610-1628'  => '/~luke/log/science/Trust/',
+      '/~luke/log/20050615/20050615-1338'  => '/~luke/log/Politics_And_Law/Public_Schooling/',
+      '/~luke/log/fiction/Harry_Potter/Nineteen_Missing_Years'  => 'https://hp-fan.schierer.org/Harrypedia/Nineteen%20Missing%20Years',
+      '/~luke/log/fiction/Harry_Potter/Nineteen_Missing_Years/Harry_and_Ginny'  => 'https://hp-fan.schierer.org/Harrypedia/Nineteen Missing Years/Harry and Ginny',
+      '/~luke/log/fiction/Harry_Potter/Nineteen_Missing_Years/Changes_to_Hogwarts'  => 'https://hp-fan.schierer.org/Harrypedia/Nineteen Missing Years/Changes to Hogwarts',
+
+    };
+    return $static unless $file->exists;
     my $json = JSON::MaybeXS->new(utf8 => 1);
-    return $json->decode($file->slurp_raw);
+    my $dynamic = $json->decode($file->slurp_raw);
+    return {
+      $static->%*,
+      $dynamic->%*,
+    }
   },
 );
 
