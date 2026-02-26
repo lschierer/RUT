@@ -12,6 +12,7 @@ require Path::Iterator::Rule;
 require JSON::MaybeXS;
 require POSIX;
 require DateTime;
+require Data::Printer;
 
 has luke_dir => (
   is      => 'ro',
@@ -841,12 +842,18 @@ sub _register_autoindex_routes ($self) {
     my $log_dir = $self->luke_dir->child('log');
     my $dir = $log_dir->child($path);
     if($dir->is_dir){
+      my $entries =  $self->generate_directory_index($dir);
+      foreach my $entry ($entries->@*){
+        $self->logger->debug("repairing entry: " . Data::Printer::np($entry));
+        $entry->{path} =~ s{^/\.\./\.\./packages/luke/(.+)$}{/~luke/$1};
+        $self->logger->debug("repaired path is: " . $entry->{path});
+      }
+
       $self->add_navigation_route($route, $title);
       $self->router->add(
         $route,
         {
           to => async sub ($c, $ctx, @args) {
-            my $entries = $self->generate_directory_index($dir);
             my $extra_vars = {
               title => $title,
               entries => $entries,
