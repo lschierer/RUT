@@ -40,7 +40,19 @@ has redirect_map => (
       '/~luke/log/fiction/Harry_Potter/Nineteen_Missing_Years'  => 'https://hp-fan.schierer.org/Harrypedia/Nineteen%20Missing%20Years',
       '/~luke/log/fiction/Harry_Potter/Nineteen_Missing_Years/Harry_and_Ginny'  => 'https://hp-fan.schierer.org/Harrypedia/Nineteen Missing Years/Harry and Ginny',
       '/~luke/log/fiction/Harry_Potter/Nineteen_Missing_Years/Changes_to_Hogwarts'  => 'https://hp-fan.schierer.org/Harrypedia/Nineteen Missing Years/Changes to Hogwarts',
-
+      '/~luke/log/fiction/Harry_Potter/Family_Inseparable' => 'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable',
+      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter01' => 'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
+      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter02' => 'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
+      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter03' => 'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
+      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter04' => 'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
+      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter05' => 'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
+      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter06' => 'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
+      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter07' => 'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
+      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter08' => 'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
+      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter09' => 'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
+      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter10' => 'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
+      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Notes' => 'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Notes',
+      '/~luke/log/fiction/Harry_Potter/Not_Normal' => 'https://hp-fan.schierer.org/Fan Fiction/Not Normal',
     };
     return $static unless $file->exists;
     my $json = JSON::MaybeXS->new(utf8 => 1);
