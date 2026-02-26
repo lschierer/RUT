@@ -14,9 +14,9 @@
   "license": "CC-BY-NC-SA",
   "devDependencies": {
     "@tsconfig/node24": "^24.0.4",
-    "@types/node": "^25.2.3",
+    "@types/node": "^25.3.2",
     "@types/postcss-sorting": "^8.0.2",
-    "autoprefixer": "^10.4.24",
+    "autoprefixer": "^10.4.27",
     "cssnano": "^7.1.2",
     "esbuild": "^0.27.3",
     "jiti": "^2.6.1",
@@ -25,7 +25,7 @@
     "postcss-import": "^16.1.1",
     "postcss-nesting": "14.0.0",
     "postcss-sorting": "^9.1.0",
-    "stylelint": "^17.3.0",
+    "stylelint": "^17.4.0",
     "tsx": "^4.21.0"
   },
   "dependencies": {
