@@ -1,0 +1,16 @@
+[%# luke/autoindex.tt - Directory index for Luke's content %]
+[% 
+  layout = layout || 'luke_rut';
+  layout_path = 'layouts/' _ layout _ '.tt';
+%]
+[% WRAPPER $layout_path %]
+<h1>[% title %]</h1>
+
+<ul class="directory-index">
+[% FOREACH entry IN entries %]
+  <li class="[% entry.type %]">
+    <a href="[% entry.path %]">[% entry.title %]</a>
+  </li>
+[% END %]
+</ul>
+[% END %]
