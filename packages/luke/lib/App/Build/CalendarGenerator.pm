@@ -139,7 +139,7 @@ qq{<th class="spectrum-Calendar-tableCell"><abbr class="spectrum-Calendar-dayOfW
 
       if ($days_map{$day}) {
         # Day has posts - make it a link
-        my $url = "/~luke/log/archive/$year/$month/$day_str/";
+        my $url = "/~luke/log/archive/$year/$month/$day_str";
         $html .=
 qq{        <td class="spectrum-Calendar-tableCell"><a href="$url" class="$class spectrum-Link spectrum-Link--secondary spectrum-Link--quiet">$day</a></td>\n};
       }
