@@ -32,6 +32,20 @@ function parseArgs(argv: string[]): CliArgs {
   };
 }
 
+async function findCssFiles(dir: string, base: string = ''): Promise<string[]> {
+  const entries = await fs.readdir(dir, { withFileTypes: true });
+  const results: string[] = [];
+  for (const entry of entries) {
+    const rel = path.join(base, entry.name);
+    if (entry.isDirectory()) {
+      results.push(...await findCssFiles(path.join(dir, entry.name), rel));
+    } else if (entry.name.endsWith('.css')) {
+      results.push(rel);
+    }
+  }
+  return results;
+}
+
 async function buildCSS({ outDir, minify }: CliArgs) {
   const stylesDir = path.resolve('styles');
   const outputDir = path.resolve(outDir);
@@ -39,7 +53,7 @@ async function buildCSS({ outDir, minify }: CliArgs) {
   try {
     const result = await stylelint.lint({
       configFile: 'stylelint.config.js',
-      files: 'styles/*.css',
+      files: 'styles/**/*.css',
       fix: true,
     });
     // do things with result.report, result.errored, and result.results
@@ -71,12 +85,13 @@ async function buildCSS({ outDir, minify }: CliArgs) {
 
   await fs.mkdir(outputDir, { recursive: true });
 
-  const entries = await fs.readdir(stylesDir);
-  const cssFiles = entries.filter((file) => file.endsWith('.css'));
+  const cssFiles = await findCssFiles(stylesDir);
 
-  for (const file of cssFiles) {
-    const inputPath = path.join(stylesDir, file);
-    const outputPath = path.join(outputDir, file);
+  for (const relPath of cssFiles) {
+    const inputPath = path.join(stylesDir, relPath);
+    const outputPath = path.join(outputDir, relPath);
+
+    await fs.mkdir(path.dirname(outputPath), { recursive: true });
 
     const css = await fs.readFile(inputPath, 'utf8');
 
@@ -91,7 +106,7 @@ async function buildCSS({ outDir, minify }: CliArgs) {
     } catch (err) {
       if (typeof err === 'object' && err) {
         if (err instanceof Error) {
-          console.warn(`⚠️  Failed to build ${file}: ${err.message}`);
+          console.warn(`⚠️  Failed to build ${relPath}: ${err.message}`);
         }
         if ('name' in err && err.name === 'CssSyntaxError') {
           console.warn((err as CssSyntaxError).showSourceCode());

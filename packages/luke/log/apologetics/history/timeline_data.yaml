@@ -1,0 +1,848 @@
+---
+# Timeline of Errors - Church History Data
+# Categories map to visual rails and colors:
+#   catholic          - Roman Catholic Church and Eastern Catholic churches in full communion
+#   orthodox          - Eastern Orthodox autocephalous churches in communion with Rome or each other
+#   oriental_orthodox - Oriental Orthodox churches (pre-Chalcedonian)
+#   protestant        - Protestant denominations
+#   heresy            - Formally condemned heresies
+#   dangerous         - Movements considered dangerous/cultic
+#   reunited          - Groups that returned to communion with Rome
+#   partial_communion - Groups in partial or impaired communion
+
+categories:
+  catholic:
+    label: Catholic
+    description: The Catholic Church and Eastern Catholic churches in full communion with Rome
+  orthodox:
+    label: Orthodox
+    description: Eastern Orthodox autocephalous churches
+  oriental_orthodox:
+    label: Oriental Orthodox
+    description: Pre-Chalcedonian Orthodox churches
+  protestant:
+    label: Protestant
+    description: Protestant denominations and movements
+  heresy:
+    label: Heresy
+    description: Formally condemned heresies and heterodox movements
+  dangerous:
+    label: Dangerous
+    description: Movements considered dangerous or cultic
+  reunited:
+    label: Reunited
+    description: Groups that returned to communion with Rome
+  partial_communion:
+    label: Partial Communion
+    description: Groups in partial or impaired communion with Rome
+
+entities:
+  Catholic:
+    label: Catholic Church
+    category: catholic
+    date: 33
+    url: /~luke/log/apologetics/Catholic_Church|CatholicChurch/
+    parents: []
+
+  Judaizers:
+    label: Judaizers
+    category: heresy
+    date: 33
+    url: /~luke/log/apologetics/Judaizers/
+    parents:
+      - Catholic
+
+  Antinomianism:
+    label: Antinomianism
+    category: heresy
+    date: 34
+    url: /~luke/log/apologetics/Antinomianism/
+    parents:
+      - Catholic
+
+  Docetism:
+    label: Docetism
+    category: heresy
+    date: 34
+    url: /~luke/log/apologetics/Docetism/
+    parents:
+      - Catholic
+
+  Gnosticism:
+    label: Gnosticism
+    category: heresy
+    date: 100
+    url: /~luke/log/apologetics/Gnosticism/
+    parents:
+      - Docetism
+
+  Sabellianism:
+    label: Sabellianism
+    category: heresy
+    date: 100
+    url: /~luke/log/apologetics/Modalism/
+    parents:
+      - Modalism
+
+  Ophites:
+    label: Ophites
+    category: heresy
+    date: 100
+    url: /~luke/log/apologetics/Gnosticism/Ophites/
+    parents:
+      - Antinomianism
+      - Gnosticism
+
+  Sethian:
+    label: Sethian
+    category: heresy
+    date: 100
+    url: /~luke/log/apologetics/Gnosticism/Sethian/
+    parents:
+      - Ophites
+
+  Marcionism:
+    label: Marcionism
+    category: heresy
+    date: 150
+    url: /~luke/log/apologetics/Judaizers/
+    parents:
+      - Judaizers
+
+  Montanism:
+    label: Montanism
+    category: heresy
+    date: 150
+    parents:
+      - Catholic
+
+  Monarchianism:
+    label: Monarchianism
+    category: heresy
+    date: ~
+    url: /~luke/log/apologetics/Monarchianism/
+    parents:
+      - Catholic
+
+  Modalism:
+    label: Modalism
+    category: heresy
+    date: ~
+    url: /~luke/log/apologetics/Modalism/
+    parents:
+      - Monarchianism
+
+  Adoptionism:
+    label: Adoptionism
+    category: heresy
+    date: 199
+    url: /~luke/log/apologetics/history/TableOfErrors/
+    parents:
+      - Monarchianism
+
+  Psilanthropism:
+    label: Psilanthropism
+    category: heresy
+    date: ~
+    url: /~luke/log/apologetics/Adoptionism/
+    parents:
+      - Adoptionism
+
+  Manichaeism:
+    label: Manichaeism
+    category: heresy
+    date: 200
+    url: /~luke/log/apologetics/Gnosticism/Manichaeism/
+    parents:
+      - Gnosticism
+
+  Naassenes:
+    label: Naassenes
+    category: heresy
+    date: ~
+    url: /~luke/log/apologetics/Gnosticism/Naassenes/
+    parents:
+      - Manichaeism
+
+  Arianism:
+    label: Arianism
+    category: heresy
+    date: 300
+    url: /~luke/log/apologetics/Arianism/
+    parents:
+      - Catholic
+
+  Donatism:
+    label: Donatism
+    category: heresy
+    date: 300
+    url: /~luke/log/apologetics/Donatism/
+    parents:
+      - Catholic
+
+  Ebionites:
+    label: Ebionites
+    category: heresy
+    date: 300
+    url: /~luke/log/apologetics/Judaizers/
+    parents:
+      - Judaizers
+
+  Priscillianism:
+    label: Priscillianism
+    category: heresy
+    date: 300
+    parents:
+      - Manichaeism
+
+  Monophysitism:
+    label: Monophysitism
+    category: heresy
+    date: 400
+    url: /~luke/log/apologetics/Monophysitism/
+    parents:
+      - Catholic
+
+  Nestorianism:
+    label: Nestorianism
+    category: heresy
+    date: 400
+    url: /~luke/log/apologetics/Nestorianism/
+    parents:
+      - Catholic
+
+  Pelagianism:
+    label: Pelagianism
+    category: heresy
+    date: 400
+    parents:
+      - Catholic
+
+  OrientalOrthodox:
+    label: Oriental Orthodox
+    category: oriental_orthodox
+    date: 450
+    url: /~luke/log/apologetics/OrientalOrthodox/
+    parents:
+      - Monophysitism
+
+  Coptic:
+    label: Coptic Orthodox
+    category: oriental_orthodox
+    date: ~
+    parents:
+      - OrientalOrthodox
+
+  SyriacOrthodox:
+    label: Syriac Orthodox
+    category: oriental_orthodox
+    date: ~
+    parents:
+      - OrientalOrthodox
+
+  ArmenianApostolicChurch:
+    label: Armenian Apostolic Church
+    category: oriental_orthodox
+    date: ~
+    parents:
+      - OrientalOrthodox
+
+  Malankara:
+    label: Malankara Orthodox Syrian
+    category: oriental_orthodox
+    date: ~
+    parents:
+      - OrientalOrthodox
+
+  Ethiopian:
+    label: Ethiopian Orthodox Tewahedo
+    category: oriental_orthodox
+    date: 1950
+    parents:
+      - Coptic
+
+  Eritrean:
+    label: Eritrean Orthodox Tewahedo
+    category: oriental_orthodox
+    date: ~
+    parents:
+      - Ethiopian
+
+  Monothelitism:
+    label: Monothelitism
+    category: heresy
+    date: 600
+    parents:
+      - Catholic
+      - OrientalOrthodox
+
+  Iconoclasm:
+    label: Iconoclasm
+    category: heresy
+    date: 700
+    parents:
+      - Judaizers
+      - Nestorianism
+
+  Albanenses:
+    label: Albanenses
+    category: heresy
+    date: 800
+    parents:
+      - Manichaeism
+
+  Paulicianism:
+    label: Paulicianism
+    category: heresy
+    date: 800
+    url: /~luke/log/apologetics/Gnosticism/Paulicianism/
+    parents:
+      - Manichaeism
+
+  Bogomils:
+    label: Bogomils
+    category: heresy
+    date: 900
+    parents:
+      - Adoptionism
+      - Manichaeism
+
+  # The Great Schism
+  Eastern:
+    label: Eastern Churches
+    category: heresy
+    date: 1050
+    parents:
+      - Catholic
+
+  Catharism:
+    label: Catharism
+    category: heresy
+    date: 1150
+    parents:
+      - Albanenses
+      - Bogomils
+      - Paulicianism
+
+  Waldensians:
+    label: Waldensians
+    category: protestant
+    date: 1150
+    parents:
+      - Catholic
+
+  Hussites:
+    label: Hussites
+    category: protestant
+    date: 1400
+    parents:
+      - Catholic
+
+  Utraquism:
+    label: Utraquism
+    category: reunited
+    date: 1400
+    parents:
+      - Hussites
+
+  Moravian:
+    label: Moravian
+    category: protestant
+    date: 1450
+    parents:
+      - Hussites
+
+  UnityBrethren:
+    label: Unity of the Brethren
+    category: protestant
+    date: 1450
+    parents:
+      - Hussites
+
+  Calvinist:
+    label: Calvinist
+    category: protestant
+    date: 1500
+    parents:
+      - Catholic
+
+  Lutheranism:
+    label: Lutheranism
+    category: protestant
+    date: 1500
+    parents:
+      - Catholic
+
+  Huguenot:
+    label: Huguenot
+    category: protestant
+    date: 1530
+    parents:
+      - Calvinist
+
+  Anglican:
+    label: Anglican
+    category: protestant
+    date: 1530
+    parents:
+      - Catholic
+      - Calvinist
+
+  Anabaptism:
+    label: Anabaptism
+    category: protestant
+    date: 1530
+    parents:
+      - Hussites
+      - Lutheranism
+      - Reformed
+
+  Mennonite:
+    label: Mennonite
+    category: protestant
+    date: 1530
+    parents:
+      - Anabaptism
+
+  Reformed:
+    label: Reformed
+    category: protestant
+    date: ~
+    parents:
+      - Calvinist
+
+  Presbyterian:
+    label: Presbyterian
+    category: protestant
+    date: 1550
+    parents:
+      - Reformed
+
+  Separatists:
+    label: Separatists
+    category: protestant
+    date: ~
+    parents:
+      - Calvinist
+
+  Puritans:
+    label: Puritans
+    category: protestant
+    date: ~
+    parents:
+      - Calvinist
+      - Iconoclasm
+
+  Independents:
+    label: Independents
+    category: protestant
+    date: 1600
+    parents:
+      - Calvinist
+
+  Baptist:
+    label: Baptist
+    category: protestant
+    date: 1600
+    parents:
+      - Separatists
+
+  Jansenism:
+    label: Jansenism
+    category: heresy
+    date: 1650
+    parents:
+      - Catholic
+
+  Congregationalism:
+    label: Congregationalism
+    category: protestant
+    date: 1650
+    parents:
+      - Independents
+      - Puritans
+      - Separatists
+
+  Quakers:
+    label: Quakers
+    category: protestant
+    date: 1650
+    parents:
+      - Puritans
+
+  Amish:
+    label: Amish
+    category: protestant
+    date: 1700
+    parents:
+      - Anabaptism
+
+  Hutterites:
+    label: Hutterites
+    category: protestant
+    date: ~
+    parents:
+      - Anabaptism
+
+  Episcopalians:
+    label: Episcopalians
+    category: protestant
+    date: ~
+    parents:
+      - Anglican
+
+  Evangelicalism:
+    label: Evangelicalism
+    category: heresy
+    date: 1730
+    parents:
+      - Anglican
+      - Congregationalism
+      - Lutheranism
+
+  Shakers:
+    label: Shakers
+    category: protestant
+    date: 1750
+    parents:
+      - Quakers
+
+  BIC:
+    label: Brethren in Christ
+    category: protestant
+    date: 1775
+    parents:
+      - Mennonite
+
+  Methodism:
+    label: Methodism
+    category: protestant
+    date: 1775
+    parents:
+      - Anglican
+      - Evangelicalism
+
+  PrimitiveBaptist:
+    label: Primitive Baptists
+    category: protestant
+    date: 1800
+    parents:
+      - Baptist
+
+  Modernism:
+    label: Modernism
+    category: heresy
+    date: 1850
+    parents:
+      - Catholic
+
+  Adventist:
+    label: Adventist
+    category: protestant
+    date: 1850
+    parents:
+      - Baptist
+
+  Pentecostalism:
+    label: Pentecostalism
+    category: protestant
+    date: 1850
+    parents:
+      - Evangelicalism
+
+  SalvationArmy:
+    label: Salvation Army
+    category: protestant
+    date: 1860
+    parents:
+      - Methodism
+
+  Americanism:
+    label: Americanism
+    category: heresy
+    date: 1870
+    parents:
+      - Catholic
+
+  BibleStudent:
+    label: Bible Student Movement
+    category: protestant
+    date: 1870
+    parents:
+      - Adventist
+
+  ChristianScience:
+    label: Christian Science
+    category: dangerous
+    date: 1870
+    parents:
+      - Congregationalism
+
+  PNCC:
+    label: Polish National Catholic
+    category: partial_communion
+    date: 1900
+    parents:
+      - Catholic
+
+  JehovahsWitnesses:
+    label: "Jehovah's Witnesses"
+    category: protestant
+    date: 1931
+    parents:
+      - BibleStudent
+
+  Davidians:
+    label: Branch Davidians
+    category: protestant
+    date: 1950
+    parents:
+      - Seventh
+
+  Seventh:
+    label: Seventh-day Adventist
+    category: protestant
+    date: ~
+    parents:
+      - Adventist
+
+  Unificationism:
+    label: Unificationism
+    category: dangerous
+    date: 1950
+    parents:
+      - Presbyterian
+      - Psilanthropism
+
+  Liberation:
+    label: Liberation Theology
+    category: orthodox
+    date: 1950
+    parents:
+      - Catholic
+
+  Traditionalists:
+    label: Traditionalists
+    category: heresy
+    date: 1950
+    parents:
+      - Catholic
+
+  FSSP:
+    label: Priestly Fraternity of St Peter
+    category: catholic
+    date: ~
+    parents:
+      - Traditionalists
+
+  AnglicanOrdinate:
+    label: Anglican Ordinariate
+    category: reunited
+    date: 2000
+    parents:
+      - Anglican
+
+  # Eastern Orthodox autocephalous churches
+  Constantinople:
+    label: Ecumenical Patriarchate of Constantinople
+    category: orthodox
+    date: ~
+    parents:
+      - Eastern
+
+  Alexandria:
+    label: Patriarchate of Alexandria
+    category: orthodox
+    date: ~
+    parents:
+      - Eastern
+
+  Antioch:
+    label: Patriarchate of Antioch
+    category: orthodox
+    date: ~
+    parents:
+      - Eastern
+
+  Jerusalem:
+    label: Patriarchate of Jerusalem
+    category: orthodox
+    date: ~
+    parents:
+      - Eastern
+
+  Moscow:
+    label: Patriarchate of Moscow
+    category: orthodox
+    date: ~
+    parents:
+      - Eastern
+
+  Serbia:
+    label: Patriarchate of Serbia
+    category: orthodox
+    date: ~
+    parents:
+      - Eastern
+
+  Romania:
+    label: Patriarchate of Romania
+    category: orthodox
+    date: ~
+    parents:
+      - Eastern
+
+  Bulgaria:
+    label: Patriarchate of Bulgaria
+    category: orthodox
+    date: ~
+    parents:
+      - Eastern
+
+  Georgia:
+    label: Patriarchate of Georgia
+    category: orthodox
+    date: ~
+    parents:
+      - Eastern
+
+  Cyprus:
+    label: Church of Cyprus
+    category: orthodox
+    date: ~
+    parents:
+      - Eastern
+
+  Greece:
+    label: Church of Greece
+    category: orthodox
+    date: ~
+    parents:
+      - Eastern
+
+  Poland:
+    label: Church of Poland
+    category: orthodox
+    date: ~
+    parents:
+      - Eastern
+
+  Albania:
+    label: Church of Albania
+    category: orthodox
+    date: ~
+    parents:
+      - Eastern
+
+  Czech:
+    label: Church of the Czech Lands and Slovakia
+    category: orthodox
+    date: ~
+    parents:
+      - Eastern
+
+  # Eastern Catholic churches (in full communion with Rome)
+  Albanian:
+    label: Albanian Catholic
+    category: catholic
+    date: ~
+    parents:
+      - Eastern
+
+  Belarusian:
+    label: Belarusian Catholic
+    category: catholic
+    date: ~
+    parents:
+      - Eastern
+
+  BulgarianCatholic:
+    label: Bulgarian Catholic
+    category: catholic
+    date: ~
+    parents:
+      - Eastern
+
+  Croatian:
+    label: Croatian Catholic
+    category: catholic
+    date: ~
+    parents:
+      - Eastern
+
+  SerbianCatholic:
+    label: Serbian Catholic
+    category: catholic
+    date: ~
+    parents:
+      - Eastern
+
+  GreekCatholic:
+    label: Greek Catholic
+    category: catholic
+    date: ~
+    parents:
+      - Eastern
+
+  Hungarian:
+    label: Hungarian Catholic
+    category: catholic
+    date: ~
+    parents:
+      - Eastern
+
+  ItaloAlbanian:
+    label: Italo-Albanian Catholic
+    category: catholic
+    date: ~
+    parents:
+      - Eastern
+
+  Macedonian:
+    label: Macedonian Catholic
+    category: catholic
+    date: ~
+    parents:
+      - Eastern
+
+  Melkite:
+    label: Melkite Catholic
+    category: catholic
+    date: ~
+    parents:
+      - Eastern
+
+  RomanianCatholic:
+    label: Romanian Catholic
+    category: catholic
+    date: ~
+    parents:
+      - Eastern
+
+  Russian:
+    label: Russian Catholic
+    category: catholic
+    date: ~
+    parents:
+      - Eastern
+
+  Ruthenian:
+    label: Ruthenian Catholic
+    category: catholic
+    date: ~
+    parents:
+      - Eastern
+
+  Slovak:
+    label: Slovak Catholic
+    category: catholic
+    date: ~
+    parents:
+      - Eastern
+
+  Ukrainian:
+    label: Ukrainian Catholic
+    category: catholic
+    date: ~
+    parents:
+      - Eastern

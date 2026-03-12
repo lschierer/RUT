@@ -18,6 +18,7 @@ my $builder = Module::Build->new(
     'Text::Markdown::Discount'  => 0,
     'YAML::XS'                  => 0,
     'Path::Tiny'                => 0,
+    'MIME::Types'               => 0,
   },
   build_requires => {
     'Array::Merge::Unique'      => 0,

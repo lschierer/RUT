@@ -13,6 +13,11 @@
   [% IF google %]
     [% google %]
   [% END %] 
+  [% IF css_files -%]
+    [% FOREACH css_file IN css_files -%]
+      <link rel="stylesheet" href="[% css_file %]">
+    [% END -%]
+  [% END -%]
 </head>
 [% classes = sidebar ? 'spectrum spectrum--medium spectrum-Typography spectrum--dark dark-theme dark with-sidebar' : 'spectrum spectrum--medium spectrum-Typography spectrum--dark dark-theme dark' -%]
 <body class="[% classes %]">

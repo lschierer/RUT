@@ -1,0 +1,34 @@
+[%# cspell: disable %]
+[% 
+  # Determine layout from frontmatter or default to rut
+  layout = layout || 'luke_rut';
+  
+  # Wrap layout name with layouts/ path
+  layout_path = 'layouts/' _ layout _ '.tt';
+%]
+[% WRAPPER $layout_path %]
+
+  <div class="timeline-container">
+    <p class="spectrum-Body spectrum-Body--sizeM">
+      Please note that the dates in this graph are approximate, not precise.
+      Entities without known dates are omitted from the timeline but listed below.
+    </p>
+    <div class="timeline-svg-wrapper" style="overflow-x: auto; overflow-y: visible;">
+      [% svg %]
+    </div>
+    [% IF undated.size %]
+    <h2 class="spectrum-Heading spectrum-Heading--sizeM">Undated Entities</h2>
+    <ul class="spectrum-Body spectrum-Body--sizeS">
+      [% FOREACH e IN undated %]
+      <li class="undated-[% e.category %]">
+        [% IF e.url %]<a href="[% e.url %]" class="spectrum-Link">[% e.label %]</a>
+        [% ELSE %][% e.label %][% END %]
+        ([% e.category %])
+        [% IF e.parents.size %] &larr; [% e.parents.join(', ') %][% END %]
+      </li>
+      [% END %]
+    </ul>
+    [% END %]
+  </div>
+
+[% END %]
