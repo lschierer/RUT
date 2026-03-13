@@ -9,121 +9,121 @@ svg {
 }
 
 .rail {
-  stroke: #ddd;
+  stroke: var(--spectrum-gray-100);
   stroke-width: 1.5;
 }
 
 .rail-label {
   font-size: 10px;
   text-anchor: middle;
-  fill: #666;
+  fill: var(--spectrum-blue-900);
   font-weight: bold;
 }
 
 .year-label {
   font-size: 9px;
-  fill: #888;
+  fill: var(--spectrum-gray-800);
   font-weight: bold;
 }
 
 .year-guide {
-  stroke: #f0f0f0;
+  stroke: var(--spectrum-gray-50);
   stroke-width: 0.5;
 }
 
 .dot {
-  stroke: #fff;
+  stroke: var(--spectrum-gray-50);
   stroke-width: 1;
 }
 
 .dot-catholic {
-  fill: #daa520;
+  fill: var(--spectrum-yellow-800);
 }
 
 .dot-heresy {
-  fill: tomato;
+  fill: var(--spectrum-red-900);
 }
 
 .dot-protestant {
-  fill: darkorange;
+  fill: var(--spectrum-orange-700);
 }
 
 .dot-orthodox {
-  fill: #9acd32;
+  fill: var(--spectrum-chartreuse-700);
 }
 
 .dot-oriental_orthodox {
-  fill: #8b8682;
+  fill: var(--spectrum-gray-600);
 }
 
 .dot-dangerous {
-  fill: crimson;
+  fill: var(--spectrum-magenta-900);
 }
 
 .dot-reunited {
-  fill: green;
+  fill: var(--spectrum-green-800);
 }
 
 .dot-partial_communion {
-  fill: yellowgreen;
+  fill: var(--spectrum-celery-700);
 }
 
 .leader {
-  stroke: #ccc;
+  stroke: var(--spectrum-gray-300);
   stroke-width: 0.5;
   stroke-dasharray: 2, 2;
 }
 
 .edge {
-  stroke: #aaa;
+  stroke: var(--spectrum-gray-500);
   stroke-width: 0.8;
   opacity: 0.6;
 }
 
 .node-rect {
-  fill: white;
-  stroke: #ccc;
+  fill: var(--spectrum-gray-50);
+  stroke: var(--spectrum-gray-300);
   stroke-width: 0.5;
 }
 
 .node-rect-catholic {
-  fill: #fff8dc;
-  stroke: #daa520;
+  fill: var(--spectrum-yellow-200);
+  stroke: var(--spectrum-yellow-800);
 }
 
 .node-rect-heresy {
-  fill: #fff0f0;
-  stroke: tomato;
+  fill: var(--spectrum-red-200);
+  stroke: var(--spectrum-red-900);
 }
 
 .node-rect-protestant {
-  fill: #fff5e6;
-  stroke: darkorange;
+  fill: var(--spectrum-orange-200);
+  stroke: var(--spectrum-orange-700);
 }
 
 .node-rect-orthodox {
-  fill: #f0fff0;
-  stroke: #9acd32;
+  fill: var(--spectrum-chartreuse-200);
+  stroke: var(--spectrum-chartreuse-700);
 }
 
 .node-rect-oriental_orthodox {
-  fill: #f5f5f0;
-  stroke: #8b8682;
+  fill: var(--spectrum-gray-200);
+  stroke: var(--spectrum-gray-600);
 }
 
 .node-rect-dangerous {
-  fill: #fff0f5;
-  stroke: crimson;
+  fill: var(--spectrum-magenta-200);
+  stroke: var(--spectrum-magenta-900);
 }
 
 .node-rect-reunited {
-  fill: #f0fff0;
-  stroke: green;
+  fill: var(--spectrum-green-200);
+  stroke: var(--spectrum-green-800);
 }
 
 .node-rect-partial_communion {
-  fill: #fffff0;
-  stroke: yellowgreen;
+  fill: var(--spectrum-celery-200);
+  stroke: var(--spectrum-celery-700);
 }
 
 .node-label {
@@ -145,33 +145,33 @@ svg {
 }
 
 .rail-catholic {
-  stroke: #daa520;
+  stroke: var(--spectrum-yellow-800);
 }
 
 .rail-heresy {
-  stroke: tomato;
+  stroke: var(--spectrum-red-900);
 }
 
 .rail-protestant {
-  stroke: darkorange;
+  stroke: var(--spectrum-orange-700);
 }
 
 .rail-orthodox {
-  stroke: #9acd32;
+  stroke: var(--spectrum-chartreuse-700);
 }
 
 .rail-oriental_orthodox {
-  stroke: #8b8682;
+  stroke: var(--spectrum-gray-600);
 }
 
 .rail-dangerous {
-  stroke: crimson;
+  stroke: var(--spectrum-magenta-900);
 }
 
 .rail-reunited {
-  stroke: green;
+  stroke: var(--spectrum-green-800);
 }
 
 .rail-partial_communion {
-  stroke: yellowgreen;
+  stroke: var(--spectrum-celery-700);
 }
