@@ -1,7 +1,85 @@
 [tools]
 node = "lts"
 pnpm = "10"
-just = "latest"
 perl = "latest"
 aws = "latest"
 watchexec = "latest"
+
+[env]
+_.file = ".env.deploy"
+_.path = "./node_modules/.bin"
+
+[tasks.tidy]
+description = "Format Perl code"
+run = """
+find packages/luke/bin -name '*.pl' -exec perltidy -b -pro=.perltidyrc {} \\;
+find packages/luke/lib -name '*.pm' -exec perltidy -b -pro=.perltidyrc {} \\;
+find lib -name '*.pm' -exec perltidy -b -pro=.perltidyrc {} \\;
+perltidy -b -pro=.perltidyrc Build.PL
+perltidy -b -pro=.perltidyrc bin/server.pl
+find . -name '*.bak' -delete
+"""
+
+[tasks.install]
+description = "Install dependencies"
+run = """
+pnpm install -r
+perl Build.PL
+./Build installdeps
+"""
+
+[tasks.build-luke-content]
+description = "Build Luke's content from ikiwiki markdown"
+depends = ["install"]
+dir = "packages/luke"
+run = """
+#!/usr/bin/env bash
+set -euo pipefail
+./bin/build_luke.pl
+pnpm build:prod
+"""
+
+[tasks.build]
+description = "Full build"
+depends = ["install", "build-luke-content"]
+run = """
+mkdir -p public/css
+mkdir -p public/js
+cd ./packages/archives
+"""
+
+[tasks.clean]
+description = "Clean build artifacts"
+run = "# todo"
+
+[tasks.linkcheck]
+description = "Run broken link checker"
+run = "pnpm exec blc -e -f -r http://localhost:3000"
+
+[tasks.deploy-dev]
+description = "Deploy to dev environment"
+depends = ["build-luke-content"]
+run = """
+pnpm cdk --profile personal acknowledge 34892
+MODE='dev' pnpm cdk --profile personal deploy
+"""
+
+[tasks.deploy-test]
+description = "Deploy to test environment"
+depends = ["build-luke-content"]
+run = """
+pnpm cdk --profile personal acknowledge 34892
+MODE='test' pnpm cdk --profile personal deploy
+"""
+
+[tasks.deploy-prod]
+description = "Deploy to production"
+depends = ["build-luke-content"]
+run = """
+pnpm cdk --profile personal acknowledge 34892
+MODE='prod' pnpm cdk --profile personal deploy
+"""
+
+[tasks.quickdev]
+description = "Quick dev server with file watching"
+run = "watchexec -w bin -w lib -w ../PAGI-WebServer/lib -w templates -w public/css -w public/js -w packages/luke/build-output -r ./bin/server.pl"

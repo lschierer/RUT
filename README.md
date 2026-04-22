@@ -1,9 +1,9 @@
-This project assumes you have installed and configured [mise](https://mise.jdx.dev/).  If you have, it should automatically warn you if you do not have the required versions of [node](https://nodejs.org/), [pnpm](https://pnpm.io/), [just](https://just.systems/), and other build tools the project depends on.  Any exceptions will be noted here.
+This project assumes you have installed and configured [mise](https://mise.jdx.dev/).  If you have, it should automatically warn you if you do not have the required versions of [node](https://nodejs.org/), [pnpm](https://pnpm.io/), and other build tools the project depends on.  Any exceptions will be noted here.
 
 Assuming that you *do* have mise, and it has *not* complained, you can simply run
 
 ```
-just dev
+mise run dev
 ```
 
 to get a local development version of the project.
