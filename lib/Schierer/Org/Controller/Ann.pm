@@ -97,11 +97,11 @@ async sub _serve_index ($self, $ctx, $base_url) {
   );
 
   if ($html) {
-    await $ctx->res->html($html);
+    $ctx->res->html($html);
   }
   else {
     $ctx->res->status(404);
-    await $ctx->res->html('<h1>404 - Page Not Found</h1>');
+    $ctx->res->html('<h1>404 - Page Not Found</h1>');
   }
   return;
 }
@@ -126,7 +126,7 @@ sub _register_poem_routes ($self) {
       $route,
       {
         to => async sub ($c, $ctx, @args) {
-          await $ctx->res->send_file($file_copy->stringify, inline => 1);
+          $ctx->res->send_file($file_copy->stringify, inline => 1);
           return;
         },
         action => 'http.get',
@@ -151,7 +151,7 @@ sub _register_poem_routes ($self) {
       $route,
       {
         to => async sub ($c, $ctx, @args) {
-          await $ctx->res->send_file($file_copy->stringify, inline => 1);
+          $ctx->res->send_file($file_copy->stringify, inline => 1);
           return;
         },
         action => 'http.get',

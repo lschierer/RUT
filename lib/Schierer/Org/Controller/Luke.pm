@@ -624,7 +624,7 @@ sub build ($self) {
       to => async sub ($c, $ctx, @args) {
         my $index_file = $self->luke_dir->child('index.html');
         if ($index_file->exists) {
-          return await $ctx->res->send_file($index_file->stringify,
+          return $ctx->res->send_file($index_file->stringify,
             inline => 1);
         }
         $index_file = $self->luke_dir->child('index.md');
@@ -636,7 +636,7 @@ sub build ($self) {
           return await $self->_handle_markdown($ctx, $entry);
         }
 
-        await $ctx->res->redirect('/~luke/log/', 302);
+        $ctx->res->redirect('/~luke/log/', 302);
         return;
       },
       action => 'http.*',
@@ -650,7 +650,7 @@ sub build ($self) {
       to => async sub ($c, $ctx, @args) {
         my $index_file = $self->luke_dir->child('log/index.html');
         if ($index_file->exists) {
-          return await $ctx->res->send_file($index_file->stringify,
+          return $ctx->res->send_file($index_file->stringify,
             inline => 1);
         }
         $index_file = $self->luke_dir->child('log/index.md');
@@ -750,7 +750,7 @@ async sub _timeline_handler ($c, $ctx, @args) {
   };
 
   my $html = $c->template('luke/timeline_of_errors', $vars);
-  await $ctx->res->html($html);
+  $ctx->res->html($html);
 }
 
 sub _register_redirects ($self) {
@@ -764,7 +764,7 @@ sub _register_redirects ($self) {
       $source,
       {
         to => async sub ($c, $ctx, @args) {
-          await $ctx->res->redirect($target, 308);
+          $ctx->res->redirect($target, 308);
           return;
         },
         action => 'http.*',
@@ -853,7 +853,7 @@ async sub _static_handler ($self, $ctx, $file, $route) {
   my $type = $mts->mimeTypeOf($file);
   $ctx->res->content_type($type) unless not defined($type);
   $self->logger->debug(sprintf('using %s as mimetype for file "%s"', defined($type) ? $type : 'undef', $file));
-  await $ctx->res->send_file($file->stringify, inline => 1);
+  $ctx->res->send_file($file->stringify, inline => 1);
   return;
 }
 
@@ -960,7 +960,7 @@ sub _register_autoindex_routes ($self) {
               google          => $self->googleStream(),
             };
             my $html = $self->template('luke/autoindex', $extra_vars);
-            await $ctx->res->html($html);
+            $ctx->res->html($html);
           },
           action => 'http.get',
         }
@@ -1037,11 +1037,11 @@ async sub _handle_markdown ($self, $ctx, $entry) {
       my $rchtml = $self->template('luke/recent_changes', $extra_vars);
       $html =~ s{<recent-changes>.*?</recent-changes>}{$rchtml};
     }
-    await $ctx->res->html($html);
+    $ctx->res->html($html);
   }
   else {
     $ctx->res->status(404);
-    await $ctx->res->html('<h1>404 - Page Not Found</h1>');
+    $ctx->res->html('<h1>404 - Page Not Found</h1>');
   }
   return;
 }

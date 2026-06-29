@@ -49,6 +49,7 @@ my $builder = Module::Build->new(
     'Path::Iterator::Rule'      => 0,
     'Path::Tiny'                => 0,
     'Role::Tiny'                => 0,
+    'SVG'                       => 0,
     'Text::Markdown'            => 0,
     'Try::Tiny'                 => 0,
     'Unicode::UTF8'             => 0,
