@@ -13,3 +13,4 @@ blib
 MYMETA.json
 MYMETA.yml
 cdk.out
+pnpm-lock.yaml

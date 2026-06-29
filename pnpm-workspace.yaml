@@ -1,14 +1,11 @@
 packages:
   - packages/*
 
-
-ignoredBuiltDependencies:
-  - protobufjs
-  - unrs-resolver
-
-onlyBuiltDependencies:
-  - '@parcel/watcher'
-  - '@pulumi/docker'
-  - '@pulumi/docker-build'
-  - '@pulumi/synced-folder'
-  - esbuild
+allowBuilds:
+  '@parcel/watcher': true
+  '@pulumi/docker': true
+  '@pulumi/docker-build': true
+  '@pulumi/synced-folder': true
+  esbuild: true
+  protobufjs: false
+  unrs-resolver: true

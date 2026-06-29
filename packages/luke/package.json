@@ -14,19 +14,19 @@
   "license": "CC-BY-NC-SA",
   "devDependencies": {
     "@tsconfig/node24": "^24.0.4",
-    "@types/node": "^25.3.2",
+    "@types/node": "^26.0.1",
     "@types/postcss-sorting": "^8.0.2",
-    "autoprefixer": "^10.4.27",
-    "cssnano": "^7.1.2",
-    "esbuild": "^0.27.3",
-    "jiti": "^2.6.1",
-    "postcss": "^8.5.6",
+    "autoprefixer": "^10.5.2",
+    "cssnano": "^8.0.2",
+    "esbuild": "^0.28.1",
+    "jiti": "^2.7.0",
+    "postcss": "^8.5.16",
     "postcss-extend": "^1.0.5",
     "postcss-import": "^16.1.1",
     "postcss-nesting": "14.0.0",
-    "postcss-sorting": "^9.1.0",
-    "stylelint": "^17.4.0",
-    "tsx": "^4.21.0"
+    "postcss-sorting": "^10.0.0",
+    "stylelint": "^17.14.0",
+    "tsx": "^4.22.4"
   },
   "dependencies": {
     "@spectrum-css/calendar": "^7.2.0",
@@ -38,6 +38,6 @@
     "iconify-icon": "^3.0.2",
     "luxon": "^3.7.2",
     "stylelint-config-standard": "^40.0.0",
-    "zod": "^4.3.6"
+    "zod": "^4.4.3"
   }
 }
