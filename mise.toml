@@ -61,7 +61,7 @@ description = "Deploy to dev environment"
 depends = ["build-luke-content"]
 run = """
 pnpm cdk --profile personal acknowledge 34892
-MODE='dev' pnpm cdk --profile personal deploy
+MODE='dev' pnpm cdk --profile personal deploy --require-approval=never
 """
 
 [tasks.deploy-test]
@@ -69,7 +69,7 @@ description = "Deploy to test environment"
 depends = ["build-luke-content"]
 run = """
 pnpm cdk --profile personal acknowledge 34892
-MODE='test' pnpm cdk --profile personal deploy
+MODE='test' pnpm cdk --profile personal deploy --require-approval=never
 """
 
 [tasks.deploy-prod]
