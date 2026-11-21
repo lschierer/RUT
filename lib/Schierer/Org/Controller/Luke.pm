@@ -851,7 +851,9 @@ async sub _static_handler ($self, $ctx, $file, $route) {
   ));
   my $mts = MIME::Types->new();
   my $type = $mts->mimeTypeOf($file);
-  $ctx->res->content_type($type) unless not defined($type);
+  # mimeTypeOf returns a MIME::Type object; PAGI::Server >= 0.002012 rejects
+  # header values that are references, so pass the plain string.
+  $ctx->res->content_type("$type") if defined $type;
   $self->logger->debug(sprintf('using %s as mimetype for file "%s"', defined($type) ? $type : 'undef', $file));
   $ctx->res->send_file($file->stringify, inline => 1);
   return;
