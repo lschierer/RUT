@@ -18,5 +18,5 @@ Similarly, the great architects of the past have been men, and often men with sk
 
 So it is clearly bias that causes the Hi magazine article to refer to what they call "Fashionable Men" as being the result of an influx of women in the workplace, and an adoption of women's values and women's practices.  As such, my comments that this is highly objectionable fare for our State Department to be funding remains entirely accurate.
 
-[^1]: /~luke/log/20050621-0953/ <br  />
+[^1]: /log/20050621-0953/ <br  />
 [^2]: http://www.hiinternational.com/articles/art1_en.cfm?topicId=1&id=392

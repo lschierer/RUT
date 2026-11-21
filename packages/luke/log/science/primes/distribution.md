@@ -21,4 +21,4 @@ fairly simple bash for loop using the bsd-games primes command:
 ![img][distribution]
 
 
-[distribution]: /~luke/assets/log/science/primes/distribution.png "distribution of prime numbers per 1000"
+[distribution]: /assets/log/science/primes/distribution.png "distribution of prime numbers per 1000"

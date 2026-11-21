@@ -16,5 +16,5 @@ layout: rut
 
 [This]: http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/02/11/warm11.xml "Cosmic rays blamed for global warming"
 [ref1]: http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/02/11/warm11.xml "Cosmic rays blamed for global warming"
-[my previous post]: http://www.schierer.org/~luke/log/20070212-1037/solar-radiation-climate "Solar Radiation & Climate"
+[my previous post]: /log/20070212-1037/solar-radiation-climate "Solar Radiation & Climate"
 

@@ -11,9 +11,9 @@ This incredible explanation is why I have taken the time to recap some of the hi
 Particularly when it is saying, in essence, "we know we have been claiming it will get warmer for years now.  It has not really gotten any warmer, but just keep paying us, it will any year now."
 
 [^200708101]: AFP.  "Natural forces offset global warming last two years: study"  Brietbart.com  2007-08-09 <http://www.breitbart.com/article.php?id=070809225722.demeczc1&show_article=1> The point in question is only implied in the article, it mentions that weather variations will "continue to keep temperatures flat."
-[^200708102]: Mr. Luke Schierer.  "Solar Radiation & Climate"  Random Unfinished Thoughts. 2007-02-12 <http://www.schierer.org/~luke/log/20070212-1037/solar-radiation-climate>
-[^200708103]: Mr. Luke Schierer.  "Because Global warming is indesputable" Random Unfinished Thoughts.  2007-06-27 <http://www.schierer.org/~luke/log/20070627-1326/because-global-warming-is-indesputable>
-[^200708104]:  Mr. Luke Schierer.  "Global warming elsewhere in the solar system" Random Unfinished Thoughts.  2007-02-05 <http://www.schierer.org/~luke/log/20070205-1115/global-warming-elsewhere-in-the-solar-system>
+[^200708102]: Mr. Luke Schierer.  "Solar Radiation & Climate"  Random Unfinished Thoughts. 2007-02-12 </log/20070212-1037/solar-radiation-climate>
+[^200708103]: Mr. Luke Schierer.  "Because Global warming is indesputable" Random Unfinished Thoughts.  2007-06-27 </log/20070627-1326/because-global-warming-is-indesputable>
+[^200708104]:  Mr. Luke Schierer.  "Global warming elsewhere in the solar system" Random Unfinished Thoughts.  2007-02-05 </log/20070205-1115/global-warming-elsewhere-in-the-solar-system>
 [^200708105]: AFP.  "Natural forces offset global warming last two years: study"  Brietbart.com  2007-08-09 <http://www.breitbart.com/article.php?id=070809225722.demeczc1&show_article=1>
 
 [[!tag  global-warming]]

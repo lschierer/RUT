@@ -73,10 +73,10 @@ class App::AllPostsAndPages {
         my $linkDir = $file->relative($logDir->parent())->parent();
         if ($basename ne 'index') {
           push @lines,
-            "  <li><a href='/~luke/$linkDir/$basename/'>$title</a></li>\n";
+            "  <li><a href='/$linkDir/$basename/'>$title</a></li>\n";
         }
         else {
-          push @lines, "  <li><a href='/~luke/$linkDir/'>$title</a></li>\n";
+          push @lines, "  <li><a href='/$linkDir/'>$title</a></li>\n";
         }
       }
     }

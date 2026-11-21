@@ -13,5 +13,5 @@ Meanwhile, Australian citrus farmers are worried that their fruit might have suf
 
 [^sa1]: Mr. Stewart Bailey.  "Johannesburg Gets 4 Inches of Snow, First Since 1981" Bloomberg.com  2007-06-27 <http://www.bloomberg.com/apps/news?pid=20670001&refer=india&sid=awNaI9yDGOnc>
 [^aufrost1]: Ms. Amelia Elliston.  "Fruit may be frost damaged"  <www.riverinamediagroup.com.au> 2007-06-27 <http://www.riverinamediagroup.com.au/Home/news.asp?publication=The%20Area%20News&articleType=Local&ArticleID=18710>
-[^anarctic1]: Mr. Luke Schierer.  "Solar Radiation & Climate" Random Unfinished Thoughts.  2007-02-12 <http://www.schierer.org/~luke/log/20070212-1037/solar-radiation-climate>
+[^anarctic1]: Mr. Luke Schierer.  "Solar Radiation & Climate" Random Unfinished Thoughts.  2007-02-12 </log/20070212-1037/solar-radiation-climate>
 

@@ -14,14 +14,14 @@ Today's news should be less dismissable.  Professor David Derning, an associate 
 The Medieval Warm Period, if it is allowed to have existed, would make the modern temperature rise significantly less unique.  In doing so, it would substantially undermine the idea that this warming is *necessarily* caused by human activity.  We would have to consider the possibility that the current warming is caused by the same or similar phenomena as that one.
 
 <div markdown="1" class="postrefs">
-1.  Mr. Luke Schierer.  "The Great Scare debunked"  Random Unfinished Thoughts.  2006-11-06 http://www.schierer.org/~luke/log/20061106-1613/the-great-scare-debunked
-2.  Mr. Luke Schierer.  "The Great Scare debunked 2" Random Unfinished Thoughts.  2006-11-06 http://www.schierer.org/~luke/log/20061106-2050/the-great-scare-debunked-2
-3.  Mr. Luke Schierer.  "undebunked"  Random Unfinished Thoughts.  2006-11-15 http://www.schierer.org/~luke/log/20061115-1111/undebunked
+1.  Mr. Luke Schierer.  "The Great Scare debunked"  Random Unfinished Thoughts.  2006-11-06 /log/20061106-1613/the-great-scare-debunked
+2.  Mr. Luke Schierer.  "The Great Scare debunked 2" Random Unfinished Thoughts.  2006-11-06 /log/20061106-2050/the-great-scare-debunked-2
+3.  Mr. Luke Schierer.  "undebunked"  Random Unfinished Thoughts.  2006-11-15 /log/20061115-1111/undebunked
 4. PR Newswire Association LLC.  "Media Shows Irrational Hysteria on Global Warming"  U.S. Newswire 2006-12-06 http://releases.usnewswire.com/GetRelease.asp?id=77195
 </div>
 
-[ref1]: http://www.schierer.org/~luke/log/20061106-1613/the-great-scare-debunked "The Great Scare debunked"
-[ref2]: http://www.schierer.org/~luke/log/20061106-2050/the-great-scare-debunked-2 "The Great Scare debunked 2"
-[ref3]: http://www.schierer.org/~luke/log/20061115-1111/undebunked "undebunked"
+[ref1]: /log/20061106-1613/the-great-scare-debunked "The Great Scare debunked"
+[ref2]: /log/20061106-2050/the-great-scare-debunked-2 "The Great Scare debunked 2"
+[ref3]: /log/20061115-1111/undebunked "undebunked"
 [ref4]: http://releases.usnewswire.com/GetRelease.asp?id=77195 "Media Shows Irrational Hysteria on Global Warming"
 

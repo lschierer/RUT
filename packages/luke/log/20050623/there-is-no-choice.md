@@ -12,4 +12,4 @@ Once, in talking at the 4P's, I was requested to refer to the pro-abortion movem
 Mr. George Weigel understands this.[^1] With every abortion, a human life is ended.  Most undebatably true of the "partial birth abortions," it is equally clearly, undebatably, true of every child yet unborn past five months, as we save the lives of such babies when born prematurely.  Indeed, it is this critical time that an Arlington woman is being kept alive in for, in hopes that her unborn baby might be saved.[^2] But even though it is less clear of one month, one week, one day, or one hour year old babies, *they are yet alive, distinct, their own person with a soul all their own.* And the abortion kills them.  **_That_** is the fact to remember when abortion comes up.  When do you *ever* have the right to choose to kill an innocent person?
 
 [^1]: http://www.eppc.org/publications/pubID.2376/pub_detail.asp
-[^2]: /~luke/log/20050616-1021/
+[^2]: /log/20050616-1021/

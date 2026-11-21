@@ -8,5 +8,5 @@ layout: rut
 
 ## Pages
 
-- [political-spectrum-quiz](/~luke/log/20090829/political-spectrum-quiz/)
-- [political-spectrum-quiz](/~luke/log/20090829/political-spectrum-quiz/)
+- [political-spectrum-quiz](/log/20090829/political-spectrum-quiz/)
+- [political-spectrum-quiz](/log/20090829/political-spectrum-quiz/)

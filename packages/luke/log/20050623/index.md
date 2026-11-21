@@ -13,4 +13,4 @@ layout: rut
 - [the "science" of psychiatry](./the-science-of-psychiatry/)
 - [There is no choice](./there-is-no-choice/)
 - [When is a difference discrimination?](./when-is-a-difference-discrimination/)
-- [human <= pigeon](/~luke/log/Society/human-pigeon/)
+- [human <= pigeon](/log/Society/human-pigeon/)

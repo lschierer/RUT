@@ -9,5 +9,5 @@ layout: rut
 
 ## Pages
 
-- [webword](/~luke/log/20090714/webword/)
-- [webword](/~luke/log/20090714/webword/)
+- [webword](/log/20090714/webword/)
+- [webword](/log/20090714/webword/)

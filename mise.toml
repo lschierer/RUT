@@ -45,7 +45,6 @@ depends = ["install", "build-luke-content"]
 run = """
 mkdir -p public/css
 mkdir -p public/js
-cd ./packages/archives
 """
 
 [tasks.clean]

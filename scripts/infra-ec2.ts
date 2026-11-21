@@ -59,7 +59,9 @@ const props: ApplicationStackProps = {
   mode,
   prefix: "SchiererOrg",
   appSubdomain: config.subdomain,
-  domainName: "schierer.org",
+  // Same pattern as App-Schierer-HPFan: a subdomain inside the schierer.org
+  // zone. The family pages at schierer.org are a separate repo/deployment.
+  domainName: "luke.schierer.org",
   hostedZoneId: "ZOB4NXMJR2BZF",
   zoneName: 'schierer.org',
   instanceSize: config.instanceSize,

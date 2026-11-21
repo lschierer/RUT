@@ -209,7 +209,7 @@ class App::Build::IkiConverter {
 
         # Create relative link path
         (my $link_path =
-            '/~luke/' . $source_dir . '/' . $dir_name . '/' . $basename . '/')
+            '/' . $source_dir . '/' . $dir_name . '/' . $basename . '/')
           =~ s{/+}{/}g;
 
         $content .= "- [$title]($link_path)\n";

@@ -107,12 +107,12 @@ class App::Build::Pipeline {
     for my $r (@redirects) {
       my $source_path = $r->{source};
       $source_path =~ s/\.mdwn$//;
-      my $source_url = "/~luke/log/$source_path/";
+      my $source_url = "/log/$source_path/";
       $source_url =~ s{//+}{/}g;
 
       my $target = $r->{target};
       unless ($target =~ m{^/} || $target =~ m{^https?://}) {
-        $target = "/~luke/log/$target/";
+        $target = "/log/$target/";
         $target =~ s{//+}{/}g;
       }
 

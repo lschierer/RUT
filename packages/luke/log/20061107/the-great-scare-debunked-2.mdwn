@@ -9,12 +9,12 @@ Yet it seems to me that anyone with a modicum of intelligence must realize that 
 
 <div markdown="1" class="postrefs">
 1.  Mr. Christopher Monckton. “Apocalypse Cancelled” 2006-11-05. http://www.telegraph.co.uk/news/graphics/2006/11/05/warm-refs.pdf;jsessionid=MO00JBZY2HSBDQFIQMGSFFWAVCBQWIV0
-2.  Mr Luke Schierer.  "The Great Scare debunked"  Random Unfinished Thoughts.  2006-11-06.  http://www.schierer.org/~luke/log/20061106-1613/the-great-scare-debunked
+2.  Mr Luke Schierer.  "The Great Scare debunked"  Random Unfinished Thoughts.  2006-11-06.  /log/20061106-1613/the-great-scare-debunked
 3.  Mr. Paul F. Hoffman & R.S. Hildebrand.  "Snowball Earth"  http://snowballearth.org/  last viewed 2006-11-06
 </div>
 
 [ref1]: http://www.telegraph.co.uk/news/graphics/2006/11/05/warm-refs.pdf  "Apocalypse Cancelled"
-[ref2]: http://www.schierer.org/~luke/log/20061106-1613/the-great-scare-debunked "The Great Scare debunked"
+[ref2]: /log/20061106-1613/the-great-scare-debunked "The Great Scare debunked"
 [ref3]: http://snowballearth.org "Snowball Earth"
 
 

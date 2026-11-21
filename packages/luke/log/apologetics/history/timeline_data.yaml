@@ -41,14 +41,14 @@ entities:
     label: Catholic Church
     category: catholic
     date: 33
-    url: /~luke/log/apologetics/Catholic_Church|CatholicChurch/
+    url: /log/apologetics/Catholic_Church|CatholicChurch/
     parents: []
 
   Judaizers:
     label: Judaizers
     category: heresy
     date: 33
-    url: /~luke/log/apologetics/Judaizers/
+    url: /log/apologetics/Judaizers/
     parents:
       - Catholic
 
@@ -56,7 +56,7 @@ entities:
     label: Antinomianism
     category: heresy
     date: 34
-    url: /~luke/log/apologetics/Antinomianism/
+    url: /log/apologetics/Antinomianism/
     parents:
       - Catholic
 
@@ -64,7 +64,7 @@ entities:
     label: Docetism
     category: heresy
     date: 34
-    url: /~luke/log/apologetics/Docetism/
+    url: /log/apologetics/Docetism/
     parents:
       - Catholic
 
@@ -72,7 +72,7 @@ entities:
     label: Gnosticism
     category: heresy
     date: 100
-    url: /~luke/log/apologetics/Gnosticism/
+    url: /log/apologetics/Gnosticism/
     parents:
       - Docetism
 
@@ -80,7 +80,7 @@ entities:
     label: Sabellianism
     category: heresy
     date: 100
-    url: /~luke/log/apologetics/Modalism/
+    url: /log/apologetics/Modalism/
     parents:
       - Modalism
 
@@ -88,7 +88,7 @@ entities:
     label: Ophites
     category: heresy
     date: 100
-    url: /~luke/log/apologetics/Gnosticism/Ophites/
+    url: /log/apologetics/Gnosticism/Ophites/
     parents:
       - Antinomianism
       - Gnosticism
@@ -97,7 +97,7 @@ entities:
     label: Sethian
     category: heresy
     date: 100
-    url: /~luke/log/apologetics/Gnosticism/Sethian/
+    url: /log/apologetics/Gnosticism/Sethian/
     parents:
       - Ophites
 
@@ -105,7 +105,7 @@ entities:
     label: Marcionism
     category: heresy
     date: 150
-    url: /~luke/log/apologetics/Judaizers/
+    url: /log/apologetics/Judaizers/
     parents:
       - Judaizers
 
@@ -120,7 +120,7 @@ entities:
     label: Monarchianism
     category: heresy
     date: ~
-    url: /~luke/log/apologetics/Monarchianism/
+    url: /log/apologetics/Monarchianism/
     parents:
       - Catholic
 
@@ -128,7 +128,7 @@ entities:
     label: Modalism
     category: heresy
     date: ~
-    url: /~luke/log/apologetics/Modalism/
+    url: /log/apologetics/Modalism/
     parents:
       - Monarchianism
 
@@ -136,7 +136,7 @@ entities:
     label: Adoptionism
     category: heresy
     date: 199
-    url: /~luke/log/apologetics/history/TableOfErrors/
+    url: /log/apologetics/history/TableOfErrors/
     parents:
       - Monarchianism
 
@@ -144,7 +144,7 @@ entities:
     label: Psilanthropism
     category: heresy
     date: ~
-    url: /~luke/log/apologetics/Adoptionism/
+    url: /log/apologetics/Adoptionism/
     parents:
       - Adoptionism
 
@@ -152,7 +152,7 @@ entities:
     label: Manichaeism
     category: heresy
     date: 200
-    url: /~luke/log/apologetics/Gnosticism/Manichaeism/
+    url: /log/apologetics/Gnosticism/Manichaeism/
     parents:
       - Gnosticism
 
@@ -160,7 +160,7 @@ entities:
     label: Naassenes
     category: heresy
     date: ~
-    url: /~luke/log/apologetics/Gnosticism/Naassenes/
+    url: /log/apologetics/Gnosticism/Naassenes/
     parents:
       - Manichaeism
 
@@ -168,7 +168,7 @@ entities:
     label: Arianism
     category: heresy
     date: 300
-    url: /~luke/log/apologetics/Arianism/
+    url: /log/apologetics/Arianism/
     parents:
       - Catholic
 
@@ -176,7 +176,7 @@ entities:
     label: Donatism
     category: heresy
     date: 300
-    url: /~luke/log/apologetics/Donatism/
+    url: /log/apologetics/Donatism/
     parents:
       - Catholic
 
@@ -184,7 +184,7 @@ entities:
     label: Ebionites
     category: heresy
     date: 300
-    url: /~luke/log/apologetics/Judaizers/
+    url: /log/apologetics/Judaizers/
     parents:
       - Judaizers
 
@@ -199,7 +199,7 @@ entities:
     label: Monophysitism
     category: heresy
     date: 400
-    url: /~luke/log/apologetics/Monophysitism/
+    url: /log/apologetics/Monophysitism/
     parents:
       - Catholic
 
@@ -207,7 +207,7 @@ entities:
     label: Nestorianism
     category: heresy
     date: 400
-    url: /~luke/log/apologetics/Nestorianism/
+    url: /log/apologetics/Nestorianism/
     parents:
       - Catholic
 
@@ -222,7 +222,7 @@ entities:
     label: Oriental Orthodox
     category: oriental_orthodox
     date: 450
-    url: /~luke/log/apologetics/OrientalOrthodox/
+    url: /log/apologetics/OrientalOrthodox/
     parents:
       - Monophysitism
 
@@ -295,7 +295,7 @@ entities:
     label: Paulicianism
     category: heresy
     date: 800
-    url: /~luke/log/apologetics/Gnosticism/Paulicianism/
+    url: /log/apologetics/Gnosticism/Paulicianism/
     parents:
       - Manichaeism
 

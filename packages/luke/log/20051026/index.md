@@ -7,10 +7,10 @@ layout: rut
 
 ## Pages
 
-- [europe-and-the-faith](/~luke/log/20051026/europe-and-the-faith/)
-- [mechanical-possession](/~luke/log/20051026/mechanical-possession/)
-- [mechanical-possession](/~luke/log/20051026/mechanical-possession/)
-- [no-shortage-there](/~luke/log/20051026/no-shortage-there/)
-- [no-shortage-there](/~luke/log/20051026/no-shortage-there/)
-- [stronger-families-reduce-poverty](/~luke/log/20051026/stronger-families-reduce-poverty/)
-- [stronger-families-reduce-poverty](/~luke/log/20051026/stronger-families-reduce-poverty/)
+- [europe-and-the-faith](/log/20051026/europe-and-the-faith/)
+- [mechanical-possession](/log/20051026/mechanical-possession/)
+- [mechanical-possession](/log/20051026/mechanical-possession/)
+- [no-shortage-there](/log/20051026/no-shortage-there/)
+- [no-shortage-there](/log/20051026/no-shortage-there/)
+- [stronger-families-reduce-poverty](/log/20051026/stronger-families-reduce-poverty/)
+- [stronger-families-reduce-poverty](/log/20051026/stronger-families-reduce-poverty/)

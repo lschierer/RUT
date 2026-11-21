@@ -17,7 +17,7 @@ For this reason, a good number of computer people use the PGP<sup>[^ref2]</sup> 
 
 Without that, your email really is like a post card, and when stored on a server that is not your own, why should you expect that no one else would read it?  You do not have that level of control or security when it comes to real post cards.  People need to learn this.  They *could* handle encryption, it really is not that hard, especially in the relatively non-authenticating forms (that is, forms of encryption that ensure that only you and the sender can read something, but do not tell you who the sender is).
 
-Ignorance is no excuse.  For reference, my public key is [here](https://www.schierer.org/~luke/gpg.txt).
+Ignorance is no excuse.  For reference, my public key is [here](https://luke.schierer.org/gpg.txt).
 
 
 [^ref1]: Mr. Nate Anderson. "[Government may not need warrant to search your e-mail](http://arstechnica.com/news.ars/post/20061227-8504.html)" Ars Technica. 2006-12-27. 

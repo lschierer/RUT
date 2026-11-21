@@ -7,8 +7,8 @@ layout: rut
 
 ## Pages
 
-- [TableOfErrors](/~luke/log/apologetics/history/TableOfErrors/)
-- [TableOfErrors](/~luke/log/apologetics/history/TableOfErrors/)
-- [TimeLineOfErrors](/~luke/log/apologetics/history/TimeLineOfErrors/)
-- [Turin](/~luke/log/apologetics/history/Turin/)
-- [Turin](/~luke/log/apologetics/history/Turin/)
+- [TableOfErrors](/log/apologetics/history/TableOfErrors/)
+- [TableOfErrors](/log/apologetics/history/TableOfErrors/)
+- [TimeLineOfErrors](/log/apologetics/history/TimeLineOfErrors/)
+- [Turin](/log/apologetics/history/Turin/)
+- [Turin](/log/apologetics/history/Turin/)

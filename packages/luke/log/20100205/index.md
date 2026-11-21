@@ -8,5 +8,5 @@ layout: rut
 
 ## Pages
 
-- [quote-of-the-day-38](/~luke/log/20100205/quote-of-the-day-38/)
-- [quote-of-the-day-38](/~luke/log/20100205/quote-of-the-day-38/)
+- [quote-of-the-day-38](/log/20100205/quote-of-the-day-38/)
+- [quote-of-the-day-38](/log/20100205/quote-of-the-day-38/)

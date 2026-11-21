@@ -34,51 +34,51 @@ has redirect_map => (
     my $self   = shift;
     my $file   = $self->luke_dir->child('build-output/redirects.json');
     my $static = {
-      '/~luke/log/20090724'               => '/~luke/log/arcive/2009/07/24',
-      '/~luke/log/20100205'               => '/~luke/log/arcive/2010/02/05',
-      '/~luke/log/20050208/20050208-1101' =>
-        '/~luke/log/science/prolife_science/',
-      '/~luke/log/20050603/20050603-1424' =>
-        '/~luke/log/Society/homosexuality/',
-      '/~luke/log/20050607/20050607-1002' => '/~luke/log/Society/usury/',
-      '/~luke/log/20050608/20050608-1129' =>
-        '/~luke/log/Politics_And_Law/Public_Schooling/',
-      '/~luke/log/20050610/20050610-1530' =>
-        '/~luke/log/Politics_And_Law/Our_Government_Is_Unlimited',
-      '/~luke/log/20050610/20050610-1628' => '/~luke/log/science/Trust/',
-      '/~luke/log/20050615/20050615-1338' =>
-        '/~luke/log/Politics_And_Law/Public_Schooling/',
-      '/~luke/log/fiction/Harry_Potter/Nineteen_Missing_Years' =>
+      '/log/20090724'               => '/log/archive/2009/07/24',
+      '/log/20100205'               => '/log/archive/2010/02/05',
+      '/log/20050208/20050208-1101' =>
+        '/log/science/prolife_science/',
+      '/log/20050603/20050603-1424' =>
+        '/log/Society/homosexuality/',
+      '/log/20050607/20050607-1002' => '/log/Society/usury/',
+      '/log/20050608/20050608-1129' =>
+        '/log/Politics_And_Law/Public_Schooling/',
+      '/log/20050610/20050610-1530' =>
+        '/log/Politics_And_Law/Our_Government_Is_Unlimited',
+      '/log/20050610/20050610-1628' => '/log/science/Trust/',
+      '/log/20050615/20050615-1338' =>
+        '/log/Politics_And_Law/Public_Schooling/',
+      '/log/fiction/Harry_Potter/Nineteen_Missing_Years' =>
         'https://hp-fan.schierer.org/Harrypedia/Nineteen%20Missing%20Years',
-      '/~luke/log/fiction/Harry_Potter/Nineteen_Missing_Years/Harry_and_Ginny'
+      '/log/fiction/Harry_Potter/Nineteen_Missing_Years/Harry_and_Ginny'
         => 'https://hp-fan.schierer.org/Harrypedia/Nineteen Missing Years/Harry and Ginny',
-'/~luke/log/fiction/Harry_Potter/Nineteen_Missing_Years/Changes_to_Hogwarts'
+'/log/fiction/Harry_Potter/Nineteen_Missing_Years/Changes_to_Hogwarts'
         => 'https://hp-fan.schierer.org/Harrypedia/Nineteen Missing Years/Changes to Hogwarts',
-      '/~luke/log/fiction/Harry_Potter/Family_Inseparable' =>
+      '/log/fiction/Harry_Potter/Family_Inseparable' =>
         'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable',
-      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter01' =>
+      '/log/fiction/Harry_Potter/Family_Inseparable/Chapter01' =>
         'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
-      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter02' =>
+      '/log/fiction/Harry_Potter/Family_Inseparable/Chapter02' =>
         'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
-      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter03' =>
+      '/log/fiction/Harry_Potter/Family_Inseparable/Chapter03' =>
         'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
-      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter04' =>
+      '/log/fiction/Harry_Potter/Family_Inseparable/Chapter04' =>
         'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
-      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter05' =>
+      '/log/fiction/Harry_Potter/Family_Inseparable/Chapter05' =>
         'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
-      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter06' =>
+      '/log/fiction/Harry_Potter/Family_Inseparable/Chapter06' =>
         'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
-      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter07' =>
+      '/log/fiction/Harry_Potter/Family_Inseparable/Chapter07' =>
         'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
-      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter08' =>
+      '/log/fiction/Harry_Potter/Family_Inseparable/Chapter08' =>
         'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
-      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter09' =>
+      '/log/fiction/Harry_Potter/Family_Inseparable/Chapter09' =>
         'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
-      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Chapter10' =>
+      '/log/fiction/Harry_Potter/Family_Inseparable/Chapter10' =>
         'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Chapter01',
-      '/~luke/log/fiction/Harry_Potter/Family_Inseparable/Notes' =>
+      '/log/fiction/Harry_Potter/Family_Inseparable/Notes' =>
         'https://hp-fan.schierer.org/Fan Fiction/Family Inseparable/Notes',
-      '/~luke/log/fiction/Harry_Potter/Not_Normal' =>
+      '/log/fiction/Harry_Potter/Not_Normal' =>
         'https://hp-fan.schierer.org/Fan Fiction/Not Normal',
     };
     return $static unless $file->exists;
@@ -615,11 +615,11 @@ sub build ($self) {
   $self->_register_autoindex_routes();
   $self->_register_timeline_route();
 
-  $self->add_navigation_route('/~luke', 'Luke Schierer');
+  $self->add_navigation_route('/', 'Luke Schierer');
 
-  # Add index route for /~luke and /~luke/
+  # Site index route
   $self->router->add(
-    '/~luke',
+    '/',
     {
       to => async sub ($c, $ctx, @args) {
         my $index_file = $self->luke_dir->child('index.html');
@@ -636,16 +636,16 @@ sub build ($self) {
           return await $self->_handle_markdown($ctx, $entry);
         }
 
-        $ctx->res->redirect('/~luke/log/', 302);
+        $ctx->res->redirect('/log/', 302);
         return;
       },
       action => 'http.*',
     }
   );
 
-  $self->add_navigation_route('/~luke/log', 'Random Unfinished Thoughts');
+  $self->add_navigation_route('/log', 'Random Unfinished Thoughts');
   $self->router->add(
-    '/~luke/log',
+    '/log',
     {
       to => async sub ($c, $ctx, @args) {
         my $index_file = $self->luke_dir->child('log/index.html');
@@ -710,7 +710,7 @@ sub build ($self) {
 }
 
 sub _register_timeline_route ($self) {
-  my $route = '/~luke/log/apologetics/history/TimelineOfErrors';
+  my $route = '/log/apologetics/history/TimelineOfErrors';
 
   $self->add_navigation_route($route, 'Timeline of Errors');
 
@@ -738,7 +738,7 @@ async sub _timeline_handler ($c, $ctx, @args) {
   my $vars = {
     title           => 'Timeline of Errors',
     svg             => $svg,
-    css_files       => ['/~luke/styles/apologetics/history/TimelineOfErrors.css'],
+    css_files       => ['/styles/apologetics/history/TimelineOfErrors.css'],
     undated         => $undated,
     layout          => 'luke_rut',
     sidebar         => 1,
@@ -773,7 +773,7 @@ sub _register_redirects ($self) {
     $count++;
   }
 
-  $self->logger->info("Registered $count ~luke redirect routes");
+  $self->logger->info("Registered $count redirect routes");
 }
 
 sub _register_routes_from_iterator ($self, $iterator, $base_path, $handler,
@@ -789,7 +789,7 @@ sub _register_routes_from_iterator ($self, $iterator, $base_path, $handler,
 
     my $rel = $file->relative($self->luke_dir->child($base_path))->stringify;
     $rel =~ s/\.md$// if $strip_md;         # Only remove .md if requested
-    my $route = "/~luke/$base_path/$rel";
+    my $route = "/$base_path/$rel";
     $route =~ s{//+}{/}g;
     $route =~ s{/index$}{} if $strip_md;    # Only strip index for markdown
     $route .= '/'
@@ -797,7 +797,7 @@ sub _register_routes_from_iterator ($self, $iterator, $base_path, $handler,
       && $route !~ m{/$};                   # Add trailing slash if requested
 
     #special cases
-    $route =~ s{luke/build-output/}{luke/};
+    $route =~ s{^/build-output/}{/};
 
     $self->logger->debug(
       sprintf('registering route "%s" from base_path "%s"', $route, $base_path)
@@ -881,7 +881,7 @@ sub _register_static_files ($self) {
     next if $file->relative($luke_dir) =~ m{^node_modules/};
 
     my $rel   = $file->relative($luke_dir)->stringify;
-    my $route = "/~luke/$rel";
+    my $route = "/$rel";
     $self->add_navigation_route($route, '', { no_sitemap => 1 });
 
     $self->logger->debug(sprintf('registering static file route "%s"', $route));
@@ -898,7 +898,7 @@ sub _register_static_files ($self) {
     $count++;
   }
 
-  $self->logger->info("Registered $count ~luke static file routes");
+  $self->logger->info("Registered $count static file routes");
 }
 
 sub _register_markdown_routes ($self) {
@@ -932,7 +932,7 @@ sub _register_autoindex_routes ($self) {
   my $count   = 0;
 
   foreach my $path (keys $self->autoindex_dirs->%*) {
-    my $route = "/~luke/log/$path";
+    my $route = "/log/$path";
     my $title = $self->autoindex_dirs->{$path};
 
     my $log_dir = $self->luke_dir->child('log');
@@ -941,7 +941,7 @@ sub _register_autoindex_routes ($self) {
       my $entries = $self->generate_directory_index($dir);
       foreach my $entry ($entries->@*) {
         $self->logger->debug("repairing entry: " . Data::Printer::np($entry));
-        $entry->{path} =~ s{^/\.\./\.\./packages/luke/(.+)$}{/~luke/$1};
+        $entry->{path} =~ s{^/\.\./\.\./packages/luke/(.+)$}{/$1};
         $self->logger->debug("repaired path is: " . $entry->{path});
       }
 

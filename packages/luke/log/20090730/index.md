@@ -8,5 +8,5 @@ layout: rut
 
 ## Pages
 
-- [obamacare-quote-of-the-day](/~luke/log/20090730/obamacare-quote-of-the-day/)
-- [obamacare-quote-of-the-day](/~luke/log/20090730/obamacare-quote-of-the-day/)
+- [obamacare-quote-of-the-day](/log/20090730/obamacare-quote-of-the-day/)
+- [obamacare-quote-of-the-day](/log/20090730/obamacare-quote-of-the-day/)
